@@ -1,0 +1,30 @@
+---
+title: "Die Seele ist von weit größerer Fähigkeit als der materielle Verstand"
+menu_title: ""
+description: "Die Seele ist von weit größerer Fähigkeit als der materielle Verstand"
+date: 2024-08-01 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Die Seele ist von weit größerer Fähigkeit als der materielle Verstand
+
+[Aristoteles](/de-autoren-spirituellen-welt/de-philosophen/de-aristoteles/) - empfangen durch Al Fike am 19. November 2024, Sechelt, BC, Kanada.
+
+Möge die Liebe aus der Höhe die eure sein. Ich bin Aristoteles und ich glaube, dass ihr alle von mir wisst, denn mein Name ist als Philosoph in die Geschichte eingegangen, als derjenige, der der Welt die Verstandesanalyse brachte. Obwohl ich in Wahrheit nur einer von vielen war. Dennoch haben meine Bemühungen die Menschen auf einen Weg des intellektuellen Denkens und der Ideen geführt. Deshalb ehrt und verehrt ihr heute die Menschen mit großem Verstand, die mit ihrem Verstand die Wahrheit herausfinden. Dieser Prozess der Deduktion hat zu einem bestimmten Weg der menschlichen Entwicklung und zu geistigen Überlegungen geführt, die euch zu eurer heutigen Realität, eurer Wahrnehmung der Welt, bringen.
+
+Diejenigen unter euch, die sich über die intellektuellen Beschränkungen des Verstandes hinausgewagt haben und die der Seele suchen, verstehen und erkennen jedoch, dass intellektuelle Schlussfolgerungen nur eine sehr begrenzte Möglichkeit sind, die Welt zu verstehen. Es ist die Wahrnehmung und sogar der Verstand der Seele, die viel weiter gehen, um die Welt zu verstehen und viele Dinge im Universum zu begreifen. Denn dieser Verstand ist nicht durch die materielle Welt begrenzt und gefesselt. Er dehnt sich aus und wächst in Übereinstimmung mit Gott, Der ihn mit seiner Essenz nährt. Durch diesen Prozess, diesen Segen, werdet ihr nicht nur weltlicher, sondern ihr versteht auch das Universum besser. Ihr lernt den Schöpfer des Universums als euren persönlichen Freund kennen, der euch segnet, tröstet, leitet und eurer Seele die Wahrheit gibt.
+
+Das Universum dehnt sich in vielerlei Hinsicht mit dem Verständnis und der Entwicklung der Seele aus und wird mit dieser Entwicklung auch kleiner. Es wird kleiner, weil die Wahrheit vereinfacht und, wie soll ich sagen, handhabbar wird für die Beschränkungen, die ihr zu dieser Zeit tragt. Doch das Potenzial, das Universum zu kennen, mit dem Universum zu kommunizieren und die Feinheiten des Universums zu verstehen, ist möglich, wenn sich euer seelischer Verstand erweitert und in der Liebe wächst.
+
+Diese Dinge verstand ich überhaupt nicht, als ich auf der Erde wandelte. Ich war lediglich vom Intellekt und den Fähigkeiten des materiellen Verstandes fasziniert. Aber all diese Jahre später sehe ich, dass sich die Welt verändert und dass ihr, meine Freunde, ein Zeichen für diese Veränderung seid. Dass ihr nach etwas Höherem strebt und in der Tat mit einer größeren Wahrheit ausgestattet seid. Dafür zolle ich euch Beifall. Ich bin dankbar, dass ihr weiter nach der Wahrheit strebt. Denn wie kann sich die Welt verändern, wenn nicht durch das Verstehen der Wahrheit bis in die tiefsten Tiefen des Seins und des Wissens jedes Einzelnen?
+
+Ja, *„ich denke, also bin ich“*, aber auch *„ihr fühlt, also existiert ihr“*. In diesem Gefühl existiert ihr in den Bereichen der Seele und die Seele existiert in den Bereichen Gottes, der großen Überseele. Das, was ihr in diesen Wahrnehmungen versteht, die Wahrheit, die ihr bisher durch eure Lebenserfahrung gesammelt habt, ist der Kern der großen Wahrheit und des universellen Verständnisses. Ich hoffe, dass jeder von euch erkennt, dass die Reise, die ihr angetreten habt, von großer Tragweite und Bedeutung ist. Nehmt diese Reise nicht als selbstverständlich hin, sondern macht sie zu einem Schwerpunkt, zu einem Ergebnis des tiefen Verlangens eurer Seele auf der Suche nach den großen Wahrheiten des Universums.
+
+Die Art und Weise, wie ihr das tut, ist der Art und Weise, wie ich es zu meiner Zeit getan habe, weit überlegen. Ihr seid über mein Wissen und meine Gaben hinausgewachsen, als ich auf der Erde war. Obwohl ich jetzt im himmlischen Königreich wohne, verstehe ich diese Wahrheiten sehr gut und übe sie mit jedem Atemzug aus, obwohl ich keinen Atem habe, weil ich ein spirituelles Wesen bin. Dennoch bin ich gekommen, um euch auf eurem Weg zur Wahrheit zu ermutigen. Ich erkenne an, dass ihr über den Bereich des Intellekts hinaus in den Bereich der fühlenden Seele eingetreten seid, einer Seele, die viele Dinge verstehen kann, weit mehr als der materielle Verstand. Ihr seid auf dem besten Weg, meine geliebten Freunde, auf einer Reise wie keiner anderen, auf einer Reise, die so sehr von der Wahrheit durchdrungen ist, dass ihr diese Reise niemals beenden werdet, denn sie kann nicht enden. Sie ist unendlich.
+
+Möget ihr erkennen, dass ihr mit euren Füßen auf einer Reise der Wahrheit steht, dass der Segen der Liebe diese Reise zu euch bringt und euch erlaubt, sie zu verstehen, wenn ihr weitergeht. Ihr seid gesegnet, meine geliebten Freunde, wahrlich. Ihr habt den Worten des Meisters zugehört, der der Menschheit und allen, die in dieser Welt leben, die Wahrheit bringt. Wir sind zusammen als Schüler der Wahrheit der Liebe. Ich gehe mit euch, wie viele, viele andere auch. Wir sind vereint in der großen Wahrheit Gottes, den großen Wahrheiten des Universums und verstehen, dass die Macht der Liebe unermesslich ist und entscheidend dafür ist, die Türen zum Verständnis der Wahrheit zu öffnen, die Wahrheit zu leben und ein Beispiel und eine Ausstrahlung von Wahrheit, Licht und Liebe zu sein.
+
+Möget ihr gesegnet sein, meine wunderbaren Freunde. Ich habe einen weiten Weg zurückgelegt, um bei euch zu sein. Ich bin Aristoteles und meine Liebe zu euch ist groß, ihr schönen Seelen, die ihr unerschrocken nach der Wahrheit sucht. Möget ihr gesegnet sein und das finden, wonach ihr sucht, und mit jeder Offenbarung, mit jedem Verständnis, das Gott für euch bereithält, erwachen und erfahren.
+
+Gott segne euch, meine Freunde. Gott segne euch.

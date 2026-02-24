@@ -1,0 +1,26 @@
+---
+title: "Habt Mitgefühl für die verlorenen Seelen"
+menu_title: ""
+description: "Habt Mitgefühl für die verlorenen Seelen"
+date: 2025-07-09 06:00:00+00:00
+draft: False
+hidden: True
+weight:
+---
+### Habt Mitgefühl für die verlorenen Seelen
+
+Matthäus - empfangen durch Al Fike am 5. Mai 2025, Celebrity Kreuzfahrt Retreat.
+
+Geliebte Seelen, ich bin Matthäus. Wenn ihr durch diese Stadt (San Francisco) spaziert und Menschen begegnet, die im Leben stehen, seht ihr dann, wie sie sich so bereitwillig und gründlich mit dem Materiellen beschäftigen? Sie sind mit ihren Gefühlen und Gedanken, ihren Erwartungen und Urteilen beschäftigt. Sie sind alle sehr menschlich, diese Seelen, denen ihr begegnet, aber sie wissen nichts von ihren Seelen. Wenn sie Glück haben, erhalten sie einen kleinen Einblick, eine kurze Begegnung, etwas, das ihre Seele anspricht, aber oft geschieht das nicht im Gebet. Es ist eine Reaktion auf einen äußeren Anreiz.
+
+Wenn ihr diese Bedingungen, die überall auf eurer Welt herrschen, hochrechnet, könnt ihr sehen, warum es die Menschen gibt. Ihr könnt sehen, warum so viele in der Blindheit und Unwissenheit dieses Zustands leben. Ich fordere euch auf, Mitgefühl mit euren Brüdern und Schwestern zu haben, vor allem, wenn sie keine Ahnung haben, was auf diese Welt zukommt, die Veränderungen, die sich manifestieren werden. Denn in diesen Veränderungen werden große Trauer, Chaos, Zweifel, Wut und alle Zustände des Menschen in hohem Maße extrapoliert und zum Ausdruck gebracht werden.
+
+Ihr müsst in der Mitte eurer eigenen Seele sein. Ihr müsst in dieser Seele stark sein. Ihr müsst die Ausdrucksformen, die Wahrnehmungen, die Gefühle und die Erfahrungen der Seele kennenlernen, denn das ist es, was die Menschheit retten wird, nicht irgendeine achtsame Lösung für äußere Ereignisse und Dilemmas. Das wird die Menschheit nicht retten, denn der Menschheit fehlt die Weisheit und die achtsame Wahrnehmung, die auch nur einen Teil dieser Probleme lösen könnte. Für jedes Problem, das gelöst wird, taucht ein neues auf. Nein, es ist die Weisheit der Seele, geliebte und schöne Freunde. Die Weisheit der Seele ist es, der ihr begegnen, sie nähren und auf sie hören müsst. Diese Weisheit kommt von Gott, wie ihr wisst, die Weisheit, die mit Seiner Liebe kommt, die Weisheit, die kommt, wenn eure Seele auf den Segen Seiner Liebe positiv reagiert. Mit dieser Weisheit und den Wahrnehmungen der Seele werdet ihr Lösungen sehen, nicht nur für euch und euer Leben, sondern auch für die Menschen um euch herum.
+
+Sie werden kommen. Sie werden in einem großen Ansturm der Liebe kommen, einem großen Ansturm von Gottes Gegenwart in eurem Leben. Wenn ihr dem begegnet und das Bewusstsein eurer Seele ergreift, wird das Leben in vielerlei Hinsicht einfacher sein. Die Dilemmas, mit denen so viele Menschen konfrontiert sind, werden sich in eurem Leben nicht wiederholen. Die Angst und der emotionale Aufruhr, den so viele haben, wird es in eurem Leben nicht geben. Ihr werdet fest mit eurem Schöpfer und mit der Seele, die diese Verbindung ermöglicht, verbunden sein. Damit setzt ihr eine große Dynamik in Gang, einen großen Strom der Transformation und der Wahrheit, der in euch aufsteigt.
+
+Ihr seid anders als die meisten, denen ihr begegnet. Dennoch bringt ihr die rettende Gnade mit. Ihr seid diejenigen, die die Fahne der Wahrheit tragen werden. Ihr seid diejenigen, die den Weg des Friedens, der Wahrheit und der Liebe lehren werden. Ihr seid diejenigen, die Gott gesegnet hat, weil ihr euch entschieden habt, gesegnet zu werden und bei Gott zu sein. Wenn ihr auf das Meer der Menschheit blickt, habt Mitleid, denn sie wissen nicht, wohin ihre Reise geht. Sie wissen nicht, was das Ziel ihrer Reise ist. Sie wissen sehr wenig und doch fühlen, denken und interagieren sie auf so viele Arten. Und doch ist so vieles davon oberflächlich.
+
+Manche haben ein Leben voller Sinn. Manche sind tatsächlich von Liebe und der Wahrnehmung von Liebe durchdrungen, aber in erster Linie sind die Beweggründe der Menschen nicht von Liebe geprägt. Sie sind motiviert durch Angst, durch Verlangen, durch Reaktion, durch Emotionen, durch viele Dinge, aber es ist nicht die Liebe, die ihr kennt, die Liebe, die ihr tragt. Ihr müsst diese Liebe nach vorne bringen. Ihr müsst diese Liebe zeigen und zum Ausdruck bringen, wo immer ihr hingeht, damit ihr ein leuchtendes Beispiel für die Verlorenen seid, die nicht wissen, dass sie verloren sind, aber sie sind es doch. Sie werden ihren Weg finden, wenn sie die Möglichkeit dazu haben. Gott verlässt sich darauf, dass ihr ihnen helft, zu sehen, zu finden und die Wahrheit der Liebe anzunehmen, die Großartigkeit der Liebe, die von Gott kommt.
+
+Möget ihr, geliebte Seelen, mit der Kraft, der Wahrnehmung, dem Glauben und der Liebe gesegnet sein, die ihr braucht, um diese Arbeit zu tun. Diese Arbeit, die so gewaltig ist. Ich weiß, dass sich diese Arbeit für einige von euch überwältigend und verwirrend anfühlt. Doch Gott wird euch auf den richtigen Weg führen. Gott wird euch die Wahrnehmung und das Verständnis geben, die ihr braucht, um den Auftrag zu erfüllen, den er in eure Seele gelegt hat. Ihr werdet euren Weg finden, geliebte Seelen. Ihr werdet euren Weg finden und anderen helfen, den ihren zu finden. Gott segne euch, geliebte Seelen. Ich bin Matthäus und ich bin oft bei euch. Gott segne euch.

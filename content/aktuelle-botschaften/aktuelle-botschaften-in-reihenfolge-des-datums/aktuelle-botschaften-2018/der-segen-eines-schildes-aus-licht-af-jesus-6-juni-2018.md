@@ -1,0 +1,20 @@
+---
+title: "Der Segen eines Schildes aus Licht"
+menu_title: ""
+description: "Der Segen eines Schildes aus Licht"
+date: 2020-08-01 06:25:48+00:132
+draft: False
+hidden: True
+weight:
+---
+### Der Segen eines Schildes aus Licht
+
+Jesus - empfangen durch Al Fike am 6. Juni 2018, Gibsons, BC, Kanada.
+
+Ich möchte euch sagen, dass ihr alle einen einzigartigen Segen erhalten habt, den Segen eines Schildes aus Licht. Er umhüllt euch, meine Geliebten, ein Geschenk Gottes. Er soll immer bei euch sein und euch beschützen, damit ihr das Licht tragen könnt, wohin ihr auch geht. Und dieses Geschenk und dieser Segen wird nicht nur euch zuteil, sondern auch euren Kreisen und jenen lieben Seelen, die weiterhin Teil eurer Bemühungen sind.
+
+Dieser Segen des Lichts soll euch Kraft und Schutz vor den Bedingungen dieser Welt bringen, die weiterhin eskalieren und Störungen verursachen. So wie eure Seelen im Licht wachsen, meine Geliebten, so zieht ihr diese Segnungen und Geschenke von Gott zu euch und sie helfen euch, die Welt zu navigieren und Gottes Werkzeuge des Lichts zu sein. Und so wird dieses Geschenk mit euch sein, meine Geliebten. Auch wenn ihr aus diesem Schild des Lichts heraustreten mögt, abhängig von euren Gedanken und Bedingungen, solange ihr im Einklang mit Gott seid und eure Seelen das Höchste begehren und seine Segnungen der Liebe empfangen wollen, wird es mit euch sein, meine Geliebten.
+
+Ihr habt die Kraft gespürt. Es ist schon seit einer Weile bei euch und es wird euch erhalten. Gott hat euch gesegnet. Nicht nur mit dem Geschenk Seiner Liebe, sondern auch mit dem Geschenk dieses wunderschönen Lichts, dieses weißen und goldenen Lichts. Es umhüllt euch alle. Möge dies euren Glauben vergrößern, eure Sehnsucht nach dem Licht stärken, euch näher zu Gott bringen und euch helfen, an dem Ort zu sein, an dem ihr in der Welt seid, aber nicht von der Welt. Es ist wichtig, dieses Licht weiterhin zu nähren, eure Seelen zu nähren, euch selbst in einen größeren Einklang mit Gott zu bringen. Auf diese Weise können wir eine engere Verbindung mit euch herstellen, damit ihr empfänglicher für Gottes Führung werdet, damit Gott euch effektiver in der Welt gebrauchen und anderen viel Segen bringen kann. Gottes Berührung und Inspiration wird leichter kommen, wenn ihr diesen Segen des Lichts weiterhin zu euch bringt, denn er wird sich stärken und wachsen. Diese Gabe ist etwas, das Gott in Seiner Liebe zu euch und Seinem Wunsch, dass jeder von euch auf dieser Reise des Erwachens und des Dienstes in der Liebe weitermacht, als Geschenk gegeben hat. Es wird euch nie verlassen, meine Geliebten, und es wird wachsen und sich ausdehnen und viele werden die Kraft davon spüren und ein tiefer Friede wird mit diesem Licht kommen, ein tiefer Friede, eine Stille und ein Bewusstsein von Gottes Gegenwart. Betet weiterhin um den Segen Seiner Liebe, sucht nach den Gesetzen Seiner Liebe zu leben und in dem Wunsch zu dienen, ein Kanal Seiner Liebe zu sein, und dieses Geschenk wird mit jedem Gebet, das ihr macht, mit jeder Anstrengung, einem anderen zu dienen und Liebe in dieser Welt auszudrücken, erhalten und gestärkt werden. Dieses Licht wird wachsen und stärker werden und sich ausdehnen, ein Geschenk Gottes, meine Geliebten, ein mächtiges Geschenk, das euch in euren Bemühungen für das Licht in dieser Welt unterstützen und euch vor den immer stärker werdenden Bedingungen der Dunkelheit in dieser Welt schützen wird.
+
+Seid in Frieden, meine Geliebten, wisst, dass ihr wahrhaftig geliebt seid und dass euch weiterhin alle guten und wunderbaren Gaben zuteil werden. So wie euer Glaube stärker wird und eure Liebe wächst, so wird es sein. Ihr werdet gesegnet sein. Gott segne euch, meine Geliebten. Ich bin Jesus und ich komme, um euch die gute Nachricht zu bringen, dass Gott euch weiterhin segnen wird. Gott segne euch und meine Liebe ist mit euch, kostbare Seelen im Licht, kostbare Seelen, die Gott und Seine Liebe kennen. Ihr seid gesegnet, mächtig gesegnet, meine Geliebten. Gott segne euch.

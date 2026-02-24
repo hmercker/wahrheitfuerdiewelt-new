@@ -1,0 +1,38 @@
+---
+title: "Die Wahl"
+menu_title: ""
+description: "Die Wahl"
+date: 2025-02-26 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Die Wahl
+
+Matthäus - empfangen durch Al Fike am 12. Januar 2024, Barbados.
+
+Gesegnet seid ihr, ich bin Matthäus. Seht und schätzt ihr nicht die Einzigartigkeit jeder einzelnen Seele, die hier anwesend ist? Ihre Ausdrucksformen, die durch ihre Lebensreise entstanden sind, das Erwachen ihrer Seele durch die tiefe Berührung der Liebe Gottes in ihnen, und all diese Aspekte jedes Einzelnen schaffen etwas Großartiges, eine großartige Seele, auf ihrer Reise zum Einssein mit Gott.
+
+Auf dieser Reise sorgt Gott für viele Erfahrungen und Gelegenheiten, um zu dienen, zu lieben und die Seele zu berühren, damit sie wirklich die Wahrheit lernen können. Damit sie wirklich in der Wahrheit leben können. Jeder Seele ist die Möglichkeit dieser Reise gegeben. Gott macht keinen Unterschied zwischen einer Seele, die verloren und dunkel ist, und einer, die das Licht gefunden hat. Gott liebt alle gleichermaßen. Gott arbeitet weiterhin in Liebe an ihrer Erlösung. Gott sendet seine Engel, um mit ihren Gaben und ihrer Einzigartigkeit zu helfen, zu erheben und zu leiten, zu beruhigen und zu heilen.
+
+Die Wirtschaft von Gottes Harmonie ist so angelegt, dass keine einzige Seele in der Dunkelheit zurückbleibt. Keine einzige Seele wird für immer verloren bleiben, sondern zur Fülle der Wahrheit gelangen, sei es durch die Verfeinerung ihres Wesens in ihrem natürlichen Zustand oder durch den göttlichen Pfad, der immer weiter fortschreitet. Sie werden ihren Weg mit der Zeit finden. Doch um die Dunkelheit dieser Ebene zu vertreiben, der Ebene, die anders ist als alle anderen, weil sie das Geschenk des Lebens macht, beginnt auf dieser Ebene die Verkörperung der Seele im Fleisch, wenn die Seele sich auf die Reise der Selbstverwirklichung und des Erwachens begibt, wie ihr vielleicht sehen könnt. Das Geschenk des Lebens wird von Gott gegeben.
+
+Wäre diese Ebene in Harmonie mit Gottes Absicht und Schöpfung, gäbe es das Leid, das wir hier erleben, nicht mehr. Es gäbe Freude und Liebe, so dass jede Seele leichter erweckt werden könnte. Obwohl Gott die Möglichkeit der Wahl nicht einschränkt, würde er jede Gelegenheit auf dieser Ebene nutzen, um jeder Seele zu helfen, die Wahl leicht und klar zu erkennen. Auch das ist eure Möglichkeit, Gott zu dienen, euren Brüdern und Schwestern die Wahl zu zeigen und zu sagen, dass es eine Wahl gibt. In der Tat kann jede Seele ihr Leben so leben, wie es ihrem Willen und dem Willen anderer entspricht, die zusammenarbeiten und die Bedingungen schaffen, die wir in der Welt als die menschlichen Bedingungen bezeichnen. Oder jede Seele kann sich dafür entscheiden, diese beschwerliche Reise zu umgehen und die Kraft der Liebe Gottes, die Essenz der Seele Gottes, kennenzulernen, die die Seele des Einzelnen je nach Wunsch und Entscheidung erfüllen kann.
+
+Dies ist eine einfache Lehre. Sie ist jedem von euch bekannt. Ihr habt sie verstanden und in eurem Leben zum Ausdruck gebracht. Ihr habt erkannt, dass jeder Moment eine Wahl mit sich bringt. In jedem Moment habt ihr die Möglichkeit, Gott im Gebet und im Verlangen näher zu kommen, euch in Gedanken und Taten zu bemühen, mit Gottes Liebesgesetzen in Einklang zu kommen und das große Geschenk seiner Liebe zu suchen. Auf diese Weise können wir den Bedingungen entgegenwirken, die durch den menschlichen Willen und die Dunkelheit geschaffen wurden.
+
+Ich weiß, dass jeder von euch, wenn er könnte, viele Seelen zu dieser Erkenntnis bringen und ihnen helfen würde, die Macht der Wahl zu verstehen.  Doch wie ihr bei vielen Gelegenheiten erfahren habt, verschließen viele ihre Ohren und Augen, wenn es darum geht, diese Informationen weiterzugeben, und wollen nicht darüber sprechen. Ihr müsst also hartnäckig bleiben, meine Freunde. Denn es kommt die Zeit, in der diese Entscheidung für ihr Leben entscheidend sein wird. Natürlich wird ihr Leben jetzt schon stark von dieser Entscheidung beeinflusst und verursacht oft viel Schmerz.
+
+Es kommt die Zeit, in der die Menschheit sich entscheiden muss, mit Gott in Einklang zu kommen, die Vorurteile und Ängste, die Urteile und Irrtümer loszulassen, um in die Gnade Gottes zu kommen. Ihr müsst dieses Licht, diese Wahrheit, zum Ausdruck bringen und hervorstechen und dieses Instrument, dieser Lehrer, dieses Beispiel, dieses Licht sein. Denn wer sonst soll die Entscheidung treffen? Wer sonst ist qualifiziert, diese Wahl zu präsentieren?
+
+Viele sprechen von Dingen, die ein Spiegelbild des Verstandes, des materiellen Verstandes, sind und haben Meinungen und Vorstellungen von diesen Dingen. Doch das ist eher der Zustand des Menschen, des Gehirns, des Intellekts und aller Dinge, die der Mensch geschaffen hat. Aber es gibt und wird immer einen Abglanz und Ausdruck von Gottes Schöpfung geben, von Gottes großer Seele, die Liebe, Harmonie, Frieden, Freude und all die anderen Ausdrucksformen von Gottes Universum zum Ausdruck bringt.
+
+Es ist an der Zeit, dass die Menschheit zu ihrem wahren Selbst erwacht und ihren Weg jenseits der Illusionen des Verstandes findet. Die Menschheit hat sich an ihren mentalen Konzepten und Ausdrucksformen erfreut, und die Menschheit genießt und bejaht diese Fähigkeiten, die Gott ihr gegeben hat. Mit dieser Behauptung habt ihr alle den Verstand zur Hauptquelle der Wahrheit gemacht, und das ist er nicht und wird er auch nie sein. Der Verstand soll der Menschheit helfen, sich in der materiellen Welt zurechtzufinden und alle Ebenen des Wahrheitsverständnisses zu erreichen.
+
+Doch wenn die Menschheit auf der Ebene des materiellen Verstandes beginnt, kann sie nicht weiter gehen. Er kann unter bestimmten Umständen in Demut und Gnade zum Verstand der Seele kommen und die Wahrnehmungen und Fähigkeiten des Seelenverstandes opportunistisch verstehen, aber er ist nicht der Anfang und das Ende der spirituellen Suche und des Verständnisses der Wahrheit. Er ist nur ein Anhängsel der wahren Quelle der Wahrheit, die die Seele ist. Also müsst ihr das lehren. Ihr müsst die Reise der Seele lehren. Ihr müsst anderen helfen, über die Macht des materiellen Verstandes hinauszuwachsen.
+
+Meine geliebten Brüder und Schwestern, jeder von euch hat seine Seele erfahren, hat den Unterschied zwischen dem Bewusstsein des Verstandes und dem der Seele kennengelernt. Was ich sage, ist also nicht neu für euch. Aber ich bin gekommen, um euch daran zu erinnern und euch auf eurem Weg des Dienens für Gott zu ermutigen, denn jeder von euch hat darum gebetet, zu dienen. Viele von euch glauben, dass ihr Gott mit eurem Verstand dienen könnt und dass dies auch die Grenzen eures Dienstes sind. Aber ich sage euch, es gibt mehr und größeren Dienst an Gott.
+
+Wenn der materielle Verstand und der seelische Verstand sich einander annähern und bereit sind, sich gemeinsam zu integrieren, dann werden die Fähigkeiten und Möglichkeiten des Dienstes durch die Seele und durch den materiellen Verstand stark erweitert. Die Tiefe und Breite wird bis zu einem gewissen Grad verwirklicht, denn diese Tiefe und Breite wird immer weiter wachsen. Es ist ein großer Segen für euch, die Wahrheit zu kennen, wie ihr sie kennt. Bringt sie zum Ausdruck, liebe Seelen. Lebt sie und sucht für immer nach euren Seelen, denn ihr müsst diese tieferen Aspekte eurer selbst verstehen und mit ihnen im Einklang sein, während ihr nach eurem Einklang mit Gott sucht.
+
+Gott segne euch, ihr Lieben. Ich bin Matthäus. Meine Liebe zu euch ist groß. Gott segne euch und bewahre euch in seiner Liebe und seinem Segen von Wahrheit und Licht, Freude und Frieden. Gott segne euch.

@@ -1,0 +1,54 @@
+---
+title: "Offenbarung 24 : Jesus erklärt eine Passage im Gebet um die Göttliche Liebe"
+menu_title: ""
+description: "Offenbarung 24 : Jesus erklärt eine Passage im Gebet um die Göttliche Liebe"
+date: 2020-07-03 06:25:48+00:00
+draft: False
+hidden: True
+weight:
+---
+### Offenbarung 24 : Jesus erklärt eine Passage im Gebet um die Göttliche Liebe  
+
+Jesus – empfangen durch Dr Samuels am 23. Juni 1955, Washington, DC, USA.
+
+Ich bin hier, Jesus.
+
+Auch heute möchte ich dir wieder über die Wahrheiten des Vaters schreiben. Beginnen werden wir mit dem Gebet um die Göttliche Liebe, das ich James Padgett vor vielen Jahren gegeben habe und das nach wie vor Gültigkeit besitzt, denn wer die Liebe Gottes erlangen will, der muss den Vater darum bitten. Mehr als diese Bitte ist nicht notwendig, um die Antwort des Vaters zu erhalten.  
+
+Deshalb freut es mich umso mehr, dass dem Doktor in seinem Scharfsinn eine Passage aufgefallen ist, die in sich nicht ganz stimmig zu sein scheint und zu Recht seinen Argwohn erregt hat. Es geht um die Zeilen, dass es, um diese Gnade zu erlangen, weder das Blut noch den Tod eines Deiner Geschöpfe braucht — es genügt einzig und allein, sich für Deine Liebe zu entscheiden. In der ersten Version dieses Gebetes, die zum Glück um eben jenen Nachsatz gekürzt worden ist, endete dieser Absatz nämlich noch damit: *„auch wenn die Welt glaubt, ich wäre der eingeborene Sohn Gottes und Teil der Dreifaltigkeit.“*
+
+Als ich meinen Jüngern damals dieses Gebet gegeben habe, war weder die Prädestinationslehre bekannt, noch wurde ich als Gott oder zweite Person der sogenannten Dreifaltigkeit angesehen. Diese Aussage bezieht sich also keinesfalls auf mich, sondern stellt einen Bezug zum Opferritus der Hebräer her, die damals der Ansicht waren, Vergebung der Sünden zu erlangen, wenn sie Lämmer und Ochsen opfern würden. Niemals habe ich verkündet, dass ich das Opferlamm sei, das hinwegnimmt die Sünden der Welt.
+
+Um diesen Irrtum auszuräumen und die Fehlinterpretation vieler Jahre auszulöschen, habe ich diese Passage bewusst mit in das Gebet aufgenommen, das ich Herrn Padgett geschrieben habe. Meine Absicht war es, bereits im Ansatz dafür zu sorgen, dass niemand auch nur auf den Gedanken kommt, mein Blut wäre geeignet, die Sünden der Welt abzuwaschen. Meinen Jüngern gegenüber musste ich damals nicht erklären, dass ich kein Teil der Dreifaltigkeit bin, denn niemand wäre auf den abwegigen Gedanken gekommen, mich mit Gott gleichzusetzen oder gar zum Gott-Sohn zu erheben. Von daher ist es eher von Vorteil, die betreffende Stelle auszulassen, zumal ich stets darauf verwiesen habe, dass dieses Gebet lediglich eine Anregung darstellt und als Vorlage dient — und nicht wortwörtlich gebetet werden muss.
+
+Lass uns jetzt zum Johannes-Evangelium zurückkehren, denn wie du richtig erkannt hast, hat diese Schrift noch am ehesten bewahrt, weshalb ich auf die Welt gekommen bin. Nur in diesem einen Evangelium ist noch die Substanz dessen enthalten, was mich zum Messias Gottes macht — indem es die Transformation beschreibt, die ich als Sterblicher begonnen habe und die mich letztendlich zum Christus gemacht hat, um als erster Mensch, der von neuem geboren wurde, die wahre Beziehung zwischen Gott und dem Menschen aufzuzeigen. Ohne diesen grundlegenden Wandel, der ausschließlich dem Wirken der Göttlichen Liebe zuzuschreiben ist, wäre es mir nicht möglich gewesen, den Auftrag Gottes zu erfüllen und Seine Frohbotschaft zu verbreiten.
+
+Gleichzeitig musst du dir aber immer vor Augen halten, dass dieses Evangelium kaum noch etwas enthält, was tatsächlich von Johannes stammt. Als der Versuch unternommen wurde, die einzelnen Manuskripte zu einem in sich geschlossenen und verständlichen Gesamttext zusammenzufassen, ist der Großteil der Wahrheit, die Johannes noch überliefert hatte, verloren gegangen, weil seine Nachfolger und Bearbeiter der Schriften längst nicht mehr wussten, weshalb ich auf die Erde gekommen bin und was die Kernaussage meiner Lehre ist. Aufgrund ihrer mangelnden, spirituellen Entwicklung war es diesen Schriftgelehrten deshalb nicht mehr möglich, die Wahrheit in ihrer Vollständigkeit zu bewahren, weshalb sie diesen Mangel damit auszugleichen suchten, indem sie mir Worte und Lehren in den Mund legten, die ich ihrer Meinung nach gesagt haben könnte.
+
+Wir wollen uns deshalb heute mit einem Satz befassen, der im Kapitel 5, Vers 21, steht: *„Denn wie der Vater die Toten auferweckt und lebendig macht, so macht auch der Sohn lebendig, wen er will.“*
+
+Diese Zeilen sind nicht nur irreführend, sondern zum Teil grundlegend falsch. Zum ersten erweckt diese Aussage den Eindruck, dass es dem Vater möglich sei, den freien Willen des Menschen zu umgehen, um ihm Seinen eigenen Willen aufzuzwingen. Dies aber ist etwas, was der Vater zwar durchaus vermag, dennoch aber niemals tun würde, da der freie Wille des Menschen oberste Priorität für Ihn hat. Vollkommen falsch hingegen ist die Behauptung, dass ich — Jesus — in der Lage wäre, ebenfalls die Toten aufzuwecken und lebendig zu machen, auf Erden oder im spirituellen Reich.  
+
+Dies ist zweimal nicht möglich und fern jeder Wahrheit, denn zum einen besitze ich nicht die Macht, Tote zu erwecken, und zum anderen würde auch diese Vorgehensweise das Persönlichkeitsrecht des Menschen beschneiden, indem ich meinen Willen über den Willen des Menschen stellen würde. Dies aber würde bedeuten, dass der Mensch nichts weiter ist als eine Marionette Gottes, nicht aber die Krone der Schöpfung, die der Vater als sehr gut bezeichnet hat. Wäre ich in der Lage, Menschen nach Belieben vom Tode auferstehen zu lassen, würde ich auf diese eigenmächtige und selbstgerechte Art und Weise alle Gesetze brechen, die der Vater geschaffen hat, um die Harmonie Seiner Schöpfung aufrecht zu erhalten. Alles aber, was mich der universellen Ordnung des Vaters entfernt und entfremdet, ist für mich ein Gräuel und hat keinen Platz in meiner Seele.  
+
+Gott hat dem Menschen den freien Willen gegeben, damit Sein Geschöpf sich entscheiden kann, das Angebot Gottes, Seine Göttliche Liebe zu erhalten, anzunehmen — oder ob er die Wahl trifft, sich gegen diese Gabe auszusprechen. Obwohl es dem Vater durchaus möglich wäre, den Willen des Menschen zu übergehen, würde Er niemals etwas tun, was dieses fundamentale, menschliche Grundrecht beeinträchtigt — denn dann wäre der Mensch nicht mehr die Krone der göttlichen Schöpfung, als die er geschaffen worden ist.
+
+Als der Autor diese Zeilen verfasste, ging er von der Annahme aus, dass Gott entscheiden würde, wer gerettet wird und wer nicht, wer zu Ihm finden würde und wer nicht — in Wahrheit bedeuten diese Worte aber, dass der Vater die toten Seelen auferwecken und lebendig machen kann, entweder indem der Mensch wählt, durch Seine Göttliche Liebe in die göttlichen Sphären erhoben zu werden, oder indem das Gesetz von Ursache und Wirkung in Aktion tritt, um die vormals toten Seelen zu reinigen und von allem Schmutz zu befreien, um das Paradies des vollkommenen Menschen zu erreichen, das in der Sechsten Sphäre liegt.
+
+Wahrhaft auferweckt und lebendig gemacht wird aber nur, wer den Weg der Göttlichen Liebe wählt, den ich und die Engel Gottes verkünden, denn nur die Liebe des Vaters ist in der Lage, aus einer Seele, die tot für die Liebe ist, eine lebendige, liebevolle Seele zu machen, die durch das Gebet um die Liebe Gottes nicht nur aus dem rein Menschlichen erhoben wird, sondern zugleich Anteil an der Natur des Vaters—und somit auch Anteil an Seiner Unsterblichkeit erhält.  
+
+Und genau das ist gemeint, wenn im Johannes-Evangelium steht, dass der Vater die Toten auferweckt und lebendig macht! Dies geschieht aber nur, wenn der Mensch sich aktiv und aus freiem Willen für dieses Potential entscheidet. Es ist vollkommen unmöglich, dass der Mensch zu dieser Entscheidung gezwungen werden kann. Ich als Sohn Gottes kann weder Tote auferwecken, noch bin ich die Quelle, aus der das Leben strömt. Der Irrtum in der Heiligen Schrift beruht auf der Annahme, ich wäre der eingeborene Sohn Gottes und Teil der Dreifaltigkeit, wie ich oben im Gebet, das ich durch Herrn Padgett geschrieben habe, bereits widerlegt habe.  
+
+Was ich als Sohn aber vermag, ist, den Weg aufzuzeigen, auf dem die Toten lebendig gemacht werden — nicht aber nach meinen Willen, was völlig falsch ist, sondern indem ich die Wahrheit kundtue und es dem Menschen überlasse, ohne Zwang zu wählen, ob er auferweckt und lebendig gemacht werden will, indem er die Göttliche Liebe vom Vater erbittet, oder ob er es vorzieht, den Weg zu gehen, der ihn in seine einstige Vollkommenheit zurückführt.  
+
+Jeder Mensch, ob auf Erden oder im spirituellen Reich, muss einmal diese Entscheidung fällen. Es liegt allein in der Hand des Menschen, ob er von der Liebe des Vaters erhoben und von neuem geboren werden will, um die Wohnungen in Besitz zu nehmen, die der Vater in Seinem Reich vorbereitet hat, oder ob er die Wahl trifft, sich aus eigener Kraft aus der Dunkelheit zu befreien — ein Weg, der langwierig und schmerzhaft ist, dennoch irgendwann einmal aber zur Vollkommenheit führt, um den Stand zu erreichen, den die ersten Eltern bei ihrer Schöpfung einmal besaßen und den sie verloren haben, als sie sich gegen das Angebot Gottes und somit gegen Seine Göttliche Liebe entschieden haben.
+
+Auch wenn der Vater sich über alles wünscht, dass Seine Kinder Sein Geschenk annehmen,  respektiert Er dennoch jede noch so kleine Entscheidung und würde niemals versuchen, den freien Willen — die Eigenschaft, die den Menschen zum Menschen macht — gewaltsam zu übergehen. Der Vater bestimmt auch nicht, welches Schicksal den Menschen einst erwartet, denn jeder Einzelne trifft bewusst oder unbewusst die Wahl, wohin die Reise seines Lebens führen wird.  
+
+Der Autor dieser Zeilen hat also weder verstanden, warum ich auf die Erde gekommen bin, noch welches Geschenk der Vater Seinen Kindern in Aussicht stellt, so sie die Wahl treffen, sich für Ihn zu entscheiden. Der freie Wille des Menschen ist unantastbar — auch wenn das Neue Testament noch so oft das genaue Gegenteil dieser Wahrheit verbreitet.
+
+Ich denke, damit ist genug geschrieben, was den freien Willen und das “Schicksal“ des Menschen anbelangt. Nicht nur bei Johannes, auch bei den anderen Evangelisten gibt es unzählige Beispiele, in denen sich die Irrlehre findet, der Vater würde bestimmen, wer gerettet wird und wer nicht, oder dass ich erlasse, wer in das Reich Gottes gelangt und wer nicht; dennoch ist dies alles nicht wahr. Wahr hingegen ist, dass der Vater allen, die Seine Göttliche Liebe wählen, die Auferweckung zum ewigen Leben schenkt.
+
+Ich danke dir, dass du es mir ermöglicht hast, durch dich meine Botschaft zu schreiben. Als dein älterer Bruder und Freund beende ich diese Mitteilung und sende dir meine Liebe und meinen Segen.
+
+Jesus der Bibel, Meister der göttlichen Himmel.

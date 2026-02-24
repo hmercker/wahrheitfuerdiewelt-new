@@ -1,0 +1,28 @@
+---
+title: "Hört auf Gottes Willen und unterstützt diesen Kreis des Lichts"
+menu_title: ""
+description: "Hört auf Gottes Willen und unterstützt diesen Kreis des Lichts"
+date: 2024-01-10 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Hört auf Gottes Willen und unterstützt diesen Kreis des Lichts
+
+Jesus - empfangen durch Al Fike am 20. Januar 2024, Barbados.
+
+Möge die Liebe des Vaters euch weiterhin segnen, geliebte Seelen. Ich bin euer Bruder und Freund. Ich bin Jesus. Ich bin gekommen, um mit euch an diesem Tag zu beten, an diesem verheißungsvollen Tag, an dem dieser Kreis des Lichts in Gottes Liebe und Wahrheit weiter entsteht, wächst und stärker wird. Wie kostbar ist dieser Kreis. Ich fordere euch auf, ihn zu bewahren und zu schützen, ihn weiterhin mit Gebet zu befeuern und das Licht, das mit dem Segen der Liebe Gottes auf eure Seele fällt, zu bringen.
+
+Wie wichtig sind diese Kreise des Lichts in der Welt, Leuchttürme des Lichts in einer dunklen Welt. Wir kommen zu euch wegen eurer Bemühungen und eures Glaubens, eures Wunsches, in Gottes Liebe zu wachsen. Das Gesetz der Anziehung ist etabliert und erfüllt. Eure Seele sehnt sich nach Gott, und Gott sendet euch allen Segen, den Segen seiner Liebe, den Segen seiner Engel, die euch umgeben, den Segen der Erhebung in Licht, Heilung und Frieden, all das Gute, den ganzen Reichtum von Gottes Berührung auf euch, geliebte Seelen.
+
+Erhaltet dieses Licht. Ihr habt keine Ahnung, wie wertvoll und mächtig dieses Geschenk ist. Dieser Kreis kann die Welt verändern, er kann Heilung und Segen für die Welt bringen. Ihr müsst euch für diese Bemühungen engagieren und einsetzen. Legt eure Egos, Gedanken und Ambitionen beiseite, die den Willen Gottes durcheinander bringen könnten. Hört zu, geliebte Seelen, hört auf Gottes Willen, Gottes Führung für jeden von euch. Er wird ungehindert kommen. Es ist wichtig, dass ihr der gegebenen Führung folgt. Dass ihr den Weg geht, der für euch vorgesehen ist. Dass ihr durch euren Glauben und eure Hingabe gemeinsam zu Gottes Werkzeugen werdet, die ein großes Licht in der Welt formen und zum Ausdruck bringen. Auf diese Weise werdet ihr zutiefst gesegnet und geführt werden. Ihr werdet euch immer in der Gnade Gottes wiederfinden, im täglichen Segen Gottes, im Licht der Berührung Gottes immer und ewig.
+
+Es gibt nichts Kompliziertes an dieser Bitte, geliebte Seelen. Es geht lediglich darum, die Zeit der gemeinsamen Hingabe, des Gebets und des Flehens zu Gott zu verbringen, um Führung zu bitten und nach eurer Führung zu handeln. Wie sonst kann Gott wirken als durch seine Werkzeuge auf der Erde? Wie wertvoll ihr doch seid. Denn wie unser Bruder schon sagte, ist es der weniger begangene Weg. Es ist uns als Verantwortung und Geschenk gegeben, diesen Weg ungehindert und unabgelenkt zu gehen. Eure Hingabe, geliebte Seelen, auf dem Pfad der Liebe wird euch auf eurem Weg in die Welt der Geister helfen, euren Platz im Licht zu finden.
+
+Ihr seid den Engeln des Göttlichen Himmels bekannt. Ihr werdet von mir gekannt. Ihr seid von Gott bekannt. Ihr werdet geliebt, über alle Maßen geliebt, tief, voll und reich geliebt in der Gnade Gottes. Sucht diese Liebe, die nährende Verbindung von Gottes Seele zu eurer. Ihr werdet beschützt, niemals verlassen, geführt und reich gesegnet. Vieles wartet auf euch, geliebte Seelen. Wenn eure Seele erwacht, werdet ihr den Reichtum in euch entdecken. Ihr werdet die Gaben nutzen, die in euch schlummern, aber lebendig werden. Seid Gottes mächtige Werkzeuge, wunderbare Werkzeuge, wirksame Werkzeuge für den Wandel in eurer Welt, um die Wahrheit zu lehren, die Wahrheit zu leben, ein Beispiel für die Wahrheit zu sein und in eurer Welt als Licht zu wandeln. Diese Dinge werden von Gott kostenlos und in Hülle und Fülle angeboten. Es liegt an euch, sie zu umarmen, aufzunehmen und zu akzeptieren.
+
+Der weniger begangene Weg ist ein Weg voller Reichtümer und Segnungen, die viele nicht begreifen können. Sie wenden sich den irdischen Vergnügungen zu. Ich sage euch, das größte Vergnügen von allen ist das Vergnügen, mit eurem himmlischen Vater zusammen zu sein, die Liebe zu kennen, die aus ihm hervorstrahlt, und die Kraft, Schönheit und Herrlichkeit dieser Liebe zu spüren, die euch durchdringt, jeden Teil von euch erhebt, segnet, heilt und erweckt. Dies ist der höchste Segen von allen, geliebte Seelen. Es ist das, was ihr euch wünscht, was eure Seele begehrt und sucht. Er wird sich erfüllen, wenn ihr ernsthaft betet, wenn ihr im Glauben und in der Liebe bei Gott seid, dann wird euch der Segen zuteil. Diese Segnungen sind nicht auf euch beschränkt. Sie sind für jede Seele verfügbar. Ihr habt euch zu Recht dafür entschieden, diese Segnungen zu empfangen und an ihnen teilzuhaben. Ihr werdet für immer auf dem Weg des Lichts und der Liebe wandeln.
+
+Geliebte Seelen, seid die Werkzeuge Gottes. Sucht die Wahrheit, die höchste der Wahrheiten. Lebt ein Leben, das dies widerspiegelt und wirklich im Einklang mit Gottes Willen und Gottes Wahrheit, der Wahrheit der Liebe, ist. Alles wird gut sein, geliebte Seelen. Was auch immer kommen mag, ihr werdet in der Gnade und dem Segen Gottes stehen.
+
+Gott segne euch, Geliebte. Ich bin euer Bruder und Freund Jesus und ich liebe euch. Jeder von euch ist mein Freund, ist mein Bruder, meine Schwester. Mit jedem von euch gehe ich, werde ich weiterhin mit euch beten und bei euch sein. So wie ihr in Not seid, so werde ich eurem Ruf folgen. Ich werde mit euch im Licht sein. Ich werde mit euch die Wahrheit der Liebe Gottes bekräftigen, den Christusgeist, der in eurem Leben gesegnet und reichlich vorhanden ist. Gott segne euch, Geliebte. Gott segne euch in der Herrlichkeit Seiner Liebe. Ich werde immer bei euch sein. Gott segne euch.

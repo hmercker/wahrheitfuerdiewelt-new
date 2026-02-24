@@ -1,0 +1,32 @@
+---
+title: "Was nicht im Einklang mit Gottes Schöpfung ist, wird wegfallen"
+menu_title: ""
+description: "Was nicht im Einklang mit Gottes Schöpfung ist, wird wegfallen"
+date: 2020-08-01 06:25:48+00:69
+draft: False
+hidden: True
+weight:
+---
+### Was nicht im Einklang mit Gottes Schöpfung ist, wird wegfallen
+
+Tahlia - empfangen durch Al Fike am 10. März 2019, Meyersdale, PA, USA.
+
+Ich komme mit einem heilenden Segen für euch. Ich komme, um euch zu sagen, meine Freunde, dass ihr stark sein müsst. Ich komme, um euch zu sagen, dass große Veränderungen auf jeden von euch zukommen, dass dieses bequeme Leben, das ihr lebt, von den Stürmen, die am Horizont aufziehen, betroffen sein wird und dass es viel zu tun gibt, um euch vorzubereiten. Ihr müsst stark sein, betend und auf den Schöpfer eingestimmt. Gott wird euch auf viele verblüffende Arten gebrauchen, auf unerwartete Weise, um euren Brüdern und Schwestern durch diese veränderten Zeiten und durch Übergangszeiten zu helfen.
+
+Es wird nicht alles verloren sein, meine Freunde. Vielmehr wird das, was nicht in Harmonie mit Gottes Schöpfung und Gesetzen ist, wegfallen und Gelegenheit für große und tiefe Inspiration und Öffnungen der Führung und des Verständnisses geben, die in der Tat einen Anschein von Komfort, von Leben, das in Harmonie mit Gott ist, bewahren und vieles hervorbringen werden, das euer Leben verbessern wird, aber dennoch in Harmonie mit Gottes Gesetzen ist. Es wird eine große Heilung der Erde geben, etwas, für das viele gebetet haben, und eine tiefere Weisheit für diejenigen, die bereit sind zuzuhören. Wiederum haben viele dafür und für die Liebe gebetet. Die Liebe wird euch verankern und euer Leben stabilisieren in einer Welt, die sich ständig verändert. Die Liebe wird eure Herzen erneuern. Die Liebe wird die Kanäle des Verständnisses und der Wahrheit öffnen. Die Liebe wird euch stärken und euch das bringen, was ihr braucht, um den Stürmen zu trotzen und um Weisheit und das, was für den Neuaufbau nötig ist, zu bringen.
+
+Eure Welt ist ein dynamischer und sich verändernder Ort. Anzunehmen, dass alles so bleiben wird, wie es ist, ist naiv. Ihr habt in eurem eigenen Leben gesehen, wie veränderte Bedingungen euch geholfen haben, zu lernen, zu wachsen und in Weisheit und Liebe zu stärken. So wird es mit der ganzen Erde sein, wo auch immer ihr sein mögt, an welchem Ort auch immer sich die Seele aufhalten mag, es wird Veränderungen geben und es wird Heilung geben.
+
+Mit der Zeit wird ein tiefer Frieden die Erde bedecken, ein dauerhafter Frieden. All die Bedrohungen und unmenschlichen Bedingungen, die über Jahrtausende geschaffen wurden, werden abfallen und in den sich verändernden Bedingungen, die kommen, aufgehen. Diejenigen, die bereit sind, zu einer neuen Ära, einer neuen Zeit, zu erwachen, werden in der Welt voranschreiten und die Wahrheit bringen und das bringen, was an Weisheit benötigt wird, um dabei zu helfen, diese Welt neu zu erschaffen, die mehr in Harmonie mit Gott ist und weniger ein Spiegelbild des menschlichen Zustands.
+
+Dies kommt, meine Freunde. Ihr seht, wie sich die Dinge vor euren Augen verändern. Ihr spürt, dass das Alte nicht mehr gilt und der Tag kommt und strömt über euch und erreicht viele Orte in eurer Welt, die durch den menschlichen Zustand gegen Gott abgeschirmt wurden. So werden diese Barrieren entfernt werden. Diese Bedingungen werden sich auflösen. An ihre Stelle werden Inspiration, Liebe, Weisheit und Licht treten. Habt ihr nicht alle dafür gebetet, meine Freunde? Dafür gebetet, dass die Welt erwacht, zu Gott erwacht, zu ihrer wahren Bestimmung erwacht, so erwacht, dass sie die Wahrheit leben und tiefe Liebe erfahren kann? Dies wird kommen.
+
+So arbeiten wir fleißig daran, euch zu erwecken, meine Freunde, als Vorläufer für das, was kommen muss und zur rechten Zeit kommen wird. Wisst, dass der Wandel in euch kommt, in jedem von euch. Wisst, dass es eine große Verschiebung des Denkens, der Wahrnehmung, des Verstehens und des Erkennens eures eigenen wahren Selbst gibt. Auf diese Weise werdet ihr verstehen, was kommt und in der Lage sein, die Zeichen zu deuten und euren Brüdern und Schwestern zu zeigen. Warum? Wozu dient diese große Veränderung, die so viel durcheinander bringen wird? Es ist ein Geschenk und ein Segen von Gott.
+
+Ihr werdet euch über die Ergebnisse freuen. Ihr werdet das annehmen, was in dem Übergang schwierig ist, und ihr werdet es tun, weil ihr in eurem Herzen wisst, dass dies das ist, was richtig ist und in dieser Welt sein soll. So stärken wir euch, meine Freunde. Wir informieren euch und wir segnen euch. Wir heilen euch und bringen alle Ressourcen des Himmels in solcher Fülle auf euch ein, dass ihr vorbereitet und bereit seid für das, was kommen wird.
+
+Möge Gott euch auf eurer Reise des Erwachens segnen. Möge Gott euch alle Ressourcen geben, die ihr benötigt, um in der Lage zu sein, durch die kommenden Veränderungen zu navigieren und allen zu helfen, die ihr liebt, allen, die in eurem Leben sind, und vielen anderen, die fragen und nach Wahrheit suchen und verstehen werden, was kommt.
+
+Gott segne euch, meine Freunde, ich bin Tahlia. Ich werde euch meine Kraft bringen, um euch zu unterstützen, wo sie gebraucht wird. Viele, viele mehr, viele, viele mehr, die in den Himmlischen residieren, werden mit euch zusammenarbeiten. Gottes Plan entfaltet sich und Gottes Plan ist groß. Gottes Plan ist unüberwindbar durch den menschlichen Zustand. Er wird überwunden werden durch die Liebe, durch die Berührung Gottes, durch die Kraft der Gnade, durch die Kraft der natürlichen Welt, sich selbst zu korrigieren. Viele, viele Elemente verschwören sich, um Veränderung zu bringen. Es ist keine Bestrafung. Es ist lediglich eine Antwort auf Gottes Willen, eure Gebete und das Bedürfnis nach Heilung und Gleichgewicht. Gott erlaubt seinen Geschöpfen und der Schöpfung nicht, die Naturgesetze, die er aufgestellt hat, zu überrennen. Es kommt immer eine Korrektur und ein Ausgleich, um die Macht der Menschheit, die das Geschenk des freien Willens erhalten hat, zu umgehen.
+
+Erinnert euch an die Macht eurer eigenen Entscheidungen, meine Freunde. Erinnert euch daran, dass alles, was ihr tut, Konsequenzen hat, dass ihr mit Weisheit und Liebe wählt, dass ihr in Gnade wandelt, dass eure Schritte sanft sind, dass eure Handlungen aus Liebe sind und dass ihr der Gnade und Weisheit und Wahrheit von Gottes Schöpfung und Liebe zu euch folgt.

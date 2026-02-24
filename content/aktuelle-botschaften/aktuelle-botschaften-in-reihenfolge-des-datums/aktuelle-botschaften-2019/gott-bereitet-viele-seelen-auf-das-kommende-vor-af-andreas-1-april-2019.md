@@ -1,0 +1,38 @@
+---
+title: "Gott bereitet viele Seelen auf das Kommende vor"
+menu_title: ""
+description: "Gott bereitet viele Seelen auf das Kommende vor"
+date: 2020-07-03 06:25:48+00:00
+draft: False
+hidden: True
+weight: 30
+---
+### Gott bereitet viele Seelen auf das Kommende vor   
+
+Andreas - empfangen durch Al Fike am 1. April 2019, Gibsons, Britisch Kolumbien, Kanada.
+
+Geliebte Seelen, es ist Andreas.
+
+Die Impulse und Wellen der Liebe Gottes wirken weiterhin auf diese Erde ein, erheben die Menschheit und schaffen die Voraussetzungen für Veränderungen in dieser Welt. Ich weiß, dass sich eure Gebete um das Zusammensein mit Gott als Folge dieser Zustände die kommen und sich mit der Zeit noch verstärken werden, intensiviert haben. Gott bereitet die vielen Seelen auf das vor, was kommt. Gott öffnet viele Türen für jeden von euch, meine Lieben, damit ihr in euren Seelen erwacht. Wenn ihr in diesen Portalen des Lichts sitzt, sind die Segnungen die da kommen, intensiv, kraftvoll, mit der Absicht eure Seelen zu erwecken, vorausgesetzt ihr öffnet euch und empfangt dieses große Geschenk der Liebe Gottes.
+
+Es gibt viel, das sich danach sehnt, in euren Seelen zu erwachen. Gott wünscht sich wirklich, dass die Potentiale, die in euren Seelen gelegt wurden, verwirklicht werden. Denn mit jeder Öffnung, mit jedem neuen Geschenk das kommt, wächst die tiefere Weisheit in euch. Die scharfsinnigen und klaren Wahrnehmungen werden ein großes Geschenk für diejenigen unter euch sein, die in Zukunft der Menschheit dienen. Es ist wichtig, dass jeder von euch ernsthaft betet und sich verstärkt darum bemüht, dieses Geschenk der Liebe zu erhalten, da die Zeit von entscheidender Bedeutung ist.  
+
+Ihr müsst bereit sein, in vielfältiger Weise zu dienen, damit ihr, wenn der Ruf kommt, klare Kanäle der Liebe des Vaters seid. In Seiner Liebe erwacht. Trittsicher, wenn ihr in dieser Welt wandelt und klare und schöne Kanäle seid. Die offen sind für Gottes Führung und Weisung, die die Fackel der Wahrheit und Liebe tragen, stark im Licht, damit euer Glaube unerschütterlich ist, damit eure Fähigkeit zu dienen tief und kraftvoll ist. Viele von euch haben wir seit einigen Jahren vorbereitet und wir tun dies auch weiterhin. Wir wünschen, dass ihr euch auf diese Aufgabe konzentriert. Alle Bedingungen, die nicht von Gott sind, loszulassen und immer größere Teile der Liebe Gottes in euren Seelen zu empfangen, das, was Gott euch geben will, frei und uneingeschränkt fließen zu lassen, damit euer Verstand sich eurer Seele fügen kann.
+
+Meine geliebten, geliebten Kinder, ihr haltet euch weiterhin auf dem Göttlichen Weg auf und habt in den Jahren, die ihr auf diesem Weg seid, viel erreicht. Es kommt jetzt eine Zeit, in der alte Gewohnheiten und alte Gedanken losgelassen werden müssen, damit ihr die kommenden Veränderungen, die Gott in diese Welt bringen will, akzeptieren könnt. Damit ihr dies vor allen anderen absorbiert, um wirklich jenes leuchtende Beispiel zu sein, jenes Leuchtfeuer des Lichts, das viele aufrechterhalten wird. Es ist notwendig, das Alte loszulassen.   
+
+Die Annahme des Neuen in Freude und Akzeptanz wird euch, liebe Seelen, eine große Freiheit und Freude bringen. Tiefgreifende Einsichten werden kommen, Offenbarungen. Ihr werdet die Welt mit den Augen eurer Seelen sehen. Ihr werdet euch selbst auf diese Weise kennen und Gott auf eine tiefe und tiefgreifende Weise kennen lernen. Seine Liebe wird all das färben, was ihr in eurem Leben erlebt. Ihr werdet die Kraft eurer eigenen Seele erkennen, die von dieser Liebe tief berührt worden ist. Es wird keine Furcht, keine Angst, keinen Zweifel, nur ein Gefühl von Ziel und Richtung geben, ein Wissen um Gottes Willen, ein Fluss von Weisheit und Liebe, der durch jeden von euch, geliebte Seelen, unendlich ist. Das ist es, was Gott von euch wünscht, meine geliebten Brüder und Schwestern. Das ist es, wonach sich eure Seelen gesehnt haben und wisst, dass es absichtlich darauf ausgerichtet ist, dies zu tun.  
+
+Die Zeit ist also kurz, meine Lieben. Die Arbeit ist groß. Die Not ist groß. Die Welt steht am Rande des Abgrunds. Ihr müsst stark sein. Es ist die Kraft eurer Seele, die euch durch alle Zustände tragen wird, durch alles, was euch im Wege stehen könnte. Gott wird euch unterstützen. Gott wird euch führen. Gott wird euch helfen, den Weg, den ihr gehen müsst, klar zu erkennen. Gott wird euch beschützen, meine Lieben, euch und eure Familien, diejenigen, die euch nahe stehen, diejenigen, die dieses Licht tragen. Diejenigen, die den Wunsch haben, Veränderung und Harmonie in diese Welt zu bringen, werden Gottes Hand auf ihnen haben. Das werdet ihr wissen, meine Lieben. Ihr werdet wahrhaftig wissen, dass ihr gesegnet und unterstützt, beschützt und geliebt, von Engeln betreut, von den Winden der Liebe und des Wandels in eine neue Ära in eurer Welt getragen werdet.  
+
+Darauf hat die Welt schon sehr lange gewartet. Wir im Himmel haben uns seit Generationen darauf vorbereitet. Die Zeit ist gekommen, dass Gottes Plan für die Rettung der Menschheit verwirklicht wird, dass diese Welt aufsteigt. Das alles, was nicht in Harmonie ist, wieder ins Gleichgewicht und ans Licht gebracht wird und dass die Menschheit eingeladen wird, an Gottes Schöpfung an ihrem rechtmäßigen Platz als Mitschöpfer in dieser ihrer Welt teilnimmt. Dazu bedarf es einer tieferen Weisheit und Liebe, als die Mehrheit der Menschheit (bisher) in ihrem Leben zum Ausdruck gebracht hat.
+
+Deshalb müsst ihr, geliebte Seelen, die Tiefen eurer Seele ausloten, die Tiefen des Möglichen, das, was Gott in euch geschaffen hat, was durch Seine Liebe entzündet werden kann. Auf diese Weise werdet ihr führen. Auf diese Weise werdet ihr die Kinder aus der Dunkelheit ins Licht ziehen. Jeder von euch wurde vorbereitet. Jeder von euch hat Weisheit zu teilen. Jeder von euch kennt die Kraft seiner eigenen Seele. Was wir brauchen, ist eine tiefe Kraft, ein Beharren auf Licht, Wahrheit und Liebe, um ein Beispiel dafür zu sein, egal, mit welchen Umständen ihr konfrontiert werdet, um zu Gott zu gehen für alles was ihr braucht, für die Führung, für die Wahrheit, die sich entfalten und in eurer Welt gelebt werden muss.  
+
+Also, meine geliebten Brüder und Schwestern, seid ihr bereit? Habt ihr euch vorbereitet? Wisst ihr wirklich, was eure Seele zu euch sagt, die in einer Weisheit spricht und sich sehnt, bei Gott zu sein und in Harmonie mit Gottes Gesetzen zu sein? Seid ihr, geliebte Seelen, bereit, das Banner der Wahrheit aufzugreifen, um offen durch den Wald dieser dunklen Welt zu gehen? Findet euren Weg zum Licht!  
+
+Gottes Plan wird euch leiten, geliebte Seelen. Seine Wahrheit wird euer Anker sein. Seine Liebe wird euch aufrichten, und statt die Verluste der alten Welt zu betrauern, werdet ihr mit Freude das Neue und Schöne annehmen. Seid ihr bereit, geliebte Seelen, in diesem Licht zu wandeln und es mit eurem ganzen Wesen zu umarmen?  
+
+Möge Gott euch segnen und stärken, meine geliebten Freunde. Möget ihr wahrhaftig das Wunder eurer eigenen Seelen erkennen, das Wunder dessen, was Gott geschaffen hat, das Wunder der Großen Überseele, die Gott ist. Diese Dinge werden jeder Seele gegeben, die bereit ist, sich zu öffnen und zu empfangen. Möget ihr, meine geliebten Freunde, euer Schicksal auf eurer Reise zum Eins-sein mit Gott wirklich verstehen. Möge Gottes Segen mit euch auf eurem Weg in solcher Fülle, Schönheit und Kraft sein, dass ihr mit hellem Licht strahlen werdet, mit einem schönen Antlitz der in Liebe erwachten Seele.
+
+Wir begleiten euch, meine lieben und geliebten Freunde. Wir sind bei euch. Es wird immer so sein, und wir lieben euch. Gott segne euch, meine Lieben. Ich bin Andreas und ich liebe euch. Gott segne euch.

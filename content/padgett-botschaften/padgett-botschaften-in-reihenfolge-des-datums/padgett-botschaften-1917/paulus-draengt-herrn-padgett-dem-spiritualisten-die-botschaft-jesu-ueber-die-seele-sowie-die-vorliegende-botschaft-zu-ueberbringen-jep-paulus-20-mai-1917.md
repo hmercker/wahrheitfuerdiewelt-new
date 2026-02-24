@@ -1,0 +1,36 @@
+---
+title: "Paulus drängt Herrn Padgett, dem Spiritualisten die Botschaft Jesu über 'Die Seele' sowie die vorliegende Botschaft zu überbringen"
+menu_title: ""
+description: "Paulus drängt Herrn Padgett, dem Spiritualisten die Botschaft Jesu über 'Die Seele' sowie die vorliegende Botschaft zu überbringen"
+date: 2020-08-01 06:25:48+00:183
+draft: False
+hidden: True
+weight:
+---
+### Paulus drängt Herrn Padgett, dem Spiritualisten die Botschaft Jesu über "Die Seele" sowie die vorliegende Botschaft zu überbringen <sup id="a1">[1](#f1)</sup>
+
+Paulus – empfangen durch James Padgett am 20. Mai 1917, Washington, DC, USA.
+
+Ich bin hier, Paulus.
+
+Nun, mein lieber Bruder, ich habe schon lange nicht mehr geschrieben, und ich nehme jetzt die Gelegenheit wahr, ein paar Worte zu sagen. Ich habe nicht die Absicht, eine formelle Botschaft zu schreiben, obwohl ich das gerne tun würde, aber die Bedingungen sind nicht gerade die richtigen, um mir zu ermöglichen, so zu schreiben, wie ich es wünsche.
+
+Ich war ziemlich oft anwesend, als du Botschaften von den anderen spirituellen Wesen erhalten hast, und habe meinen Einfluss genutzt, um günstige Bedingungen für den Empfang dieser Botschaften zu schaffen, und auch, um dich fühlen zu lassen, dass dich eine Atmosphäre der Liebe und Harmonie umgab, die es dir ermöglichte, nicht nur die Botschaften zu genießen, sondern auch die Gefühle der Liebe und wohlwollenden Einflüsse, die zu dir kamen.
+Während ich heute Abend zuhörte, wie euer Freund Auszüge aus dem Buch (von Herrn Kate) las und die Kommentare, die beide zum selben machten, wurde mir ein Text vorgeschlagen, über den ich schreiben werde, und das ist das spirituelle Wesen und der spirituelle Körper, was ihre Natur und Schöpfung betrifft. (Diese geplante Botschaft wurde nie überbracht) Ich weiß, dass ihr Schriften erhalten habt, die sich mehr oder weniger mit diesem Thema befassen, aber ich möchte mehr ins Detail gehen, um zu zeigen, dass der Verfasser des Buches in seiner Auffassung dieser Dinge völlig falsch liegt.
+
+Natürlich werdet ihr euch an die [Botschaft Jesu über „die Seele“](/padgett-botschaften/padgett-botschaften-in-reihenfolge-des-datums/padgett-botschaften-1917/die-seele-jep-jesus-2-maerz-1917/) erinnern, und es wird für mich nicht nötig sein, etwas über die Seele zu sagen; aber ihr könnt meine Botschaft in Verbindung mit dieser Botschaft lesen. Wie [Markus euch gerade geschrieben hat](/padgett-botschaften/padgett-botschaften-in-reihenfolge-des-datums/padgett-botschaften-1917/die-wichtigkeit-dass-die-wahrheit-allen-seelen-bekannt-gemacht-wird-jep-johannes-markus-20-mai-1917/), ist es sehr schade, dass ein Mann in der Position eines Lehrers des Spiritualismus nicht mehr von der Wahrheit wissen sollte, damit er sie denen offenbaren kann, die ihm zuhören und Vertrauen in sein Wissen haben. Und es mag sein, daß ihr irgendwann die Gelegenheit habt, ihm beide Botschaften vorzulesen, und das Ergebnis mag sein, daß er die Wahrheit auf die Weise sucht, die aufgezeigt werden soll, und wenn er dies im Ernst tut, wird er sie finden und seine Entdeckung zu einem Segen für viele machen, mit denen er in Kontakt kommen kann.
+
+Es ist sehr bedauerlich, dass ein Führer dieser großen Wahrheit des Spiritualismus - und es ist eine Wahrheit und eine, die letztendlich die alten Religionen ablösen wird, wann immer er in Kontakt oder Verbindung mit Menschen kommt, die für sich selbst denken - so wenig Kenntnis davon haben sollte, was ein wahres Verständnis davon ihnen ermöglichen würde, zu lehren. Wir spirituellen Wesen haben uns lange Zeit bemüht, diese Führer zu erleuchten, und konnten ihnen zuweilen einige der lebenswichtigen Wahrheiten einprägen; aber diese Bemühungen waren bis jetzt nicht sehr erfolgreich, wenn wir unsere Botschaften durch eure Schriften überbringen sollen. Aber dieses Bemühen wird in Zukunft mehr und mehr ernsthaft oder erfolgreich werden, und viele dieser Menschen, die bestrebt sind, die wahre Religion zu erlernen, und die nur auf irgendeine maßgebliche Quelle warten, werden es lernen, und unter ihnen werden viele Führer dessen sein, was jetzt Spiritualismus genannt wird.
+
+Das Werk ist ein Werk, das in seinen Ergebnissen weltweit werden muss, denn die Seele eines jeden Menschen auf Erden, wo auch immer er sich befinden mag, ist es wert, gerettet zu werden; und, wie ihr wisst, wenn der Anfang zur Regeneration auf Erden gemacht werden kann, wird der Fortschritt in der spirituellen Welt so viel schneller sein. Ich weiß, dass die Verbreitung der Wahrheit viel Zeit brauchen wird, aber wenn der Anfang gemacht wird, wird der Fortschritt schneller werden.
+
+Ich denke nicht, dass ich heute Abend mehr schreiben sollte, und möchte nur hinzufügen, dass die Evangelisierung sehr bald beginnen muss, und dass diejenigen, die daran arbeiten, die Wahrheit auf ihrem Weg zur Erkenntnis der Menschen zu beginnen, all ihre Energien und ihre Liebe in die Arbeit stecken müssen. Ihr wisst, dass es jetzt nur sehr wenige gibt - nur drei (Dr. Leslie R. Stone, Eugene Morgan und James E. Padgett) - die irgendeine Vorstellung von der Wahrheit haben und was der Plan ist, um diese Wahrheiten der Welt bekannt zu machen. Doch das Christentum wurde nur von einem neben dem Meister begonnen, ich meine Johannes dem Täufer, und er, wie ich euch sagen muss, hatte nicht die Erkenntnis der Wahrheit wie ihr drei heute, und er hatte nicht hinter sich die Macht der göttlichen Himmel, wie ihr sie habt. Seine Mission wurde erfüllt, und das Christentum wäre ein Erfolg gewesen, wenn seine Wahrheiten nicht durch die Taten von Menschen verloren gegangen wären, die die Liebe, die euch gegeben wurde, nicht in ihren Seelen hatten. Die Wahrheiten gingen verloren, und die Menschen gingen, was die Rettung ihrer Seelen betraf, zum großen Teil zugrunde.
+
+Aber nun werden diese Wahrheiten nicht untergehen, denn sie werden in lebendiger Form präsentiert werden, und es wird kein Abschreiben oder Nachschreiben nötig sein, und es wird den Schriften der spirituellen Wesen, die jetzt damit beschäftigt sind, diese Wahrheiten zu formulieren, nichts hinzugefügt oder etwas weggenommen werden. Diesmal wird es kein Misserfolg sein, und der Weg zum Reich Gottes im Himmel wird deutlich gemacht werden, und kein Mensch wird eine Entschuldigung dafür haben, nicht darin zu wandeln. Und diejenigen, die es nicht tun, werden eine größere Strafe zu zahlen haben, als von den Juden und Heiden verlangt wurde, die zur Zeit Jesu lebten oder seit jener Zeit gelebt haben; denn mit zunehmender Gelegenheit, die Wahrheit zu lernen, werden sich auch die Verpflichtungen erhöhen, und wer diese Gelegenheit versäumt, wird diese verpasste Gelegenheit als Teil seines Bewusstseins haben, und das mag sogar noch sein, nachdem er zum vollkommenen Menschen geworden ist, denn ich sage euch hier, dass die Erinnerung des Menschen auch dann andauert, wenn die höchste Vollkommenheit erreicht ist, was jene Dinge betrifft, die er nicht verlieren muss, damit er der vollkommene Mensch wird.
+
+Nun, du bist müde, und ich werde nicht mehr schreiben. So, mit meiner Liebe zu dir selbst und deinem Freund, werde ich dir gute Nacht sagen.
+
+Dein Bruder in Christus, Paulus.
+<small>
+
+1. <large id="f1"> Diese Botschaft ist eine Zusammenstellung von zweien, die in Band IV auf Seite 153 und erneut in Band IV auf Seite 197 veröffentlicht wurde.[↩](#a1)

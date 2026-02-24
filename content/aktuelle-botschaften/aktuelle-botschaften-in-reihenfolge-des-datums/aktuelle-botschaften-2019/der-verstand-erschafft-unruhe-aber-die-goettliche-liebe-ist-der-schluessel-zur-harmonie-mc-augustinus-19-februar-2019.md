@@ -1,0 +1,28 @@
+---
+title: "Der Verstand erschafft Unruhe, aber die göttliche Liebe ist der Schlüssel zur Harmonie"
+menu_title: ""
+description: "Der Verstand erschafft Unruhe, aber die göttliche Liebe ist der Schlüssel zur Harmonie"
+date: 2020-08-01 06:25:48+00:95
+draft: False
+hidden: True
+weight:
+---
+### Der Verstand erschafft Unruhe, aber die göttliche Liebe ist der Schlüssel zur Harmonie
+
+Augustinus - empfangen durch Maureen Cardoso am 19. Februar 2019, Abbotsford, BC, Kanada.
+
+Gott segne euch, geliebte Seelen. Ich bin euer Lehrer Augustinus. Eure Gebete werden erhört und sie reichen in ihrer Aufrichtigkeit zu Gott. Bitte wisse, mein lieber Sohn, dass dein Gebet für die liebe Seele, die die Erdenreise angetreten hat, dein Gebet für die göttliche Liebe, diese liebe Seele zu segnen, erhört und verwirklicht wird. Und ja, bitte bete weiter für diese liebe Seele, denn dies ist ein Weg, wie du helfen kannst, diesem neugeborenen Kind Liebe zu bringen.
+
+Meine Freunde, ja, eure Gebete gehen hinaus für Heilung für viele, die eure Weltführer einschließen. Ein Gebet für den Ausgleich und die Harmonisierung von Seele und Verstand, denn es ist der Verstand, der viel Aufruhr in eurer Welt erzeugt, wie wir euch schon viele, viele Male gesagt haben. Meine lieben Freunde, ihr kennt den Weg, eure Seelen zu erwecken und das zu heilen, was eure Seele daran hindert, ihr Licht nach vorne zu strahlen - das ist ein mächtiger Schlüssel. Und dann ist da noch der Weg des Verstandes, der die Funktionsweise eurer Welt beherrscht. Es ist bedauerlich, dass der Verstand von vielen undiszipliniert ist, voller Gier und selbsterfüllender Handlungen. Es scheint eine sehr große Aufgabe zu sein, nicht wahr, um Harmonie in eure Welt in diesem großen Ausmaß zu bringen? Für eure Weltführer, in Einheit zu führen und das Wohl ihrer Mitbrüder und Schwestern im Herzen der Dinge zu haben - ja, das ist bedauerlich und bringt viel Dunkelheit und Aufruhr in eure Welt.
+
+Ich möchte euch ermutigen, euch davon nicht überwältigen zu lassen und euch in größere Dunkelheit zu bringen. Denn meine lieben Freunde, zuallererst seid ihr für euch selbst verantwortlich. Wenn ihr Gottes Liebe in eure Seele bringt, die ein Erwachen in eurer Seele bewirkt, und wenn ihr euren Geist diszipliniert, indem ihr die verschiedenen Techniken nutzt, die für die Disziplinierung des Geistes zur Verfügung stehen, werdet ihr in Harmonie kommen und in der Lage sein, Gottes Absicht für euch zu verwirklichen. Obwohl es scheinen mag, dass ihr nur eine Seele seid, ist es sehr wichtig, dass ihr als diese eine Seele euch bemüht, die Dunkelheit in eurer Seele zu reinigen und euren Verstand ins Gleichgewicht zu bringen, indem ihr eure Gedanken zu Gott bringt, indem ihr eure Gedanken auf hohe Dinge richtet. Das ist sehr wichtig zu tun, Geliebte, und das ist eure individuelle Arbeit.
+
+Nehmt die Verantwortung an, die Gott für euer Leben in eure Hände gelegt hat, und erlaubt all den Veränderungen, die in euch stattfinden, in die Welt hinauszustrahlen und ein leuchtendes Beispiel für all jene zu sein, die in eure Mitte kommen. Wir verstehen, dass dies eine sehr große Aufgabe ist, aber es ist die wichtigste Aufgabe, an der ihr euch beteiligen könnt, indem ihr euch mit Gott in Einklang bringt. Wenn ihr das tut, werdet ihr sehen, dass sich viele Türen öffnen und ihr werdet sehen, dass ihr die Kraft und die Fähigkeit habt, durch die Türen zu gehen, die Gott für euch öffnet, um den Weg zu teilen, den ihr zu einem größeren Erwachen in eurer Seele erreicht habt und die Verantwortung, die ihr übernommen habt, um euren Geist zu disziplinieren und für euren Körper zu sorgen sowie eine Harmonisierung in diese drei Teile von euch zu bringen.
+
+Dies wird anderen zeigen und euer Licht wird so hell leuchten, dass ihr viele anziehen werdet. Es ist immer schwierig, das eigene Licht, den eigenen Glanz und die eigenen Gaben zu erkennen, aber Geliebte, andere werden das sehen und sie werden von euch angezogen werden. Ihr werdet den Mut, das Herz und den Wunsch haben, die Wahrheit in der Weise auszusprechen, dass ihr an den Punkt in eurem Leben gelangt seid, an dem eure Seele hell leuchtet und ihr Frieden im Geist habt. Das ist eine Garantie auf diesem Weg, Geliebte, es ist eine Garantie. Denn wenn ihr weiterhin betet und das große Geschenk der Göttlichen Liebe in eure Seele empfangt, wird die Ausrichtung kommen. Es erfordert eure fortgesetzten Bemühungen. Es erfordert eure Disziplin, aber meine Freunde, was gibt es in eurem Leben, das wichtiger ist als dies?
+
+Eure materielle Welt hat viele Ablenkungen. Wir verstehen das, aber bringt in euer Bewusstsein, dass diese materiellen Dinge vergänglich sind. Ihr könnt sie nicht mitnehmen, wenn ihr auf unsere Seite des Geistes übergeht. Es sind eure Seele und euer Geistkörper, die bleiben werden. Nehmt euch jeden Tag Zeit und lasst euch von Gott segnen. Erlaubt den Segnungen Gottes, in eure Seele zu kommen. Erlaubt den Segnungen der Liebe Gottes, euch zu erwecken. Erlaubt diesen Potentialen, die in eurer Seele sitzen, diesen eingepflanzten Gaben, erlaubt ihnen, sich zu verwirklichen, während ihr hier auf der Erde seid. Segnet euch selbst, meine lieben Freunde. Erkennt das Geschenk, das ihr seid. Ihr seid ein Geschenk für euch selbst und ihr seid ein Geschenk für andere und ihr seid ein Geschenk für Gott.
+
+Es ist gut, dass ihr auf diese Weise im Gebet zusammenkommt, denn es hilft euch, euch als Lichtarbeiter hier auf der Erde zu stärken. Wir sind sehr erfreut darüber, wie sich diese Lichtkreise ausweiten und viele erreichen.
+
+Gott segne jeden einzelnen von euch Geliebten. Ich bin Augustinus euer Lehrer und ich stehe bei euch, führe, beeinflusse und lehre euch. Meine Liebe ist immer mehr mit euch, Gott segne euch.

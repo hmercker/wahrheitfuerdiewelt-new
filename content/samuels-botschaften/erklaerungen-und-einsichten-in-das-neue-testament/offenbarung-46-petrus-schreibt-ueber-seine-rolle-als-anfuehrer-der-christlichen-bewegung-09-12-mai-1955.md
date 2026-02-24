@@ -1,0 +1,40 @@
+---
+title: "Offenbarung 46 : Petrus schreibt über seine Rolle als Anführer der christlichen Bewegung"
+menu_title: ""
+description: "Offenbarung 46 : Petrus schreibt über seine Rolle als Anführer der christlichen Bewegung"
+date: 2020-07-03 06:25:48+00:00
+draft: False
+hidden: True
+weight:
+---
+### Offenbarung 46 : Petrus schreibt über seine Rolle als Anführer der christlichen Bewegung
+
+Jesus – empfangen durch Dr Samuels am 9. Mai und 12. Mai 1955, Washington, DC, USA.
+
+Ich bin hier, Petrus.
+
+Ich bin bei dir — und mit mir eine große Anzahl an göttlichen, spirituellen Wesen. Ich habe gehört, was ihr miteinander besprochen habt und möchte daher bestätigen, dass alles, was über mein Leben und Wirken gesagt worden ist, der Wahrheit entspricht. Wie Jesus schon geschrieben hat, war nicht er es, der mich zum Führer der jungen, christlichen Bewegung gemacht hat, sondern ich selbst habe mich entschlossen, dieses Amt zu übernehmen, wie es in der Apostelgeschichte nachzulesen ist. Da ich vorher schon Sprecher der Jünger war, fiel mir die Rolle des Anführers natürlicherweise zu, als ich nach dem Pfingstereignis begann, den Auftrag Jesu fortzuführen und die Frohbotschaft der Göttlichen Liebe zu predigen — und viele meiner Zuhörer zu heilen.
+
+Ich möchte der Botschaft, die Jesus dir über den Messias geschrieben hat, gerne noch etwas hinzufügen. Die Juden hatten eine klare Erwartung, was die Persönlichkeit und die Erscheinung des ersehnten Messias anbelangt. Sie sahen in ihm nicht nur einen weltlichen Herrscher, sondern vor allem ein Wesen, das unsterblich sein müsse, da er von Gott, der selbst unsterblich ist, auf die Erde gesandt werden würde. Als Jesus nach seiner Auferstehung der Maria erschienen ist, war für uns als seine Jünger, die wir ja gottesfürchtige Juden waren, klar, dass dies der ultimative Beweis war, dass Jesus tatsächlich der Messias Gottes ist.  
+
+Jesus musste also geradezu sterben und auferstehen, um als Messias anerkannt zu werden. Nach seiner Himmelfahrt warteten wir deshalb tagtäglich darauf, dass Jesus zu uns auf die Erde zurückkehren würde, um als unsterblicher König der Juden sein Gottesreich auf Erden zu errichten — ein Irrtum, an dem wir lange Zeit festgehalten haben. Als wir begannen, sein Werk fortzusetzen und den Menschen die Liebe des Vaters zu offenbaren, waren wir lange davon überzeugt, dass Jesus am Kreuz habe sterben müssen, um als wahrer Messias auferweckt zu werden. Als sich diese Nah-Erwartung aber nicht erfüllte, machte sich bald schon große Enttäuschung breit—und viele Heiden, die sich unlängst zum Christentum bekannt hatten, kehrten der Lehre von der Göttlichen Liebe den Rücken.
+
+Dennoch beharrten wir darauf, dass Jesus bald schon auf die Erde zurückkommen würde, um sein irdisches Gottesreich zu errichten — wie den frühen Aufzeichnungen der noch jungen Kirche zu entnehmen ist. Es sollte noch einige Zeit dauern, bis wir endlich begriffen hatten, dass Jesu Reich, wie er es stets versichert hat, nicht von dieser Welt ist, sondern in den höchsten Sphären der göttlichen Himmel seine Heimat hat.
+
+Dass mir nach der Himmelfahrt Jesu die Leitung seiner Gemeinde anvertraut wurde, rührte letztendlich auch daher, dass Johannes und ich die engsten Vertrauten Jesu waren, als er noch unter uns weilte. Jesus hat uns damals schon in viele Dinge eingeweiht, die er den anderen Jüngern vorenthalten hat — nicht, weil er uns über seine anderen Apostel erheben wollte, sondern weil Johannes und ich zu den wenigen gehörten, die seine Lehre zumindest in groben Grundzügen verstanden hatten.
+
+Jesus sorgte sich aber nicht nur um unsere spirituelle Entwicklung, indem er uns zum Beispiel erlaubte, ihn auf den Berg der Verklärung zu begleiten, er übertrug uns auch viele weltliche Aufgaben, die uns vor den anderen Jüngern auszeichneten. So war es zum Beispiel mein Boot, das er auswählte, wenn er zum Fischen fuhr, oder er beauftragte uns, das Haus in Jerusalem aufzusuchen, um den Raum im Obergeschoss für das Passah-Mahl vorzubereiten. Da Jesus aber nicht erwartet hatte, so früh sterben zu müssen, sah er auch keinerlei Veranlassung, seine Nachfolge zu regeln, wie das Neue Testament behauptet. Nach Pfingsten aber wusste ich, dass es an mir sein würde, die junge Gemeinde zu führen, um nicht nur das Werk der Verkündigung fortzusetzen, das Jesus begonnen hatte, sondern auch um durch Gottes Liebe, um die wir unablässig beteten, gemeinsam zu reifen und zu wachsen, damit die Wahrheit, die uns hinterlassen worden war, vollständig und intakt überliefert werden würde.
+
+Es stimmt, dass ich bald schon ins Gefängnis geworfen wurde. Befreit wurde ich allerdings nicht durch einen Engel, wie im Neuen Testament beschrieben, sondern durch einige Gefängniswärter, die mir das Schicksal Jesu ersparen wollten, indem sie mir die eisernen Fesseln von meinen Handgelenken lösten. Da sie bereits Jesus — wenn auch heimlich — nachgefolgt waren und sahen, dass auch mir die Gabe verliehen worden war, Kranke zu heilen und Wunder zu tun, ließen sie mich laufen. Predigend und heilend zog ich entlang der Mittelmeerküste bis hinauf nach Joppa, wo ich neben vielen Juden auch einige Römer bekehrte. Dass ich aber ein Mädchen von den Toten auferweckte, wie in der Apostelgeschichte überliefert, ist nicht richtig, denn Tabitha war nicht tot, sondern befand sich in einem tiefen Koma.  
+
+Diese und ähnliche Ereignisse führten allmählich dazu, dass auch die Menschen mich als Führer der jungen Christenheit akzeptierten. Selbst in Glaubensfragen baten die Juden nun nicht mehr Jakobus um Rat, sondern wandten sich an mich, der ich mich zusehends der Herausforderung gegenüber sah, den vielen Nicht-Juden, die sich in gewaltiger Zahl zur Liebe Gottes bekehrten, die Grundlagen des jüdischen Glaubens zu vermitteln. So sah ich mich oftmals dazu gezwungen, viele Neuerungen zu akzeptieren und Kompromisse einzugehen, um es den Heiden zu erleichtern, an Jesu Botschaft zu glauben und dass es sein Auftrag als Messias Gottes war, die Erneuerung der Liebe Gottes zu verkünden. Dies war der Beginn eines schleichenden Wandels, der sich langsam vom Vater und Seiner Göttlichen Liebe entfernte, um stattdessen die Person Jesu in den Mittelpunkt des Interesses zu rücken.
+
+Unterstützt von Barnabas, der die Mission in Kleinasien betreute, gelangte ich schließlich nach Rom. Als gläubiger Jude habe ich aber auch hier keine neue Kirche gegründet, sondern war damit beschäftigt, Grundlagen und Richtlinien zu erarbeiten, auf denen die spätere Religion gegründet wurde. Als Jünger Jesu, der den Meister persönlich gekannt hat, wurde ich dort rasch zum Oberhaupt der noch jungen Gemeinde — und aufgrund der Tatsache, dass Rom damals der Mittelpunkt der Welt war, zum Führer des gesamten, sich weltweit ausbreitenden Christentums.
+
+Auch wenn es keine fünfundzwanzig Jahre waren, die ich in Rom zugebracht habe, hatte ich doch für ungefähr fünfzehn Jahre dort einen festen Wohnsitz, immer wieder durch Missionsreisen unterbrochen, die mich in die umliegenden Städte weiter östlich oder in Teile des alten Griechenlands führten. Mein Primat in der Nachfolge Jesu entstand also aufgrund zweier Faktoren: Zum ersten war ich bereits in den Tagen Jesu der Sprecher der Apostel, zum anderen wählte ich Rom, die Hauptstadt der damaligen Welt, zum Ausgangspunkt meiner ausgedehnten Missionsreisen.
+
+Damit, denke ich, sind die meisten Fragen, die sich hinsichtlich meines Lebens und meiner Führungsrolle ergeben haben, beantwortet. Ich werde bald schon wiederkommen — dann werde ich dir beschreiben, warum es mir als Ältesten der Jünger angetragen wurde, zwischen Jesus und den Aposteln zu vermitteln, wie es zur Gründung einer eigenen Kirche kam und was letztendlich dazu führte, dass ich in Rom den Tod fand.
+
+Damit beende ich diese Botschaft. Ich sende dir und dem Doktor meine Liebe und meinen Segen—und bitte vor allem dich, noch mehr um die Göttliche Liebe zu beten! Nur so wirst du in der Lage sein, spirituell zu wachsen und deine Seele zu entwickeln, was die Grundvoraussetzung dafür ist, unsere Mitteilungen zu empfangen.
+
+Möge dich der Vater reichlich segnen, Petrus, der Apostel Jesu.

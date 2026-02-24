@@ -1,0 +1,28 @@
+---
+title: "Gottes göttliche Liebe wird frei an alle Seelen gegeben"
+menu_title: ""
+description: "Gottes göttliche Liebe wird frei an alle Seelen gegeben"
+date: 2020-08-01 06:25:48+00:70
+draft: False
+hidden: True
+weight:
+---
+### Gottes göttliche Liebe wird frei an alle Seelen gegeben
+
+Augustinus - empfangen durch Al Fike am 2. März 2019, Hollis Woods, Queens, NY, USA.
+
+Gott segne euch, geliebte Brüder und Schwestern, ich bin euer Lehrer Augustinus. Ja, ich bin seit vielen Jahren mit diesem Instrument und seiner Gefährtin und anderen, die seit vielen Jahren im Kreis zusammen sind. Viele Jahre lang habe ich die Wahrheiten der Göttlichen Liebe des Vaters gelehrt und diese Individuen auf ihrem Weg ermutigt. Ich komme, um euch, geliebte Seelen, auf eurem Weg zu ermutigen, die Kraft der Liebe in eurem Leben zu suchen, die Berührung Gottes in euren Seelen zu suchen. Denn es gibt viel zu lernen für jede Seele, die ihre Reise auf dieser Erde beginnt, eine Reise, die in der Tat für eine sehr lange Zeit fortschreiten wird. Ein Fundament hier auf eurer Erde zu errichten, mit der Wahrheit in eurem Herzen zu gehen, ein Kanal der Liebe in dieser Welt zu sein, wird euch höher und schneller ins Licht führen.
+
+Wir ermutigen euch, geliebte Schwestern und Brüder, eure Seelen zu öffnen, um dieses Geschenk der Essenz Gottes, der göttlichen Liebe, zu empfangen. Es ist eine einfache Bitte eures Herzens an Gott, die viele Wege und Möglichkeiten des Seelenerwachens und des spirituellen Wachstums öffnen wird. Dieser Weg ist einzigartig. Es ist ein anderer Weg als die meisten, denn anstatt sich auf die Fähigkeiten und Kapazitäten des Einzelnen zu verlassen, um aus der Dunkelheit ins Licht zu steigen, beinhaltet er einen einfachen Akt des Glaubens, ein einfaches Gebet, um eine Öffnung zur Quelle von Allem zu erhalten, so dass ihr tatsächlich durch die Hand Gottes emporgehoben werden könnt.
+
+So vieles in eurer Welt ist in der Idee der Selbstbestimmung verankert, das Individuum zu sein, das ihr in eurem Verstand zu sein trachtet. Es gibt viele Vorteile aus diesem Bemühen, sich selbst zu verbessern, in sich selbst stark zu sein, sich darüber klar zu werden, wer ihr als Individuum seid. Diese Dinge sind in der Tat von großem Nutzen für all jene, die danach streben, in größerer Harmonie mit dem zu sein, was sie sind. Aber eine Komponente auszulassen, einen entscheidenden Teil, der mit eurer Fähigkeit der Seele kommt, Gott zu verstehen und eine persönliche Beziehung mit dem Schöpfer zu haben, dieser Schlüssel, der mit dem Segen Seiner Liebe kommt, wird so viele weitere Dimensionen und Aspekte des Bewusstseins eures eigenen wahren Selbst hinzufügen. Er wird eine solche Kraft mit sich bringen, um zu transformieren, zu heilen und diese Potentiale in eurer Seele zu erwecken.
+
+Vernachlässigt nicht eure Seele, Geliebte, diesen Teil von euch, der immer weiter nach oben reist, bis er Gott nahe ist. Obwohl ihr in der Tat an viele Orte reisen und viele Dinge durch die Fähigkeiten eures Verstandes, eures materiellen Verstandes, erfahren könnt, ist es die Seele, die erweckt werden muss, um ein Gleichgewicht, ein wahres Gleichgewicht zwischen diesen Komponenten und Aspekten der Seele und denen eures Verstandes herzustellen. So wenige sind bereit, diese Wahrheit zu verstehen. So wenige sind bereit, über diesen mächtigen Teil innerhalb eures Verstandes hinauszugehen und zu jenem Ort des tiefen Friedens und des tiefen Wissens zu gelangen, der eure Seele ist. Es kommt mit dem Erwachen der vielen Fähigkeiten eurer Seele, so dass ihr bereitwillig Gott und die Schöpfung und viele, viele Aspekte von Gottes Schöpfung verstehen könnt.
+
+Wir laden euch ein, geliebte Seelen, diejenigen von euch, die es noch nicht tun, diese Komponente des Gebets und der Empfänglichkeit für den Segen der göttlichen Essenz hinzuzufügen, damit sie empfangen und in euer Bewusstsein aufgenommen werden kann, denn mit diesem Geschenk können viele Segnungen, große und wundersame Öffnungen in euch kommen.
+
+Diese beiden entzückenden Seelen kommen mit dieser Botschaft, ebenso wie jene, die sie mit dem Ernst und dem Wunsch begleiten, an dieser Erfahrung teilzuhaben. Denn Gott deckt einen Tisch vor euch, eine Fülle von Geschenken und Segnungen, die ihr aufnehmen könnt, um sie kennen zu lernen. Es wird frei gegeben. Es ist nicht auf ein Individuum beschränkt, sondern kommt zu allen Seelen, ob sie in der Dunkelheit oder im Licht sind, ob sie leiden oder in Freude sind, sie dürfen zu diesem Tisch kommen und sich an den geistlichen Gaben und Segnungen laben, die Gott jedem einzelnen zu geben hat.
+
+Erwacht, Geliebte, erwacht zu diesem großzügigen Segen der Liebe und ihr werdet euch an erhabenen Orten wiederfinden, im Licht, in der Freude, in der Weisheit und in der Liebe. Gott gibt seinen Kindern endlos, denn Gottes Liebe zu seinen Kindern ist endlos. Ihr dürft diesen großen Segen Tropfen für Tropfen empfangen, wenn er in eure Seele eindringt und das Licht, die Heilung, den Frieden bringt, der alles Verstehen übersteigt, er kommt zu euch, kommt zu euch, geliebte Seelen, damit ihr erwacht und die tiefe Wahrheit erkennt.
+
+Möge Gott euch so segnen, schöne, schöne Seelen. Möge Gott euch tief segnen und alles, was in euch ist, erwecken, denn es gibt viele große Geschenke und Segnungen, die auf euch warten und euch zur Verfügung stehen, wenn ihr nur bittet. Gott segne euch, Geliebte. Ich bin euer Lehrer Augustinus. Ich freue mich, euch heute Nachmittag in eurer betenden Zeit zu begleiten. Gott segne euch. Ein Engel ist mit jedem von euch. Fühlt die Liebe und Erhebung, die mit Gottes Berührung über euch kommt. Gott segne euch. Gott segne euch, Geliebte.

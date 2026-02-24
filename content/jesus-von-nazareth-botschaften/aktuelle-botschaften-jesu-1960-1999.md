@@ -1,0 +1,94 @@
+---
+title: "Aktuelle Botschaften Jesu - 1960 bis 1999"
+menu_title: ""
+description: "Aktuelle Botschaften Jesu - 1960 bis 1999"
+date: 2022-06-23 06:00:00+00:00
+draft: False
+hidden: True
+weight:
+---
+### Aktuelle Botschaften Jesu - 1960 bis 1999
+
+**Author** | **Titel der Botschaft** | **Datum der Botschaft**
+---|---|---
+Jesus | [Freude in Gottes Liebe und Freude im Dienst](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1969/freude-in-gottes-liebe-und-freude-im-dienst-anonym-jesus-17-dezember-1969/) | 17 Dezember 1969
+Jesus | [Seid stark, meine Kleinen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1969/seid-stark-meine-kleinen-anonym-jesus-29-dezember-1969/) | 29 Dezember 1969
+Jesus | [Die Göttliche Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1969/die-goettliche-liebe-anonym-jesus-1969-33/) |  1969-33
+Jesus | [Der größte Segen, den ein Mensch empfangen kann](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1969/der-groesste-segen-den-ein-mensch-empfangen-kann-anonym-jesus-1969-43/) |  1969-43
+Jesus | [Ich bin wie ihr, ein Kind Gottes](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1969/ich-bin-wie-ihr-ein-kind-gottes-anonym-jesus-1969-48/) |  1969-48
+Jesus | [Es gibt große Dinge, die auf euch warten](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1969/es-gibt-grosse-dinge-die-auf-euch-warten-anonym-jesus-1969-6/) |  1969-6
+Jesus | [Wir sind alle eins in diesem wunderbaren Werk](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1969/wir-sind-alle-eins-in-diesem-wunderbaren-werk-anonym-jesus-1969-64/) |  1969-64
+Jesus | [Wir sind eins mit Gott, Brüder und Schwestern](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1969/wir-sind-eins-mit-gott-brueder-und-schwestern-anonym-jesus-1969-69/) |  1969-69
+Jesus | [Gott beantwortet alle Gebete](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1970/gott-beantwortet-alle-gebete-anonym-jesus-1970-51/) |  1970-51
+Jesus | [Den Glauben bewahren](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/den-glauben-bewahren-ks-jesus-18-juli-1984/) | 18 Juli 1984
+Jesus | [Die Sehnsucht nach Wahrheit](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/die-sehnsucht-nach-wahrheit-ks-jesus-10-dezember-1984/) | 10 Dezember 1984
+Jesus | [Zum Thema Gebet](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/zum-thema-gebet-ks-jesus-undatiert/) |  undatiert
+Jesus | [Die Darstellung der Wahrheiten des Vaters](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/die-darstellung-der-wahrheiten-des-vaters-ks-jesus-1985/) | 7 Juni 1985
+Jesus | [Jesus spricht über Abtreibung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/jesus-spricht-ueber-abtreibung-ar-jesus-30-juni-1985/) | 30 Juni 1985
+Jesus | [Erste Botschaft Jesu an David Lampron](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/erste-botschaft-jesu-an-david-lampron-dl-jesus-9-april-1986/) | 9 April 1986
+Jesus | [Das Gesetz des Gebets](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/das-gesetz-des-gebets-dl-jesus-8-juli-1986/) | 8 Juli 1986
+Jesus | [Geboren ohne Sünde](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/geboren-ohne-suende-dl-jesus-28-august-1986/) | 28 August 1986
+Jesus | [Der Heilige Geist und ohne Sünde geboren](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/der-heilige-geist-und-ohne-suende-geboren-ks-jesus-26-dezember-1986/) | 26 Dezember 1986
+Jesus | [Über D.L.'s Medialität](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/ueber-dls-medialitaet-dl-jesus-17-februar-1987/) | 17 Februar 1987
+Jesus | [Unsere Arbeit macht einen Unterschied](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/unsere-arbeit-macht-einen-unterschied-dl-jesus-17-april-1987/) | 17 April 1987
+Jesus | [Die Bedeutung des Gebets - Nahrung für die Seele](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/die-bedeutung-des-gebets-nahrung-fuer-die-seele-dl-jesus-23-april-1987/) | 23 April 1987
+Jesus | [Der Fortschritt der Menschheit](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/der-fortschritt-der-menschheit-dl-jesus-7-mai-1987/) | 7 Mai 1987
+Jesus | [Seine Kirche auf Erden](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/seine-kirche-auf-erden-dl-jesus-13-mai-1987/) | 13 Mai 1987
+Jesus | [Das Gesetz der Aktivierung Teil 1](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/das-gesetz-der-aktivierung-teil-1-dl-jesus-20-mai-1987/) | 20 Mai 1987
+Jesus | [Das Gesetz der Aktivierung Teil 2](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/das-gesetz-der-aktivierung-teil-2-dl-jesus-28-mai-1987/) | 28 Mai 1987
+Jesus | [Das Gesetz der Aktivierung Teil 3](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/das-gesetz-der-aktivierung-teil-3-dl-jesus-4-juni-1987/) | 4 Juni 1987
+Jesus | [Unser lebenslanges Wirken](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/unser-lebenslanges-wirken-dl-jesus-11-juni-1987/) | 11 Juni 1987
+Jesus | [Das Gesetz des Fortschritts und des Wandels und des Wachstums](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/das-gesetz-des-fortschritts-und-des-wandels-und-des-wachstums-dl-jesus-17-juni-1987/) | 17 Juni 1987
+Jesus | [Einfluss böser spiritueller Wesen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/einfluss-boeser-spiritueller-wesen-dl-jesus-25-juni-1987/) | 25 Juni 1987
+Jesus | [Über Heilung und das Gesetz von Wandel und Wachstum](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/ueber-heilung-und-das-gesetz-von-wandel-und-wachstum-dl-jesus-2-juli-1987/) | 2 Juli 1987
+Jesus | [Das große Netzwerk der Kommunikation](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/das-grosse-netzwerk-der-kommunikation-dl-jesus-9-juli-1987/) | 9 Juli 1987
+Jesus | [Hilfe in der spirituellen Welt unter den spirituellen Wesen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/hilfe-in-der-spirituellen-welt-unter-den-spirituellen-wesen-dl-jesus-27-juli-1987/) | 27 Juli 1987
+Jesus | [Glaube und Heilung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/glaube-und-heilung-dl-jesus-18-august-1987/) | 18 August 1987
+Jesus | [Automatisches Schreiben und Gedankeneingebung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/automatisches-schreiben-und-gedankeneingebung-dl-jesus-31-august-1987/) | 31 August 1987
+Jesus | [Wer ist der Autor von "Neue Lehren für eine erwachende Menschheit"?](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/wer-ist-der-autor-von-neue-lehren-fuer-eine-erwachende-menschheit-dl-jesus-9-september-1987/) | 9 September 1987
+Jesus | [Zum Thema des Seelenfortschritts](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/zum-thema-des-seelenfortschritts-dl-jesus-12-november-1987/) | 12 November 1987
+Jesus | [Ohne Liebe bin ich wie klingelndes Blech](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/ohne-liebe-bin-ich-wie-klingelndes-blech-dl-jesus-17-dezember-1987/) | 17 Dezember 1987
+Jesus | [Die vor uns liegende Arbeit](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/die-vor-uns-liegende-arbeit-dl-jesus-31-dezember-1987/) | 31 Dezember 1987
+Jesus | [Das Gesetz der Ausgewogenheit oder des Gleichgewichts](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/das-gesetz-der-ausgewogenheit-oder-des-gleichgewichts-dl-jesus-18-januar-1988/) | 18 Januar 1988
+Jesus | [Jesu Geburt und Mission auf Erden](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/jesu-geburt-und-mission-auf-erden-dl-jesus-4-februar-1988/) | 4 Februar 1988
+Jesus | [Heilungen werden nicht immer sofort wirksam](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/heilungen-werden-nicht-immer-sofort-wirksam-dl-jesus-31-maerz-1988/) | 31 März 1988
+Jesus | [Lieben mit der Göttlichen Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/lieben-mit-der-goettlichen-liebe-dl-jesus-29-april-1988/) | 29 April 1988
+Jesus | [Wahrheit und der Weg zur Vollkommenheit](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/wahrheit-und-der-weg-zur-vollkommenheit-dl-jesus-11-august-1988/) | 11 August 1988
+Jesus | [Atlantis](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/atlantis-dl-jesus-18-oktober-1988/) | 18 Oktober 1988
+Jesus | [Die Menschheit beginnt, die Wahrheit zu erkennen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/die-menschheit-beginnt-die-wahrheit-zu-erkennen-dl-jesus-16-januar-1989/) | 16 Januar 1989
+Jesus | [Hoffnung für die verlorene Seele](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/hoffnung-fuer-die-verlorene-seele-ks-jesus-22-januar-1989/) | 22 Januar 1989
+Jesus | [Der Überbringer der frohen Botschaft](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/der-ueberbringer-der-frohen-botschaft-dl-jesus-24-maerz-1989/) | 24 März 1989
+Jesus | [Die Bedeutung der Entwicklung der Liebesnatur](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/die-bedeutung-der-entwicklung-der-liebesnatur-ks-jesus-9-april-1989/) | 9 April 1989
+Jesus | [Jesus: Ebbe und Flut der Göttlichen Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/jesus-ebbe-und-flut-der-goettlichen-liebe-dl-jesus-1-oktober-1989/) | 1 Oktober 1989
+Jesus | [Schritt für Schritt wird Gottes Königreich mit Liebe aufgebaut](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/schritt-fuer-schritt-wird-gottes-koenigreich-mit-liebe-aufgebaut-ks-jesus-1-oktober-1989/) | 1 Oktober 1989
+Jesus | [Die Verbreitung der Wahrheit und die Reinkarnation](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/die-verbreitung-der-wahrheit-und-die-reinkarnation-dl-jesus-10-januar-1990/) | 10 Januar 1990
+Jesus | [Bearbeitung eines Kirchenvermächtnisses](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/bearbeitung-eines-kirchenvermaechtnisses-dl-jesus-15-maerz-1990/) | 15 März 1990
+Jesus | [Auftragsbestätigung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/auftragsbestaetigung-dl-jesus-6-mai-1990/) | 6 Mai 1990
+Jesus | [Einfügung in die Bänder](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/einfuegung-in-die-baender-ar-jesus-30-dezember-1990/) | 30 Dezember 1990
+Jesus | [Präsentation der Bänder](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/praesentation-der-baender-ks-jesus-30-dezember-1990/) | 30 Dezember 1990
+Jesus | [Bearbeitung von Band II](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/bearbeitung-von-band-ii-ks-jesus-11-august-1991/) | 11 August 1991
+Jesus | [Kräuselungen werden zu Wellen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/kraeuselungen-werden-zu-wellen-dl-jesus-29-november-1991/) | 29 November 1991
+Jesus | [Über verschiedene Medien](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/ueber-verschiedene-medien-ks-jesus-10-juni-1992/) | 10 Juni 1992
+Jesus | [Zur Auswahl von Herrn Padgett](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/zur-auswahl-von-herrn-padgett-ks-jesus-15-mai-1996/) | 15 Mai 1996
+Jesus | [Warum erscheint er den Menschen heute nicht, wie er es vor 2000 Jahren seinen Jüngern gegenüber getan hat?](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/warum-erscheint-er-den-menschen-heute-nicht-wie-er-es-vor-2000-jahren-seinen-juengern-gegenueber-getan-hat-ks-jesus-20-juli-1996/) | 20 Juli 1996
+Jesus | [Die Probleme der organisierten religiösen Gruppen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/die-probleme-der-organisierten-religioesen-gruppen-ks-jesus-20-oktober-1996/) | 20 Oktober 1996
+Jesus | [Jesus beantwortet Fragen über Rembrant und Marc Chagall und gibt Einblicke in das Leben in der spirituellen Welt](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/jesus-beantwortet-fragen-ueber-rembrant-und-marc-chagall-und-gibt-einblicke-in-das-leben-in-der-spirituellen-welt-ks-jesus-12-januar-1997/) | 12 Januar 1997
+Jesus | [Ratschläge zur Heilung. Kommentare zu Büchern, die vorgeben, von Gott geschrieben zu sein](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/ratschlaege-zur-heilung-kommentare-zu-buechern-die-vorgeben-von-gott-geschrieben-zu-sein-ks-jesus-1-februar-1997/) | 1 Februar 1997
+Jesus | [Einige Antworten auf persönliche Fragen, zusammen mit ein paar Perlen der Weisheit](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/einige-antworten-auf-persoenliche-fragen-zusammen-mit-ein-paar-perlen-der-weisheit-ks-jesus-1-april-1997/) | 1 April 1997
+Jesus | [Vorwärtskommen in dieser und der nächsten Welt](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/vorwaertskommen-in-dieser-und-der-naechsten-welt-ks-jesus-17-mai-1997/) | 17 Mai 1997
+Jesus | [Die vor uns liegende Arbeit](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/die-vor-uns-liegende-arbeit-dl-jesus-6-oktober-1997/) | 6 Oktober 1997
+Jesus | [Viel Arbeit liegt vor uns](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/viel-arbeit-liegt-vor-uns-dl-jesus-24-november-1997/) | 24 November 1997
+Jesus | [Beantwortet Fragen über den Fall der ersten Eltern](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/beantwortet-fragen-ueber-den-fall-der-ersten-eltern-ks-jesus-8-maerz-1998/) | 8 März 1998
+Jesus | [Über Selbstverteidigung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/ueber-selbstverteidigung-ks-jesus-6-juli-1999/) | 6 Juli 1999
+Jesus | [Bringt eure Probleme zu Gott und lasst sie dort](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/bringt-eure-probleme-zu-gott-und-lasst-sie-dort-ks-jesus-27-juli-1999/) | 27 Juli 1999
+Jesus | [Dr. Samuels' Channelings](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/dr-samuels-channelings-ks-jesus-1-august-1999/) | 1 August 1999
+Jesus | [Spirituelle Wesen können ihr Aussehen anpassen, um den Erwartungen der Sterblichen, denen sie erscheinen, zu entsprechen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/spirituelle-wesen-koennen-ihr-aussehen-anpassen-um-den-erwartungen-der-sterblichen-denen-sie-erscheinen-zu-entsprechen-ks-jesus-2-september-1999/) | 2 September 1999
+Jesus | [Gebet und Schutz vor niederen spirituellen Wesen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/gebet-und-schutz-vor-niederen-spirituellen-wesen-ks-jesus-12-september-1999/) | 12 September 1999
+Jesus | [Die Sonne von Fátima](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/die-sonne-von-fatima-ks-jesus-19-september-1999/) | 19 September 1999
+Jesus | [Sündige Gedanken und das Gesetz der Wiedergutmachung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/suendige-gedanken-und-das-gesetz-der-wiedergutmachung-ks-jesus-25-oktober-1999/) | 25 Oktober 1999
+Jesus | [Über Heilung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/ueber-heilung-ks-jesus-6-november-1999/) | 6 November 1999
+Jesus | [Alfredo ermutigen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/alfredo-ermutigen-ks-jesus-19-november-1999/) | 19 November 1999
+Jesus | [Dr. Samuels' Channelings und die Bedeutung der eigenen Fähigkeit des Lesers, den Gebrauch seiner oder ihrer eigenen Seelenwahrnehmung dieser Wahrheiten anzuwenden](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/dr-samuels-channelings-und-die-bedeutung-der-eigenen-faehigkeit-des-lesers-den-gebrauch-seiner-oder-ihrer-eigenen-seelenwahrnehmung-dieser-wahrheiten-anzuwenden-ar-jesus-25-dezember-1999/) | 25 Dezember 1999
+Jesus | [Jährliche Trance-Botschaft](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/jaehrliche-trancebotschaft-ar-jesus-juni-1999/) |  Juni 1999 1999
+
+*[Zu den Jahren 2000 bis 2015](/jesus-von-nazareth-botschaften/aktuelle-botschaften-jesu-2000-2015/)*

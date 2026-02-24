@@ -1,0 +1,32 @@
+---
+title: "Carlisle ist im vergangenen Jahr ins Licht vorgedrungen"
+menu_title: ""
+description: "Carlisle ist im vergangenen Jahr ins Licht vorgedrungen"
+date: 2020-08-01 06:25:48+00:226
+draft: False
+hidden: True
+weight:
+---
+### Carlisle ist im vergangenen Jahr ins Licht vorgedrungen
+
+John Carlisle – empfangen durch James Padgett am 29. September 1917, Washington, DC, USA.
+
+Ich bin hier, John G. Carlisle.
+
+Nun, mein Freund, ich habe dir [seit einiger Zeit nicht mehr geschrieben](/padgett-botschaften/padgett-botschaften-in-reihenfolge-des-datums/padgett-botschaften-1916/carlisle-ein-alter-freund-von-padgett-sucht-seine-hilfe-um-aus-der-dunkelheit-herauszukommen-jep-john-carlisle-7-maerz-1916/), nicht weil ich es nicht gewollt hätte, sondern weil ich keine Gelegenheit dazu hatte; denn ich war viele Male anwesend, als andere Wesen hier waren und dir geschrieben haben. Ich war auch anwesend, als du und deine Freunde über spirituelle Dinge gesprochen habt und ich sehr aufmerksam zugehört habe, und ich habe viel Nutzen daraus gezogen, über das nachzudenken, was du als die Wahrheiten des spirituellen Königreichs erklärt hast.
+
+Infolgedessen habe ich große Fortschritte gemacht und befinde mich nun in einem beträchtlichen Licht und habe genug von dieser Liebe, von der du sprichst, in meine Seele aufgenommen, um überzeugt zu sein, dass es ein wunderbarer erlösender Einfluss der Finsternis und des Leidens ist, in dem ich und spirituelle Wesen wie ich uns befanden, als wir in die spirituelle Welt kamen. Ich weiß, dass das Gebet ein Ding ist, das seine Antwort bringt, und ich bete mit meiner ganzen Seele, aber es ist schwer, meine Überzeugungen vollständig aufzugeben und die Taten meines Lebens zu vergessen, die sich mit so großer Hartnäckigkeit an mich klammern. Während, wie du in deinen Gesprächen gesagt hast, und wie mir einige der hellen Wesen sagen, die wahren Sehnsüchte der Seele diese Liebe zu meiner Seele bringen werden, finde ich es dennoch schwierig, diese Sehnsüchte zu bekommen, sodass sie sich nicht mit den Gedanken an irdische Dinge vermischen, die mit mir kamen, als ich ein spirituelles Wesen wurde. Wie du weißt, sammelte sich auf Erden in meinem Gedächtnis eine große und vielfältige Menge an Bösem und Sünde an, und als ich ein Geist wurde, fand ich es sehr natürlich, dass diese Erinnerungen bei mir sind und meine Gedanken und Wünsche kontrollieren, wie sie es auf Erden taten. In der Tat schienen sie irgendein Glied meines Körpers loszuwerden, ohne den Körper zu verletzen.
+
+Du wirst also sehen, es ist nicht so einfach, diese Sehnsüchte zu haben, von denen ich spreche, und selbst wenn ein Geist seinen Verstand und Willen einspannt diese Sehnsüchte zu haben, kann er nicht immer Erfolg haben. Dies ist meine Erfahrung, und ich habe so sehr unter dieser Unfähigkeit gelitten, meinen Willen auf diese Sehnsüchte auszurichten. Intellektuell verstehe ich, dass dies notwendig ist und dass die Sehnsüchte, wenn man sie ernsthaft besitzt, Linderung und Überwindung dieser Leiden bringen werden, aber dieses intellektuelle Wissen, finde ich, reicht nicht aus. Das Wissen bringt nicht die Kraft des Willens, und der Wille wird von Begierden und Wünschen kontrolliert. Ich weiß, dass ich versuchen muss, diese Begierden und Wünsche zu kontrollieren, aber oh, wie schwer ist die Aufgabe!
+
+Es ist sehr töricht, wenn die Menschen annehmen, daß sie diese Begierden und Wünsche bis zu einem für sie günstigen Zeitpunkt kultivieren und ausüben können, und dann durch den bloßen Wunsch diese Begierden kontrollieren und diese Sehnsüchte und Bestrebungen zu ihnen kommen lassen, so daß die Hilfe, die als Antwort auf das Gebet kommt, die ihre sein wird. Nein, sie werden sich sehr enttäuscht fühlen, denn sie werden erkennen, daß diese Wünsche und die Ergebnisse ihres Verlangens sie in eisernen Banden binden werden, daß ein bloßer intellektueller Versuch, sich zu trennen, sich nicht als wirksam erweisen wird. Die Wesen, die alle diese Liebe besitzen, von der sie mir erzählen, lehren mich, dass diese Liebe ausreicht, um mir Glück zu bringen, und dass sie als Antwort auf ernsthafte Gebete kommen wird, aber sie sagen mir nicht, dass ich durch die plötzliche Ausübung meines Willens diese wahren Sehnsüchte erlangen kann, und wenn sie so lehren sollten, könnte ich ihnen kaum glauben, denn ich hatte einen solchen Willen und habe versucht zu beten, und wie ich glaube, wollte ich in aller Ernsthaftigkeit sein, und dennoch würden die Sehnsüchte nicht aus den Erinnerungen an mein sündiges Leben auf Erden frei werden; Und ich stelle fest, dass ich weiter beten muss, um das Wenige, das ich erreicht habe, voranzubringen.
+
+Ich zweifle nicht daran, dass die Liebe auf mich wartet und dass ich durch den richtigen Zustand meiner Sehnsüchte befähigt werde, sie zu erlangen, aber die Schwierigkeit besteht darin, die richtigen Sehnsüchte zu erlangen. Es ist nicht so einfach, sich von den Auswirkungen böser Taten und böser Gedanken auf Erden zu befreien, und das bloße Beten mit dem Verstand wird nicht helfen, es sei denn, solche Gebete verschmelzen mit den Gebeten der wahren Sehnsüchte.
+
+Nun, ich erkenne all dies in meiner eigenen Erfahrung, und ich bete und sehne mich, und manchmal fühle ich die wahren Sehnsüchte, und dann kommt die Antwort, und ich mache genau so viel Fortschritte. Ich meine im Verhältnis zur Stärke dieser wahren Sehnsüchte.
+
+Wenn die Menschen glauben, dass sie, indem sie nur sagen, dass sie an Jesus Christus glauben, oder indem sie die Priester um Vergebung bitten, und wenn die Verlassenen glauben, dass sie alles getan haben, was notwendig ist, dann irren sie, und wenn sie in dieser Zufriedenheit ruhen, werden sie sich so finden, wie ich war, wenn sie zum spirituellen Leben kommen. Kein Glaube dieser Art oder die Absolution durch die Priester wird sie in einen solchen Zustand des Erinnerns oder der Seele versetzen, der es ihnen ermöglicht, diese Sehnsüchte zu haben, von denen Ich spreche.
+
+Du magst denken, dass ich ein ziemlicher Prediger bin, aber ich bin sehr unwissend über den Großteil der spirituellen Wahrheit, und was ich gesagt habe, ist das Ergebnis meiner eigenen Erfahrung. Nun, ich werde jetzt nicht mehr schreiben, außer um dir und deinen Freunden für die Gelegenheiten zu danken, die ich genossen habe, eurem Gespräch über spirituelle Angelegenheiten zuzuhören. Ich werde nicht aufhören, zu dir zu kommen, auch wenn ich vielleicht nicht schreiben kann.
+
+Mit meiner Liebe und Hoffnung, dass du für mich beten wirst, bin ich dein Freund und grüße dich, Gute Nacht.

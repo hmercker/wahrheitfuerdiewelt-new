@@ -1,0 +1,26 @@
+---
+title: "Sucht die Wirklichkeit Gottes"
+menu_title: ""
+description: "Sucht die Wirklichkeit Gottes"
+date: 2022-08-19 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Sucht die Wirklichkeit Gottes
+
+Andreas - empfangen durch Al Fike am 19. August 2022, Gibsons, BC, Kanada.
+
+Geliebte, ich bin Andreas. Unser geliebter Bruder Jesus kommt, um jeden einzelnen von euch zu segnen. Er war sehr aktiv mit eurem anderen Kreis, der sich zusammengefunden und nun getrennt hat. Die Engel waren in den letzten Tagen und Wochen mit vielen von euch beschäftigt und haben euch weiterhin auf eurer Reise und bei euren Vorbereitungen, euren Gebeten und eurem Erwachen unterstützt. Ihr müsst euch dessen bewusst sein, meine geliebten Brüder und Schwestern, ihr müsst euch des Dienstes der Engel an euch bewusst sein. Sie sind gegenwärtig, aber es liegt an euch, dies zu wissen, euch dessen bewusst zu sein, euch darauf einzustimmen, ihre Gegenwart zu umarmen und sie mit eurer Liebe in eure Nähe zu ziehen. 
+
+Geliebte Seelen, es gibt so viel, dessen ihr euch bewusst sein müsst. Es gibt eine ganz andere Realität, die um euch herum und auf der Erde funktioniert und derer sich so viele nicht bewusst sind. Ihr neigt dazu, eure Wahrnehmungen und Gefühle so weit zu vernachlässigen, dass ihr euch nicht die Erlaubnis gebt, wirklich zu sehen, zu fühlen und zu hören. Doch je mehr ihr in der Liebe des Vaters wächst, desto mehr werden euch diese Dinge bewusst. Gott möchte, dass euch allen die Augen geöffnet werden, dass eure Wahrnehmung klar und hell und von höchster Qualität ist. Gott beschützt euch weiterhin auf eurem Weg. Gott segnet euch weiterhin auf so viele Arten, denn seine Liebe steht euch in jedem Moment zur Verfügung, in dem ihr darum bittet, dass sie in euch einfließt.
+
+Wie oft betet ihr aufrichtig, geliebte Seelen? Wie oft stimmt ihr euch auf diese Dinge und Angelegenheiten des Geistes und eurer spirituellen Reise ein? Wie oft lasst ihr Gott in euer Bewusstsein? Denn es sind in der Tat eure Wünsche, Wahrnehmungen und Entscheidungen, die die Türen öffnen, die die Erkenntnisse in euer Bewusstsein bringen. Seid ihr in der Lage, die Dinge in eurem Inneren loszulassen, die misstrauisch, zweifelnd und sehr auf die Erdebene ausgerichtet sind, damit ihr euch erheben könnt, damit ihr euch dafür entscheidet, dass Gott euch erhebt, damit ihr im Einklang mit den Engeln der Göttlichen Himmel seid und mit ihnen kommunizieren könnt? Diese Dinge stehen euch zu jeder Zeit zur Verfügung. Es liegt an euch, euch auf diese Dinge einzustimmen, euch all dessen bewusst zu werden, was um euch herum ist, und die vielen verschiedenen Ebenen der Realität wahrzunehmen, die euch umgeben. 
+
+Möget ihr sehen, wissen und fühlen, die Wahrheit hören, die Kraft der Liebe Gottes spüren, die in euch fließt, euch eurer Engelsfreunde bewusst werden und euch im Fluss von Gottes Willen und Gottes Liebe bewegen. Diese Dinge kommen zu euch, geliebte Seelen, vorausgesetzt, ihr seid euch dessen bewusst, ladet ein und sucht nach dem Höchsten. Strebt danach, dass Gottes Liebe weiterhin in eure Seelen fließt. Strebt danach, die Bedingungen loszulassen, die nicht der Liebe entsprechen. Ihr habt die Wahl, die Macht, die wahre Macht eures freien Willens auszuüben, die Einflüsse und die Dunkelheit des irdischen Zustands abzulegen und euch mit dem Licht in Einklang zu bringen. Könnt ihr das tun, geliebte Seelen, könnt ihr es mit Freude tun, könnt ihr es mit tiefem Verlangen tun, könnt ihr es mit vereinten und beständigen Anstrengungen tun? 
+
+Tut alles, was ihr tun könnt, um euch auf die Wege des Lichts, der Wahrheit und der Liebe zu begeben. Nach diesen Wegen sehnt sich eure Seele. Diese Wege, die euer Verstand immer wieder prüft und annimmt und auf die ihr euch zubewegt, damit ihr wirklich in der Wirklichkeit Gottes, der Wahrheit seiner Liebe, der Wahrheit all der Aspekte und Segnungen, die im Einklang mit seinem Willen stehen, sein könnt. Sie kommen zu euch, wenn ihr darum bittet. Während ihr darum bittet, solltet ihr euren Verstand auf die Dinge richten, die von höherem Kaliber und höherer Natur sind. Richtet euren Verstand auf das Gebet und öffnet euch dabei für die Wünsche eurer Seele. Richtet eure Gedanken darauf aus, anderen in Liebe zu dienen und in der Wahrheit Seiner Liebe zu wandeln. Auf diese Weise öffnet ihr die Türen, bringt den Segen hervor und befindet euch auf dem Weg zum wahren Erwachen der Seele, zur Befreiung und zum Licht. 
+
+Möge Gott euch auf dieser Reise segnen, geliebte Seelen. Bedenkt, was euch angeboten wird. Bedenkt, dass euch so viel gegeben wird. Es liegt an euch, es anzunehmen, es zu umarmen und tiefe Dankbarkeit und Freude darüber zu empfinden, was Gott euch bringt, was die Liebe euch ermöglicht und was ihr alles tun könnt, wenn sich eure Gaben öffnen, die Fähigkeiten eurer Seele erwachen und ihr alles in der Herrlichkeit der Liebe, in der Herrlichkeit Gottes und in der Herrlichkeit der Wahrheit tun könnt. 
+
+Gott segne euch, meine Freunde, ich bin Andreas. Ich komme, um euch zu ermutigen und euch zu sagen, dass euer Bruder Jesus euch nahe ist, um jeden einzelnen von euch zu segnen. Öffnet euch für seinen Segen. Öffnet euch für Gottes Segen und lernt die Freude und die Freiheit kennen, die in dieser schönen Zeit des Gebetes kommen. Gott segne euch. Andreas hat euch alle lieb. Gott segne euch.

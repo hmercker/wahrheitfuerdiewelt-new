@@ -1,0 +1,16 @@
+---
+title: "Glaube haben"
+menu_title: ""
+description: "Glaube haben"
+date: 2022-07-06 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Glaube haben
+
+Judas - empfangen durch Jimbeau Walsh am 19. Juli 2022, Marietta Valley, Wisconsin, USA.
+
+Meine Lieben, ich bin es, euer lieber Freund Judas. Ihr habt alle schon einmal den Ausdruck "Schönwetterfreund" gehört und wisst, was das bedeutet. Im Leben gibt es in jeder Art von Krise Schönwetterfreunde und dann gibt es diejenigen, die zuhören, die euch Aufmerksamkeit schenken, was eine Form der Liebe ist. Diejenigen, denen dein Wohlbefinden und dein Glück am Herzen liegen und die für dich die Extrameile gehen. Manchmal klammert man sich aber auch an Freunde, die nicht hilfreich sind, aber in Wirklichkeit Hilfe brauchen. So gibt es eine Art Hin und Her, bei dem ihr einem anderen in bestimmten Situationen helfen könnt, und ein anderes Mal sind sie in der Lage, euch zu unterstützen und euch in eurer Zeit der Not zu helfen. Das ist wahrscheinlich die allgemeine Lebensweise der meisten Menschen. Ihr, die ihr den Weg der göttlichen Liebe und des Fortschritts eurer Seelen gewählt habt, habt erkannt, wie wichtig es ist, spirituelle Freunde zu haben. Und ich darf sagen, dass es auch spirituelle Schönwetterfreunde gibt, so wie es einen Schönwetterglauben gibt. Das habe ich meinem lieben Bruder gestern erzählt, als ich mit ihm über ein Sportereignis sprach, das er mit anderen geteilt hat, bei dem eure Mannschaft verliert, es keine Hoffnung zu geben scheint und ihr euch fragt, warum ihr euch überhaupt die Mühe gemacht habt, diesen Wettkampf anzusehen. Und dann, kurz bevor ihr gehen wollt, gibt es, wie im Fußball, einen "Ave Maria"-Moment, ein Begriff, der für das, was ich vermitteln möchte, ziemlich passend ist, denn er wirkt wie ein Wunder und verändert das ganze Spiel, und siehe da, eure Mannschaft geht als Sieger hervor!
+
+In diesem Sinne sagte ich zu meinem Bruder: *"Ihr Kleingläubigen, in dieser Zeit der Turbulenzen und großen Veränderungen und so viel Dunkelheit vor der Morgendämmerung."* Ihr alle könnt entmutigt sein, wenn ihr die Schlagzeilen lest, die Nachrichten hört und die Überfülle an Negativität hört, die in jedem Moment auf der Erde verbreitet wird. Es ist genug, um eine solide Seele dazu zu bringen, ihren Glauben zu verlieren. So war es auch gestern bei meinem lieben Bruder und ich wollte ihn darauf hinweisen, dass es notwendig ist, im Glauben zu bleiben, Hoffnung zu haben und im Gebet und in der Gnade zu sein, wo Glaube und Hoffnung wohnen. Auf Gott zu vertrauen. Auch in dieser Zeit möchte ich euch bitten, im Gebet zu bleiben, den Tag im Gebet zu beginnen, den Tag im Gebet zu beenden und in eurem Alltag einen Moment Zeit zu finden, um euren Schöpfer anzuerkennen. Bittet und ihr werdet empfangen. Fasst euch ein Herz, meine lieben Freunde, denn alles wird gut werden. Bleibt in der Liebe Gottes und wisst, dass Seine Gnade euch gehört. Mit all meiner Liebe und meinen Segenswünschen bin ich euer Bruder und Freund in Christus. Ich bin Judas. Gott segne euch.

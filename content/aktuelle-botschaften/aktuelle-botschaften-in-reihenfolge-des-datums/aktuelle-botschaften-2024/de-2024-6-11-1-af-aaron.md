@@ -1,0 +1,32 @@
+---
+title: "Anleitung zur zwischenmenschlichen Kommunikation"
+menu_title: ""
+description: "Anleitung zur zwischenmenschlichen Kommunikation"
+date: 2024-06-01 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Anleitung zur zwischenmenschlichen Kommunikation
+
+Aaron - empfangen durch Al Fike am 11. Juni 2024, Sechelt, BC, Kanada.
+
+Der Weg zum Licht steht für euch offen, geliebte Seelen. Der Heilige Geist der großen Seele Gottes berührt jeden einzelnen von euch und öffnet die Tür zu euren Seelen, öffnet die Tür zu allem, was mit der großen Liebe Gottes kommen kann. Ich bin Aaron und komme, um euch zu ermutigen.
+
+Wir sind alle auf einer Reise, nicht wahr? Jeder von uns ist auf seiner persönlichen Reise zu Gott und im Einssein mit dem Schöpfer. Gemeinsam sind wir unterwegs, um Gott zu dienen und die Wahrheit von Gottes Liebe in die Welt zu bringen. Es gibt Menschen, die sich euch anschließen, diese Gruppe, die euch unterstützen, die euch in ihre Gebete einschließen. Diese Menschen befinden sich nicht nur auf der irdischen Ebene, sondern auch im Geist, in den hohen Sphären des Geistes, im himmlischen Königreich. Viele schließen sich euch an, wenn ihr weiter nach Wegen und Mitteln sucht, wie ihr Gott dienen könnt.
+
+Es ist wichtig, dass ihr dies mit Demut, Einfachheit und Anmut tut. Es besteht kein Bedarf an komplexen Ideen und Sorgen des Verstandes. Denn die Wege der Seele sind in der Tat einfach. Das Verständnis und die Wahrnehmungen der Seele mögen komplex sein, aber der Versuch, diese Dinge in Worte und verstandesmäßige Konzepte zu übersetzen, führt euch nur von der Reinheit der Berührung Gottes mit dem Bewusstsein eurer Seele ab. Nehmt alle Erfahrungen auf, die ihr macht, und integriert sie in euer Bewusstsein. Bleibt diesen Dingen treu, aber fühlt euch nicht verpflichtet, diese Erkenntnisse mit anderen zu teilen, es sei denn, ihr werdet dazu angeleitet. Denn Gott schenkt euch diese Erkenntnisse und Erfahrungen, um euch auf eurem Weg zu unterstützen und euch eurem Schöpfer näher zu bringen.
+
+Wenn ihr das Bedürfnis verspürt, diese Dinge zu teilen und darüber zu sprechen, obwohl sie nicht dazu bestimmt sind, geteilt zu werden, erweist ihr euch selbst einen schlechten Dienst. Ihr erschafft einen Strudel von Missverständnissen, manchmal sogar von Eifersucht und Wut. Wenn ihr dazu bestimmt seid, zu teilen, werdet ihr es wissen, fühlen und in den einfachen und schönen Worten der Seele ausdrücken. Geht nicht über die Grenzen von Gottes Willen hinaus, der durch euch wirkt, sondern hört aufmerksam zu. Hört mit der Sehnsucht eurer Seele zu, um Mittel und Wege zu finden, die Wahrheit der Liebe Gottes zu lehren und zu teilen.
+
+Wie könnten andere ohne die Erfahrungen, die ihr alle auf dieser Reise gemacht habt, verstehen? Wie könnten andere wirklich wissen, wovon ihr sprecht? Selbst die Sprache, die ihr benutzt, ist für viele fremd. Denkt nicht, dass andere eurer Rede, eurem Austausch folgen können. Wenn ihr Gottes Werkzeuge seid, ist es am besten, wenn ihr ihnen zuhört, ihre Geschichten erzählt und ihre Erkenntnisse weitergibt. Denn ihr wisst genau, dass ihr höhere und tiefere Einsichten und Erkenntnisse habt.
+
+Manchmal habt ihr das Gefühl, dass es wichtig ist, einen anderen in seinem Fehler zu korrigieren. Wenn ihr euch dazu berufen fühlt, dann folgt euren Gefühlen und Absichten. Aber wenn es nur eine verstandesmäßige und egoistische Absicht ist, dann kontrolliert diese Impulse, meine geliebten Freunde, denn sie schaffen keine Verbindung zwischen euch und dem anderen. Sie schaffen Trennung und Disharmonie. Eure Seele in ihrem Licht, ihrer Lebendigkeit und ihrem Ausdruck wird mehr dazu beitragen, den Menschen zu erheben und zu unterstützen, als alle Worte, die ihr sagen könnt. Wenn Worte dieses Licht ergänzen, dann ist das für euch beide ein großer Segen. Wenn ihr das Thema erzwingt, wird es der Gelegenheit, die Gott euch gegeben hat, um euren Brüdern und Schwestern zu dienen, nicht gerecht.
+
+Seid umsichtig in eurer Rede, eurem Austausch und euren Erkenntnissen. Seid liebevoll und freundlich. Und seid ehrlich zu euch selbst. Wenn ihr in eurem Inneren einen Irrtum erkennt, aber wisst, dass die Person, die ihn äußert, nicht daran interessiert ist, eure Erkenntnisse zu hören, dann schlage ich vor, dass ihr für diese Person betet und weitergeht. Seid immer und in allen Fällen und Situationen liebevoll. Wenn ihr seht, dass ernsthafter Schaden angerichtet wird, wenn es eine Möglichkeit gibt, zu handeln, um die Negativität zu zerstreuen und die beabsichtigten dunklen Handlungen umzuleiten, dann wird Gott mit euch sein. Wir werden mit euch sein und euch dabei helfen.
+
+Es gibt Zeiten, in denen ihr euch selbst in Gefahr bringt und in einer gewalttätigen, gefährlichen Situation töricht und tollkühn handelt. Ja, ihr könnt Schutz erhalten, aber es gibt Zeiten, in denen selbst wir den Willen eines anderen, der tatsächlich gewalttätig ist, nicht umgehen können. Hier kommt eure Gabe der Unterscheidungskraft ins Spiel. Hier ist es wichtig, dass ihr eure Anstrengungen wählt, ja sogar wählt, wohin ihr geht und welche Orte ihr aufsucht, wenn ihr das Gefühl habt, dass dort Gefahr, Schwierigkeiten und Negativität herrschen. Ändert die Route oder die Entscheidung, die ihr getroffen habt. Dann hört auf die Hilfe der Engel und den Segen Gottes.
+
+Wenn die Zeiten in eurer Welt dunkler werden, wenn Veränderungen in eurer Welt kommen, wird euch diese Unterscheidungskraft gut tun. Diese Achtsamkeit, wie ihr euch in der Welt verhaltet, ist entscheidend. Gott wird euch an Orte bringen und mit Menschen in Verbindung bringen, die für euch am wichtigsten sind, damit ihr als Instrument benutzt werden könnt, um zu helfen und aufzurichten. Hört auf die Eingebungen eurer Seele. Lasst die Versuchungen eures Verstandes beiseite und lasst euch von Gottes Frieden und Gnade berühren, damit seine Liebe alles in eurem Leben beeinflusst. Wenn ihr in dieser Liebe wächst, wird es euch leichter fallen, euch zu führen und zu informieren, und ihr werdet nicht mehr verwirrt oder fehlgeleitet sein. Ihr werdet mit Frieden gesegnet sein, mit Einsicht, mit Weisheit und Unterscheidungsvermögen und vor allem mit einem Gefühl der Liebe und des Wohlbefindens für alle, die euch begegnen.
+
+Möget ihr in diesem Licht gesegnet sein, meine schönen Freunde. Ich bin oft bei euch und werde auch weiterhin bei euch sein. Ich bin Aaron und ich liebe euch alle so sehr. Gott segne euch.

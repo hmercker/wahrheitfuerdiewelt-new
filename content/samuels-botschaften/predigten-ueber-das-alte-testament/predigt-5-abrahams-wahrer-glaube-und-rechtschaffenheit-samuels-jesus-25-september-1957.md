@@ -1,0 +1,30 @@
+---
+title: "Predigt 5 - Abrahams wahrer Glaube und Rechtschaffenheit"
+menu_title: ""
+description: "Predigt 5 - Abrahams wahrer Glaube und Rechtschaffenheit"
+date: 2020-07-03 06:25:48+00:00
+draft: False
+hidden: True
+weight:
+---
+### Predigt 5 - Abrahams wahrer Glaube und Rechtschaffenheit
+
+Jesus - empfangen durch Dr Samuels am 25. September 1957, Washington, DC, USA.
+
+Ich bin hier, Jesus.
+
+Es ist für die Menschheit so wichtig zu wissen, inwiefern das Christentum in seiner heutigen Form nicht die Botschaft vom unsterblichen Leben bringt, wie ich sie gepredigt habe, als ich auf der Erde war, dass ich auf dieses Thema noch einmal im Detail eingehen muss. Da die Christen gelehrt werden und glauben, dass sie das Heil auf besondere Weise durch den Glauben an meinen Namen und durch die so genannte Gemeinschaft mit mir erlangen, müssen sie von diesem tragischen Irrtum gründlich belehrt werden, damit sie in der Lage sind, einen offenen Verstand und ein offenes Herz für die Liebe des Vaters zu haben.
+
+Und so muss ich diese Christen und die ganze Menschheit immer wieder darauf hinweisen, dass der bloße Glaube an meinen Namen nicht ausreicht, um sie zu erlösen, weil dieser Glaube ihre Sünden vor Gott verdeckt. Diese religiöse Vorstellung geht natürlich auf ein Sprichwort aus [1. Mose 15:6](https://www.schlachterbibel.de/de/bibel/1_mose/15/) zurück, in dem es heißt: *"Abraham glaubte an Gott und es wurde ihm zur Gerechtigkeit gerechnet."* Und so wird diesen Menschen gesagt und geglaubt, dass, wenn sie an den Namen Jesu glauben, es ihnen auch als Gerechtigkeit angerechnet wird und ihre Sünden vor dem Vater weiß wie Vlies sein werden.
+
+Aber das ist eine der vielen Stellen in der Heiligen Schrift, die nicht genau wiedergeben, was zur Zeit Abrahams und der angeblichen Prüfung seines Glaubens durch Isaak geschah, denn der Bericht im Alten Testament wurde in seiner endgültigen Form etwa zweitausend Jahre nach dem Ereignis geschrieben, das er beschreiben soll, und die Ideale, die zu dieser Zeit vorherrschten, nämlich die Rückkehr aus Babylonien und der tiefe Glaube an Gott, waren ganz anders als die religiösen Gedanken zur Zeit Abrahams, als menschliche Kinderopfer und der Glaube an Fruchtbarkeitsgötter weit verbreitet waren. Und als Abraham den Glauben an den Vater hatte, wäre sein Glaube nichtig und vergeblich gewesen, wenn er seinen Glauben nicht mit Werken begleitet und aus Ur der Chaldäer vertrieben hätte. Und als Abraham Glauben hatte, glaubte er, dass Gott nicht wollte, dass er seinen Sohn Isaak opfert, und so setzte er diesen Glauben in Werke um, indem er stattdessen ein Tier opferte. Denn Abraham rebellierte gegen die damaligen Gepflogenheiten, Kinder zu opfern. Hätte er Isaak auf den Altar gelegt, wäre das nicht aus Gehorsam gegenüber Gott geschehen, sondern im Gehorsam gegenüber den Opferriten und -zeremonien seiner Zeit. Denn Gott hatte Abraham durch seine Boten offenbart, dass er seinen Sohn Isaak nicht opfern sollte, und Abrahams Glaube an Gott war so groß, dass er mit seinen Werken gehorchte und mit den religiösen Bräuchen seiner Zeit brach. Und das war Abrahams wahrer Glaube und Gehorsam gegenüber Gott, denn Gott stellt niemanden auf diese Weise auf die Probe, denn Gott ist nicht brutal, wie er in der Heiligen Schrift so oft dargestellt wird, sondern er ist ein gütiger und liebevoller Vater, der durch Abraham bewirken konnte, dass diese schreckliche Praxis in diesem Teil der Welt für immer aufhörte.
+
+Und so möchte ich zeigen, was Abrahams Glaube wirklich war und wie er von den Schreibern des Alten Testaments missverstanden wurde, die die übernatürliche Erscheinung des Widders und die grausame Prüfung seines Glaubens als Teil der Geschichte einfügten, die sie sonst nicht verstehen konnten; und ich möchte zeigen, dass Abrahams Glaube nicht unfruchtbar war, sondern zu Handlungen und Taten führte, die im Gegensatz zu dem standen, was in jenen Tagen üblich war, und dass Abraham in der Vollbringung dieser Werke das tat, was gerecht war. Denn wie mein Bruder Jakobus in seinem Brief sagt, erreichte Abrahams Glaube durch seine Werke den höchsten Ausdruck, denn es gibt keinen Glauben ohne die Ausübung dieses Glaubens, und so wurde es ihm, als er an Gott glaubte, als Gerechtigkeit angerechnet und er wurde "Freund Gottes" genannt [(Jakobus 2:23)](https://www.schlachterbibel.de/de/bibel/jakobus/2/23?hl=1#hl).
+
+Und so sage ich den Christen von heute, die glauben, dass ihr Glaube ihre Gerechtigkeit ist und dass ihre Sünden durch ihren Glauben an meinen Namen bedeckt werden, dass sie sehr bestürzt sein werden, wenn sie in die Welt der spirituellen Wesen kommen und erkennen, dass ihr Christentum auf Falschheit beruhte und dass ihre Sünden, weit davon entfernt, von einem weißen Vlies bedeckt zu sein dass ihre Sünden für die Augen der spirituellen Wesen, die diese Sünden sehen können, völlig sichtbar sein werden und dass die einzige Möglichkeit, diese Sünden zu beseitigen, darin besteht, das Gesetz der Wiedergutmachung anzuwenden, Bitterkeit, Tränen und Reue zu empfinden oder darauf zu vertrauen, dass Gott in seiner großen Güte und Barmherzigkeit ihre Bitten um seine Liebe erhört und dadurch ihre eigenen Seelenwunden und bösen Verkrustungen lindert.
+
+Also, Christen, lasst euch nicht von einem Spruch in der Heiligen Schrift blenden, der zu einem Verhalten führen kann, das den Gesetzen Gottes zuwiderläuft, und zwar unter der falschen Prämisse, dass das, was darin enthalten ist, das Wort Gottes ist und deshalb heilig ist, denn mein Bruder Jakobus musste gegen einen Glauben ohne Lebenswandel predigen - eine Haltung, die sich damals durchgesetzt hat und die von einigen Kirchen immer noch aufrechterhalten wird. Denn weder Riten, Zeremonien noch eitler religiöser Glaube führen zur Reinigung der Seele und zu einem Platz im geistlichen Himmel, wenn das Verhalten nicht im Einklang mit Gottes Gesetzen steht, unabhängig von der Kirche oder der Stellung darin.
+
+Ich schließe jetzt und schreibe das nächste Mal darüber, *"warum kein Blutvergießen Sündenvergebung bringen kann"*, wie es die Kirchen heute behaupten.
+
+Der Jesus der Bibel und Meister des Göttlichen Himmels.

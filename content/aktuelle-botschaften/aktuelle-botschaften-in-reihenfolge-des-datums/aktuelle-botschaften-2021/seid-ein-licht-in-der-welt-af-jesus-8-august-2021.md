@@ -1,0 +1,28 @@
+---
+title: "Seid ein Licht in der Welt"
+menu_title: ""
+description: "Seid ein Licht in der Welt"
+date: 2020-08-01 06:25:48+00:73
+draft: False
+hidden: True
+weight:
+---
+### Seid ein Licht in der Welt
+
+Jesus - empfangen durch Al Fike am 8. August 2021, Gibsons, BC, Kanada.
+
+Ich bin euer Bruder und Freund, Jesus, und ich komme, um euch zu ermutigen, tief in eurer Seele zu graben, um jene Teile von euch auszugraben, die sich zutiefst nach den Segnungen Gottes sehnen. In dieser tiefen und aufrichtigen Sehnsucht nach Gott kommen die mächtigen Segnungen Seiner Liebe in euch. Jeder von euch setzt diesen Weg auf seine eigene Weise und in seinem eigenen Tempo fort, und doch ist es unser Wunsch, dass sich euer Tempo mit jedem Atemzug, mit jedem Tag beschleunigt, damit ihr näher in Einklang mit eurem himmlischen Vater kommt, damit ihr euch in größerer Harmonie mit allem, was Gottes Schöpfung ist, und mit den Gesetzen der Liebe Gottes befindet, damit Gott jeden Tag eure Gaben und eure Bemühungen nutzen kann, um ein Instrument des Lichts und der Liebe, der Heilung und des Trostes für eure Brüder und Schwestern zu sein. Das Licht wird sich ausbreiten mit Taten der Liebe, der Freundlichkeit, der Umarmung eurer Brüder und Schwestern, dem Zurückstellen eurer eigenen Urteile und dem Zulassen, dass die große Liebe Gottes ungehindert durch euch fließen kann.
+
+Auf diese Weise werdet ihr andere Seelen berühren, auf diese Weise werden mehr kommen und sich euch im Gebet anschließen. Es ist der Akt, einer anderen Seele die Hand zu reichen, der die Tür zu ihrer Annahme und ihrem Verlangen nach den Segnungen der Liebe Gottes öffnet, denn ihr werdet zu seinen aktiven Vertretern in der Welt. Versteckt euch nicht vor euren Brüdern und Schwestern, zieht euch nicht zurück und habt keine Angst vor den Bedingungen dieser Welt. Wenn ihr aber mit dem Gebet und dem Wunsch, Gottes Werkzeug zu sein, in diese Welt aufbrecht, dann seid ihr geschützt und geführt. Eure Absichten werden euch an viele Orte bringen, da sich eure Absichten in geführte Handlungen, Gedanken und Taten verwandeln, so dass viele erreicht und mit dieser Wahrheit berührt werden. Es mag nur ein Blick sein, ein Lächeln, ein Blick in eure Augen der Liebe, ein gesprochenes Gebet, eine Berührung des Trostes, eine kleine Geste. All diese Dinge erhellen eine andere Seele.
+
+All diese Dinge, die in der Absicht getan werden, Gottes Werkzeug zu sein, öffnen die Tür für seinen Segen. Erlaubt euch, ein reines und schönes Werkzeug von Gottes Willen zu sein, und Gott wird viele Türen des Dienstes öffnen, egal wo ihr seid, ob auf einer belebten Straße oder in den Hallen der Kirche oder anderswo. Es gibt viele Gelegenheiten, die Gott euch eröffnen wird, wenn ihr offen seid und den Wunsch habt, zu dienen. Die Kraft der Liebe wird alles verstärken, was ihr tut. Je mehr ihr in dieser Liebe wächst, desto mehr wird das, was ihr tut, von der Berührung der Liebe Gottes reflektiert und erhellt. Geliebte Seelen, seid Gottes Werkzeuge in dieser Welt, einer Welt, die der Liebe bedarf, einer Welt, die verloren ist, in großer Dunkelheit. Ihr seid die Gesegneten, ihr seid diejenigen, die ihren Weg zum Licht gefunden haben, ihr habt das Wissen und die Mittel, um die Dunkelheit um euch herum zu neutralisieren.
+
+Wie viele in eurem Leben kennt ihr, die dieses Wissen und diesen Segen haben? Wie viele seht ihr, die in der Dunkelheit ihrer eigenen Unwissenheit stolpern, in diesem dumpfen Verlangen der Seele, das nicht erkannt und anerkannt wird? Doch wenn ihr als reines Licht und Kanal der Liebe Gottes anwesend seid, helft ihr diesem Menschen, die Sehnsucht seiner Seele zu erkennen. Das Glockengeläut kommt, wenn ihr euch weiter mit Gott in Einklang bringt. Erkennt und anerkennt, dass Gott eure Gaben, eure Anwesenheit, eure Instrumentalität braucht und nutzt, um seinen Plan zur Rettung der Menschheit zu verwirklichen.
+
+Und wie ihr sehr wohl wisst, sind wir bei euch, um das Licht zu verstärken, um euch auf dem Weg zu helfen, den Gott für jeden von euch vorgesehen hat, um bei euch zu sein in euren täglichen Angelegenheiten und Sorgen, damit diese Gelegenheiten nicht ungenutzt bleiben, sondern genutzt werden, um der Welt mehr Licht zu bringen.
+
+So viel ist euch gegeben, geliebte Seelen, ihr, die ihr das Licht gewählt habt, ihr, die ihr die Macht der Liebe erkannt habt, ihr, die ihr Gott im Gebet und Flehen erreicht habt und den Wunsch geäußert habt, der Menschheit zu dienen. Möget ihr diese Reise fortsetzen, geliebte Seelen, eine Reise, die voller Möglichkeiten ist, in Liebe zu dienen.
+
+Wir sind gemeinsam Gottes Kinder, geliebte Seelen, und wir fahren fort, Gott in Liebe und Licht zu dienen, als Kanäle seines Segens für die Welt. Mögen wir alle in Einklang und Harmonie zusammenarbeiten. Die Kraft unserer Zusammenarbeit beginnt sich gerade in der Welt zu manifestieren und wird an Tiefe und Breite zunehmen. Es wird eine großartige Anstrengung sein, der Welt Liebe zu bringen. Ihr alle seid Teil dieser großen Anstrengung, da Gott uns alle weiterhin segnet und uns auf diese Art und Weise zusammenführt. Ihr seid meine Brüder und Schwestern. Ihr seid die Brüder und Schwestern vieler Engel, die im himmlischen Reich wohnen, und ihr seid ein Licht in der Welt.
+
+Möge Gott euch zutiefst segnen, Geliebte, zutiefst. Erweckt eure Seelen, lernt euer wahres Selbst und eure wahre Bestimmung kennen, und alles wird sich in Harmonie mit Gottes Willen und Liebe entfalten. Gott segne euch. Gott segne euch, Geliebte. Ich bin bei euch, um euch nie zu verlassen, immer an eurer Seite, während wir die Erde in Liebe und Licht und Wahrheit erobern, in Harmonie, die sich durch Gottes Segen manifestiert. Gott segne euch. Ich bin mit euch. Gott segne euch, Geliebte. Ich liebe euch.

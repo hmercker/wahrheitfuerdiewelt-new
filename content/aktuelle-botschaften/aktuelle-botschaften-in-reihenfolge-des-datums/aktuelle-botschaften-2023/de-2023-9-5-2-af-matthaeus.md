@@ -1,0 +1,24 @@
+---
+title: "Wisst, dass ihr gebraucht werdet"
+menu_title: ""
+description: "Wisst, dass ihr gebraucht werdet"
+date: 2023-11-06 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Wisst, dass ihr gebraucht werdet
+
+Matthäus - empfangen durch Al Fike am 5. September 2023, Sechelt, BC, Kanada.
+
+Meine lieben Freunde, ich bin Matthäus. Gottes Plan entfaltet sich mit jedem Tag, nicht wahr? Die Segnungen und Geschenke, die ihr jeden Tag erhaltet, die Gelegenheiten und Situationen, denen ihr jeden Tag begegnet, sind ein Spiegelbild von Gottes Willen in eurem Leben. Manchmal seid ihr euch dessen bewusst, manchmal aber auch nicht. Das Wichtigste ist, dass ihr jeden Tag darum betet, als Gottes Werkzeug benutzt zu werden. In dem Maße, in dem ihr das tut und euch mit Glauben und Hingabe dem Dienst und der Liebe verschreibt, wächst das Licht um euch herum, in euch, und Gottes Wirken verstärkt sich überall um euch herum. Ihr seht das in eurem Alltag vielleicht nicht so klar und deutlich. Aber vieles, was um euch herum und in eurem Leben geschieht, spiegelt den Willen Gottes und den Fluss seiner Liebe durch euch wider.
+
+Wenn keine Sterblichen um euch herum sind, sind es oft spirituelle Wesen, die bei euch sind, die auf den niederen Ebenen nach der Wahrheit suchen, die euer Licht und eure Fähigkeit, ein Kanal des Lichts und der Liebe zu sein, erkannt haben. Sie kommen also in eure Nähe. Oft ist es beides. Es gibt Menschen in eurem Leben, für die ihr betet, Verbindungen, die durch das Lichtgitter hergestellt werden, das ein mächtiger Segenskanal ist, wenn ihr betet. Es gibt diejenigen, die euch physisch nahe stehen und die von eurem Licht profitieren, Fremde und geliebte Menschen, viele, die von eurer Instrumentalität, euren Gaben Gebrauch machen.
+
+Es ist wichtig, dass ihr euer Ziel klar erkennt. Diese Aufgabe hat wenig mit der materiellen Welt oder den materiellen Bedingungen eurer Welt und eures Lebens zu tun. Vielmehr geht es um eure Seele in der Beziehung und Gemeinschaft mit Gott. Durch die Leitung, die in dieser Beziehung geschaffen wird, seid ihr Gottes Werkzeuge, ein eifriger Kanal für die Liebe und den Segen, die von Gott durch euch fließen. Und natürlich sind viele Engel bei euch, die euch umgeben, eine Schar von Engeln, die manchmal so mächtig und groß ist, dass sich in eurer Nähe ein gewaltiges Licht bildet, das auch viele zu euch zieht, nicht nur im Fleisch, sondern auch im Geist.
+
+Meine geliebten und wunderbaren Freunde, betet weiter und wünscht euch zu dienen, um dieses Instrument der Liebe, der Wahrheit und des Lichts für Gott und die Menschheit zu sein. Es gibt viel, viel Arbeit zu tun, und mit jedem Tag, an dem ihr euch so engagiert, wie ich es vorgeschlagen habe, baut ihr auf das, was möglich ist, auf eure Gaben, auf den Fluss. Es ist wie mit allem in eurem Leben, das ein Geschenk ist, das eine Antwort auf eure Handlungen ist: **Es fließt leichter, wenn ihr übt und wenn es bewusst ist, bis ein Punkt kommt, an dem alles reflexartig und manchmal unbewusst fließt, so dass ihr als aktiver und kraftvoller Kanal in der Welt wandelt, wohin ihr auch geht und was ihr auch tut.** Wenn dieses Licht in euch wächst, wenn die Gaben und Fähigkeiten eurer Seele zunehmen, sich ausdrücken und zu einem fließenden und schönen Teil eures Wesens werden, dann wird die Gabe, nach der ihr euch sehnt, die Gabe der Manifestation, die Teil eures Bemühens und eures Wunsches ist, der Welt zu dienen, als Antwort auf euer Wachstum und eure Ausdehnung im Licht immer leichter kommen.
+
+Alles arbeitet Hand in Hand, geliebte Seelen. Alles erfordert eure Bemühungen und euer Bewusstsein, euren Wunsch und eure Praxis. Betrachtet jeden Tag als ein Geschenk von Gott. Er entfaltet sich manchmal auf überraschende und unvorhergesehene Weise und manchmal ist er Teil eurer Routine und eurer üblichen bewussten Bemühungen in der Welt. Beides ist wichtig. Beide bringen einen Segen, ein Geschenk durch euch. Unterschätze nicht die Möglichkeiten, die in eurem Leben, in eurem Alltag, in eurem Wesen stecken. Denn in diesem Dienst, in der Art und Weise, wie ihr reagiert und euch ausdrückt, in diesem lebendigen Gang durch das Leben, kann viel erreicht werden. Gott benutzt euch mit jedem Tag und wird euch immer effektiver und intensiver gebrauchen, je mehr ihr mit der Liebe des Vaters in eurer Seele wächst.
+
+Möge Gott euch auf dieser Reise des Dienstes und des Lichts, der Freude und des Erwachens segnen. Möget ihr wahrhaftig erkennen, wie wirkungsvoll und schön ihr als Gottes Diener in der Welt seid, und dies mit Freude, Anerkennung, wachsendem Vertrauen und dennoch Demut tun, damit all diese Aspekte eurer Seele lebendig werden, sich ausdrücken und von Gott genutzt werden können. Gott segne euch, meine Freunde. Ich bin Matthäus. Meine Liebe ist wie immer mit euch. Möget ihr heute mit vielen Gelegenheiten gesegnet sein, eurem Schöpfer zu dienen. Gott segne euch. Meine Liebe ist mit euch. Gott segne euch.

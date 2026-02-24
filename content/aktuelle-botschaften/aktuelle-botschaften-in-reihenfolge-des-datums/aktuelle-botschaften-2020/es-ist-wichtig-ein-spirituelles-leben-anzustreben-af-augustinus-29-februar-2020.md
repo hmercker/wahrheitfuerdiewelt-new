@@ -1,0 +1,40 @@
+---
+title: "Es ist wichtig, ein spirituelles Leben anzustreben"
+menu_title: ""
+description: "Es ist wichtig, ein spirituelles Leben anzustreben"
+date: 2020-08-01 06:25:48+00:65
+draft: False
+hidden: True
+weight:
+---
+### Es ist wichtig, ein spirituelles Leben anzustreben
+
+Augustinus - empfangen durch Al Fike am 29. Februar 2020, Gibsons, BC, Kanada.
+
+Geliebte Seelen, ich bin euer Lehrer Augustinus.
+
+Für diejenigen unter euch, die mich nicht kennen, ich war einst Bischof von Hippo vor vielen hundert Jahren, als ich auf der Erde wandelte, habe aber in der Tat viele Jahrhunderte in der Welt des Geistes verbracht und meinen Weg in das himmlische Reich gemacht. Ich bin eine jener Seelen, von denen die liebe Tochter spricht, die durch Gottes Liebe erlöst wurde. Alle Dinge der Erde sind nun kein Teil von mir und alle Dinge des Himmels sind wahrhaftig ein Teil von mir, wo Gott mein führendes Licht ist und die Wahrheit mein großer Wunsch ist, diese mit denen auf der Erdebene zu teilen und zu lehren.
+
+Ich sage euch, meine Freunde, es ist wichtig, dass ihr ein spirituelles Leben verfolgt, während ihr auf dieser Erde wandelt. Denn ihr verbringt nicht zu viel Zeit auf dieser irdischen Sphäre und bald, zumindest aus unserer Sicht, werdet ihr in die Reiche des Geistes kommen. So viele treten in diese Reiche ein, ohne irgendeine spirituelle Wahrheit zu kennen, ohne die Lebensweise zu verstehen, die vom Erdenleben zum spirituellen Leben übergeht.
+
+Deshalb, meine schönen Freunde, müsst ihr ein starkes Fundament in euch aufbauen. Wenn ihr eines Tages in die Reiche der göttlichen Himmelssphären kommen wollt, ist es wichtig, dass ihr im Gebet zu Gott kommt, dass ihr im Gebet den Segen Gottes sucht, und dass ihr diese eine einfache Bitte an Gott richten dürft, aber tut dies mit allem Ernst und aller Sehnsucht im Inneren. Es geht darum, dass Seine Essenz, das, was wir die Göttliche Liebe nennen, in eure Seele eindringen kann, dass dieser Segen der Göttlichen Liebe mit jedem Gebet, das ihr habt, jedes Mal, wenn ihr Gott um dieses Geschenk und diesen Segen bittet, weiter in eure Seele fließen kann.
+
+Auf diese Weise wird die langsame, aber stetige Transformation eurer Seele stattfinden und in euch ein sehr starkes Fundament aufbauen. Eines, das euch mit der Zeit in das himmlische Königreich führen wird, wenn ihr weiter in dieser Liebe wächst, wenn dieser große Segen der Essenz des Vaters eure Seele verwandelt und eure Seele erweckt. Auf diese Weise könnt ihr mit den Augen eurer Seele sehen und die Weisheit erkennen, die einer erwachten Seele innewohnt, damit ihr Gott auf eine Weise erkennt, die unverwechselbar und wahr und klar ist, und damit ihr fühlt, dass ihr ein Kind Gottes seid, was ihr auch seid, und ihr werdet verstehen, was das bedeutet. Ihr werdet dazu kommen, die Macht der Liebe Gottes zu verstehen und diese Essenz zu erkennen, diese Macht im Universum, die euch tatsächlich transformieren und erwecken wird.
+
+Es ist eine einfache Reise, meine geliebten Freunde, wirklich einfach, aber sie erfordert eure Bemühungen, eure Zeit, eure Gebete und eure Sehnsüchte. Verbringt etwas Zeit damit, über diese Wahrheiten nachzudenken und zu kontemplieren und versucht, diesen tieferen Teil von euch selbst zu erwecken, den Teil, der so oft von der Menschheit ignoriert wird. Denn dies ist eine Sphäre, in der der Verstand, der materielle Verstand, verehrt und genährt wird und die Seele sich selbst überlassen wird. Dies ist leider ein sehr tiefgreifender Fehler im Leben der Menschheit. Deshalb gibt es in eurer Welt so wenig Gleichgewicht, so wenig wahres Verständnis des Lebens. Ohne die Seele und die Weisheit und Liebe und Wahrnehmungen, die mit der erwachten Seele kommen, ist es in der Tat sehr schwierig, über diese rudimentären Ideen und Wahrnehmungen des Verstandes hinaus zu sehen.
+
+Deshalb bitte ich euch, meine Freunde, ich bitte euch jeden Tag, für das Erwachen eures inneren und wahren Selbst zu beten, der Seele, die in euch liegt. Auf diese Weise werdet ihr Dinge verstehen, die ihr euch nicht vorstellen konntet, ihr werdet Wunder erleben, die über alles hinausgehen, was in eurer materiellen Lebenserfahrung möglich ist, und ihr werdet euer wahres Selbst kennen lernen. Was Gott wirklich erschaffen hat, ist euer einzigartiges Selbst, und so könnt ihr dazu kommen, diese Teile eures Selbst zu lieben und zu nähren, die unbemerkt geblieben sind, unrealisiert, Potentiale, die verloren gegangen sind, weil euer Fokus woanders lag.
+
+Ich beschuldige euch nicht, meine geliebten Freunde, für dieses Versehen, denn das ist der Weg der Welt. Das ist wahrlich der Weg der Welt, das materielle Leben zu erleben, aber all seine Vergnügungen und Wunder sind eine große Ablenkung. Das Leben muss gelebt werden. Ich weiß, meine Freunde, das Leben muss gelebt werden. Aber wenn ihr den Zenit eures Lebens erreicht, ist es dann nicht an der Zeit, darüber nachzudenken, was kommen wird? Welche Veränderungen werden kommen, wenn dieser Körper, den ihr besitzt, nicht mehr sein wird und euer Geist dann freigesetzt wird und in die Reiche des Geistes eintritt, ein riesiger Ort voller vieler verschiedener Dinge, Schichten des Verständnisses, Schichten der Erfahrung, Schichten, die von der Dunkelheit zum Licht graduieren?
+
+Die Anstrengungen, die ihr jetzt macht, werden dafür sorgen, dass ihr, wenn ihr diese Reise beginnt, nicht ganz unten anfangt, an einem Ort, an dem es so sehr grau und schwierig ist, sondern im Licht zu beginnen, euch einen guten Start zu geben, euch die Möglichkeit zu geben, ins Licht vorzudringen, tiefer und größer, expansiver und wunderbarer. Denn Gott gibt euch die Möglichkeit, dies zu tun.
+
+Ich spreche zu euch über die Art und Weise, wie ihr dies tun könnt. Er ist nicht kompliziert. Es erfordert keine große Anstrengung von euch, aber es erfordert etwas Anstrengung und etwas Engagement und etwas Glauben. Am Anfang gibt es oft wenig, worauf man sich stützen kann, wenn es um eure persönliche Erfahrung geht. Hier ist der Glaube gefragt, um diesem großen Geschenk der Liebe zu erlauben, tief in eure Seele zu sinken. Indem ihr dies tut und eure Seele und die Kraft eurer Seele ausdehnt, werdet ihr ein Erwachen herbeiführen, das mit der Zeit zu eurem bewussten Selbst kommt und euch die Erkenntnis bringt, dass tatsächlich etwas Tiefgreifendes in euch geschieht.
+
+Während ihr euch bemüht zu beten, selbst wenn ihr das Gebet als schwierig und als eine fremde Übung in eurem Leben empfindet, betet, Geliebte, versucht einfach zu beten. Gebt euch Mühe. Experimentiert mit dem Gebet und schaut, ob sich nicht etwas verschiebt und verändert, ob ihr nicht vielleicht einen Segen, eine Berührung, ein bisschen Trost, ein bisschen Wärme und Heilung in eurem Wesen spürt. Denn das ist Gott, der sich nach euch ausstreckt. Das ist Gott, der sagt: *"Ich bin hier und ich liebe dich innig."*
+
+Wollt ihr nicht die Liebe Gottes, des großen Schöpfers von allem, kennenlernen und dies auf eine persönliche und tiefe Art und Weise erfahren? Darin wird Freude und tiefes Erwachen liegen, wahres Verstehen und ein Licht wird in euch wachsen, heller und heller, je weiter ihr auf dieser Reise geht, heller und heller, je weiter ihr diese Wahrheit akzeptiert, dass ihr von Gott zutiefst geliebt seid. In dieser Liebe entsteht eine Beziehung, die so tief und klar und freudvoll ist, dass ihr euch fragen werdet, warum ihr das nicht schon früher erfahren habt und warum ihr dem nicht schon früher nachgegangen seid.
+
+Bei jeder Seele auf der Welt gibt es einen freien Willen und eine Wahl. Es liegt also an euch, meine Freunde, zu wählen, was ihr haben wollt, was ihr empfangen wollt, worauf ihr euren Verstand ausrichtet und wonach sich eure Seele sehnt. Es liegt an euch, denn Gott erlaubt euch zu wählen und Gott erwartet eure Wahl. Es ist ein Geschenk, ein unbezahlbares Juwel, diese einfache Wahrheit über die Macht und Herrlichkeit der Liebe Gottes.
+
+Möge Gott euch segnen, meine Freunde. Ich bin euer Lehrer Augustinus. Meine Liebe ist mit euch. Meine Liebe ist tief, tief für jeden von euch. Gott segne euch. Gott segne euch alle.

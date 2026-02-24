@@ -1,0 +1,20 @@
+---
+title: "Stellt euch immer dem Licht der Liebe Gottes"
+menu_title: ""
+description: "Stellt euch immer dem Licht der Liebe Gottes"
+date: 2023-01-28 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Stellt euch immer dem Licht der Liebe Gottes
+
+Augustinus - empfangen durch Al Fike am 9. Februar 2024, Sechelt, BC, Kanada.
+
+Geliebte Seelen, ich bin euer Lehrer, Augustinus. So wie die Sonne immer im Osten aufgeht und euch wärmt, euch mit der Wärme von Gottes Schöpfung berührt, so wird seine Liebe immer da sein, geliebte Seelen, um euch zu nähren und zu wärmen durch ihre Berührung. Die Welt dreht sich weiter um ihre Achse und die Liebe fließt weiter von der großen Seele Gottes, die vom Heiligen Geist vermittelt wird, wenn ihr im Gebet diese heilige Berührung sucht. Was soll euch zurückhalten, meine geliebten und schönen Schülerinnen und Schüler, wenn das unwiderstehliche Licht, die schöne Berührung der Liebe Gottes überall um euch herum ist? Jetzt, wo ihr ihre Gegenwart kennt, jetzt, wo ihr ihre Wärme spürt, kommt ihr in Dankbarkeit und Liebe zu Gott, eurem Schöpfer, damit ihr dieses große Geschenk anerkennt, damit ihr von ihr geheilt, getröstet und tief berührt werdet von der Gnade Gottes, die immer auf euch scheint.
+
+Gott holt seine Kinder ins Licht. Gott bringt euch alle zu ihm, damit ihr gemeinsam die Wärme spürt, damit ihr eure Brüder und Schwestern als genauso geliebt anerkennt, wie ihr von Gott geliebt wurdet und werdet. Bleibt der Wahrheit treu, von der ihr wisst, dass sie die Kraft hat, zu verwandeln, zu heilen und zu erhellen. Alle, die im Segen, in der Wärme, im Glanz dieser Liebe stehen. Stellt euch immer diesem Licht, Geliebte. Kehrt ihm nicht den Rücken zu, sondern sucht es mit eurem ganzen Herzen und eurer ganzen Seele. Sucht es, denn es ist das, was eure Seelen wirklich brauchen, das, was euren Seelen wirklich nützt: dieses große Licht, das die Dunkelheit vertreibt, dieses große Licht, das Trost bringt, dieses große Licht, das das höchste Geschenk Gottes ist.
+
+Jeder von euch wird geliebt und umsorgt, beschützt und aufgerichtet. Möget ihr immer im Licht wandeln und diese Wahrheit immer suchen und ein Ausdruck dieser Wahrheit sein, wo immer ihr auch hingeht, und ihr werdet feststellen, dass Gott euch begleiten wird, dass ihr sein Werkzeug für mehr Licht in der Welt sein werdet. Ihr seid über alle Maßen gesegnet, zur Wahrheit erwacht, und so wandelt ihr in der Gnade Gottes, und so werdet ihr andere um euch versammeln, damit auch sie diesen großen Segen sehen und erkennen können, damit auch sie seinen Trost und seine Wohltaten erfahren, damit auch sie wahrhaftig Lichter in der Welt sein können.
+
+Seid eurem himmlischen Vater treu, so wie ihr eurer eigenen Seele treu seid. Versteht eure Seele auf eine Art und Weise, die ihr mit eurem Verstand nicht erkennen könnt. Auf diese Weise ebnet ihr den Weg für ein größeres Erwachen der Seele und einen größeren Ausdruck der Seele. Verliert euch nicht im Verstand, im Streben des Körpers und des Fleisches, sondern ehrt und bringt das Streben der Seele zum Ausdruck. Wie Gott es für jeden einzelnen von euch vorgesehen hat, werdet ihr in den kommenden Tagen, Wochen, Monaten und Jahren erfahren, und die Tiefe und Weite eures Wissens wird jenseits aller geistigen Erkenntnis liegen. Es wird euch bis ins Herz gehen. Es wird eure Seele durchdringen, wenn ihr es wirklich erkennt und versteht. Das ist die Macht der Liebe, die ihre Herrlichkeit zum Vorschein bringt und jede Dunkelheit mit Licht überstrahlt. Es ist euer, geliebte Seelen, jede und jeder Einzelne, ein Segen, der euch über die Erdebene hinaus erhebt und euch in den Tiefen eures Wesens berührt und das große Licht entfacht, das durch die Berührung Gottes weiter brennt und heller wird, sich ausdehnt und wächst. Gott segne euch, Geliebte. Ich bin euer Lehrer, Augustinus, und ich liebe euch innig, innig. Gott segne euch in seiner Liebe immer. Meine Liebe ist immer bei euch, geliebte und schöne Seelen, Wahrheitssuchende und Seelenschüler. Gott segne euch.

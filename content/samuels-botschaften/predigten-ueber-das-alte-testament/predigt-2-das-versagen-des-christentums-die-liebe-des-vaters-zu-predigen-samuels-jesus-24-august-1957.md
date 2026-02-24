@@ -1,0 +1,34 @@
+---
+title: "Predigt 2 - Das Versagen des Christentums, die Liebe des Vaters zu predigen"
+menu_title: ""
+description: "Predigt 2 - Das Versagen des Christentums, die Liebe des Vaters zu predigen"
+date: 2020-07-03 06:25:48+00:00
+draft: False
+hidden: True
+weight:
+---
+### Predigt 2 - Das Versagen des Christentums, die Liebe des Vaters zu predigen
+
+Jesus - empfangen durch Dr Samuels am 24. August 1957, Washington, DC, USA.
+
+Ich bin hier, Jesus.
+
+Ich habe darauf gewartet, dir eine weitere Predigt über die Liebe des Vaters und sein Bestreben, zu schreiben, dass die Menschheit seine Liebe empfängt und durch das Gebet zu ihm seine unsterblichen Kinder werden; und ich möchte auch mit den Gründen fortfahren, warum die Kirchen nicht im Besitz dieser großen Wahrheit sind.
+
+Ich möchte jetzt nichts sagen, was als Abwertung der guten grundlegenden religiösen Praktiken wie Gemeinschaftshilfe, Wohltätigkeit, Sozialfürsorge und moralische Unterweisung verstanden werden könnte, die die Kirchen als Kräfte einsetzen, die den Menschen durch den Gehorsam gegenüber den moralischen und ethischen Regeln, wie vor allem dem Dekalog des Moses, oder seinen Entsprechungen, die in den östlichen Kirchen entwickelt und praktiziert wurden, in Einklang mit Gottes Gesetzen bringen.
+
+Denn die moralische und ethische Religion war die einzige Art von Religion, die diese Kirchen des Ostens und das Judentum vor meinem Kommen kannten, und Tatsache ist, dass das Christentum in all seinen Zweigen und Verästelungen einfach diese Art von Religion fortführt - eine Religion der Moral und Ethik - mit einer positiven heidnischen Beimischung, die meine Persönlichkeit in blasphemischer Weise zu einem nicht existierenden zweiten Teil der Gottheit erhebt, und ohne zu verstehen, dass ich nicht gekommen bin, um die Seelen durch die moralischen und ethischen Prinzipien zu reinigen. Ich bin nicht gekommen, um die Seelen durch moralische und ethische Grundsätze zu läutern, wie es Moses tat und die ich lediglich als gottgegebene Gesetze bestätigte, sondern um als Messias Gottes der Menschheit durch das Gebet zum Vater für ihre Verwandlung eine Seele zur Verfügung zu stellen, die nicht nur von der Sünde gereinigt, sondern zu einer göttlichen Seele gemacht wurde, die durch das ständige Einströmen der göttlichen Liebe des Vaters unfähig zur Sünde und unempfindlich gegen Versuchungen ist und die weder die Zehn Gebote des Moses noch die anderen moralischen und ethischen Regeln der anderen Religionen mehr benötigt.
+
+Diese göttliche Liebe, die liebevolle Gabe des Vaters an jeden, der sie ernsthaft im Gebet sucht, wird durch den Heiligen Geist in die Seele getragen, der nicht die so genannte dritte Person der Dreifaltigkeit ist, auch nicht der Geist Gottes des Alten Testaments, wie die Kirchen predigen, sondern jene Energie Gottes, die dazu bestimmt ist, diese heikle Mission zu erfüllen, und die die Christen fälschlicherweise als Gottes Gnade bezeichnen und predigen, die das Gesetz erfüllt. Denn es ist nicht der Heilige Geist, der das Gesetz erfüllt, sondern die Liebe des Vaters, und es ist diese Liebe und nicht der Heilige Geist, die in Wirklichkeit die Gnade ist, die die Seele durchdringt.
+
+Und dieser Zustand der Gnade, wenn ich diesen Begriff verwenden darf, ist kein festgelegter oder statischer Zustand, der durch den Glauben an meinen Namen und die Teilnahme an dem von Menschen gemachten Ritus der Messe und seinen heidnischen Ursprüngen oder durch eine stellvertretende Sühne durch meine Kreuzigung - wie von den Kirchen gepredigt - zustande kommt, sondern ist ein kontinuierlicher Prozess der Seelenumwandlung in die göttliche Essenz durch ständiges und ernsthaftes Gebet zum Vater um seine Liebe, in dieser und in der nächsten Welt, durch die ganze Ewigkeit der Zeit.
+
+Diese Botschaft vom ewigen Leben durch die Gabe der göttlichen Liebe war die Botschaft, die ich als Messias Gottes den Hebräern und der gesamten Menschheit verkündet habe, als ich auf der Erde war, und sie stellt den einzigen Weg dar, um die Unsterblichkeit der Seele durch das Einssein mit Gott zu erreichen.
+
+Ich möchte betonen und wiederholen, dass diese Liebe nicht die menschliche Liebe ist, die der Mensch für seine Mitmenschen und für Gott hat oder haben kann. Diese Unterscheidung wird von den Kirchen nicht verstanden, denn sie glauben, dass die Liebe universell identisch ist und dass ich die Menschen mit derselben Liebe geliebt habe, die der Mensch für Gott und seine Mitmenschen hat, und dass Gott die Menschen liebt. Das ist nicht wahr, denn die Liebe zum Nächsten ist einfach eine Fülle der menschlichen Liebe, mit der Gott den Menschen bei seiner Erschaffung ausgestattet hat; aber Gottes Liebe zu seinen Kindern ist göttlich, und sie kann nur in die menschliche Seele kommen, wenn man den Vater um ihr Einströmen bittet, und auf diese Weise findet der Prozess der Umwandlung in die göttliche Seele durch die Liebe des Vaters statt.
+
+Die Möglichkeit, die Liebe des Vaters zu empfangen, die ursprünglich nie ein Teil des Menschen war, aber dennoch bei der Erschaffung des Menschen zur Verfügung stand, ging bei den ersten menschlichen Eltern durch den Sündenfall verloren und blieb verloren, bis sie der Menschheit durch mein Kommen wieder zugänglich gemacht wurde. Denn als Mensch, der eine von der göttlichen Liebe des Vaters erfüllte Seele besaß, d. h. eine göttliche Seele, die mit dem Wesen des Vaters eins war, war ich der erste und einzige gezeugte Sohn des Vaters zu jener Zeit und war und bin somit der Messias. Ich wurde aus dem Heiligen Geist geboren, denn, wie ich schon sagte, ist es diese Energie Gottes, die die Liebe des Vaters in meine Seele und in die Seele dessen, der seine Liebe durch ernsthaftes Gebet sucht, bringt und brachte. Als Mensch wurde ich, wie alle Menschen, auf die gleiche Weise von meinen Eltern, Maria und Josef, geboren, und zwar nicht auf so geheimnisvolle und metaphysische Weise, wie es die Kirchen lehren. Auch hier verstehen die Kirchen also weder, wer ich war noch wer ich bin, sie lassen mich von einer Jungfrau geboren werden, was gegen Gottes Gesetz der Fortpflanzung verstößt, und sie haben kein Verständnis für die Liebe des Vaters und dafür, wie sie den Menschen durch Gebet die Erlösung zum ewigen Leben ermöglicht, nach der sich die Seele des Menschen sehnt.
+
+Ich höre jetzt auf, denn ich habe gesagt, was ich für diese zweite Predigt vorhatte, aber es gibt noch viele andere Dinge, die ich über das Versagen der Kirchen bei der Verkündigung der Frohbotschaft der Liebe des Vaters schreiben möchte; und ich werde wiederkommen, um diese Botschaften fortzusetzen. So möchte ich alle, die diese Predigten hören, auffordern, an die Liebe und Barmherzigkeit des Vaters zu glauben und mit ganzer Seele um das Einströmen der Liebe des Vaters zu beten und zu verkünden, dass das wahre Evangelium des Messias, Jesus des Christus, der Menschheit neu offenbart wird.
+
+Jesus aus der Bibel und Meister des Göttlichen Himmels.

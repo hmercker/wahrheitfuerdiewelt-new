@@ -1,0 +1,40 @@
+---
+title: "Werdet ihr euch entscheiden, eine von Gottes Liebe erweckte Seele zu werden?"
+menu_title: ""
+description: "Werdet ihr euch entscheiden, eine von Gottes Liebe erweckte Seele zu werden?"
+date: 2020-08-01 06:25:48+00:82
+draft: False
+hidden: True
+weight:
+---
+### Werdet ihr euch entscheiden, eine von Gottes Liebe erweckte Seele zu werden?
+
+Augustinus - empfangen durch Al Fike am 24. Februar 2018, Hollis Woods Community Church, Queens, New York, USA.
+
+Ich bin euer Lehrer Augustinus.
+
+Gott schuf diese Welt und dann schuf Er die Menschheit. Er gab der Menschheit ein großes Geschenk, ein Geschenk dieser Welt. Frei über die Länder zu streifen, zu tun, was sie wollten, nach ihrer Phantasie und ihren Wünschen zu walten. Um ein Leben innerhalb dieser materiellen Welt zu leben. Und Gott sagte nur: **Liebt euch gegenseitig. Liebt einander. Unterstützt euch gegenseitig. Gebt eure Liebe.**
+
+Doch in diesen Jahrtausenden der Existenz der Menschheit in dieser Welt, hat die Liebe nicht die Oberhand gewonnen. Stattdessen haben das Verlangen nach Macht, Kontrolle, Gier, Lust und viele Aspekte, die der Verstand der Menschheit an den Tag legt, einen schrecklichen Zustand in diese Welt gebracht. Und doch werden die Bestrebungen der Seelen weiterhin mal in Liebe, mal in Licht zum Ausdruck gebracht, eine Seele hier und eine Seele dort, die in diesen Bedingungen der Dunkelheit kämpfen, bringen weiterhin Licht. Wählt weiterhin das Licht. Nach Harmonie und Wahrheit zu streben. Nach Gott zu streben.
+
+Wie lange, glaubt ihr, kann diese Welt unter diesen Bedingungen überleben, da die Präsenz der Menschheit sich vervielfältigt und immer stärker wird und doch nicht in ihren Herzen wächst und nicht über ihre eigenen Bedürfnisse und ihre eigenen Wünsche hinaussehen kann? Die Menschheit steht an einem Scheideweg, an einem Ort der Wahl, und ihr alle spürt dies bis zu einem gewissen Grad. Ihr alle spürt, dass dies ernste Zeiten in eurer Welt sind. Die Unschuld ist verschwunden. Die Liebe kommt kaum noch zum Ausdruck. Und doch, in diesen Zeiten der Krise, der Schwierigkeiten, kann große Veränderung stattfinden. Chancen öffnen sich, Möglichkeiten können erkundet werden. So, wie ihr es getan habt, kommen viele zusammen, um das Licht zu stärken, um Gemeinschaft zu suchen. Um sich zusammenzuschließen und Liebe zu bringen. Um das zu schaffen, was wir einen Kreis des Lichts in der Welt nennen.
+
+Und so haben diese lieben Seelen euch etwas Wahrheit gegeben und ich schlage vor, dass ihr das, was sie gesagt haben, mitnehmt und über die Erfahrungen, die ihr gemacht habt, nachdenkt und die Möglichkeiten in Betracht zieht, die nun vor euch liegen mögen, geliebte Seelen. Wie werdet ihr Licht in diese Welt bringen? Welchen Weg werdet ihr einschlagen? Wie passt Gott in dieses neue Verständnis? Wer seid ihr wirklich, geliebte Seelen? Seid ihr lediglich die reflektierenden Handlungen, die mit den Reizen dieser Welt einhergehen, oder seid ihr etwas Tieferes? Gibt es die Möglichkeit einer größeren Bedeutung und eines größeren Impulses, größerer Gaben und Fähigkeiten, die mit dem Erwachen eurer Seelen kommen können? Man hat euch von einem großen Schlüssel erzählt, einem mächtigen Instrument, das eure Seelen erwecken wird. Es ist die Essenz Gottes, die Liebe Gottes, die durch euer Flehen zu Gott in euch einströmt, um eure Seele zu berühren, um in Beziehung mit dem Schöpfer zu sein.
+
+Jede Anstrengung erfordert ein starkes Fundament. Wenn ihr innerlich stark seid, stark in der Liebe, stark in der Weisheit und stark im Bewusstsein, dann könnt ihr euch vorwärts bewegen und der Menschheit auf wunderschöne Weise dienen. Und wenn ihr in euer Bewusstsein einbezieht, wenn ihr eine Öffnung zu Gott bringt und Gott eine Präsenz in euch erlaubt, dann werdet ihr geführt werden, ihr werdet mächtiges Wissen und Richtung und Liebe erhalten. Aber es ist eure Wahl, geliebte Seelen, in welche Richtung ihr in dieser Welt gehen mögt. Es ist immer eure Wahl. Gott mischt sich nicht in euren freien Willen ein. Gott ehrt eure Existenz in dieser Welt mit Liebe. Er ist offen und bereit, euch zu geben, was ihr benötigt, aber ihr müsst bitten und suchen und beten, um eure Abwehrkräfte, eure Vorurteile und jene Barrieren in euch loszulassen, die euch von Gott zurückhalten.
+
+Oh, wie ihr kämpft, geliebte Seelen. Wie kämpft ihr in dieser Welt. Ihr wollt nicht verwundbar sein, nicht verletzt werden, nicht desillusioniert werden und nicht wie ein Narr aussehen. Ihr wollt unbesiegbar und mächtig sein, verehrt in dieser Welt, geachtet und anerkannt. Und ich sage euch, geliebte Seelen, dass diese Wünsche aus eurem Verstand kommen, nicht aus euren Seelen. Die Seele kennt die Liebe Gottes und dürstet nach der Anerkennung Gottes und in dieser gibt die Seele Liebe und verlangt nicht, dass andere ihr Licht anerkennen mögen. Das ist Stärke, wahre Stärke. Und ja, es gibt Zeiten, in denen eine Seele sich verletzt fühlt, von den Bedingungen, die jede Seele in dieser Welt heimsuchen, gequält wird. Aber Gott ist immer da, immer da, um die Seele zu beruhigen, um Seine Liebe zu bringen, um die Seele zu heilen. Und bald vertraut die Seele auf Gott und der Glaube formt sich im Gebet.
+
+Es gibt so viel, das euch zur Verfügung steht, meine geliebten Seelen. Gott hat ein enormes Geschenk für jeden einzelnen. Viele Schätze, die euch zu Füßen gelegt werden. Unbezahlbare Weisheit, die gegeben werden kann. Und alles, was von euch verlangt wird, ist zu bitten, zu vertrauen, die so gut gepflegten und formulierten Verteidigungen aus einem Leben abzulegen, das euch gelehrt hat, dass es viel Schmerz, sogar Demütigung in der Welt gibt. Doch bei Gott gibt es nichts von alledem, nur die Liebe. Die Kraft der Liebe wird dann zum Antrieb eures Lebens und ihr beginnt, das Leben aus einer anderen Perspektive zu verstehen und eine neue Kraft wird in euch getragen, erwärmt von der Flamme der Liebe und einer wunderschönen Beziehung zu eurem Schöpfer.
+
+Seid ihr bereit, geliebte Seelen, auf eine Art und Weise in der Welt zu wandeln, die nicht der Art und Weise entspricht, wie der Großteil der Menschheit zu leben wünscht? Wenn ihr das seid, dann ist Gott da, um euch den Weg zu zeigen. Aber wenn ihr das weltliche Leben wünscht, das die Menschheit zu bieten hat, dann werdet ihr niemals die Möglichkeiten kennenlernen, die von der erwachten Seele ausgehen. Die Wahl liegt bei euch, Geliebte. Wisst, dass Gott euch liebt, egal welche Wahl ihr trefft, und Gott wartet auf den Moment, in dem ihr bereit seid, Seine Gegenwart anzuerkennen und das Geschenk Seiner Liebe zu begehren.
+
+Jeder Moment ist eine Wahl, jeder Moment ist mit Möglichkeiten gefüllt. Jeder Schritt kann euch näher zu Gott bringen oder weiter weg. Aber die Welt braucht diejenigen, die sich für das Licht entscheiden, die Stellung beziehen und sagen:
+
+> Ich bin nicht bereit, mein Leben auf diesem Weg des Grauens und der Dunkelheit fortzusetzen. Ich möchte ein Leben voller Liebe und Licht haben.
+
+Deshalb kommen wir und sprechen mit euch. Diese lieben Seelen kommen und sprechen mit euch, um hoffentlich eure Vorstellungskraft, euer Bewusstsein zu entfachen, damit ihr erkennt, dass es eine Wahl gibt, damit ihr versteht, wie wichtig euer Leben und eure Entscheidungen sind.
+
+Möge das Geschenk eures Lebens geehrt und in Liebe ausgedrückt werden, dann werden viele andere Geschenke kommen. Gott gießt in diesem Moment Seine Liebe über euch aus, geliebte Seelen. Bemüht euch, die Berührung Seiner Liebe zu spüren, erhebt euch über den menschlichen Zustand. Gott wird euch emporheben. Seine Engel werden euch unterstützen. Möget ihr weiterhin nach dem Höchsten, dem Hellsten, dem Schönsten der Liebe streben. Ihr werdet gesegnet sein, geliebte Seelen, jenseits eurer Vorstellungskraft. Es erfordert nicht mehr als eure Anstrengung. Es ist ein Geschenk, das von Gott frei gegeben wird.
+
+Gott segne euch, Geliebte. Ich bin euer Lehrer Augustinus und ich danke euch, dass ihr auf das hört, was ich zu sagen habe. Möget ihr, geliebte Seelen, im Licht wachsen. Das ist mein inbrünstiges Gebet, dass ihr im Licht und in der Liebe wachst. Gott segne euch. Gott segne euch.

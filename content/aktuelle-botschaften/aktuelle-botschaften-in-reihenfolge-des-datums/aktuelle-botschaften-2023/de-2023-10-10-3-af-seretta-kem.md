@@ -1,0 +1,34 @@
+---
+title: "Die Bedeutung dessen, was jeder Einzelne zu diesem Kreis beiträgt"
+menu_title: ""
+description: "Die Bedeutung dessen, was jeder Einzelne zu diesem Kreis beiträgt"
+date: 2023-10-30 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Die Bedeutung dessen, was jeder Einzelne zu diesem Kreis beiträgt
+
+Seretta Kem - empfangen durch Al Fike am 10. Oktober 2023, Laurelville, PA, USA.
+
+ Ja, es gibt eine Chemie zwischen der Nähe jedes Einzelnen zum anderen und dem, was er ausstrahlt, im Vergleich zu dem, was der andere ausstrahlt. Manchmal, wenn sich diese Energien vermischen, entsteht eine ganz andere Energie. Eine, die oft sehr vorteilhaft ist, wenn es darum geht, diese Energien miteinander zu vermischen. Die Art und Weise, wie ihr im Kreis zusammensitzt, wie ihr beim Gebet zusammen seid, ist also wichtig, denn sie sorgt für einen harmonischen Zustand. Die Ausstrahlungen der einzelnen Seelen, die sich mit den anderen Seelen vermischen, schaffen wundersame Ergebnisse und Segnungen, die auf viele verschiedene Arten genutzt werden können.
+
+Wenn ihr also gemeinsam betet und ihr spürt, dass ihr mit dieser oder jener Person zusammensitzen müsst, hat das einen Grund. Es hilft dabei, einen Zustand zu schaffen, einen spirituellen Zustand, der für euch und für sie und für alle im Kreis von Vorteil ist. Das ist nicht immer nötig, denn manchmal sind Gebete einfach nur Herzenswünsche an Gott und haben den Zweck und Wunsch, die große Liebe Gottes zu empfangen. Das ist in der Tat eine hohe Berufung und eine Anstrengung, die nicht vergebens ist.
+
+Aber wenn ihr zu einem bestimmten Zweck zusammenkommt, vielleicht um der Welt Heilung zu bringen, um die Menschen im Kreis zu erheben und ihnen zu helfen, dann spielt der Ort, an dem ihr sitzt, wie ihr euch im Kreis verhaltet, die Gedanken, die ihr habt, das, was ihr gerade ausstrahlt, euer spiritueller Zustand, eine große Rolle dabei, was aus euren gemeinsamen Bemühungen entstehen kann. Und das auf vielen verschiedenen Ebenen. Auf der materiellen Ebene gibt es eine Chemie, wie ihr wisst. Auch auf der spirituellen Ebene stimmt die Chemie. Auf der Seelenebene gibt es auch eine Art von Chemie, die sich allerdings sehr von den anderen beiden unterscheidet.
+
+Wir möchten, dass ihr euch der Seele bewusst seid, ihrer Wechselwirkungen, von Seele zu Seele, ihrer Wechselwirkungen mit Gott. Denn hier entsteht das größte Licht, hier findet die mächtigste Chemie statt. Wenn ihr euch weiterhin des Seelenbewusstseins und der Seelenaspekte bewusst werdet, werdet ihr auch auf diese Chemie, wenn ich es so nennen darf, der Seele, die energetischen Wechselwirkungen zwischen den Seelen, eingestimmt werden. Diese Wechselwirkungen sind am wichtigsten und bringen den größten Segen. Obwohl ihr euch oft nur der spirituellen Chemie bewusst seid, der metaphysischen. Auch das ist wichtig.
+
+Was das Materielle angeht, so hilft es, wenn ihr in Harmonie miteinander seid, euch liebt und ehrt, alle Hindernisse und Bedingungen aus dem Weg zu räumen, die euch Schwierigkeiten bereiten könnten. Wenn diese Ebenen in Einklang kommen, wenn die Chemie stimmt und ihr tatsächlich miteinander im Einklang seid, dann können viele, viele wunderbare Segnungen nicht nur zu euch fließen, sondern auch durch euch, unter euch und in die Welt hinaus.
+
+Denkt über diese Dinge nach, meine geliebten, wunderbaren Freunde. Was bringt ihr in einen Kreis ein? Welche Gedanken habt ihr in diesem Moment? Was sind eure Bedingungen in diesem Moment? Was ist die Sehnsucht in euch in diesem Moment? Diese Dinge helfen, euch in Einklang zu bringen. Seid euch bewusst. Achtsamkeit ist der Schlüssel. Denn wenn ihr in Unwissenheit sitzt, ist euer Verstand nicht in Einklang mit eurer Seele, eurem Geist, dann tragt ihr nicht viel zum Kreis bei, sondern empfangt und profitiert, aber es ist wichtig, dass ihr auch in Einklang mit dem kommt, was erforderlich ist, was zu diesem Zeitpunkt gebraucht wird.
+
+Auch wenn wir nicht erwarten, dass ihr alle Aspekte dieses Austauschs und der Verbindung verschiedener Seelen innerhalb eines Kreises kennt, ist es wichtig, dass ihr den Zustand, den ihr tragt, in euch selbst erkennt. Seid euch eurer Gedanken bewusst, die ihr habt. Seid euch eures körperlichen Zustands, eures geistigen Zustands und eures seelischen Zustands bewusst. Und so hoffen wir, dass ihr euch bemüht, diese Aspekte von euch selbst in Einklang zu bringen, aber auch in Einklang mit dem höchsten Segen und dem Bestreben zu dienen, mit Gott im Dienst zu sein, in Frieden miteinander zu sein und offen, damit alle zusammenkommen und in Harmonie und Licht gedeihen können.
+
+Wenn ihr also auf diese Weise zusammenkommt, ist das keine beiläufige Sache. Es gibt immer etwas zu tun, meine geliebten Brüder und Schwestern. Es gibt immer die Möglichkeit, etwas zu vollbringen. Es ist immer der Wille Gottes am Werk, der durch jeden von euch und gemeinsam ein Ergebnis herbeiführt, das mehr Licht und mehr Harmonie unter euch und in die Welt bringt. Es gibt viele Schichten und Ebenen, meine geliebten Freunde, vieles, was durch eure Bemühungen und Gebete, die in Harmonie und Liebe zusammenkommen, erreicht werden kann.
+
+Wenn ihr also diesen Kreis beginnt, der immer größer wird, setzt euer Bewusstsein und eure Bemühungen für Licht, Harmonie und Liebe ein. Ihr werdet belohnt werden, und andere werden belohnt werden. Denn viele verstehen diese Konzepte nicht, sind nicht reif genug, um diese Dinge zu erkennen und zu wissen. Es liegt an euch, meine geliebten Brüder und Schwestern, diese Dinge zu erkennen und wahrzunehmen. Es liegt an euch, ein Teil dieses großen Kreises zu sein, der viele bewegliche Teile, viele Dynamiken, viele Aspekte und viele Schichten hat. Und wir können euch gebrauchen, um sozusagen die Wogen zu glätten, um die Gewässer zu beruhigen, um mehr Harmonie und Frieden zu schaffen, um den vielen, die unter euch sein werden, zu helfen, sich zu öffnen und wirklich im Einklang mit Gottes Willen zu sein.
+
+Es gibt viel zu tun und viel Verantwortung zu tragen, aber jeder von euch ist dieser Aufgabe gewachsen. Jeder von euch hat besondere Gaben. Ihr gebt diesem Kreis und einander etwas Einzigartiges, das euch stärkt und mächtigen Segen hervorbringt, durch euer Wirken, durch das Wirken der Engel und durch die Berührung Gottes mit uns allen.
+
+Möge Gott euch segnen, geliebte Seelen. Er bewahre euch im Licht. Bewahre euch in Harmonie. Er möge euch zu den höchsten Segnungen und Ergebnissen führen und sie anstreben. Gott segne euch. Ich bin Seretta Kem und ich liebe euch alle. Wunderschöne Seelen, die mit so viel Potenzial gefüllt sind, mit so vielen einzigartigen Gaben, die in Liebe gegeben werden, dass Gott diese einzigartigen Blumen geschaffen hat, die so schön sind und bereit, in Liebe, Licht und Schönheit zu erblühen. Gott segne euch, geliebte Seelen. Gott segne euch alle. Meine Liebe ist mit euch.

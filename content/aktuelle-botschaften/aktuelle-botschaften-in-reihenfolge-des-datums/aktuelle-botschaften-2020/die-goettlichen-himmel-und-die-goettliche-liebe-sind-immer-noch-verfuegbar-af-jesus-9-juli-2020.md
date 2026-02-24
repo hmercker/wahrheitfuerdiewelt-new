@@ -1,0 +1,43 @@
+---
+title: "Die Göttlichen Himmel und die Göttliche Liebe sind immer noch verfügbar"
+menu_title: ""
+description: "Die Göttlichen Himmel und die Göttliche Liebe sind immer noch verfügbar"
+date: 2020-08-01 06:25:48+00:73
+draft: False
+hidden: True
+weight:
+---
+### Die Göttlichen Himmel und die Göttliche Liebe sind immer noch verfügbar
+
+Jesus - empfangen durch Al Fike am 9. Juli 2020, Gibsons, BC, Kanada.
+
+Ich bin Jesus, der Meister des himmlischen Königreichs.
+
+Ich komme, um die Aussage zu kommentieren, dass das himmlische Königreich für alle Seelen zu dieser Zeit geschlossen wurde. <sup id="a1">[1](#f1)</sup> Diese Aussage ist keine Tatsache. In der Tat bleibt das Himmlische Königreich für alle Seelen offen, die fleißig beten, um das Geschenk der Liebe des Vaters zu empfangen und ihre Seelen durch die Göttliche Liebe reinigen und erlösen zu lassen. In der Tat bemühen wir uns im himmlischen Königreich, die Menschen auf der Erde und die spirituellen Wesen über die Möglichkeit aufzuklären, dieses Geschenk der göttlichen Liebe zu empfangen.
+
+Warum sollten wir solche Anstrengungen unternehmen, wenn sie vergeblich wären und keine Früchte tragen würden? In der Tat unternehmen wir weiterhin große Anstrengungen, um auf die Erfüllung von Gottes Plan und Wunsch hinzuarbeiten, dass alle Seine Kinder irgendwann auf ihrer spirituellen Reise in das himmlische Königreich als erlöste Seelen eintreten und in diesem Königreich all die Vorteile und das Staunen und die Herrlichkeit, die Liebe und die Freude teilen, die diesem Königreich innewohnen, das Gott für alle Seine Kinder vorgesehen hat, unabhängig von ihrer Religion oder Kultur oder ihren Vorstellungen. Gott wünscht sich, dass jede Seele die Möglichkeit hat, Seine Liebe kennenzulernen, diese göttliche Essenz, die die Möglichkeit bietet, durch diese erlösende Berührung der Seele in das Reich Gottes einzutreten.
+
+Es gibt nichts, was eine Seele von Gott fern hält, außer dem Individuum, das sich abwendet, das keinen Glauben hat, dem das Gebet und das Kennenlernen seines himmlischen Vaters auf diese tiefe und persönliche Weise fremd ist, wo Gottes Liebe zu seinen Kindern offensichtlich wird und wie ein mächtiger Strom zu allen seinen Kindern fließt. Zu dieser Zeit ist das himmlische Königreich mit Seelen aus jeder Rasse und Kultur und Religion gefüllt, die durch ihre Reisen, vor allem innerhalb der Welt des Geistes, erfahren haben, dass dieser Boom für die Seele allen gegeben ist. So wird der Mantel der Ideen, der religiösen Doktrin und des Dogmas zugunsten der erlösenden Liebe abgeworfen, die jeder Seele eine solche Freiheit und Freude bringt.
+
+Zu dieser Zeit sind die Türen zum Königreich offen und werden offen bleiben, bis Gott es für angemessen hält, sie zu schließen. So hat jede Seele das Privileg und die Möglichkeit, dieses große Geschenk Gottes kennenzulernen, es in ihre Seelen zu bringen und dieses Geschenk mit Freude und Dankbarkeit im Gebet und einem tiefen Wunsch, immer mehr von diesem Elixier der Seele zu empfangen, anzunehmen.
+
+Für diejenigen, die solche Unwahrheiten verkünden, schlage ich vor, dass ihr euch auf das Gebet für diese Individuen einstellt, die getäuscht sind, die glauben, dass sie die Wahrheit haben, die glauben, dass sie eine wichtige Information für euch alle teilen. Doch sie sind getäuscht, denn sie haben die Wahrheit nicht mit ihren Seelen gesehen, sondern sie haben die Wahrheit aus ihrem Verstand heraus verkündet.
+
+Wie ich schon oft gesagt habe und ihr wisst, ist die Fähigkeit des Verstandes, die spirituelle Wahrheit zu verstehen, in der Tat begrenzt. Er ist lediglich eine Reflexion des Wissens der Seele und nicht eine direkte Verbindung zu den Wahrheiten Gottes und den Wegen Gottes. Es liegt an jeder Seele, die Kapazitäten und Fähigkeiten der eigenen Seele zu verstehen und diese mit Gebet und Offenheit für Gott zu nähren, um das zu empfangen, was zur Erweckung der Seele erforderlich ist, nämlich Seine Liebe. Solange ein Individuum keine ausreichende Entwicklung der Seele und Wahrnehmungen der Seele hat, kann es unmöglich auf diese Weise Aussagen über die Wahrheit machen, die endgültig sind.
+
+Jeder von euch hat weiterhin ein offenes und ein geschlossenes Auge, geblendet von eurem Verstand und doch erleuchtet von eurer Seele. Der Kampf geht für jeden einzelnen von euch weiter, während ihr die Wahrheit eurer eigenen Seele und den Zustand eurer eigenen Seele kennenlernt. Dies ist ein Kampf, sicherlich auf eurer Erdebene, der euch weiterhin ermutigt, in die verstandesmäßigen Bedingungen einzutauchen, die auf dieser Ebene so vorherrschend sind. Doch jeder von euch hat zu jeder Zeit einen wunderschönen himmlischen Engel bei sich, der euch auf dieser Reise unterstützt, der hilft, euch vor den dunklen Bedingungen eurer Welt zu schützen, der hilft, euch in Richtung des Erwachens eurer Seelen zu inspirieren und eure Seelen auf eine tiefe Art und Weise kennenzulernen, eine bewusste Art und Weise.
+
+Diese Reise geht weiter. Jeder von euch kämpft auf seine Art und Weise weiter und erkennt in Einblicken und Offenbarungen, wozu eure Seele wirklich fähig ist und welche Wahrheit von eurer Seele kommen kann. In dem Maße, wie ihr eure Seele weiterhin mit der Göttlichen Liebe nährt, werdet ihr diese Dinge klar erkennen, ohne Zweifel, ohne Ambivalenz, sondern mit einer Stärke und einem Glauben, der wahres Verstehen bringt.
+
+Warum sollten wir weiterhin zu euch sprechen, euch ermutigen, mit euch sein, eure Freunde auf dieser Erde sein, wenn es keinen Zweck für unsere Bemühungen oder eure Gebete gäbe? Diejenigen, die denken, dass solche Bemühungen nicht existieren und dass Gebete für die Liebe des Vaters keine Wirkung haben, haben sich den Möglichkeiten von Gottes Diensten an ihren Seelen und ihrem Verstand verschlossen. Es macht mich traurig, dass es Menschen gibt, die einen tiefen Glauben und das Wissen um die Göttliche Liebe haben und sich dennoch bewusst vor diesem Geschenk verschlossen haben, in dem Glauben, dass Gott tatsächlich die Tür für sie und für euch alle geschlossen hat.
+
+Das ist eine Torheit. Das ist ein eklatanter Irrtum. Ich bin gekommen, um euch allen zu versichern, dass das nicht die Wahrheit ist. Ihr seid alle zutiefst geliebt. Gottes Liebe ist für jede Seele auf dieser Welt und für jede Seele in der Welt des Geistes verfügbar. Dies wird auch weiterhin der Fall sein. Für diejenigen von uns, die hoch im himmlischen Königreich und nahe bei Gott leben, gibt es keine Anzeichen dafür, dass sich das himmlische Königreich in absehbarer Zeit schließen wird. Ich würde euch versichern, dass es Warnungen und Einladungen und Bemühungen an jede Seele geben würde, dieses Geschenk jetzt zu suchen oder für immer mehr von dieser Möglichkeit verloren zu sein. Und doch verkünden wir euch diese Dinge? Nein, geliebte Seelen, wir ermutigen euch lediglich, in euren Bemühungen fortzufahren, zu beten und ernsthaft zu beten, im Fluss von Gottes Liebe und dem Licht von Gottes Berührung zu sein, eure Seele für all die Geschenke zu öffnen, die Gott euch zu geben hat. Dieser Reichtum, diese Schleuse der Liebe ist weiterhin offen und wird weiterhin offen sein für jede Seele, die daran teilhaben und erlöst werden möchte.
+
+Für alle von euch, die weiterhin für die Liebe des Vaters beten und sich aufrichtig bemühen, sie zu suchen und dies auch weiterhin tun, kann ich euch versichern, dass die Belohnung des Himmels euch gehören wird, dass dieser Segen der Liebe weiterhin in euren Seelen wirken wird, sein vitales Licht, das in euch gegenwärtig ist, bringt euch die Eigenschaften und Aspekte der Seele, die mit diesem Geschenk belebt ist.
+
+Habt keine Angst um eure eigene Seele, denn ihr kennt die Wahrheit und ihr bemüht euch, diese Wahrheit zu leben. Dies ist der höchste Weg, der Weg zur Erlösung, der Weg zum himmlischen Königreich, der Weg zu ewiger Freude und Liebe und Licht und Wahrheit. Es gibt nichts Größeres zu verfolgen als dies. Es gibt nichts Wichtigeres für den ewigen Fortschritt eurer Seele als dies. Es ist weiterhin die Wahrheit, der Weg und das Licht zum himmlischen Königreich.
+
+Ich fahre fort, mit euch, geliebte Brüder und Schwestern, auf dieser Reise zu sein. Ich öffne mein Herz, meine Liebe, mein Engagement und meine Gebete für jeden von euch, denn ich liebe euch von Herzen. Ihr werdet weiterhin meine lieben, lieben Freunde in der Welt sein. Gott segne euch. Ich bin Jesus, der Meister des himmlischen Reiches, und ich gehe immer mit euch. Gott segne euch.
+<small>
+
+1. <large id="f1"> Dies ist eine Antwort auf einen langjährigen Anhänger der Göttlichen Liebe, der eine Botschaft ins Internet gestellt hat, die angeblich von Jesus stammt und behauptet, dass der Göttliche Himmel nun geschlossen sei.[↩](#a1)

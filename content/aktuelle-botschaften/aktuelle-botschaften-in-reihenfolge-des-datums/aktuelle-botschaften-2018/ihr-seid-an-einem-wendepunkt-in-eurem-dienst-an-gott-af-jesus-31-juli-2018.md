@@ -1,0 +1,20 @@
+---
+title: "Ihr seid an einem Wendepunkt in eurem Dienst an Gott"
+menu_title: ""
+description: "Ihr seid an einem Wendepunkt in eurem Dienst an Gott"
+date: 2020-08-01 06:25:48+00:56
+draft: False
+hidden: True
+weight:
+---
+### Ihr seid an einem Wendepunkt in eurem Dienst an Gott
+
+Jesus - empfangen durch Al Fike am 31. Juli 2018, Gibsons, BC, Kanada.
+
+Geliebte Seelen, ich bin Jesus. Ihr alle kommt in Liebe zusammen, sucht das Höchste der Wahrheit, drückt eure Ambitionen und Wünsche aus, Gott im Licht Seiner Wahrheit der Liebe zu dienen. Ihr seid alle meine Jünger, Geliebte. Ihr seid alle innerhalb des Flusses dieses Werkes und Gottes Plan für die Rettung der Menschheit. Ihr arbeitet weiterhin fleißig an diesen Zielen und Absichten in Harmonie mit dem Willen Gottes.
+
+In vielerlei Hinsicht seid ihr mit einem tiefen Band der Liebe verbunden, und wenn ihr zusammen im Gebet seid, wenn ihr zusammen in euren Schlafzuständen seid, wenn ihr über die Leitungen kommuniziert, wenn ihr eure Erfahrungen und eure Liebe füreinander teilt, baut ihr ein Licht unter euch auf, das kraftvoll ist und in der spirituellen Welt wahrgenommen wird. Viele werden von euch angezogen, geliebte Seelen. Viele Sterbliche werden sich zu jedem von euch hingezogen fühlen, wenn ihr fortfahrt, diese Wahrheit aufrechtzuerhalten und in diesem Werk der Liebe vorankommt. Spürt ihr nicht, wie der Schwung zunimmt? Spürt ihr nicht die Aufregung in euren Seelen, da jeder Tag neue Segnungen und neue Möglichkeiten und neue Gelegenheiten bringt, Gott zu dienen? Dies, geliebte Seelen, ist nur der Anfang eines großen Abenteuers, das ihr alle mit anderen in der kommenden Dämmerung dieses neuen Zeitalters der Wahrheit und des Lichts teilen werdet.
+
+Erlaubt euren Seelen, die Aufregung zu fühlen, die Offenbarung dieses Wissens im Innern, von dem, was kommt. Erlaubt euch den Luxus und die Schönheit eurer inneren Aufregung und Begeisterung für das, was Gott vor euch gelegt hat und wird euch den Weg zeigen, diesen Weg des Dienens auf kraftvolle und effektive Weise zu beschreiten. Ihr werdet geführt und inspiriert werden. Ihr werdet gezeigt werden. Ihr werdet wissen, was dazu bestimmt ist, in Harmonie mit Gottes Willen zu sein. Jeder Tag trägt zu dieser Reise des Erwachens eurer Seelen bei. Jeder Tag wird erneuerte Gelegenheiten, kraftvollere Segnungen und kraftvollere Erfahrungen des Dienens als Kanal der Liebe in der Welt bringen. Erlaubt es euch, euch auf diesem großen Strom der Liebe tragen zu lassen. Geht mit Glauben, geliebte Seelen, schöne Seelen, meine Freunde und Jünger der Wahrheit. Ich bin mit euch. Ich wache weiterhin über euch und ermutige euch und führe euch auf diesem Weg. Viele Engel sind mit euch, Geliebte.
+
+Dies ist eine wichtige Zeit in eurem Leben, in dieser Arbeit. Ein Wendepunkt, ein Wendepunkt, der die Öffnung vieler Wege bringen wird, denen jeder von euch folgen wird. Ihr werdet zuweilen zusammenkommen und gemeinsam arbeiten. Zu anderen Zeiten werdet ihr auf euch allein gestellt sein. Zu anderen Zeiten werdet ihr in Gruppen zu zweit oder zu dritt und mehr zusammenkommen. Ihr werdet diese Welt bereisen, geliebte Seelen, und diese Botschaft der Wahrheit weitergeben. Ihr werdet euer Licht tragen und eure Wahrheit und Erfahrungen zum Ausdruck bringen, um die Wahrheit der Liebe Gottes, die Kraft dieses Segens, in eurem Leben und in dieser Welt zu demonstrieren. Geliebte Seelen, fahrt fort, in dieser Arbeit. Habt Vertrauen und wisst, dass ihr auf dem richtigen Weg seid, dem Weg, den Gott für jeden einzelnen von euch bestimmt hat. Seid versichert, meine Geliebten, seid versichert, dass alles in Übereinstimmung mit Gottes Plan ist und sich in Harmonie manifestieren wird. Meine Liebe ist mit euch, meine geliebten Seelen, und ich segne euch auf diese Weise, im Licht, in der Wahrheit, in der Freude. Wir gehen diesen Weg gemeinsam und tragen die Flamme der Wahrheit in die Welt. Gott segne euch, meine Geliebten. Ich bin euer Bruder und Freund, Jesus vom Himmlischen Königreich. Gott segne euch.

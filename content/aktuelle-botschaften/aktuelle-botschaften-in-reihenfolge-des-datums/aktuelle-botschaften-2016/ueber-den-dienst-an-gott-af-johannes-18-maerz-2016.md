@@ -1,0 +1,28 @@
+---
+title: "Über den Dienst an Gott"
+menu_title: ""
+description: "Über den Dienst an Gott"
+date: 2020-08-01 06:25:48+00:67
+draft: False
+hidden: True
+weight:
+---
+### Über den Dienst an Gott
+
+Johannes - empfangen durch Al Fike am 18. März 2016, Selah, WA, USA.
+
+Gott segne euch, geliebte Seelen, ich bin Johannes, Johannes der Geliebte, und ich komme, um euch zu ermutigen, Gott zu dienen, Gott mit jedem Tag zu dienen, Seine Werkzeuge und Kanäle der Liebe zu sein mit jedem Tag, der vergeht. Und der Dienst kommt auf viele Arten und in vielen Formen. Gott benutzt euch auf eine Weise, die ihr nicht einmal kennt, aber eure Seele weiß es. Eure Seele, die mit der Berührung der Liebe Gottes mitschwingt, und diese tiefe Verbindung, die ihr mit eurem himmlischen Vater habt, macht vieles möglich, meine Geliebten, sie macht vieles möglich.
+
+Ihr solltet niemals denken, dass ihr nutzlos seid oder dass ihr Gott nicht dient, oder dass ihr in irgendeiner Weise unzulänglich seid, denn das ist nicht wahr. Ihr seid immer ein Kind Gottes und entsprechend eurer Seelenentwicklung werdet ihr auf mächtige Weise ein Diener Gottes. Dieser Dienst kann auf eine bewusste, liebevolle Weise offenkundig sein, oder er kann sehr subtil sein, wenn Gott euch benutzt, um andere zu berühren, um ihre Seelen zu berühren.
+
+Es ist nicht wichtig, dass ihr all die Wege kennt, auf denen Gott euch als Seinen Diener gebraucht, es ist nur wichtig, dass ihr euch in Liebe und Dankbarkeit darüber freut, dass ihr sein Diener seid, dass ihr auf eine tiefe und tiefe Weise ein Kind Gottes seid. Ihr und Gott seid für alle Ewigkeit miteinander verbunden, meine Geliebten. Und ihr werdet Ihm weiterhin auf immer größere, tiefere und wundersamere Weise dienen, wenn ihr Ihm näher kommt, wenn eure Seele tiefer und vollständiger mit Seiner Liebe und Seinem Willen in Resonanz geht.
+
+Richtet nicht über euch selbst oder andere, indem ihr bestimmt, wer der größere Diener ist, der Heiligere, derjenige, dem eine besondere Aufgabe gegeben wurde. Nein, meine Kinder, jeder von euch dient Gott auf viele, viele Arten, die für Gott wertvoll sind, die für uns in den Göttlichen Himmeln wertvoll sind, und es ist unser Segen und unsere Freude, euch in eurem Dienst zu unterstützen. Denn dies ist unser Dienst und diese Kette der Liebe, die in der Welt zum Ausdruck kommt, ist in der Tat eine sehr lange Kette, in der viele in diesem Dienst der Liebe gesegnet werden.
+
+Wenn ihr Gott wahrhaftig in Demut und Güte dient, spürt ihr die Gnade der Berührung Gottes in allem, was ihr tut, und es herrscht Freude, Frieden und Harmonie. Und wenn ihr ein größerer Kanal Seiner Liebe werdet, wenn dieser Kanal klarer und kraftvoller wird, werdet ihr intensive Reaktionen auf eure Anwesenheit finden. Viele Ereignisse um euch herum werden sich auf kraftvolle Weise entfalten und viele werden zu euch hingezogen werden und ihr werdet die Wahrheit mit jedem Atemzug, jedem Gedanken leben, jeder Teil von euch wird die Freude dieser Gnade spüren. Und ihr arbeitet darauf hin, meine Geliebten. Ihr seid fleißig. Ihr wünscht euch mit Inbrunst, Gottes Diener zu sein, dieser Kanal der Liebe zu sein, und während euer Glaube mit dem Einströmen der Göttlichen Essenz zunimmt, wird alles klar werden, alles wird in Harmonie kommen, und es wird eine tiefe Freude und Freiheit geben, eine wundersame Reise, noch wundersamer als das, was ihr bisher erlebt habt, wundersamer, mit größeren, weit größeren Auswirkungen; diese Entfaltung von Gottes Plan für euch, meine Geliebten.
+
+Seht ihr nicht, wie Gott euch bis jetzt geführt hat, die vielen Dinge, die in eurem Leben geschehen sind, sich entfaltende Ereignisse, überraschend, schön und kraftvoll? Dies wird sich fortsetzen und verstärken und ihr werdet gezwungen sein, zu handeln, auf unerwartete Weise zu dienen und die Ereignisse, die sich entfalten und euch auf diesem Weg leiten werden, werden unvorhergesehen sein, die Seelen, die sich euch in eurer Arbeit anschließen werden, unvorhergesehen - alles eine Überraschung, ein Segen. Und ihr, meine Kinder, müsst diesen Weg mit Offenheit und Unschuld und tiefem Glauben und Vertrauen gehen, dass Gott euch in Übereinstimmung mit Seinem Willen führen und jene Wege des Dienstes öffnen wird, die große Veränderungen in dieser Welt bewirken werden.
+
+Denn jede Seele, die im Einklang mit Gottes Willen steht, hat in sich ein großes Potential, Veränderung und Wahrheit zu bringen, und jene Ereignisse ihres Lebens in dieser Welt nachhallen zu lassen und das Potential zu haben, die Geschichte zu verändern, die Ereignisse der Zukunft zu verändern, um in diesem Fall als Werkzeuge Gottes eine große Wirkung für Heilung und Liebe, Harmonie und Frieden zu machen. Und ihr habt euch dafür entschieden, meine Geliebten. Jeder Einzelne von euch hat sich zu diesem Zweck in diese Welt inkarniert. Ihr habt dies gewählt. Und ihr wisst, dass ihr auf dem richtigen Weg seid, dass das, was ihr gewählt habt, sich in Übereinstimmung mit dem Willen Gottes entfaltet. Und du fährst fort, diesen eigenwilligen Teil von dir loszulassen, und du fährst fort, dem Wissen der Seele zu erlauben, die Ideen des Verstandes in den Schatten zu stellen. Das ist in der Tat das, was sein soll, im Einklang mit Gottes Willen zu sein und Gottes Willen zu kennen, wahrhaftig im Einklang zu sein und dies freudig anzunehmen.
+
+Gott segne euch, meine Kinder, wunderbare Seelen, die so willig sind, so sehr danach streben, in Gottes Gnade zu sein, Seinen Willen auszuführen, im Namen der Wahrheit und Gottes zu dienen, geliebt und in Harmonie. Eure Gebete werden erhört, meine Geliebten, sie sind es jeden Tag, und ihr dient Gott, ihr dient Gott. Gott segne euch, ich bin Johannes und ich liebe euch. Gott segne euch, geliebte Seelen.

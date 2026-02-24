@@ -1,0 +1,24 @@
+---
+title: "Verschiedene Anpassungen in euren Körpern"
+menu_title: ""
+description: "Verschiedene Anpassungen in euren Körpern"
+date: 2020-08-01 06:25:48+00:159
+draft: False
+hidden: True
+weight:
+---
+### Verschiedene Anpassungen in euren Körpern
+
+Seretta Kem - empfangen durch Al Fike am 1. November 2017, Gibsons, BC, Kanada.
+
+Wir fahren fort, verschiedene Anpassungen in euren Körpern vorzunehmen und bringen verschiedene Chemikalien in eure physischen Körper und spirituellen Körper, um euch auf die Direkte Stimme vorzubereiten. Einige von euch haben physische Veränderungen in ihrem Körper gespürt. Das ist unser Tun, unsere Bemühungen, eine Harmonie in eure Körper zu bringen, die genutzt werden kann, um die notwendigen Bedingungen für die Direkte Stimme zu schaffen. Ihr habt auch die erhebenden Bedingungen gespürt, die in diesem wunderschönen Zentrum herrschen, und das wird auch weiterhin so sein. Wir werden euch weiterhin unterstützen und euch beistehen. Wir arbeiten jede Minute, jede Stunde, jeden Tag für euch. Wenn ihr in eurem Schlafzustand seid, fahren wir fort zu arbeiten. Tatsächlich gibt es eine weitere Sitzung innerhalb des dunklen Raumes in eurem Schlafzustand und dies hilft, den Fortschritt der Direkten Stimme Bedingungen zu ermöglichen.
+
+Wir sind sehr erfreut zu sehen, dass ihr freudig und liebevoll zueinander seid. Das ist der optimale Zustand, geliebte Seelen, in diesem Zustand der Freude zu sein, jederzeit vom himmlischen Vater erhoben zu werden, nicht zuzulassen, dass die materiellen Bedingungen oder irgendwelche Sorgen oder Bedenken diesen Zustand der Freude und des Friedens und der Dankbarkeit stören. Ihr müsst weiterhin beständig darum beten, dass Gottes Liebe, Seine Berührung auf euch einströmt, dass Sein Licht euch berührt, unter euch und in euch aufbaut, damit wir an den Ort kommen, an dem die Manifestation der materiellen Medialität möglich ist und sich darin das Höchste manifestieren kann. Es geht euch gut, meine Geliebten. Ihr macht euch gut. Ihr schreitet weiter voran. Ihr schaut weiterhin auf euch selbst und seid fleißig in euren Gebeten und eurer Unterstützung und Liebe zueinander. Wie schön ist es, dies zu beobachten. Wie ihr in eurem eigenen spirituellen Zustand und eurem seelischen Erwachen sprunghaft vorankommt. Ihr fahrt fort, eure Augen zu öffnen und mit Liebe zu schauen.
+
+Geliebte Seelen, ich möchte euch an eure Verpflichtung gegenüber euren Ernährungsbedürfnissen erinnern. Ich möchte euch ermutigen, euch nicht den Nahrungsmitteln hinzugeben, von denen ihr wisst, dass sie nicht hilfreich für euren Körper sind, und euch nicht zu sehr dem Essen hinzugeben. Geliebte Seelen, ich möchte nicht, dass ihr an eurer Nahrung uninteressiert seid. Nein. Das ist ein Geschenk Gottes, diese köstlichen Speisen, aber alles in Maßen meine Geliebten, alles in Maßen, damit eure Systeme nicht mit schweren, schwer verdaulichen Speisen verstopft werden. Für diejenigen, die empfindlich auf Zucker und Fette reagieren, würde ich sagen, dass ihr euch bewusst sein müsst, was ihr konsumiert und euch bemühen müsst, in guter körperlicher Verfassung zu sein. Dies ist notwendig, geliebte Seelen. Das ist notwendig, denn es ist eine Voraussetzung für euch, um in diesem Unternehmen erfolgreich zu sein.
+
+Aber wie ich schon gesagt habe, macht ihr in vielerlei Hinsicht große Fortschritte. Ihr fahrt fort, die alten Zustände, die euch nicht gut tun, abzustreifen und in sehnsüchtiger Erwartung auf das Neue zu schauen, auf die wiedergeborene Seele, die in euch entsteht. Das ist die Wirkung von Gottes Liebe, nicht wahr? Euch umzugestalten, damit ihr jene Eigenschaften habt, die Gott und Seine Große Seele widerspiegeln.
+
+Gott segne euch, geliebte Seelen. Gott segne euch in diesen Bemühungen. Möge sich diese Freude weiterhin in euch aufbauen, dieses tiefe Gefühl der Nähe zu Gott und das Bewusstsein dieses Friedens, der alles Verständnis übersteigt. Erlaubt eurem Verstand nicht, sich in das einzumischen, was eure Seele bereits weiß und in der Welt zum Ausdruck bringt. Bringt euch selbst zur Ruhe, wenn ihr seht, dass ihr euch auf eine Art und Weise ausdrückt, die nicht in Harmonie mit der Liebe ist, bringt euch zur Ruhe, Geliebte. Seid einfach in euren Interaktionen, liebevoll und anmutig, tolerant und fahrt fort, euch gegenseitig auf liebevolle Weise anzuerkennen. Es ist so wichtig, dass ihr zum Ausdruck bringt, was ihr seht, die Schönheit in euch, denn ihr habt darin eine Macht, die Macht zu heilen und zu trösten, zu erheben und jeden von euch zu ermutigen, euch selbst in diesem Licht zu sehen, diesem schönen, liebevollen Licht.
+
+Möge Seine Berührung weiterhin die Veränderungen in euch bewirken, euch himmelwärts tragen, um die wahre Freude zu finden, die damit einhergeht, Gott zu kennen. Gott segne euch, Geliebte. Ich bin Seretta Kem. Ich liebe euch.

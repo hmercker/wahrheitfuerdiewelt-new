@@ -1,0 +1,48 @@
+{{/* docs-menu.html — updated for Hugo >= 0.57 / 0.118 compatibility
+   Replacements:
+   - .URL    -> .RelPermalink
+   - .UniqueID comparisons -> .RelPermalink comparisons
+   Use .Permalink if you need absolute links. */}}
+
+{{$currentNode := .}}
+<ul>
+  {{ range .Site.Home.Sections }}
+    {{ template "menu" dict "sect" . "currentnode" $currentNode}}
+  {{ end }}
+</ul>
+
+{{define "menu"}}
+{{- $currentNode := .currentnode -}}
+{{ with .sect }}
+  {{ if .IsSection }}
+    <li class="section{{ if .IsAncestor $currentNode }} active-trail{{ end }}">
+      <a href="{{ .RelPermalink }}"><span>{{ .Title | truncate 50 }}</span></a>
+
+      <div class="dropdown">
+        <ul>
+
+          {{- .Scratch.Set "pages" .Pages -}}
+          {{- if .Sections -}}
+            {{- .Scratch.Set "pages" (.Pages | union .Sections) -}}
+          {{- end -}}
+
+          {{- $pages := (.Scratch.Get "pages") -}}
+
+          {{- range $pages.ByWeight -}}
+            {{- if and .Params.hidden (not $.showhidden) -}}
+            {{- else -}}
+              {{ template "menu" dict "sect" . "currentnode" $currentNode }}
+            {{- end -}}
+          {{- end -}}
+
+        </ul>
+      </div>
+    </li>
+  {{- else -}}
+    {{/* single page item */}}
+    <li class="{{ if eq .RelPermalink $currentNode.RelPermalink }}active{{ end }}">
+      <a href="{{ .RelPermalink }}"><span>{{ .Title | truncate 45 }}</span></a>
+    </li>
+  {{ end -}}
+{{ end }}
+{{ end }}

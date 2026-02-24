@@ -1,0 +1,28 @@
+---
+title: "Hintergrund - Jakobus (der Ältere) Zebedäus"
+menu_title: ""
+description: "Hintergrund - Jakobus (der Ältere) Zebedäus"
+date: 2020-07-03 02:18:11+11:00
+draft: False
+hidden: True
+weight:
+---
+### Wer war Jakobus (der Ältere) Zebedäus zu Lebzeiten hier auf Erden
+
+Jakobus, der ältere der beiden Apostelsöhne des Zebedäus, die Jesus scherzhaft „Söhne des Donners“ nannte, war dreißig Jahre alt, als er Apostel wurde. Er war verheiratet, hatte vier Kinder und lebte in der Nähe seiner Eltern außerhalb Kapernaums in Bethsaida. Er war Fischer und betrieb sein Gewerbe gemeinsam mit seinem jüngeren Bruder Johannes und in Zusammenarbeit mit Andreas und Simon. Jakobus und sein Bruder Johannes genossen den Vorteil, Jesus länger als irgendein anderer Apostel gekannt zu haben.
+
+Dieser fähige Apostel hatte ein widersprüchliches Temperament; er schien wirklich zwei Naturen zu besitzen, die beide von starken Gefühlen angetrieben wurden. Er wurde besonders heftig, wenn sein Unwille einmal richtig erregt war. Sein Gemüt war hitzig, wenn es hinreichend herausgefordert wurde, und wenn der Sturm vorüber war, pflegte Jakobus sein Aufbrausen stets unter dem Vorwand zu rechtfertigen und zu entschuldigen, es sei ganz und gar Ausdruck einer berechtigten Empörung gewesen. Von diesen periodischen Zornesausbrüchen abgesehen glich Jakobus‘ Persönlichkeit stark der des Andreas. Er besaß nicht dessen Zurückhaltung oder dessen Einsicht in die menschliche Natur, aber er war ein viel besserer öffentlicher Redner. Nach Petrus war er, wenn nicht Matthäus, der beste Redner der Zwölf.
+
+Obwohl Jakobus keineswegs launisch war, konnte er an einem Tag still und schweigsam und am nächsten gesprächig und ein sehr guter Geschichtenerzähler sein. Er sprach gewöhnlich unbefangen mit Jesus, aber unter den Zwölfen war er zuweilen tagelang der Schweiger. Diese kurzen Zeiten unerklärlichen Schweigens waren seine einzige große Schwäche.
+
+Die hervorstechende Charaktereigenschaft des Jakobus war seine Fähigkeit, alle Aspekte eines Problems zu sehen. Von allen Zwölf kam er der Erfassung der Tragweite und wahren Bedeutung der Lehren Jesu am nächsten. Auch er verstand am Anfang nur langsam, was der Meister meinte, aber noch ehe ihre Lehrzeit um war, hatte er eine höhere Auffassung von Jesu Botschaft erlangt. Jakobus war imstande, einen weiten Bereich der menschlichen Natur zu verstehen; er vertrug sich gut mit dem vielseitigen Andreas, dem ungestümen Petrus und seinem reservierten Bruder Johannes.
+
+Obwohl Jakobus und Johannes beim Versuch der Zusammenarbeit ihre Schwierigkeiten hatten, war es doch inspirierend zu beobachten, wie gut sie miteinander auskamen. Dies gelang ihnen nicht im selben Maße wie Andreas und Petrus, aber sie stellten sich viel besser an, als man gewöhnlich von zwei Brüdern, und insbesondere von so eigenwilligen und entschiedenen Brüdern, erwarten würde. Aber so seltsam es auch erscheinen mag, diese beiden Söhne des Zebedäus übten gegeneinander viel mehr Nachsicht als gegenüber Fremden. Sie hatten große Zuneigung zueinander; sie waren immer glückliche Spielkameraden gewesen. Es waren diese „Söhne des Donners“, die das Feuer vom Himmel auf die Samaritaner herabwünschten, um sie zu vernichten, weil sie es an Ehrerbietung gegenüber ihrem Meister fehlen ließen. Aber der vorzeitige Tod des Jakobus veränderte das heftige Temperament seines jüngeren Bruders Johannes beträchtlich.
+
+Der Charakterzug, den Jakobus an Jesus am meisten bewunderte, war des Meisters mitfühlende Zuneigung. Jesu verständnisvolles Interesse für Kleine und Große, Arme und Reiche übte auf ihn eine große Anziehungskraft aus.
+
+Jakobus Zebedäus war ein sehr ausgeglichener Denker und Planer. Mit Andreas gehörte er zu den Vernünftigeren der apostolischen Gruppe. Er war ein lebhafter Mensch, aber er befand sich nie in Eile. Er gab ein ausgezeichnetes Gegengewicht zu Petrus ab.
+
+Er war bescheiden und unauffällig, ein täglicher Diener und ein Arbeiter ohne Anmaßung, der keine besondere Auszeichnung suchte, wenn er einmal etwas von der wirklichen Bedeutung des Königreichs begriffen hatte. Und sogar bei der Geschichte der Mutter von Jakobus und Johannes, die darum bat, dass ihren Söhnen die Plätze zur Rechten und zur Linken Jesu zuteil würden, sollte daran gedacht werden, dass es die Mutter war, die dieses Ansinnen vorbrachte. Und als sie zu verstehen gaben, dass sie bereit waren, solch eine Verantwortung zu übernehmen, sollte man sich vor Augen halten, dass sie die Gefahren, die des Meisters angebliche Auflehnung gegen die römische Herrschaft begleiteten, sehr wohl kannten und auch willens waren, den Preis zu bezahlen. Als Jesus sie fragte, ob sie bereit seien, den Kelch zu trinken, antworteten sie mit Ja. Und was Jakobus anbelangt, war es buchstäblich wahr — er trank tatsächlich den Kelch mit dem Meister, war er doch der erste Apostel, der den Märtyrertod erlitt, als Herodes Agrippa ihn bald danach durchs Schwert umbringen ließ. Jakobus war somit der erste der Zwölf, der sein Leben an der neuen Kampffront für das Königreich dahingab. Herodes Agrippa fürchtete Jakobus mehr als alle anderen Apostel. Er war tatsächlich oft ruhig und schweigsam, aber er war tapfer und entschlossen, wenn seine Überzeugungen geweckt und herausgefordert wurden.
+
+Jakobus lebte sein Leben voll, und als das Ende kam, legte er eine solche Würde und Kraft an den Tag, dass selbst sein Ankläger und Denunziant, der seiner Aburteilung und Hinrichtung beiwohnte, so getroffen wurde, dass er den Ort, an dem Jakobus starb, eilends verließ, um sich den Jüngern Jesu anzuschließen. <small>*Quelle: [Die Urantia Stiftung](https://www.urantia.org/de/das-urantia-buch/schrift-139-die-zwolf-apostel)*</small>

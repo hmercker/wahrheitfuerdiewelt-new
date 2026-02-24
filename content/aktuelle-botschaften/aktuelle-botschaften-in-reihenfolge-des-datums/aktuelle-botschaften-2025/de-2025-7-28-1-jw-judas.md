@@ -1,0 +1,22 @@
+---
+title: "Was ihr wählt, zieht spirituelle Wesen zu euch, die auf derselben Schwingungsebene sind"
+menu_title: ""
+description: "Was ihr wählt, zieht spirituelle Wesen zu euch, die auf derselben Schwingungsebene sind"
+date: 2025-08-07 06:00:00+00:00
+draft: False
+hidden: True
+weight:
+---
+### Was ihr wählt, zieht spirituelle Wesen zu euch, die auf derselben Schwingungsebene sind
+
+Judas - empfangen durch Jimbeau Walsh am 28. Juli 2025, Nashville, TN, USA.
+
+Ich bin hier, euer Bruder und Freund. Ich bin Judas.
+
+Ich habe bereits darüber gesprochen, wie wichtig es ist, sich bewusst zu sein, was ihr aussendet und was ihr empfangt. Ich habe dies als Sender und Empfänger bezeichnet, und ich denke, dass dies gute Begriffe sind, um den Menschen und seine Sinneswahrnehmung zu beschreiben. Ich habe auch darüber gesprochen, Entscheidungen zu treffen, Entscheidungen über die Umgebung, Entscheidungen über Unterhaltung, über den Umgang mit anderen Menschen und darüber, was ihr in euch aufnehmt. Aber heute möchte ich über den Einfluss der spirituellen Wesen sprechen. Es gibt viele Faktoren, die damit zusammenhängen, welche spirituellen Wesen einen umgeben, welche Bedingungen spirituelle Wesen anziehen und welche Anziehungskräfte spirituelle Wesen dazu bringen, zu kommen und in der Nähe zu sein. In dem Gebet um Göttliche Liebe, das James Padgett empfangen hat, wird um Schutz vor den niederen Wesen gebeten, und es heißt: *„die euch ständig umgeben und danach streben, eure Gedanken auf die Dinge der Welt zu lenken“*. Ich werde euch eine Empfehlung geben. Es ist eine Sache, sich seiner Gedanken bewusst zu sein, und natürlich wünschen wir uns, dass sie höherer Natur sind, von eurer Seele und ihrem Verlangen nach Gottes Liebe geprägt. Und doch ist es etwas nicht nur Großartiges, sondern auch etwas, von dem man sich niemals trennen möchte, Gottes Liebe mit der Sehnsucht der Seele zu spüren, die Gegenwart der Gnade zu spüren. Denn selbst diejenigen unter euch, die ein Leben im Gebet führen und von euren himmlischen Freunden beschützt werden und in Gnade leben, fallen zurück in den menschlichen Zustand. Das ist zu erwarten, während andere sich in Trauer, Zweifel, Unwürdigkeit, Wut, Unversöhnlichkeit, materiellen Begierden, körperlichen Begierden, Süchten und vielem mehr wiederfinden.
+
+Was ihr wählt, zieht jene spirituellen Wesen an, die auf derselben Ebene leben oder, wie man sagen könnte, schwingen. Ich gebe euch ein Beispiel. Ihr seid wütend und scheint in diesem Moment der Wut manchmal fast außer Kontrolle zu sein, und wenn ihr dies zulässt, zieht ihr jene spirituellen Wesen an, die ebenfalls wütend sind, und es ist, als würde man ein Streichholz anzünden. Dies ist ein Beispiel. Wir empfehlen euch, euch eurer Gefühle bewusst zu sein, nicht nur eurer Seele, sondern auch eurer Umgebung. Nehmen wir an, jemand ist wütend auf euch, und obwohl er weit weg ist, könnt ihr das spüren, und es kann euch verletzen, euch verzweifeln lassen oder einfach nur traurig machen. Was macht ihr dann? Wenn ihr das von jemandem spürt, betet für ihn. Schickt ihm Liebe. Bittet uns, bei ihm zu sein, ihn zu heilen, ihn zu segnen. Bittet dasselbe für euch selbst, dass ihr von der Blase der Liebe Gottes umgeben und beschützt werdet. Stellt euch das wie einen Heiligenschein vor, der euch umgibt und schützt.
+
+Was ich damit sagen will, ist: Seid euch nicht nur eurer Entscheidungen und eurer Umstände bewusst, sondern auch eurer Gefühle. Wenn ihr spürt, dass etwas nicht stimmt, dass etwas nicht in Harmonie ist, betet darum, dass die Liebe Gottes kommt und die Situation, eure Seele, euren Verstand und euren Körper in Einklang bringt. Öffnet euer Herz, damit das, was ihr aussendet, eine Atmosphäre schafft, nicht nur des Friedens, sondern auch des Segens des Lichts und der Liebe. Spürt die Liebe Gottes, während eure Seele ihre Sehnsüchte aussendet. Zieht eure Engel, eure Beschützer, eure Führer zu euch. Das ist ein Leben im Glauben. Das ist ein Leben in Gnade, und das wird eure Bahn auf dem Weg der Liebe, der Göttlichen Liebe, von der horizontalen in die vertikale Ebene verlagern.
+
+Ich hoffe, das war hilfreich, denn ich sah wirklich die Notwendigkeit, darüber zu sprechen, nicht nur innerhalb dieses Kreises, sondern darüber hinaus. Und wie immer danke ich meinem Bruder dafür, dass er in der Lage war, dies zu empfangen, und dass er es gut aufgenommen hat. Mit all meiner Liebe und meinem Segen bin ich euer Bruder in Christus und euer ewiger Freund. Ich bin Judas. Gott segne euch.

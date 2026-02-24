@@ -1,0 +1,32 @@
+---
+title: "Bittet uns, Kanäle des Lichts im Dienst Gottes zu sein"
+menu_title: ""
+description: "Bittet uns, Kanäle des Lichts im Dienst Gottes zu sein"
+date: 2025-03-25 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Bittet uns, Kanäle des Lichts im Dienst Gottes zu sein
+
+Jesus - empfangen durch Al Fike am 9. März 2025, Online Lichtkreis, Sechelt, BC, Kanada.
+
+Möge Gottes Liebe mit euch sein, meine Geliebten. Ich bin euer Bruder und Freund, Jesus. Ich komme, um heute mit euch zu beten, an diesem Tag, den ihr als heilige Hingabe an euren himmlischen Vater vorgesehen habt, an diesem Tag, der voller Möglichkeiten und Chancen für jeden einzelnen von euch ist, in der Liebe zu wachsen, in der Gnade Gottes zu sein, Gott auf jede Weise zu dienen, die Gott in eurem Leben ermöglicht hat, und ein Licht zu sein. Ein Licht in eurer Welt zu sein ist so wichtig, denn es gibt so viel Dunkelheit, und Licht vertreibt die Dunkelheit. Wenn ihr ein Licht seid, das durch den Nebel und die Höhlen der menschlichen Existenz scheint, dann seid ihr Gottes Diener, um diese Dunkelheit zu vertreiben und Licht zu bringen.
+
+Geliebte, Gott braucht euch, damit ihr seine Diener seid und Kanäle des Lichts in der Welt, Kanäle der Liebe. Gott braucht euch, damit ihr seinen Willen durchführt, ein Instrument für seinen Willen seid, Gebete beantwortet und Engel auf Erden seid. Seid ihr bereit, diesen Weg zu gehen, meine Lieben, diese wunderschönen Lichter zu sein, der Wahrheit der Liebe treu zu bleiben?
+
+Meine Lieben, Gottes Liebe zu euch nährt euch weiterhin und hält euch aufrecht. Seine Engel umgeben euch weiterhin und führen euch. Ihr steht in der Tat an der Schwelle zu einer großen Veränderung in der Welt und zu einer großen Veränderung in euch selbst. Seid offen für das, was Gott euch zu geben hat und was Gott für diese Welt beabsichtigt. Wenn ihr im Einklang mit diesen Dingen seid, dann seid ihr in der Tat Gottes Werkzeuge. In der Tat werdet ihr mit Klarheit, Kraft und Anmut Gottes Absichten für jeden einzelnen von euch erkennen.
+
+Ihr werdet ständig aufrechterhalten. Gott sendet euch mit jedem Atemzug seine Liebe und seinen Segen. Es gibt wenig, was ihr braucht, geliebte Seelen, um eure Reise des Wachstums und der Entwicklung der Seele fortzusetzen, während ihr erwacht, während die Liebe euch erfüllt, entfacht und reinigt. Ihr werdet zu helleren Lichtern, zu wunderschönen Kanälen der Liebe. Ihr zieht mich näher zu euch, während euer Licht wächst. Die Gesetze der Liebe gelten für unsere Beziehung, meine Nähe zu euch und euer Gefühl meiner Gegenwart bei euch. Lasst die große Liebe Gottes den Nebel der mentalen Zustände, die ihr alle mit euch herumtragt, wegziehen, um die Fähigkeiten der Seele, die meine Gegenwart, die Gegenwart Gottes und die Gegenwart eurer Engelsfreunde wahrnehmen, zu entfachen, zu klären und in den Fokus zu rücken.
+
+Wenn ihr in der Liebe des Vaters wächst und fleißig daran arbeitet, alle Bedingungen zu beseitigen, die eure Sicht einschränken, dann werden wir einander so kennen, wie ihr es euch wünscht, dass wir euch nahe sein können, dass ich zu euch sprechen und euch führen kann, dass ich euch so segnen kann, dass ihr meine Gegenwart und meinen Segen spürt und wisst. So ist es mit Gott, Gott nahe zu sein, seiner Liebe nahe zu sein, seiner Gegenwart und den Segnungen, die damit verbunden sind, nahe zu sein.
+
+Nach diesen Dingen sehnt sich eure Seele. Diese Dinge kommen zu euch, wenn ihr euch danach sehnt und darum betet, dass sie bei euch sein mögen, diese Segnungen von Gott, der Heilige Geist, der euch berührt und erweckt, das Bewusstsein, dass diese Manifestationen Gottes wahr, real und greifbar sind und dass ihr sie fühlen und ohne den geringsten Zweifel erkennen werdet. Erlaubt euch, im Glauben und in der Erwartung zu sein. Denn in eurem Verlangen, wenn ihr euch öffnet und euren Glauben ausübt, wird Gottes Berührung real. Gottes Einfluss wird euch tragen und euch in größeres Licht bringen, jenseits der Bedingungen dieser Welt und in das, was wahrhaftig spirituell ist.
+
+Meine Lieben, ihr seid Gott kostbar, jeder einzelne von euch. Gott kennt euch, kennt euch besser, als ihr euch selbst kennt. Gottes Liebe zu euch ist unermesslich. Seid immer in dieser Gnade. Bei all dem Aufruhr in eurer Welt, wenn ihr in Gottes Gnade seid, dann berühren euch diese Dinge nicht und hindern euch nicht daran, Freude in eurem Leben zu sein und zu fühlen. Wenn dieses Licht, diese Freude und diese Liebe bestehen bleiben, könnt ihr dies mit anderen teilen. Ob ihr eine Wahrheit teilt, ob ihr Freude teilt, ob ihr Liebe teilt oder ob ihr einem anderen mit Weisheit Ratschläge erteilt, all diese Dinge kommen mit der Gnade Gottes über euch. Dies gibt euch die Kraft, die ihr braucht, um eine andere Seele wirklich zu berühren und gehört zu werden.
+
+Meine Lieben, es gibt viel zu tun. Denn es ist offensichtlich, dass die Welt in großer Unruhe ist und Trost, Frieden und Wahrheit braucht. An wen werden sie sich wenden? Wer ist bereit? Wer hier in dieser Versammlung ist bereit, andere zu trösten, sie in Liebe zu umarmen und ihnen den Weg aus der Dunkelheit ins Licht zu zeigen? Wenn ihr diese Person seid, dann seid ihr einer meiner Jünger und ihr seid eines der Werkzeuge Gottes. Seid der Berufung eures Herzens und dem Wissen eurer Seele treu. Darin werdet ihr euren Weg entlang der Straßen und Wege der menschlichen Existenz und Erfahrung als Licht finden.
+
+Gott braucht euch, meine Lieben. Ich brauche euch, damit ihr dieses Licht seid und diese Wege geht, damit ihr als Werkzeuge Gottes in disharmonische Zustände eintretet, um sie zu neutralisieren und Licht zu bringen. Es gibt viel zu tun und nur wenige, die bereit sind. Werdet ihr diese Werkzeuge sein, meine Lieben? Ich rufe euch auf, der Hand Gottes zu dienen, Kanäle des Lichts zu sein und in dem strahlenden Licht der Berührung der Liebe Gottes reich gesegnet zu sein.
+
+Gott segne euch, meine geliebten Seelen. Ich bin euer Bruder und Freund, Jesus. Ich komme mit Liebe. Ich komme, um euch zu bitten, Lichter zu sein. Ich komme, um euch zu ermutigen, Gottes Werkzeuge zu sein. Die Welt wird sich durch diejenigen verändern, die bereit sind, sich zu verändern und in Liebe verwandelt zu werden. Möge Gott euch in seiner Liebe segnen, die reichlich in eure Seelen strömt. Möget ihr die Umarmung Gottes spüren, die Erhebung und die Freude eurer Gemeinschaft mit eurem himmlischen Vater. Gott segne euch, ihr Geliebten. Meine Liebe ist immer und ewig mit euch. Gott segne euch.

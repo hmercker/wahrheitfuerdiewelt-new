@@ -1,0 +1,30 @@
+---
+title: "Eure Gebete bringen größeres Licht in die Welt"
+menu_title: ""
+description: "Eure Gebete bringen größeres Licht in die Welt"
+date: 2025-02-24 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Eure Gebete bringen größeres Licht in die Welt
+
+[Guru Nanak](/de-autoren-spirituellen-welt/de-weltreligionen/de-guru-nanak/) - empfangen durch Al Fike am 15. November 2024, Sechelt, BC, Kanada.
+
+Ich bin bei euch. Ich bin Guru Nanak. Mein lieber Freund hier glaubt, dass ich kein göttliches Spirituelles Wesen bin. Leider irrt er sich. Ich bin in der Tat ein Mitglied des himmlischen Königreichs und ich mache in der Seelenliebe weiter Fortschritte. In der Tat muss jeder fortschrittliche Geist, der nach dem höchsten Geschenk, dem Segen und dem kontinuierlichen spirituellen Wachstum strebt, zu dieser Entscheidung kommen, den Weg derjenigen zu gehen, die in ihrem menschlichen Zustand verfeinert sind, und derjenigen, die durch Seelentransformation weiter fortschreiten wollen. Ich habe mich also für den Weg der Liebe entschieden und für den Weg der Ausdehnung und des Fortschritts meiner eigenen Seele in Liebe.
+
+Ich danke euch, dass ihr mich an diesem Tag ehrt, so wie viele andere auch, obwohl ich diese Ehrung nicht anstrebe. Ich wünsche mir nur, dass alle das große Geschenk der Liebe Gottes als den größten Segen im ganzen Universum anerkennen. An meinem Tag habe ich auch den Weg Jesu und den Weg vieler anderer geehrt, denn es braucht spirituelle Männer und Frauen, die den Weg des Lichts gehen und die Weisheit des Geistes und der Seele lehren, um die Menschheit zu erheben.
+
+Ich fordere jeden von euch auf, Lehrer zu werden, Heiler zu werden, Licht für Gott zu werden. Denn ohne euch bleibt die Welt verloren. Diejenigen, die strengen und begrenzten Religionen folgen, brauchen Reformerinnen und Reformer, die den Status quo in Frage stellen, wie ich es zu meiner Zeit getan habe. Ja, möglicherweise werden sich neue Religionen bilden, aber vor allem werden die einzelnen Seelen von den Zwängen eines begrenzten Denkens und einer begrenzten Perspektive befreit werden. Das Universum ist ein sehr großer Ort, der mit vielen Wahrheiten gefüllt ist. In der Tat ist es üblich, dass Menschen den Trost von etwas suchen, das sie einschränkt und in seiner Begrenztheit doch tröstlich ist. Ich sage euch, das ist der Verstand, der Trost in sich wiederholenden und manchmal etwas archaischen Ideen sucht. Doch ist es angesichts der unbegrenzten Natur des Universums nicht verständlich und sogar vernünftig zu denken, dass jede Seele grenzenlos fortschreiten kann?
+
+Ihr habt den Weg dorthin gefunden, meine Freunde. Ich habe den Weg gefunden und viele haben ihn gefunden. Tatsächlich haben Millionen den Weg gefunden, und sie bewohnen das himmlische Königreich. Sie sind meine Brüder und Schwestern. Ihr auf der Erdebene habt es etwas schwerer, anderen diese Wahrheit zu vermitteln. Sie mögen die begrenzten Vorstellungen vieler christlicher Kirchen, ihr Dogma, ihr Verhalten und ihre Urteile nicht. Ihr bringt eine Lösung für dieses Problem mit offenen Armen der Liebe, mit Akzeptanz aller und mit der Freiheit für jeden Einzelnen, seinen eigenen Weg zu Gott zu gehen. Ihr alle tragt die Liebe Gottes in euch, eine helle Essenz des Lichts, die in eurem Innersten leuchtet. Dieses unbezahlbare Juwel wird immer schöner und erstrahlt im Licht.
+
+Wenn ihr auf der Straße geht und anderen begegnet, versteckt dieses Licht nicht, sondern sprecht mit anderen in liebevollem Austausch, seid ein Kanal des Lichts und sprecht manchmal sogar über diese Wahrheit, die ihr so gut kennt. Ihr wisst nicht, welche Auswirkungen ihr auf andere haben könnt. Glaubt ihr, dass irgendeiner von uns geistlichen Führern mit großen Menschenmengen angefangen hat, die unsere Worte hören wollten? Nein, wir haben ganz klein angefangen. Wir folgten unserer Führung. Wir hörten die Stimme Gottes in unserem Ohr und wir gingen den Weg, der weniger befahren war. Wir waren Lehrer und Heiler. Wir waren Wesen des Lichts und der Liebe.
+
+Darum bitte ich euch, meine Freunde. Seid dieser Lichtstrahl, diese schöne, strahlende Seele, die mit Weisheit, Wissen und Liebe erfüllt ist. Die Welt braucht euch. Die Welt braucht jeden einzelnen von euch und noch mehr. Schiebt den Sinn, den Gott in euch legt, nicht beiseite und wagt euch hinaus, um seine Werkzeuge und Kanäle der Liebe zu sein. Ihr werdet feststellen, dass viel Segen fließen wird. Vieles wird gegeben werden. In der Tat werdet ihr immer prägnanter und kraftvoller geführt werden, wenn ihr weiterhin auf das Wort Gottes hört, das in euer Ohr, das Gehör eurer Seele, geflüstert wird.
+
+Wenn ihr voranschreitet, beginnt die Reise. Je weiter ihr voranschreitet, desto schneller wird die Reise und desto schneller wird die Arbeit. Aber was es braucht, ist der entscheidende Schritt, die Bereitschaft, dem Willen Gottes zu folgen, der Wunsch, ein Kanal der Liebe für andere und ein Vorbote der Wahrheit für viele zu sein. Möget ihr euren Weg finden, damit in einem halben Jahrtausend vielleicht euer Name geehrt wird und viele von euren Lehren profitiert haben. Es ist möglich. Ich war nicht etwas Besonderes. Ich war ein bescheidener Mann. Doch ich wusste, dass ich eine Bestimmung hatte, und Gott wies mir den Weg dorthin.
+
+So ist es auch bei euch, geliebte Seelen. Schön, bescheiden und doch habt ihr etwas ganz Besonderes, Schönes und Mächtiges. Ihr tragt das Licht der Wahrheit. Jeder von euch ist eine Laterne in der Welt. Beleuchtet den Weg, meine Freunde. Seid wahrhaftig mit Gott und Gott wird mit euch sein. Möge der Segen seiner großen Seele eure Seele weiterhin erfüllen und eure Laterne erhellen, bis ihr nicht mehr widerstehen könnt. Gott zwingt euch dazu, vorzutreten, zu lehren, zu heilen, in Liebe zu umarmen und vielen Trost zu spenden. Ihr seid alle fähig und ihr seid alle schön.
+
+Gott segne euch. Ich bin Guru Nanak und meine Liebe zu euch wird immer größer. So wie die Liebe Gottes zu mir wächst, so wächst auch unsere Liebe zueinander in der Wahrheit der Göttlichen Liebe. Gott segne euch, meine Freunde. Gott segne euch.

@@ -1,0 +1,22 @@
+---
+title: "Die Liebe Gottes in euren Seelen strömt von euch aus und bringt anderen Licht und Frieden"
+menu_title: ""
+description: "Die Liebe Gottes in euren Seelen strömt von euch aus und bringt anderen Licht und Frieden"
+date: 2020-08-01 06:25:48+00:213
+draft: False
+hidden: True
+weight:
+---
+### Die Liebe Gottes in euren Seelen strömt von euch aus und bringt anderen Licht und Frieden
+
+Maria Magdalena - empfangen am 28. Januar 1970, Vancouver, BC, Kanada.
+
+Ich freue mich so sehr, euch aus den göttlichen Himmelssphären zu begrüßen. Es freut mich, euch versammelt zu sehen und zu wissen, dass ihr den Wunsch habt, Gott zu dienen. Maria, die Mutter Jesu ist heute Abend hier bei mir und so viele andere liebe alte Freunde. Ich bin Maria Magdalena. Ich genieße es, zu kommen und mit euch zu sein und euch zu helfen, wo ich kann. Ich weiß, dass ihr für die Direkte Stimme gesessen habt und ich wollte kommen und euch etwas Ermutigung geben. Ich weiß, dass ihr es genießt, dass wir kommen und mit euch sprechen und dass es uns gefällt, zu euch zu kommen und mit euch zu sprechen und euch zu ermutigen.
+
+Wir müssen zusammen arbeiten, wir alle, ihr als Gruppe, die mit uns in Liebe und Harmonie verbunden ist. Wir sind ein Teil eurer Gruppe. Ich bin sehr darauf bedacht, dass wir die Direkte-Stimme entwickeln, denn ich möchte kommen und mich so zeigen, wie ich bin, denn nicht alle können mich sehen oder hören. Wir alle beten für euch und wir lieben euch so sehr. Ihr solltet auch für uns beten. Es zieht uns enger zusammen, wenn ihr für uns betet, und wir brauchen eure Gebete, denn wir möchten genauso weiterkommen wie ihr, und noch mehr, denn ihr werdet feststellen, dass mit eurem Fortschritt euer Wunsch nach Fortschritt entsprechend zunimmt. Wir sollten also füreinander beten und einander lieben.  
+
+Ich bin so glücklich, und es freut uns so sehr, auf die Erde zu kommen und jene der Erde mich hören zu lassen und zu wissen, dass ich zu ihnen spreche und dass ich auch euch helfen kann, und wenn ihr keine Seelenentwicklung hättet, wäre es mir nicht möglich, zu kommen, und den anderen, die euch innig lieben, nahe zu kommen. Wie wunderbar für uns, eine Gelegenheit zu haben, mit euch zu sein, euch bei der Arbeit, die ihr tut, zu helfen, und für euch, die Liebeskraft zu fühlen, die wir euch bringen. Ich möchte euch allen noch einmal für die Mühe danken, die ihr für eure Seelenentwicklung aufgewendet habt.
+
+Ihr erkennt nicht, wie hilfreich es für andere ist, dass allein die Tatsache, dass der Fortschritt eurer Seele und die Ausstrahlungen, die von euch vibrieren, andere beeinflussen, wenn ihr euch ihnen nähert, auch wenn ihr kein Wort sprecht. Die Emanationen deines Körpers dringen in die Personen ein, mit denen du in Kontakt kommst, und das ruft im anderen eine sehr hilfreiche Reaktion hervor. Wenn ihr also Fortschritte macht, helft ihr auch anderen, manchmal unbewusst. Andere sind in der Lage, von euch zu schöpfen. Der Friede, die heilende Kraft und die Kraft der Liebe, all diese Ausstrahlungen verlassen ständig euren Körper, während ihr in der Göttlichen Liebe Gottes fortschreitet. Wusstet ihr das, meine Freunde? Habt ihr das gewusst? Dass ihr denen helft, mit denen ihr in Kontakt kommt, auch wenn ihr kein Wort zu ihnen sprecht. Ihr habt uns sprechen gehört, dass euer Licht in das Universum hinausstrahlen wird. Dieses Licht, von dem wir sprechen, ist eine lebendige Kraft und eine vitale Kraft, eine durchdringende Kraft. Dies ist das Licht Gottes, das die Welt durch euch erleuchtet, meine Freunde, und ihr werdet Menschen finden, die euch nahe sein wollen. Sie verstehen nicht warum. Sie wünschen, in eurer Gesellschaft zu sein oder einfach nur mit euch in Kontakt zu kommen, und weder ihr noch sie verstehen den Grund. Aber der Grund ist, dass sie die Ausstrahlungen spüren, die von euch kommen. Die Liebe Gottes in euren Seelen, die von euch kommt, die Liebe Gottes in euren Seelen strömt von euch aus und bringt anderen Licht und Frieden.  
+
+So, meine Lieben, macht weiter in eurer Entwicklung und denkt auch daran, für uns zu beten, die wir euch lieben und führen, damit wir eine enge Verbindung haben und eng und liebevoll miteinander arbeiten. Gott segne euch, meine Freunde, Gott sei mit euch, und möget ihr euch Seiner Liebe bewusst sein, die jeden Tag während des Tages in eure Seelen fließt, denkt an Gottes Liebe, die in eure Seelen fließt. Gute Nacht, meine Freunde.

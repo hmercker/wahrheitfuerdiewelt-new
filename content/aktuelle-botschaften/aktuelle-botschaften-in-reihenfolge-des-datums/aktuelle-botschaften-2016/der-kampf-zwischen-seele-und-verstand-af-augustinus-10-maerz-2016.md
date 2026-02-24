@@ -1,0 +1,24 @@
+---
+title: "Der Kampf zwischen Seele und Verstand"
+menu_title: ""
+description: "Der Kampf zwischen Seele und Verstand"
+date: 2020-08-01 06:25:48+00:55
+draft: False
+hidden: True
+weight:
+---
+### Der Kampf zwischen Seele und Verstand
+
+Augustinus - empfangen durch Al Fike am 10. März 2016, Selah, WA, USA.
+
+Meine lieben, geliebten Seelen, ihr kämpft so zwischen euren Seelen und eurem Verstand. Eure Seele ist bei Gott, jeder von euch, meine Geliebten. Eure Seele ist mit Gott, und euer Verstand ist oft mit der Menschheit und den Bedingungen der Menschheit, und das verursacht einen Kampf in euch.
+
+Manchmal seid ihr in der Lage, zwischen diesen beiden Aspekten eures Selbst harmonisch zu sein und zu anderen Zeiten seid ihr im Konflikt und ihr erzeugt eine Spannung in euch und ihr seid ruhelos mit dieser Spannung und euer Verstand fragt: *"Was soll ich tun, Vater? Ich werde dies tun; ich werde jenes tun; ich werde das nächste tun."* Doch eure Seelen sagen: *"Ich werde dir folgen, Vater. Sag mir, was ich tun soll."* Und das ist es, wohin ihr in eurem Bewusstsein gehen müsst, um eure nächsten Schritte im Leben zu entdecken, geht zu eurer Seele. Denn der Verstand mag sich viele verschiedene Pläne ausdenken, sich viele verschiedene Ergebnisse vorstellen, viele verschiedene Ideen und Strukturen schaffen, aber ich sage euch, all das ist umsonst, wenn es nicht in der Harmonie von Gottes Willen fließt. Ihr müsst zuerst zu euren Seelen gehen. Stellt die Frage, was ihr von diesem Ort des Seelenbewusstseins aus tun müsst und ich weiß, dass dies für einige von euch schwierig ist. Euer Verstand, der mit Gedanken und Ideen gefüllt ist, neigt dazu, das Rampenlicht in eurem Wesen einnehmen zu wollen und die Macht zu wählen, aber ihr müsst euch fügen, ihr müsst zu euren Seelen gehen. Und in der Tat ist es ein Kampf, zu diesem Ort des Wissens zu gehen, anstatt zu glauben, des Sehens, anstatt eine Realität zu erschaffen, ein Ort des Friedens, anstatt sich aufzuregen und nach vielen Antworten zu suchen.
+
+Wir helfen euch, dies zu tun, meine Geliebten, die Tiefen eurer Seelen auszuloten. Um an diesem Ort der Gewissheit und Sicherheit mit Gott zu sein, müsst ihr euch erlauben, an diesen Ort zu gehen, den tiefen Frieden, der dort ist und das Bewusstsein eures himmlischen Vaters, der euch viel an Führung und Liebe, Frieden und Heilung zu geben hat. Dann werdet ihr, während ihr auf dieser Erde wandelt, zu einem Leuchtfeuer des Lichts, zu einem Anker für jene, die Angst haben und allein sind, und zu einem Ort des Lichts, der euer Wesen ist, um in dieser Welt zu wandeln.
+
+Spürt ihr in diesem Moment nicht den Frieden Gottes in euch? Und euer Verstand ist ruhig, euer Körper ist erfrischt. Geliebte, dies ist der Ort, an dem ihr sein sollt. Das ist es, was ihr in eurem Selbst und in eurem Leben fördern müsst und alles andere wird sich fügen, wenn ihr die Liebe des Vaters und die Berührung des Vaters und die Führung und den Segen empfangt. Alles andere wird sich fügen, meine Geliebten. Es gibt keinen Grund für Sorgen und Bedenken und Urteile und Angst, nur Freude und Frieden und eine tiefe Quelle der Weisheit und des Wissens, die euch vorwärts führen wird. Und wenn die Schritte getan sind, werdet ihr die Richtigkeit dieser Schritte erkennen. Es wird sich nicht so anfühlen, als würdet ihr in einen Abgrund fallen, als hättet ihr die Kontrolle verloren, nein, meine Geliebten. Es wird sich anfühlen, als würdet ihr mit jedem Schritt wahres Verständnis und Wissen erlangen. Es ist kein Experiment. Es ist ein Akt des Glaubens, ein Akt des Glaubens, der euch immer weiter ins Licht bringen wird, immer weiter, bis ihr zurückblicken und euch fragen werdet, warum ihr eurem Verstand so sehr erlaubt habt, eure Seelen zu schmälern. Gott möchte, dass ihr von eurer Seele geführt werdet, die von Ihm geführt wird. Das ist der Schlüssel, dorthin müsst ihr gelangen und alles wird in Harmonie sein und die wahren Einsichten, das Wissen und die Führung werden mit jedem Schritt, den ihr in diese Richtung macht, kommen.
+
+Geliebte Seelen, ihr werdet geliebt, ihr werdet genährt, ihr werdet gelehrt, euch wird der Weg gezeigt, ihr werdet mit der mächtigen Essenz Gottes gesegnet. Es wird keine Misserfolge geben, es wird triumphale, glorreiche, wundersame Ergebnisse in eurem Leben geben, meine Geliebten, wenn ihr im wahren Glauben an diese glorreiche Liebe geht, geführt vom Wissen eurer Seele.
+
+Geliebte, seid in Frieden und wisst, dass alles gut ist und im Licht von Gottes Willen und Liebe weitergehen wird. Gott segne euch, ich bin euer Lehrer Augustinus und ich freue mich über eure Bemühungen, die Liebe in diese Welt zu bringen, zu euch selbst, zu allen, denen ihr begegnet. Kostbare Seelen, macht weiter auf diesem Weg. Macht weiter, denn ihr seid gesegnet. Gott segne euch. Gott segne euch.

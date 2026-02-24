@@ -1,0 +1,20 @@
+---
+title: "Die Reise des Helden"
+menu_title: ""
+description: "Die Reise des Heldene"
+date: 2023-01-28 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Die Reise des Helden
+
+Judas - empfangen durch Jimbeau Walsh am 26. Februar 2024, Nashville, TN, USA.
+
+Ich bin hier, euer Bruder in Christus, Judas. Meine lieben Freunde, ihr alle kennt mehr oder weniger die so genannte Heldenreise, die aus den großen Mythologien vor meiner Zeit auf der Erde stammt, und wegen der Wahrheiten, die in der Reise enthalten sind, behält sie bis heute ihre Bedeutung in den Geschichten, die in Büchern, Filmen und Theaterstücken erzählt werden. Natürlich geht es bei den meisten Geschehnissen und Enthüllungen um die Überwindung von Hindernissen und die letztendliche Erfahrung der Transformation des Menschen. Und zu jedem Schritt auf der Reise des Helden gibt es ein spirituelles Gegenstück. Man kann in sehr bescheidenen oder sehr gewöhnlichen Verhältnissen geboren werden, aber irgendwann im Leben wird man zu einem Abenteuer getrieben, manchmal ohne zu wissen, wohin es führt, manchmal mit einem ganz bestimmten Ziel vor Augen. Oft gibt es einen oder mehrere Lehrer, die einen auf dem Weg ermutigen, aber ich würde sagen, dass es im Allgemeinen eine Krise ist, die einen dazu antreibt, seine Bedenken und Ängste zu überwinden und den Schritt zu wagen. In der natürlichen Welt steht der Held vielen Gegnern, Feinden, vielleicht Gewalt, Beleidigungen, der ganzen Palette von Dingen gegenüber, die einem auf jeder Reise widerfahren können, aber der Held bleibt standhaft und wagt den Sprung.
+
+Auf dem Pfad der natürlichen Liebe wird der Held/Krieger zum Sieger, indem er seine Vision beibehält, Hindernisse überwindet und sich auf die irdische Reise konzentriert; der Held wird verwandelt und erlebt viele Wiedergeburten (innerhalb eines Lebens) und wird, ja, verwandelt, vielleicht von Hass zu Liebe, vielleicht von einem Kriminellen zu einem gütigen und liebevollen Menschen, oder vielleicht einfach von der Knechtschaft zur Freiheit, nun ein erlöster Mensch.
+
+Der spirituelle Held wird von seiner Seele in einer Art Gebet geführt, das oft so einfach ist wie: *„Lieber Gott, bitte hilf mir, zeig mir den Weg”*, und so öffnet sich der Weg, und auf dem spirituellen Weg merkt der angehende Held, dass sich die Dinge umso mehr fügen, je mehr er sich mit dem Schöpfer und den Engeln verbindet. Mit der göttlichen Führung auf dem spirituellen Weg wird der Held verwandelt, und seine Seele trägt ein Stück Unsterblichkeit und schließlich die Wiedergeburt in der Liebe Gottes in sich.
+
+Nun kann man sagen, dass sich diese beiden Wege, der natürliche und der göttliche, durchaus überschneiden können, denn es geht um das Leben auf der Erde. Wisst ihr, vor meiner Zeit sprachen Platon und dann Aristoteles von vier Tugenden: Mäßigung, Klugheit, Gerechtigkeit und Mut. Nach meiner Zeit gab es einen guten Papst namens Gregor, der zu diesen Tugenden noch Glaube, Hoffnung und Nächstenliebe hinzufügte. Und diese sieben Tugenden wurden zu den Freunden des Helden auf der spirituellen Reise zur Überwindung der sieben Todsünden, als gesegnetes Gegenstück zum Sündenfall. Wir können das Gebet hinzufügen und natürlich die Sehnsucht der Seele nach der Einheit mit Gott, die jeden Segen, jede Verwandlung und die Wiedergeburt der Seele in Gott bringen wird. Ihr seid alle auf dieser Reise, und wie schon gesagt wurde, wie wir gesagt haben und wie ich wieder sagen werde, habt ihr euch gut entschieden. Möget ihr im Licht des Herrn, unseres Gottes, unseres Schöpfers, wandeln, denn wir sind alle seine Kinder und seiner Liebe würdig. Seid also freundlich und lasst euch von den Tugenden leiten. Erlaubt euren Gebeten, die Gnade zu bringen, die alles verändert. Wir werden jeden Triumph feiern und euch im Licht und in der Liebe Gottes willkommen heißen. Fasst euch ein Herz. Lasst eure Seele sich mit dieser Liebe füllen. Seid fröhlich, denn Gott liebt euch. Ich bin euer Bruder und Freund, ein Schüler des Meisters, und ich verbinde euch jetzt in Gottes heiliger Gegenwart in dieser wunderbaren Verbundenheit, mit all meiner Liebe. Ich bin Judas.

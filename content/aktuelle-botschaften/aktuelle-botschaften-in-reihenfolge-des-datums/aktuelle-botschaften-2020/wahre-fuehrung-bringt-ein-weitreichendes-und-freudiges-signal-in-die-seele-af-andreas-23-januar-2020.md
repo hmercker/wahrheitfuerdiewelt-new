@@ -1,0 +1,30 @@
+---
+title: "Wahre Führung bringt ein weitreichendes und freudiges Signal in die Seele"
+menu_title: ""
+description: "Wahre Führung bringt ein weitreichendes und freudiges Signal in die Seele"
+date: 2020-08-01 06:25:48+00:68
+draft: False
+hidden: True
+weight:
+---
+### Wahre Führung bringt ein weitreichendes und freudiges Signal in die Seele
+
+Andreas - empfangen durch Al Fike am 23. Januar 2020, Gibsons, BC, Kanada.
+
+Hier ist Andreas.
+
+Ihr werdet alle auf der Welt gebraucht, geliebte Seelen. Es beunruhigt mich, dass einige von euch fühlen und wahrnehmen, dass ihr nicht gebraucht werdet und dass ihr vielleicht abgelehnt werdet. Dies ist nicht der Fall. Gott hat viele Pläne und viele Gelegenheiten für jeden von euch, in einer Position zu sein, in der ihr ein Lehrer, Heiler oder ein Kanal der Liebe in der Welt seid. So öffnen sich jeden Tag Gelegenheiten und jeden Tag kommt Führung zu denen, die empfänglich sind. Ich würde vorschlagen, dass die Führung von den himmlischen Engeln und von Gott einen Geschmack, ein Licht, ein Gefühl mit sich bringt, das unverwechselbar ist. Es gibt ein Signal innerhalb der Seele, das sich expansiv und freudig anfühlt, wenn ihr eure Führung richtig erhalten habt.
+
+So möchte ich euch dringend bitten, euch dieser Gefühle, Sinne und Informationen bewusst und wachsam zu sein, die kommen, wenn ihr im Gebet seid und Gott bittet, euch zu führen. Es ist nur euer Zögern und eure Annahmen und achtsamen Überlegungen, die euch oft davon abhalten, den Willen Gottes anzunehmen. Diese Herausforderung hat euch euer ganzes Leben lang begleitet, die Schwierigkeit, zwischen den Gedanken des materiellen Verstandes und den Ängsten und Bedingungen, die man durch das Leben trägt, und dem höheren Segen und Wissen der Seele zu unterscheiden. Dennoch wächst ihr weiter und erwacht zu diesen höheren Zuständen von Licht und Wahrheit und Weisheit in euch. Wenn man einen bestimmten Schritt verwirklicht, der geführt wurde, um getan zu werden, wird dieses expansive, freudige Gefühl mit ihm kommen. Dies ist euer Signal, geliebte Seelen. Darauf müsst ihr euch einstimmen, um sicherzustellen, dass ihr richtig seid und auf dem Weg geht, den Gott für euch bestimmt hat. Wenn dieses Verständnis kommt, fügt sich alles andere harmonisch ein. Es ist eine menschliche Tendenz, Annahmen zu treffen, zu planen, von diesem Ort des Verstandes aus zu organisieren und ein Eifer, dies zu tun, der auf das Gefühl der Aufregung und der Erhöhung der Führung reagiert, ist unter euch verbreitet.
+
+Ich sage euch, geliebte Seelen, fahrt fort zu beten, wenn ihr unsicher seid. Fahrt fort zu beten, um offen zu sein für das, was Gott euch an Einsicht und Weisheit geben mag. Es ist nicht so, dass wir euch die Einzelheiten vorenthalten, aber wir sind vorsichtig, wenn es darum geht, euch Einzelheiten mitzuteilen, weil die Gefahr groß ist, dass ihr sie falsch versteht und von eurem eigenen Verstand und euren Absichten fehlgeleitet werdet. Damit ihr ein klares Verständnis für jeden gegebenen Umstand zusammensetzen könnt, geben wir euch die Führung Tropfen für Tropfen, Stück für Stück, damit ihr dieses Puzzle zusammenfügen und zu eurem eigenen Verständnis und seelischen Erkennen des Willens Gottes kommen könnt.
+
+Das ist etwas mühsam, ich weiß, und eure Geduld ist oft nicht groß. Es gibt den Wunsch, dem, was sein soll, und dem Zeitplan, den Gott bestimmt hat, vorauszurennen. Ich sage zu euch, meine Freunde, geht jeden Tag im Glauben. Seid zuversichtlich, dass Gott euch in die richtige Richtung führen wird und dass das, was sein wird und in Harmonie mit Gottes Willen ist, sich manifestieren wird. Ihr habt das immer und immer wieder gesehen, meine geliebten Freunde, und ihr werdet sehen, wie sich das Tag für Tag manifestiert, und zwar mit einer größeren Klarheit, während jeder Tag realisiert wird.
+
+Ja, es gibt Prüfungen und es gibt Komplikationen und es gibt die Herausforderungen im Umgang mit eurem irdischen Leben. So sehe ich, dass ihr euch oft etwas verwirrt fühlt, begierig zu dienen, doch eher nervös mit einem Gefühl der Beklemmung, dass ihr nicht in der Lage sein werdet, eure Führung in einer klaren Weise auszuführen. Diese Angst ist nicht unbegründet, denn ihr seid alle anfällig für die Machenschaften eures eigenen Verstandes und die Annahmen und Wahrnehmungen, die mit diesem achtsamen Verständnis des Lebens einhergehen. Ihr habt die Potenziale eurer Seele noch nicht vollständig erkannt, aber ihr kommt ihnen näher. Ihr habt erkannt, dass die Führung, die euch im Moment gegeben wird, sich oft zu etwas anderem entwickeln kann, als das, was ihr in diesem Moment verstanden habt.
+
+Wenn ihr die Welt von diesen beiden Orten des Verstehens aus seht, dem materiellen Verstand und der Seele, gibt es ein Gefühl der Spannung und oft Widersprüche. Dennoch seid ihr alle mächtig mit der Liebe des Vaters gesegnet worden. Euch wurde die Fähigkeit gegeben, geführt zu werden und für den Willen Gottes empfänglich zu sein. So ist jeder Tag ein Test, ein Geschenk, ein Segen, während ihr auf diesem Weg der Verfeinerung eurer Seelenwahrnehmung, eures Unterscheidungsvermögens und eurer Fähigkeit, den Willen Gottes zu verstehen, weitergeht. Jeder Tag, geliebte Seelen, bringt euch einen Schritt näher. Jedes Mal, wenn ihr betet und um Gottes Führung bittet, so kommt die Antwort. Jeden Tag wünscht ihr euch, Gott zu dienen und euren Brüdern und Schwestern zu dienen, so werden sich Türen im Dienst öffnen.
+
+Ich bitte euch eindringlich, euch nicht zu sorgen oder zu ärgern, sondern Geduld zu haben und zu erkennen, dass das Bild klar wird, dass sich alles so fügen wird, wie es sein soll. Ihr werdet sehen, dass Gott euch auf viele verschiedene Arten gebrauchen wird, mit vielen verschiedenen Möglichkeiten, Umständen, Situationen und sogar Orten. Seid versichert, dass eure Wahrnehmungen, eure Seelenerkenntnisse euch die Führung bringen werden, die ihr braucht.
+
+Möge Gott euch auf dieser Reise segnen, geliebte Seelen. Ich bin Andreas. Meine Liebe ist mit euch. Gott segne euch. Gott segne euch alle.

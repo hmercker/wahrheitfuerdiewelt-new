@@ -1,0 +1,22 @@
+---
+title: "Sensible Seelen sind die Retter dieser Welt"
+menu_title: ""
+description: "Sensible Seelen sind die Retter dieser Welt"
+date: 2020-08-01 06:25:48+00:55
+draft: False
+hidden: True
+weight:
+---
+### Sensible Seelen sind die Retter dieser Welt
+
+Augustinus - empfangen durch Al Fike am 7. März 2016, Selah, WA, USA.
+
+Gott segne euch. Ja, euer lieber Bruder (V.S.) hat große Fortschritte in der Welt des Geistes gemacht, und das ist oft so für diese sanften Seelen, die es so schwierig finden, in der Welt zu sein. Wenn sie in die Welt des Geistes eintreten, ist ihr Fortschritt schnell, denn dies ist mehr nach ihrem Geschmack und in Harmonie mit ihrem Wesen. Das sind Empfindlichkeiten, die jeder von euch trägt, meine Geliebten, und ich weiß, dass ihr euch abmüht, dass ihr die Welt als einen schwierigen Ort empfindet, aber wir im Geist und Gottes Berührung auf euch machen es leichter, nicht wahr? Es erlaubt euch, zurechtzukommen und in dieser Welt voranzukommen. Und während ihr mit diesen schwierigen Bedingungen umgeht, werdet ihr stärker und der Kanal der Liebe wird klarer, während ihr Gott anfleht, euch durch die Dunkelheit ins Licht zu tragen.
+
+Und doch sind es die sensiblen Seelen, die die rettende Gnade in dieser Welt sind. Für diejenigen, die weiterhin in Blindheit wandeln, taub und stumm für Wahrheit und Licht, die weiterhin sich selbst und andere missbrauchen, die weiterhin Gottes flehende Liebe und den Wunsch, in Liebe zu sein, ignorieren - wer wird ihnen die Augen öffnen? Wer wird das Beispiel sein? Wer wird den zarten Herzen in ihnen erlauben, mutig und entschlossen in die Welt hinaus zu strahlen und zu sagen: *"Ich weigere mich, in der Dunkelheit zu sein, ich weigere mich, an diesem Ort des Urteils, der Angst und des Zorns, des Irrtums zu sein. Ich wünsche mir etwas Höheres, Besseres und Schöneres"*.
+
+Und es sind jene sensiblen Seelen, die diese tiefe Sehnsucht haben und die den Schmerz des Wissens um die Grausamkeiten dieser Welt tragen, die diese aber überwinden und Gott anflehen, sie zu heilen, die ganze Menschheit zu heilen, die Liebe über den Schmerz zu wählen, das Mitgefühl über das Urteil zu wählen, die Stärke in der Wahrheit und die Authentizität über die Oberflächlichkeit zu wählen, die die Wahrheit vollständiger suchen. Das sind Gottes Kinder, die erlöst sind oder sich auf dem Weg der Erlösung befinden. Und ihr seid sie, meine Geliebten, ihr seid diese Kinder und ihr werdet die Dienste der Engel und die Berührung Gottes und die Unterstützung, die euch gegeben wird, verdienen, ihr werdet dies verdienen, meine Geliebten, denn ihr habt dies gewählt. Ihr habt dies über die Mittelmäßigkeit gewählt, die so viele wählen, und das macht euch zu einer geliebten und wertvollen Seele in dieser Welt.
+
+Fahrt fort in euren Bemühungen zu lieben, euch selbst zu lieben, alle um euch herum zu lieben, ein Kanal des Lichts und der Liebe für Gott zu sein. Und Gott wird euch auf einen wunderbaren Weg führen und ihr werdet nicht von der Welt verletzt werden, sondern ihr werdet den heilenden Balsam der Liebe bringen, denn Gottes Hand liegt fest auf euch, meine Kinder. Ihr könnt dies nicht leugnen, ihr fühlt es, ihr wisst es. Und so seid ihr dem Bösen nicht schutzlos ausgeliefert, ihr seid ein kraftvoller Kanal des Lichts und der Veränderung.
+
+Ihr müsst dies glauben und wahrhaftig in euch selbst wissen und dementsprechend gehen und sprechen, um stark im Licht zu sein, um liebevoll in all euren Handlungen zu sein, um euren eigenen Schmerz loszulassen und die Freiheit und Freude zu kennen, Gottes Kind zu sein, egal wo ihr seid. Das müsst ihr sein, in erster Linie in Gottes Gnade und darin werdet ihr viele Seelen berühren. Euer Beispiel wird die Köpfe verdrehen, wird Neugierde wecken. Ihr werdet bemerkt werden und einige werden sich wundern und andere werden erkennen und viele werden auf irgendeine Weise berührt werden, wenn ihr diese Samen der Liebe in die Welt sät. Seid stark, meine lieben, geliebten Kinder, und wisst, dass Gott euch fest in seinem Griff hat und kein Leid über euch kommen lassen wird, meine Geliebten, solange ihr weiterhin in diesem Licht wandelt und seiner Führung folgt. Gott segne euch, meine geliebten Seelen. Ihr seid wahrhaftig gesegnet und geliebt und kostbar, Juwelen, die unbezahlbar sind, Geliebte. Fahrt fort zu leuchten, ein Kanal der Liebe zu sein und das zu sein, was ihr wirklich seid im Licht von Gottes Anerkennung und Liebe und Schöpfung. Gott segne euch. Augustinus liebt euch von ganzem Herzen. Gott segne euch.

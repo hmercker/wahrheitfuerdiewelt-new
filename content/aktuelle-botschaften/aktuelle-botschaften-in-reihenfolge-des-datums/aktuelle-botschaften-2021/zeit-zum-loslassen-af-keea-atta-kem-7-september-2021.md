@@ -1,0 +1,36 @@
+---
+title: "Zeit zum Loslassen"
+menu_title: ""
+description: "Zeit zum Loslassen"
+date: 2020-08-01 06:25:48+00:73
+draft: False
+hidden: True
+weight:
+---
+### Zeit zum Loslassen
+
+Keea Atta Kem - empfangen durch Al Fike am 7. September 2021, Direkte Stimme Retreat, Gibsons, BC, Kanada.
+
+Möge Gottes Atem der Liebe über euch sein, meine geliebten Freunde. Ich bin Keea Atta Kem.
+
+Ihr habt also die Macht des dunklen Raums gekostet. Ihr seid zusammengekommen, um eure Verwandtschaft miteinander zu bekräftigen, eure Seelen sehnen sich nach größerem Erwachen und größerer Wahrheit, euer Verstand dürstet danach, in eurer Entwicklung voranzukommen und diese Gaben zu erschließen. Ihr verbindet euch in der Tat in einer Form der Einheit und des Lichts, die für die Arbeit, die wir gemeinsam tun, sehr nützlich ist.
+
+Es ist jetzt wichtig, dass ihr die Dinge loslasst, die diesen Bemühungen nicht förderlich sind. Viele dieser Dinge sind in euch verborgen, aber sie werden in eurem Bewusstsein auftauchen, denn die Kraft eurer Gebete, eurer Gruppe, der Segen Gottes über euch, die Anwesenheit eurer Engelsfreunde und der vielen anderen, die mit dieser Gruppe zusammenarbeiten, werden dafür sorgen, dass die Elemente in euch auftauchen, die nicht mit der Liebe, der Reinheit und der Harmonie in Einklang stehen.
+
+Wie bereits erwähnt, liegt es in eurer Verantwortung, euch dessen bewusst zu werden und die Heilung dieser disharmonischen Teile in euch zuzulassen, um mehr Harmonie zu schaffen. Wenn ihr zulasst, dass diese Dinge von euch abfallen, wenn ihr offen seid für Gottes Berührung und Heilung, dann leistet ihr nicht nur euch selbst, sondern auch eurer Gruppe einen Dienst, ihr fügt mehr Licht hinzu, ihr bewegt euch auf einer höheren Ebene, ihr erlaubt Gott, sich freier zu bewegen und zu segnen und das sich entfaltende Licht seiner Liebe in jeden Teil eures Wesens zu bringen, in jeden Aspekt dessen, was ihr seid. In dem Maße, in dem diese Liebe diese Teile von euch berührt, werdet ihr den Aufschwung, die Freude und die Freiheit erfahren, die mit der Macht der Liebe einhergehen.
+
+Jedes Mal, wenn ihr zusammenkommt, verkündet ihr euch selbst. Ihr seid ein Zeugnis für das Wunder dieser Wahrheit. Ihr öffnet die Tür, damit Gott eintreten kann und die Engel Gottes sich euch nähern können. Betet so oft ihr könnt. Sucht dieses Geschenk der Liebe und der Heilung, der Harmonie und des Friedens in euch selbst, damit ihr wachsen und euch ausdehnen könnt, indem ihr die Barrieren und disharmonischen Elemente beiseite schiebt, damit ihr wirklich eure Freiheit findet und damit wir gemeinsam den Weg der Entwicklung und Manifestation gehen können.
+
+Es ist der Weg dieser eurer Welt, dass sich viele vor der Wahrheit ihres eigenen Zustands verstecken. Sie können nicht hinsehen. Sie sind ängstlich. Sie wollen sich in einer rauen Welt nicht bloßstellen und verletzlich sein. Doch hier seid ihr unter Freunden. Ihr seid an einem Ort des Lichts. Ihr werdet nicht für die Dinge verurteilt, die ihr für Fehler haltet. Vielmehr blicken eure Freunde mit Mitgefühl und Verständnis auf euch.
+
+Der Akt des Gebets, in dem ihr Gott anfleht, eure Seele und alle Zustände, die euch bedrücken, mit der Berührung seiner Liebe zu heilen, ist in der Tat ein Akt des Mutes und der Verantwortung, denn jeder von euch möchte der Menschheit die Wahrheit bringen. Aber damit dies mit großem Engagement und Beispiel geschehen kann, müsst ihr zuerst so im Licht wandeln, dass diese tiefen Hemmungen und Bedingungen gelöst werden. Nur wenige haben wirklich den Wunsch, diesen Weg zu gehen. Nur wenige verstehen wirklich, was sie von Gott fernhält. Ihr habt euch entschieden, eure Augen zu öffnen und euch selbst zu öffnen, um die Dinge zu sehen, die wirklich verborgen sind, und ihr seid dadurch ermächtigt worden, sie zu ignorieren und ihre Existenz nicht anzuerkennen.
+
+Ihr könnt nicht damit fortfahren, die Wahrheit in euch zu verbergen. Vielmehr müsst ihr diese Verhüllung abstreifen und euer wahres Selbst mit den Augen des Mitgefühls und der Liebe sehen, um zu verstehen, dass jedes Kind, das auf dieser Welt lebt, auf irgendeine Art und Weise verletzt worden ist, oft sogar auf viele Arten. Aber ich ermutige euch, meine lieben Freunde, nicht dazu, euch mit diesen Dingen zu beschäftigen und einen Schrein für euren eigenen Schmerz zu errichten. Vielmehr ist es die schnelle Befreiung, die mit der Anerkennung und dem Gebet kommt, die Heilung eurer Seele und alles, was eure Seele hemmt, kann in einem Moment des wahren Gebets und des Wunsches, dass diese Dinge aus eurem Bewusstsein, aus euch selbst, verschwinden, auf dem Weg der Liebe Gottes losgelassen werden. Gottes Mitgefühl, seine Liebe und seine heilende Berührung sind groß. Aber oft ist es euer Verstand, der daran festhält und meint, es sei so wichtig, euren Schmerz zuzugeben, nicht nur euch selbst, sondern auch anderen gegenüber.
+
+Geliebte Seelen, es ist an der Zeit, frei zu sein, eure Lasten loszulassen und in der Reinheit des Lichts, im Zustand der Liebe und in der Schönheit eurer eigenen Seele zu Gott zu kommen, unbelastet von der menschlichen Natur. Auf diese Weise könnt ihr als wahre und klare Kanäle Seiner Liebe hervortreten, ein wahres Instrument sein, ein Instrument mit tiefen und mächtigen Gaben, die Gott euch bei eurer Erschaffung gegeben hat. Diese Gaben wollen erweckt und zum Ausdruck gebracht werden, werden aber oft verzerrt und durch die schrecklichen Bedingungen, die ihr im Laufe eures Lebens angesammelt habt, vom wahren Licht und der Schönheit abgehalten.
+
+Ich fordere euch auf, in Freiheit zu gehen, ernsthaft zu beten und zu sagen: Ich habe genug von diesem Schmerz und möchte nicht nur aus der Perspektive des Verstandes befreit werden, sondern wirklich aus dem Verlangen der Seele. Wenn dieses tiefe Verlangen und diese Sehnsucht von der Seele kommen und wahrhaftig vor Gott gebracht werden, dann seid ihr bereit, von diesen Fesseln befreit zu werden und die Freude und Freiheit einer in Liebe erlösten Seele zu erfahren.
+
+Dies ist eure große Herausforderung, geliebte Seelen. Es ist die Herausforderung jeder Seele, die auf dieser Erde wandelt, aber ihr habt die Wahrheit erkannt. Ihr habt den großen Hebel kennengelernt, der diese Fesseln sprengt, die Kraft der Liebe, die die Wunden heilen wird, die Weisheit, die mit dem Erwachen der Seele einhergeht, die ihre wahre Bestimmung, ihr Wesen und ihre Beziehung zu ihrem Schöpfer versteht. Welche Freude werdet ihr empfinden. Diese Freude wird auch bei uns im Himmelreich herrschen, wenn wir die Neugeburt eurer Seele durch die Heilung und Verwandlung beobachten, die mit der Liebe des Vaters einhergeht.
+
+Möge Gott euch auf dieser Reise segnen. Wisset, dass ihr von Freunden umgeben seid, Freunden auf der Erde, Freunden in der geistigen Welt, Freunden überall, wo ihr hinschaut, die darauf brennen, euch bei der Geburt eurer Seele zu begleiten. Möge Gott euch segnen, geliebte Seelen. Ich bin Keea Atta Kem und ich bin bei euch in diesem Kampf, in eurem Schmerz. Ich bin bei euch in eurer Freude und eurem Erwachen. Ich bin bei euch in all diesen Dingen, die zum Leben und zum Wachstum eurer Seele gehören. Mögen wir gemeinsam das Wunder erleben, dass die Seele erwacht und ihren Platz bei Gott findet. Gott segne euch. Meine Liebe ist mit euch allen. Gott segne euch, geliebte Seelen. Ich liebe euch.

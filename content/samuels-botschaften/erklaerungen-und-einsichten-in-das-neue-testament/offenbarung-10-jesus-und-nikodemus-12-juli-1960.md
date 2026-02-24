@@ -1,0 +1,54 @@
+---
+title: "Offenbarung 10 : Jesus und Nikodemus"
+menu_title: ""
+description: "Offenbarung 10 : Jesus und Nikodemus"
+date: 2020-07-03 06:25:48+00:00
+draft: False
+hidden: True
+weight:
+---
+### Offenbarung 10 : Jesus und Nikodemus
+
+Jesus – empfangen durch Dr Samuels am 12. Juli 1960, Washington, DC, USA.
+
+Ich bin hier, Jesus.
+
+Ich möchte dir heute über Nikodemus ben Gurion schreiben, einem Pharisäer, der damals, als ich in Palästina lehrte, höchstes Ansehen genoss. Nikodemus, der Sohn eines angesehenen Rabbiners, war ein tiefgläubiger und sehr reicher Jude, der es nach damaliger Sitte und Gepflogenheit liebte, sich über die Heilige Schrift auszutauschen, indem er Einzelpersonen oder ganze Gruppen zu sich einlud, Bibelverse auszulegen. Er war weder Priester noch verrichtete er einen Dienst im Tempel. Als Pharisäer war er nicht nur darauf bedacht, die Gesetze, Gebote und Vorschriften des Mose peinlichst genau zu erfüllen, er beschäftigte sich zudem auch mit den mannigfachen Interpretationen und Auslegungen, die aufgrund des Zeitenwandels notwendig geworden waren—allgemein als mündliches Gesetz bezeichnet.
+
+Im Gegensatz zur Hocharistokratie und der Priesterschaft, die der sadduzäischen Lehre folgten und die sich eher um den eigenen Vorteil als um die Einhaltung der Schriften bemühten, waren es oft einfache Leute wie Handwerker, Bauleute oder Händler, die als Pharisäer danach trachteten, das schriftliche und mündliche Gesetz einzuhalten und auszulegen. Die Pharisäer stellten demnach die größte Bevölkerungsgruppe dar, die in Jerusalem zu finden war.
+
+Die Pharisäer glaubten an die Unsterblichkeit der Seele, zumal es für sie unvorstellbar war, dass der gütige und barmherzige Gott zulassen würde, dass so viele Menschen in Armut und Entbehrung leben sollten, während einige wenige die gesamten Reichtümer untereinander verteilten. Als eine Art ausgleichende Gerechtigkeit strebten sie nach einem Reich Gottes, das auf Rechtschaffenheit und Barmherzigkeit errichtet war, was wiederum aber nur dann Sinn ergibt, so man ein Weiterleben nach dem Tod oder an die Unsterblichkeit der Seele glaubt. Du siehst—die Pharisäer interessierten sich naturgemäß nicht nur für meine Lehre der Unsterblichkeit, die mit der Gnade der Göttlichen Liebe einhergeht, sie stellten im Endeffekt auch die Mehrheit derer, die sich einfanden, um meine Predigten zu hören.
+
+Aufgrund ihrer strengen Gesetzesauslegung waren viele von ihnen zutiefst darüber empört, dass ich das Kommen des Reiches Gottes scheinbar mit meiner Person verknüpfte, denn sie verwechselten den Menschen Jesus mit der Botschaft, die mich der Vater zu verkünden beauftragt hat—die ewige Erlösung aus Sünde und Irrtum durch das Wirken der Göttlichen Liebe.
+
+Die Pharisäer konnten sich nicht vorstellen, dass es eine Liebe geben könnte, die stärker wäre als alles, was aus der Einhaltung und Beachtung der Zehn Gebote, der Thora und der vielen anderen Vorschriften erwachsen könnte. Für sie war der einzige Weg in das Paradies die Anerkennung der Gesetze Gottes, weshalb sie mit der Lehre von der Göttlichen Liebe und der fundamentalen Wandlung, die in der Neuen Geburt geschieht, nicht viel anzufangen wussten. Dieser Zwiespalt war es, der sie einerseits zu mir führte, und der sie andererseits so sehr gegen mich aufbrachte.
+
+Auch Nikodemus beschäftigte sich mit dem, was ich in aller Öffentlichkeit predigte. Wenn es ihm auch nicht möglich war, meine Worte zu verstehen, fühlte er doch in seinem Herzen, dass ich rechtschaffen war und die Wahrheit sagte. Um sich also ein genaueres Bild von mir zu machen und dabei die Gelegenheit zu erhalten, Einsichten in meine Lehre zu gewinnen, vereinbarte er mit mir ein geheimes, nächtliches Treffen, damit ich ihm erklären könnte, was ich auf den Plätzen und in den Straßen Jerusalems lehrte. Er sah in mir nämlich einen Mann Gottes, der so sehr vom Glauben und der göttlichen Wahrheit erfüllt war, dass der himmlische Vater Wunder durch mich vollbrachte.
+
+Er fragte mich deshalb, was das Reich Gottes sei und wie man in dieses Reich gelangen könnte. Da er mich und meine Botschaft aber einfach nicht verstehen konnte, so sehr er sich auch bemühte, erzählte ich ihm von der Neuen Geburt, um den Wandel, den eine Seele vollzieht, wenn sie durch das Übermaß der Göttlichen Liebe aus dem Menschsein erhoben wird, zu erklären. Das Johannes-Evangelium, Kapitel 3, hat diese Szene festgehalten:
+
+*“Es war ein Pharisäer namens Nikodemus, ein führender Mann unter den Juden. Der suchte Jesus bei Nacht auf und sagte zu ihm: Rabbi, wir wissen, du bist ein Lehrer, der von Gott gekommen ist; denn niemand kann die Zeichen tun, die du tust, wenn nicht Gott mit ihm ist. Jesus antwortete ihm: Amen, amen, ich sage dir: Wenn jemand nicht von neuem geboren wird, kann er das Reich Gottes nicht sehen. Nikodemus entgegnete ihm: Wie kann ein Mensch, der schon alt ist, geboren werden? Er kann doch nicht in den Schoß seiner Mutter zurückkehren und ein zweites Mal geboren werden. Jesus antwortete: Amen, amen, ich sage dir: Wenn jemand nicht aus Wasser und Geist geboren wird, kann er nicht in das Reich Gottes kommen. Was aus dem Fleisch geboren ist, das ist Fleisch; was aber aus dem Geist geboren ist, das ist Geist. Wundere dich nicht, dass ich dir sagte: Ihr müsst von neuem geboren werden.“*
+
+Für Nikodemus konnte eine Seele nur weiterleben oder eine spirituelle Neugeburt erleben, wenn der Mensch auf Erden gehorsam gegenüber den Gesetzen Gottes war, Gutes tat, Nächstenliebe und Barmherzigkeit praktizierte, sich in Rechtschaffenheit und Frömmigkeit übte, ohne die Witwen und die Waisen zu vergessen. Kurz: Wiedergeboren konnte seiner Meinung nach nur werden, wer seine Sünden bereute, das Böse zu meiden suchte und so mit ganzem Herzen und ganzen Sinn nach Gott strebte. Nur so war es seinem Glauben nach möglich, Unsterblichkeit zu erringen.  
+
+Ich zeigte ihm deshalb auf, dass es von großem Nutzen ist, seine natürliche, menschliche Liebe zu reinigen und von jedem Makel zu befreien, denn dieser Weg würde unweigerlich in das Paradies, den spirituellen Himmel führen, nicht aber in das Reich Gottes, wo nur eintreten kann, wessen Seele in das Göttliche erhoben worden ist—durch das Werk und das Wirken der Göttlichen Liebe.
+
+Aus dem Fleisch geboren, bedeutet nichts anderes, als aus dem Schoß der Mutter geboren zu werden. Aus dem Geist, dem Heiligen Geist, geboren werden, kann allerdings nur derjenige, der durch das Wirken der Göttlichen Liebe von neuem geboren wird. Betritt der Mensch diese Welt, geschieht dies, indem er als Mensch geboren wird. Eine Wiedergeburt im Fleisch ist nicht möglich, wohl aber eine spirituelle Wiedergeburt, die nicht das Fleisch des Menschen betrifft, sondern den eigentlichen Menschen—seine Seele, die durch die Transformation in eine göttliche Seele verwandelt und von neuem geboren wird.  
+
+Dies kann aber nur geschehen, wenn der Mensch in aller Ernsthaftigkeit und voller Vertrauen um die Liebe des Vaters bittet. Dann betritt diese Liebe die Seele und verwandelt sie Stück für Stück in eine neue Wesenheit, bis dieser fundamentale Prozess eine solche Überfülle an Göttlicher Liebe in der menschlichen Seele vereint, dass diese Seele aus dem rein Menschlichen erhoben wird, um zum Vollbesitz aller göttlichen Eigenschaften, welche die Natur des Vaters mit sich bringt, auch Anteil an Seiner Unsterblichkeit zu gewinnen. Nur so gelangt man in das Reich Gottes, während ein Leben in Rechtschaffenheit und Nächstenliebe lediglich die natürliche Liebe reinigt, sie aber nicht transformiert.
+
+Nicht einmal Petrus und Johannes, meine am weitesten fortgeschrittenen Jünger, haben diesen Wandel verstanden. Wie also sollte Nikodemus ben Gurion diese Wahrheit verstehen — ein Mann, dessen Herz sich zwar nach der Göttlichen Liebe sehnte, dessen Verstand aber der Lehre der Hebräer verbunden war. Sein tiefverwurzelter Glaube an die Gesetze und die Lehre der Thora machten ihn unfähig, meine Frohbotschaft zu verstehen, und es sollte seine Zeit dauern, bis er meine Worte verinnerlicht und umgesetzt hatte.
+
+*„Nikodemus erwiderte ihm: Wie kann das geschehen? Jesus antwortete: Du bist der Lehrer Israels und verstehst das nicht? Der Wind weht, wo er will; du hörst sein Brausen, weißt aber nicht, woher er kommt und wohin er geht. So ist es mit jedem, der aus dem Geist geboren ist.“*
+
+Wie soll ein Mensch, der nicht einmal den Wind—ein zutiefst irdisches Phänomen — versteht, begreifen, was es bedeutet, dass die Seele von neuem geboren wird, wenn er schon Probleme hat, eine rein materielle Manifestation zu erfassen? Da Ruach im Hebräischen sowohl Wind als auch Geist bedeutet, war es mir möglich, ihm mit Hilfe dieses Wortspiels auch auf die Doppelbedeutung dieser Aussage hinzuweisen, indem ich einerseits auf den Wind, andererseits auf den Heiligen Geist verwies, um Nikodemus zu helfen, beide Bedeutungen anzunehmen und zu verinnerlichen.
+
+Was ich aber nicht sagte, war, dass der Mensch aus Wasser und Geist geboren werden müsse. Niemand kann aus dem Heiligen Geist geboren werden, denn dieser Teilaspekt des göttlichen Geistes ist lediglich mit der Aufgabe betreut, die Göttliche Liebe in die Seele des Menschen zu tragen. Diese Liebe ist es, die dem Mensch die Neue Geburt schenkt, nicht aber der Heilige Geist.  
+
+Aus dem Wasser kann man ebenfalls nicht geboren werden — dies ist ein späterer Einschub in das Evangelium und sollte auf die Wichtigkeit der Taufe verweisen. Die Taufe ist höchstens ein symbolischer Akt, ein sichtbarer Neuanfang, jedoch in keiner Art und Weise geeignet, die Göttliche Liebe in die Seele herabzurufen. Wie soll jemand in das Reich Gottes gelangen, indem er mit Wasser benetzt wird? Dies ist ungleich schwerer zu verstehen als durch das Wirken der Göttlichen Liebe von neuem geboren zu werden.
+
+Als Nikodemus und ich uns in besagter Nacht wieder trennten, blieben viele seiner Fragen offen, die sein Verstand nicht fassen konnte, und dennoch sehnte sich seine Seele bereits nach der Liebe des Vaters. Es war für ihn nicht nur schwer, den Inhalt meiner Frohbotschaft zu verstehen, er sah sich zudem auch gezwungen, die Vorstellung, die er vom Messias der Juden hatte, grundlegend zu überdenken. Aber auch Nikodemus erlebte sein persönliches Pfingsten, als er seinen Verstand beiseite schob, um sein Herz für die Wahrheit zu öffnen. Indem er sich vertrauensvoll dem Vater in die Hände legte, war es letztlich auch ihm möglich, das Geschenk der Göttlichen Liebe zu empfangen. Dieses Wunder konnte aber nur geschehen, weil er beschlossen hatte, nicht länger mit dem Verstand, sondern mit dem Herzen zu denken.
+
+Noch heute ist er als Bewohner der göttlichen Himmel in meiner unmittelbaren Nähe, und er arbeitet unermüdlich daran, die Kunde von der Göttlichen Liebe auf die Erde zu bringen, damit alle Menschen die Segnung erfahren, die jedem zuteil wird, der eins mit dem Vater ist.
+
+Jesus der Bibel, Meister der göttlichen Himmel.

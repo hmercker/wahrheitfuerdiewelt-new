@@ -1,0 +1,34 @@
+---
+title: "Wahrheit und der Weg zur Vollkommenheit"
+menu_title: ""
+description: "Wahrheit und der Weg zur Vollkommenheit"
+date: 2020-08-01 06:25:48+00:86
+draft: False
+hidden: True
+weight:
+---
+### Wahrheit und der Weg zur Vollkommenheit
+
+Jesus - empfangen durch David Lampron am 11. August 1988.
+
+Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus, und ich komme an diesem schönen Tag und in dieser herrlichen Umgebung zu dir, um wieder einmal meine Gedanken von heute mit dir und anderen zu teilen. Ich bin natürlich der Jesus der Bibel und der Meister der Göttlichen Himmeln, und ich bin sehr glücklich über die Gelegenheit, wieder zu dir zu kommen und auf diese Weise zu deinem und dem Nutzen anderer zu kommunizieren.
+
+Veränderung ist, wie du weißt und wie dir gesagt wurde, das ewige Gesetz. Aber die spirituellen Wahrheiten, die die Menschheit braucht, ändern sich nie. Was fehlt, ist die richtige Kommunikation dieser Wahrheiten an so viele Kinder Gottes, die Ohren zum Hören und Seelen zum Verstehen haben. Und wenn ich das sage, meine ich natürlich, dass alle Kinder Gottes die Fähigkeit haben, die spirituellen Wahrheiten Gottes zu erkennen und in sich aufzunehmen; aber die Fähigkeit ist nicht genug. Was wir brauchen, ist sowohl der Zugang zu diesen Wahrheiten als auch ein großes seelisches Verlangen nach ihnen. Den Zugang zu ermöglichen ist der einfache Teil; das Verlangen zu fördern ist die weitaus schwierigere Aufgabe. Aber das ist es, was unsere Arbeit so herausfordernd und letztendlich so lohnenswert macht.
+
+Die Wahrheit ist nicht und war nie etwas, das manche Menschen als sterile Fakten betrachten, die kein Leben haben, außer vielleicht für den Intellekt nützliche Informationen. Nein, die spirituelle Wahrheit hat Leben in sich, und das bedeutet eine eigene lebendige Kraft. Aber damit diese Kraft voll zur Geltung kommt, ist es notwendig, dass die Wahrheit ihren Aufbewahrungsort nicht nur im Verstand findet, wo sie eine Zeitlang wohnen kann oder auch nicht, sondern, was noch wichtiger ist, in der Seele, wo sich die wahre Heimat der Wahrheit befindet und wo sie zum Leben und zur Vitalität dieser Seele beiträgt.
+
+Unsere Aufgabe ist also viel größer als die bloße Vermittlung von Informationen; unsere ewige Aufgabe besteht darin, zuerst die Seelen der Erde und der spirituellen Welt mit der Förderung des Begehrens zu erreichen; denn ohne das Begehren nach der Wahrheit kann die Wahrheit selbst keine Heimat von Dauer finden. Nur wenn das Verlangen von einer sehnsüchtigen Seele ruft, kommt die Wahrheit einer spirituellen Ordnung zu dieser Seele. Und wenn sie erst einmal eingetreten ist und eine für sie selbst günstige Unterkunft findet, bleibt die Wahrheit für immer mit und in dieser Seele.
+
+Und so, meine Lieben, während ihr euren vielen Aufgaben eines spirituellen Auftrages nachgeht, bedenkt immer, dass die Informationen, die wir und ihr zur Verfügung stellt, Wurzeln schlagen müssen; Information allein ist nicht genug. Und es ist vor allem durch eure liebevollen und besorgten Bemühungen in euren persönlichen Kontakten mit anderen, dass die spirituellen Wünsche und Bestrebungen in euch selbst von euren Zuhörern erkannt werden können. Und es ist dieser Wunsch in euch selbst, die Wahrheiten, die ihr aufgenommen habt, zu teilen, der überzeugender vermittelt wird als die Informationen selbst.Ja, ihr müsst bedenken, dass die wirkliche spirituelle Wahrheit lebt und sich offenbart, vor allem durch die liebevollen Ausgießungen die die Wahrheit selbst aus dem Inneren der Seele heraus ermutigt. Und das ist nur ein Grund von vielen, warum jeder von euch sich weiterhin ein größeres Wissen über die spirituelle Wahrheit wünschen muss, das unbegrenzt zur Verfügung steht.
+
+Mit diesem Wunsch und Aneignung kommt nicht nur ein größeres Wissen, sondern auch eine größere Überzeugungskraft bei der Anhäufung der Wahrheit und ihrer Kommunikation mit anderen. *"Seid vollkommen, wie euer Vater im Himmel vollkommen ist"* ist ein hoher Maßstab, ich weiß. Aber während dies etwas ist, das wir notwendigerweise ewig anstreben müssen, ist dieser Aussage auch die Lektion inhärent, die ich heute zu vermitteln versuche; das heißt, dass die Reise zur Vollkommenheit von der Anhäufung Göttlicher Wahrheiten abhängt.
+
+Und, wie wir alle wissen, ist es die Göttliche Liebe des Vaters, die diese Anhäufung überhaupt erst ermöglicht. Mir ist klar, dass ich all dies bereits auf unterschiedliche Weise gesagt habe. Aber ich habe mich entschieden, meine heutige Botschaft in einer weiteren Variation desselben Themas zu präsentieren. Was ich vor allem vermitteln und verstehen möchte, ist, dass keiner von uns zufrieden und selbstgefällig in der Vorstellung werden sollte, dass wir, weil wir vielleicht mehr von der Wahrheit des Vaters besitzen als einige andere, deshalb zufrieden in unserer vermeintlichen Überlegenheit ruhen können - und verweilen, wie wir denken mögen, bis andere so viel wie wir aufgenommen haben.
+
+Nein, Wahrheiten sind nicht dazu bestimmt, von einigen wenigen besessen zu werden, sondern sie sind für alle verfügbar. Und es gibt keinen festen Punkt, an dem es sich jemand von uns leisten kann, mit seinem angesammelten Wissen über Wahrheiten zufrieden zu sein. Denn wenn wir dies tun, stagnieren wir, und die daraus resultierende Lethargie erlaubt uns nicht, dieses potenzielle, aber in uns schlummernde Verlangen zu vermitteln, unsere Wahrheiten mit anderen zu teilen. Und deshalb muss ich noch einmal sagen: Es ist der Wunsch nach Gottes Liebe und Seinen Wahrheiten, den wir nicht nur haben müssen, sondern auch das, was wir in den Herzen, Köpfen und Seelen anderer Menschen erwecken müssen, der sowohl für unsere himmlische Mission als auch für eure Mission und Berufung von entscheidender Bedeutung ist.
+
+Wenn wir gemeinsam den großen Schlüssel der Sehnsucht nach Wahrheit in anderen beleben können, dann werden sie die Wahrheit finden und die Wahrheit empfangen - und das unabhängig von den Informationen, die wir vielleicht auch gleichzeitig vermitteln. Aber wenn ich all dies sage, möchte ich nicht, dass es so verstanden wird, als würde ich irgendjemanden von euch kritisieren, denn das tue ich nicht. Ich präsentiere lediglich eine Erinnerung, die ich selbst nicht aus den Augen verlieren darf. Denn du siehst, letztlich können wir zwar das Verlangen nach Gottes Eigenen Wahrheiten in anderen ermutigen und verstärken, aber das ist nur möglich, wenn wir dieses Verlangen auch in uns selbst ausstrahlen.
+
+Und, als letzter Gedanke für heute, lass uns nicht vergessen, dass jenseits des Verlangens die Wahrheiten des Vaters selbst sind, immer bereit, in jene Seelen zu fließen, die Seine ausströmende Liebe mit wahrer und beständiger Sehnsucht suchen.
+
+Bis zu unserem nächsten Gespräch verlasse ich dich nun mit meiner Liebe und meinem Segen und dem des Vaters. Dein Freund und Bruder, Jesus.

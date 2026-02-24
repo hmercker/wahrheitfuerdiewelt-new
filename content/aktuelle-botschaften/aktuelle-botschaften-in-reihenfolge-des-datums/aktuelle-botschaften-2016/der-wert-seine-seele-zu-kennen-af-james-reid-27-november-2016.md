@@ -1,0 +1,39 @@
+---
+title: "Der Wert, seine Seele zu kennen"
+menu_title: ""
+description: "Der Wert, seine Seele zu kennen"
+date: 2020-08-01 06:25:48+00:87
+draft: False
+hidden: True
+weight:
+---
+### Der Wert, seine Seele zu kennen
+
+James Reid [^1] - empfangen durch Al Fike am 27. November 2016, Hawaii, USA.
+
+Meine Freunde, es ist James, James Reid.
+
+Wie anders es ist, auf dieser Seite der Stimme zu sprechen. Auf diese Weise ein Kanal zu sein, auf diese Weise zu euch zu sprechen und wie erfreut ich bin, diese Gelegenheit zu haben, zu meinen Freunden zu sprechen und zu dir mein Freund Geoff, der mein treuer Unterstützer und lieber Freund war.
+
+Ich möchte euch sagen, dass ich in den spirituellen Reichen sehr glücklich bin. Ich wohne in der 5. Sphäre und finde hier viel zu tun und lerne viel, während ich durch diese wunderschöne Sphäre voranschreite. Und ich möchte euch allen sagen, besonders meinem lieben Freund, dass ihr eure Zeit nicht verschwendet, wenn ihr zusammenkommt. Jedes Mal, wenn ihr auf diese Weise zusammenkommt, jedes Mal, wenn ihr euch mit anderen verbindet, so wie ihr es heute getan habt, baut ihr ein Licht auf, ihr bewirkt eine Veränderung in dieser Welt, ihr bringt ein größeres Bewusstsein hervor und berührt Seelen als ein Kanal der Liebe Gottes in der Welt.
+
+Ich habe mich zu eurer Gruppe verpflichtet, zu den Bemühungen all derer, die für die Göttliche Liebe beten und versuchen, dieses Wissen in die Welt zu bringen.  Ich habe mich verpflichtet, euch zu unterstützen und euch auf jede Weise zu helfen, die ich kann.
+
+Mein Herz ist überwältigt von Dankbarkeit für die großen Segnungen, die Gott mir in meinem Leben gegeben hat und das Wissen, wie ich meine Seele in der Liebe wachsen lassen kann, und für all die Segnungen, die ich in dieser Welt erhalten habe, in eurer Welt und all die vielen Segnungen, die ich in dieser Welt erhalte, und ich möchte euch allen dienen, und ich werde an eurer Seite sein als euer eifriger Helfer.
+
+Ich möchte, dass ihr wisst, dass ich einige meiner Überzeugungen und Einstellungen geändert habe, als ich auf diese Seite des Lebens kam. Die Dinge sind so viel klarer in diesen höheren Sphären und einfacher, und ich sehe jetzt, dass die Kraft der Liebe Gottes der ultimative Segen und die Wahrheit ist, und vieles von dem, was ich wahrgenommen habe, als ich im Fleisch war, war nur eine Menge Durcheinander um diese Wahrheit, die Kraft dieser Wahrheit, und mein Verstand war so begierig, diese Details zu wissen, diese Dinge über das Leben des Geistes und über das Leben, den Zweck des Lebens, den Sinn des Lebens. Und so mache ich mir keine Vorwürfe, dass ich meinen Verstand in all diese Aspekte und Details eingetaucht habe, über die ich gelesen und diskutiert und mit anderen geteilt habe. Es liegt in der Natur eurer Welt, den Verstand zu informieren, die mentalen Fähigkeiten zu entwickeln, der Wahrheit einen Sinn zu geben, aber ich sage euch, meine Freunde, wenn ihr Fortschritte macht und eure Seelen sich in der Liebe ausdehnen, werden diese Dinge des Verstandes weniger Bedeutung und Relevanz haben. Die Dinge eurer Seelen werden das sein, was hervortritt und Macht und Einfluss auf euer Wesen hat und wer ihr seid und wie ihr die Welt wahrnehmt und wie das Leben ist, wirklich wie das Leben ist und sein soll.
+
+Es ist alles sehr einfach und es basiert auf dem Fundament der Liebe, noch einmal, ich bin dankbar, dass ich diese Tatsache verstanden habe, als ich in der Welt lebte. Das Fundament der Liebe, meine Freunde, ist das größte, stärkste, mächtigste Fundament, das ihr in eurem Leben aufbauen könnt. Alles muss in Harmonie und im Einklang mit der Liebe sein.
+
+Deshalb frage ich euch: Wenn ihr auf ein neues Konzept, eine Idee stoßt, fragt euch, wie steigert das die Liebe in meinem Leben, wie baut das die Liebe in meinem Leben auf, wie drückt das die Liebe in meinem Leben aus?; denn alles andere ist in vielerlei Hinsicht irrelevant. Besonders für alle von euch, die sich verpflichtet haben, Gott als Kanal Seiner Liebe zu dienen. Um die Wahrheit Seiner Liebe in die Welt zu bringen. Das ist es, was wichtig ist; die Liebe in euch selbst aufzubauen, die Wahrheit der Liebe, das Wunder der Liebe, die Herrlichkeit der Liebe, das große Wunder, das Gottes Liebe ist, in euch selbst aufzubauen.
+
+Und obwohl euer Verstand nach Fakten und Details, nach Wissen über die großen Mysterien des Universums hungern mag, meine Freunde, wenn ihr wirklich in diesen Zustand der Liebe eingetaucht seid, dieses Verständnis der Liebe, wird das, was wahr und von Gott und ewig und absolut ist, mit der Zeit zu euch kommen und das, was die Fabrikation des Verstandes ist, ein Teil des intellektuellen Wiederkäuens der Vorstellung und der Interpretation der Wahrheit wird wegfallen.
+
+Es ist eure Herausforderung, meine Freunde, eure tiefe Herausforderung, alles in Liebe zu prädizieren. Zu Gott zu gehen. Sein großes Geschenk der Liebe zu empfangen und dies in jeden Aspekt eures Lebens, eures Verstandes und eurer Seele zu integrieren, um uns alle in Harmonie zusammenzubringen. Ihr müsst das Durcheinander und den Irrtum und die unwichtigen Details abschütteln und euch, meine Freunde, auf die Liebe konzentrieren. Denn die Welt wird durch die Liebe gerettet werden, nicht durch Fakten, nicht durch Informationen, die nicht von dieser Welt sind, nein, meine Freunde, die Welt wird durch die Liebe gerettet werden, die Kraft der Liebe, die heilende Berührung der Liebe, das Wunder, das Gottes Liebe ist.
+
+Fahrt also fort in euren Bemühungen, nutzt die Zeit, die ihr zusammen habt, meine Freunde, im Gebet, in der gemeinsamen Arbeit, um Heilung zu bringen, um anderen Trost zu spenden, um die Wahrheit zu bringen, um einander in diesem großen Streben zu bestärken, während ihr auf dem göttlichen Pfad geht, und auf diese Weise, wenn ihr euch wirklich widmet, wenn ihr wirklich im Licht sein wollt und Gottes Willen so nah wie möglich in dieser Welt umsetzen wollt, dann werdet ihr euch mir in dieser wunderschönen Sphäre des Lichts anschließen, wenn es eure Zeit ist, zu gehen. Was für ein Segen wäre das für euch, meine schönen Freunde. Dies zu tun, für Gott zu arbeiten, für die Liebe zu arbeiten, ist keine Bürde, ist nicht so schwierig, aber es erfordert Fokus und den Wunsch, dies zu tun. Dies zu tun, für Gott zu arbeiten, für die Liebe zu arbeiten, ist keine Härte, ist nicht so schwierig, aber es erfordert Fokus und den Wunsch, dies zu tun. Gebet, Glaube, Vertrauen in Gott, ein Eifer für die Liebe; das ist einfach. Legt alles andere beiseite, was nicht zu diesen Bemühungen gehört, und seid im mächtigen Fluss der Liebe Gottes. Meine Freunde, ich werde mich euch dort anschließen, die Engel werden sich euch dort anschließen und viel wird daraus entstehen, aus dieser Hingabe, diesem Dienst, diesen Gebeten.
+
+Gott segne euch Freunde, ich bin sehr glücklich, zu euch sprechen zu können und ich hoffe, dass ich wieder durch dieses Instrument sprechen kann, denn er hat eine Barriere fallen lassen, die es jenen von uns erlaubt, die noch kein himmlischer Engel sind, aber auf dem besten Weg dorthin sind. Danke, meine Freunde. Gott segne euch und möge Seine Liebe in eure Seelen fließen, meine Freunde, mit großer Fülle, großer Fülle. Dies ist euer Fokus; dies ist der Grund, warum ihr zusammengekommen seid. Um einander in dieser großen Anstrengung zu helfen, sich über die Bedingungen dieser Welt, die Bedingungen eures Verstandes zu erheben und wahrhaftig eure Seelen kennen zu lernen. Was für eine wunderbare, wunderbare Aussicht, eure Seelen zu kennen, meine Freunde. Ich bin so glücklich, bei euch zu sein. Wisst, dass ich bei euch sein werde, während ihr in diesen Gebeten und Bemühungen gemeinsam weitermacht. Gott segne euch, eure Freunde James, James Reid liebt euch und ist mit euch. Gott segne euch.
+<small>
+
+[^1]: Dies ist unser erst kürzlich verstorbene und sehr geliebter Freund James Reid, Empfänger und Herausgeber der "Richard-Botschaften".

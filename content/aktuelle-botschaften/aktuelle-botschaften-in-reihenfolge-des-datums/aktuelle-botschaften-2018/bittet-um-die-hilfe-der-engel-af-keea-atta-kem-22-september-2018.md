@@ -1,0 +1,28 @@
+---
+title: "Bittet um die Hilfe der Engel"
+menu_title: ""
+description: "Bittet um die Hilfe der Engel"
+date: 2020-08-01 06:25:48+00:175
+draft: False
+hidden: True
+weight:
+---
+### Bittet um die Hilfe der Engel
+
+Keea Atta Kem - empfangen durch Al Fike am 22. September 2018, Gibsons, BC, Kanada.
+
+Gott segne euch, ich bin Keea Atta Kem. Zusammen mit euren Gebeten zu Gott dürft ihr uns anrufen, um euch bei euren Bemühungen zu helfen, spirituell abgestimmter und in einem Zustand höheren Lichts und Bewusstseins zu sein. So wie ihr die Göttliche Liebe Gottes empfangt, so behindern diese Bedingungen, die von der Welt um euch herum sind, oft eure Bemühungen in den Gebeten, trüben eure Wünsche und lenken euch von Gott ab. Ihr Geliebten, wir sind hier und wir möchten euch in euren Bemühungen unterstützen, im Licht zu sein, euer Denken anzupassen, eure Wünsche und Motivationen zu korrigieren, damit ihr im Fluss der Liebe Gottes seid, damit ihr in diesen Fluss der Liebe eintaucht und diese Segnungen als real, substanziell und segensreich empfindet und erkennt. Keiner von euch kann dies allein tun. Ihr müsst die Hilfe und Unterstützung suchen, die euch zur Verfügung steht und die Gott euch bringt, damit ihr die Barrieren und die Schwierigkeiten überwinden könnt, die damit verbunden sind, eure eigenen Seelen zu öffnen, eure eigenen Seelen in dieser Welt zu kennen, die so materiell verstrickt und schwer zu navigieren ist.
+
+Geliebte, die Welt muss ihre Perspektive und ihren Kurs in Richtung Materialismus ändern, hin zu einem Ort, der mehr im Einklang mit Gott ist. Jeder von euch, der sich bemüht, in größerer Gemeinschaft mit eurem himmlischen Vater zu sein, wird mit unserer Hilfe, unserer Unterstützung, unseren Gebeten und unserer Liebe gesegnet sein. Wir werden da sein, Geliebte. Fragt nach uns. Bittet um den Beistand der Engel für euch. Bittet darum, dass Gott weiterhin eure Seele öffnet, damit ihr in der Liebe erwacht. Das ist es, was ihr braucht, Geliebte. Das ist es, was eure Seele sich wünscht und das ist es, was die Welt braucht. Denn ohne die Kraft der Liebe in dieser Welt gibt es große Dunkelheit und Verwirrung und Irrtum.
+
+Die Liebe als eure Berufung und Ausdruck im Leben zu tragen, wirkt als Katalysator, um Veränderung in euch zu bringen und alles um euch herum zu verändern. Liebe auf diese Weise auszudrücken, ruft viele andere dazu auf, es auch zu tun. Manche mögen zuhören und manche nicht. Ihr seid den Weg des Lichts gegangen und habt die Fackel der Wahrheit getragen und das ist alles, was Gott von euch verlangt, Geliebte - diese Anstrengung zu machen, in der Liebe zu gehen, mit Gott zu sein, auf diese Weise mehr Licht in diese Welt zu bringen. Auf diese Weise bringt ihr der Menschheit mehr Hoffnung, mehr Möglichkeiten für den Fortschritt der menschlichen Rasse. Denn während die Menschheit materiell voranschreitet, gibt es einen großen Rückgang in eurem spirituellen Zustand. Es ist wichtig, das Gleichgewicht zwischen dem Materiellen und dem Spirituellen zu haben. Stärker zu sein, viel stärker innerhalb des Spirituellen zu dieser Zeit ist wichtig. Denn ohne diese Korrektur im Zustand der Menschheit wird es weiterhin großes Leid und viele schlimme Folgen für eure Welt geben. Es ist notwendig, Geliebte, dass diejenigen, die stark genug sind, diese Wahrheit, dieses Licht, diese Liebe zu verfolgen, in ihren Bemühungen und Wünschen, Gott nahe zu sein, fortfahren. Denn ohne dies, durchdringt die Dunkelheit und das Licht verblasst.
+
+Geliebte, ist es das, was ihr für eure Welt wollt, eine Welt, die so entbehrungsreich ist, eine Welt, die sich weiterhin von Gott entfernt und der es an einem klaren Verständnis für die Macht der Liebe mangelt? Ihr müsst stark sein, meine Geliebten. Ihr müsst im Licht wandeln. Ihr müsst euch in Liebe ausdrücken und mit Gott zusammen sein. Auf diese Weise werdet ihr Gott und der Rettung der Menschheit beistehen und größeres Licht für alle bringen, für jene Kinder, die noch ungeboren sind, für jene, die ihren Weg verloren haben, für jene, die weiterhin beraubt und in großer Dunkelheit sind. Ihr bringt Hoffnung, ihr bringt die Kraft der Liebe in eine Welt, die die Liebe so sehr braucht.
+
+Seid stark, meine Geliebten. Sucht den Schöpfer. Sucht die Quelle aller Liebe und strebt danach, im Einklang mit Gottes Willen und Wahrheit zu sein, und ihr werdet feststellen, dass eine Reise auf euch wartet, die wundersam, wunderschön, kraftvoll und transformierend ist. Die Macht der Liebe, Geliebte, erwartet eure Annahme und die Praxis des Gebets, die Reise des Erwachens, die Öffnung eurer Seelen und die Reise zum Einssein mit Gott. Alle Seelen suchen dies, doch nur wenige sind in dieser Welt stark genug, um diesem Ruf zu folgen und im Fluss Seiner Liebe zu sein.
+
+Geliebte, seid stark. Seid von großem Glauben und seid im Einklang mit Gott und ihr werdet all die Unterstützung, Führung und Kraft haben, die ihr braucht, um euch in der Welt als Kanäle der Liebe zu bewegen, als Instrumente des Wandels, als Seelen, die mit großer Weisheit und Verständnis für die Wahrheit eurer Existenz durchdrungen sind, für die Kraft von Gottes Segen, für den Fluss Seiner Liebe in euch und durch euch. Ihr werdet gebraucht, Geliebte. Ihr werdet schmerzlich gebraucht in einer verdunkelten Welt.
+
+Möget ihr Gottes Ruf hören und diesen Ruf durch eure Gebete, das Erwachen des Verlangens eurer Seele beantworten und euren Weg zu diesem Ort der Gemeinschaft finden, des Empfangens, des Erwachens, des Wissens und des Seins im Fluss der Liebe Gottes.
+
+Gott segne euch, Geliebte. Ich bin Keea Atta Kem. Ich liebe euch. Gott segne euch, Geliebte. Ich bin bei euch und ich möchte euch in Liebe unterstützen. Gott segne euch. Ich liebe euch.

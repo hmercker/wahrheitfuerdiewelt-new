@@ -1,0 +1,40 @@
+baseURL = ""
+languageCode = "de-DE"
+title = "Wahrheit für die Welt"
+theme = "newbirth"
+enableRobotsTXT = true
+googleAnalytics = "UA-xxxxx-1"
+
+[outputs]
+home = [ "HTML", "HEADERS" ]
+
+[mediaTypes]
+[mediaTypes."text/netlify"]
+suffixes = [ "" ]
+delimiter = ""
+
+[outputFormats]
+  [outputFormats.redirect]
+    mediatype = "text/plain"
+    baseName = "_redirects"
+    isPlainText = true
+  [outputFormats.HEADERS]
+    mediatype = "text/netlify"
+    baseName = "_headers"
+    isPlainText = true
+    notAlternative = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[params]
+  [params.homepage_meta_tags]
+    meta_description = ""
+    meta_og_title = "Eine spirituelle Reise"
+    meta_og_type = "article"
+    meta_og_url = "https://wahrheitfuerdiewelt.de/"
+    meta_og_image = "https://wahrheitfuerdiewelt.de/images/social.png"
+    meta_og_description = ""
+    meta_og_site_name = "Wahrheit für die Welt"

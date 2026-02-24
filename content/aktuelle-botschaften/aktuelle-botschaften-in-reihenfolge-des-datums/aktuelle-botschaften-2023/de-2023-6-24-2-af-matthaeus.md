@@ -1,0 +1,32 @@
+---
+title: "Die Scharen freuen sich mit uns"
+menu_title: ""
+description: "Die Scharen freuen sich mit uns"
+date: 2023-05-12 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Die Scharen freuen sich mit uns
+
+Matthäus - empfangen durch Al Fike am 24. Juni 2023, Sechelt, BC, Kanada.
+
+Möge die Liebe des Vaters in eure Seelen kommen. Ich bin Matthäus. Ich komme, um jeden von euch zu würdigen. Denn jeder von euch hat Hürden und Herausforderungen überwunden, damit ihr hier zusammen sein könnt, damit ihr euch in diesen Zeiten dem weiteren Erwachen und der Entwicklung, dem weiteren Licht und der Erleuchtung widmen könnt. Jeder von euch ist von Gott gesegnet, jeder findet seinen eigenen Weg auf dem Pfad, den Gott für ihn vorgesehen hat, jeder spürt, weiß und erfährt die große Berührung Gottes mit ihm.
+
+Denn die Grundlage für diese Reise ist die Beziehung zu eurem Schöpfer. Es ist das Wachsen eurer Seele in seiner Liebe. Es ist die knospende und aufkeimende Weisheit eurer erwachenden Seele, die euch die mächtige Berührung Gottes, die sich durch jeden von euch manifestiert, bewusst macht. Auf dieser Grundlage und mit der Kraft der Liebe Gottes, die sich manifestiert, können viele Gaben zum Vorschein kommen und viele Dinge durch euch manifestiert werden. Dies geschieht nicht durch euren menschlichen Willen und euren Wunsch, dass es so sein möge, sondern dadurch, dass eure Seele einwilligt und mit der großen Seele Gottes verschmilzt. Dies ist die Quelle aller Macht, aller Herrlichkeit, allen Lichts und aller Liebe, die die Manifestationen herbeiführen wird, die ihr sucht.
+
+Erinnert euch, geliebte und schöne Seelen, dass nicht ihr es seid, die dies bewirken. Es ist der Wille Gottes durch euch und eure Fähigkeit, dem Willen Gottes zu erlauben, sich durch euch zu manifestieren. Denn das, was mit Seinem Plan und Seinem Willen in Einklang steht, wird sich durchsetzen, und zwar mit Harmonie, Anmut, Schönheit und Staunen. Ja, Gott hat jedem von euch viele Fähigkeiten und Fertigkeiten gegeben. Gott hat euch viele Gaben gegeben, die mit vielen Möglichkeiten gefüllt sind. Aber das Einzige, was all diese Dinge entfacht, ist euer Wunsch, das große Geschenk zu suchen, das Gottes Liebe ist, die sich in eurer Seele manifestiert. Das ist der Schlüssel, der alle Türen öffnet, der Weg zu dem, was ihr sucht.
+
+Vergesst das nie, geliebte Seelen. Verliert nie aus den Augen, wie sich dies manifestieren und erfüllen kann. Denn es ist eure Beziehung zu Gott, die Nähe, die Harmonie, die Sehnsucht und die Erfüllung, die euch alles bringen wird, alles, was ihr sucht, alles, was sein soll, alles, was sich im Einklang mit seinem Willen und seinem Plan für die Erlösung der Menschheit manifestieren wird.
+
+Seid ihr demütig, meine geliebten Freunde? Sucht ihr aus dem Innersten eurer Seele heraus mit allem Ernst, allem Verlangen und aller Freude danach, mit Gott eins zu werden? Denn wenn ihr an den Ort kommt, an dem die Erfüllung gegeben wird, indem ihr das wahre Versprechen Gottes, in Liebe eins zu sein, manifestiert, dann wird euch nichts mehr von euren wunderbaren Ausdrucksformen und Gaben abhalten, die durch euch kommen können. Unabhängig von eurer Bildung, eurem Verständnis der materiellen und metaphysischen Dinge und dessen, was ihr spirituell nennt, wird ohne diese Beziehung, ohne diesen geöffneten und klaren, tiefgründigen und zielgerichteten Kanal, nichts anderes aus euren Bemühungen hervorgehen als die Befriedigung eures Verstandes und eures Wunsches, im Licht erhoben zu werden. Auch das ist ein Segen, aber es ist nicht der Schlüssel zu eurem Erwachen und durch das Erwachen zu diesen Gaben. Er kommt, wenn ihr euch mit dem einen tiefen Wunsch vereint, wahrhaftig mit Gott zusammen zu sein und Gott wahrhaftig zu kennen, indem ihr seine Liebe zu euch ohne Vorbehalt und ohne Zögern annehmt, so dass ihr in der Reichweite, in der Umarmung, in der Berührung, im Bewusstsein und in der Freude dieses heiligen Segens seid.
+
+Wir können vieles tun, um euch zu ermutigen, zu unterstützen und euch diesem Ziel näher zu bringen, aber wir können euch nicht eure eigene persönliche Beziehung zu Gott schaffen. Das liegt allein an euch. Wenn ihr allein diese Harmonie erschafft, diese Wahrheit manifestiert und diese Stärke, Einheit, Zielstrebigkeit und Sehnsucht herbeiführt, dann könnt ihr Berge versetzen, geliebte Seelen. Ihr könnt alles, was ein Zeichen, eine Botschaft, eine Manifestation der Wahrheit Gottes und seiner Liebe zur Menschheit ist und sein kann, bringen und manifestieren.
+
+Bleibt nicht an der Tür stehen, sondern geht gemeinsam hindurch, Hand in Hand, und sagt: *„Ja, ich bin hier, mein geliebter Vater, Quelle aller Liebe, Schöpfer des Universums. Ich bin hier, weil Deine Seele mich eingeladen hat. Ich nehme Deine Einladung an, mit Dir eins zu werden, mit Deinen Gesetzen der Liebe in Einklang zu kommen, zum Geschenk der Liebe zu erwachen und durch die Berührung Deiner Liebe in meiner Seele verwandelt zu werden.”*
+
+Meine geliebten und schönen Freunde, wie viele in eurer Welt verstehen das wirklich? Wie viele in eurer Welt verstehen genug, um diese Anstrengung zu unternehmen und zusammenzukommen? Ihr seid in der Tat stark. Ja, ihr seid gesegnet, und ja, Gott wird euch weitere Einsicht, weiteres Verständnis, weitere Wahrheit und weiteres Erwachen durch seine Liebe bringen.
+
+Möge Gott euch segnen, meine geliebten Freunde. Ich bin mit euch auf dieser Reise. Ich bin Matthäus und einer von vielen eurer Engelsfreunde, Sternfreunde und hellen Wesen, die sich im Licht um euch versammeln und versuchen, euch zu dienen, euch zu unterstützen und zu erheben. Öffnet euch voll und ganz für das, was Gott zu geben hat. Seht ihr nicht das Licht, den Segen und die Heiligkeit dieser gemeinsamen Gebetszeit um euch herum? Sie wird wachsen und stärker werden, wenn ihr in Harmonie und Liebe zusammenkommt, und so hat Gott die Möglichkeit, euch noch mehr zu segnen, euch seinen Segen zu bringen und euch in seinem Licht und seiner Liebe zu umarmen.
+
+Gott segne euch. Meine Liebe zu euch ist groß. Ich habe großes Mitgefühl für eure Kämpfe, geliebte Seelen, und ich habe große Liebe und Freude darüber, dass ihr engagiert und stark in eurem Wunsch nach dem höchsten und größten Segen seid, der frei und ohne Vorbehalt von Gott gegeben wird. So werdet ihr empfangen. So werdet ihr, meine geliebten und wunderbaren Freunde, all den Segen erhalten, der euch gegeben werden kann. Gott segne euch. Gott segne euch alle in seiner Liebe, für immer und ewig.

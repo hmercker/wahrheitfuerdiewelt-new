@@ -1,0 +1,28 @@
+---
+title: "Gebet ist bloßes sprechen zu Gott mit einer Seelen-Sehnsucht"
+menu_title: ""
+description: "Gebet ist bloßes sprechen zu Gott mit einer Seelen-Sehnsucht"
+date: 2020-08-01 06:25:48+00:101
+draft: False
+hidden: True
+weight:
+---
+### Gebet ist bloßes sprechen zu Gott mit einer Seelen-Sehnsucht
+
+Andreas - empfangen durch Al Fike am 1. Oktober 2019, Gibsons, BC, Kanada.
+
+Geliebte Seelen, ich bin Andreas. In jenen längst vergangenen Tagen, als wir mit unserem Bruder Jesus unterwegs waren, lehrte er uns, wie man betet. Wir hatten gebetet, wie ein jüdischer Mensch betet, indem er die Worte benutzte, den Wortschatz der Worte, die in dieser Religion gegeben werden. Aber wie bei so vielen, die mit religiöser Praxis zu tun haben, haben wir die Worte in den Mund genommen, ohne wirklich ihre Absicht oder Bedeutung zu berücksichtigen. So musste uns unser lieber und geliebter Bruder Jesus lehren, was ein Gebet aus dem Herzen ist und wie wichtig dieses Gebet ist, wenn man beabsichtigt, Gott zu erreichen und die Gegenwart Gottes zu fühlen und zu kennen.  
+
+Jedes Gebet kann gegeben werden und jedes beliebige Wort kann gesprochen werden, aber ohne Absicht, ohne einen Wunsch im Herzen, ist es kein wirksames Gebet. Es ist lediglich etwas, das die Wünsche des Verstandes beruhigt und das die Absichten und Haltungen der Ordensleute besänftigt. Dies ist ein großer Fehler innerhalb der Strukturen der Religion, dass irgendein Ritual, irgendein Aspekt des mentalen Ausdrucks, dem die wahren Gefühle der Seele fehlen, Antworten der Erwiderung von Gott bringen wird. In der Tat gibt es immer eine Antwort, es gibt immer etwas, das kommt, aber die Kraft und Wirksamkeit dieser Antwort von Gott kommt auf großer Sehnsucht und Verlangen folgend, ein wahrer Ausdruck, der tief aus eurem Inneren kommt.
+
+Für diejenigen von euch, die in dieser Welt leben, die so in Gedanken und dunkle Energien und schwierige Erfahrungen und Ablenkungen eingehüllt sind, ist es schwierig, durch diese Bedingungen zu dringen, die einen von diesem wahren Ausdruck gegenüber Gott zurückhalten. Es ist natürlich nicht unmöglich, denn jeder von euch hat Gott durch eure Gebete kennen gelernt. Jeder von euch hat eine Antwort von eurem Himmlischen Vater erhalten, die von Liebe und Fürsorge und Heilung und Frieden ist. Ihr habt euch selbst die Existenz Gottes durch eure Bemühungen im Gebet bewiesen. Ihr habt euch selbst bewiesen, dass es eine höhere Kraft gibt, etwas jenseits dieser Erdebene, das angerufen werden kann, um zu helfen und zu heilen und Unterstützung, Liebe und Hilfe in euer tägliches Leben und in euer tägliches Los zu bringen.  
+
+Liebe und geliebte Seelen, wir sprechen vom Gebet. Dies ist der Schlüssel, der die Tür zu Gott öffnen wird. Das Gebet ist lediglich ein Sprechen zu Gott, und ihr könnt es auf jede Weise tun, die eurer Persönlichkeit und eurem Wunsch zu kommunizieren entspricht. Es könnte ein Gespräch sein. Es könnte ein Gebet sein, das ihr gelernt habt. Es könnte Stille sein. Aber all diese Dinge müssen den Aspekt der Seelensehnsucht und des Seelengefühls beinhalten. Ja, viele von euch haben Schwierigkeiten damit, eure eigene Seele zu akzeptieren und auf sie eingestimmt zu sein. Aber kommt ihr nicht im Gebet zu Gott und fühlt ihr euch nicht, als ob sich etwas in euch, in eurem Bewusstsein, verschoben hat, so dass es eine Verbindung, eine Kommunikation und eine Kommunion mit Gott gibt?
+
+Ihr wisst dies aus eurem tiefsten Inneren. Ihr habt ein Gespür dafür, und dieses Gespür wird auf eurer Reise des Gebets und der Entdeckung Gottes wachsen und vollständiger erwachen. Dies ist unvermeidlich. Dies ist das Gesetz in Aktion. Das ist Gott, der euch die Hand reicht, geliebte Seelen. Denn Gott greift ernsthaft nach euch, so wie ihr ernsthaft nach Gott greift. In dieser Ernsthaftigkeit, diesem Wunsch und dieser Absicht wird eine Verbindung hergestellt. Es gibt eine Verschiebung, wo etwas zwischen Gott und euch selbst, und euch selbst und Gott übertragen wird.  
+
+Habt Vertrauen, geliebte Seelen. Das ist der Sinn des Glaubens, euer Verlangen zu äußern, im Vertrauen darauf, dass Gott euch antworten wird, dass Gott tatsächlich da ist und zuhört, dass Gott euch weiterhin die Hand reicht. Schiebt den Schleier eures eigenen Verstandes und die dämpfenden Bedingungen eurer Welt beiseite und kommt zu Gott im wahren Gebet, im wahren Glauben. Es wird immer eine Antwort geben. Ihr seid nicht allein, geliebte Seelen. Ihr seid niemals allein. Jeder Augenblick eures Daseins kommt eine Gelegenheit, zu Gott zu gelangen. Je mehr ihr diese Gelegenheiten nutzt, desto klarer wird diese Verbindung und diese Beziehung zu eurem Schöpfer sein.
+
+Alles kommt durch eure Bemühungen, durch euren Glauben, durch eure Gebete. Lasst dies euer leitendes Licht sein und mögen die Antworten, die kommen, eure Seele erheben und erwecken. Denn wenn ihr um das Geschenk der Göttlichen Liebe betet, so ist es das, wofür ihr betet, geliebte Seelen, um erhoben, geheilt, transformiert und auf eurer spirituellen Reise geführt zu werden, einer Reise, die euch zum Einssein mit Gott führt.
+
+Möget ihr weiterhin gesegnet sein, geliebte Seelen. Ich bin mit euch. Ich bin Andreas, ein Apostel des Meisters, der von unserem geliebten Meister Jesus das große Geschenk und die Kunst und Wissenschaft des Gebets gelehrt bekommen hat. Möge Gott euch segnen und mögt ihr wissen, dass unser geliebter Meister mit euch allen ist und euch im Gebet und in euren Bemühungen, Gott zu erreichen, zu helfen sucht. Denn das ist seine Mission. Es war und wird immer sein, den Weg zu Gott zu weisen, den Weg zur Einheit durch die Liebe zu weisen. Ihr seid gesegnet, meine geliebten Brüder und Schwestern. Gott segne euch. Ich bin Andreas und ich liebe euch.

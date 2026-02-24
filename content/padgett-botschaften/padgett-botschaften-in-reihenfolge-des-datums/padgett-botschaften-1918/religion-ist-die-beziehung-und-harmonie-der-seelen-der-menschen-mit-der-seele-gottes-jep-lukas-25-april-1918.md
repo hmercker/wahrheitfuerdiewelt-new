@@ -1,0 +1,41 @@
+---
+title: "Religion ist die Beziehung und Harmonie der Seelen der Menschen mit der Seele Gottes"
+menu_title: ""
+description: "Religion ist die Beziehung und Harmonie der Seelen der Menschen mit der Seele Gottes"
+date: 2020-08-01 06:25:48+00:82
+draft: False
+hidden: True
+weight:
+---
+### Religion ist die Beziehung und Harmonie der Seelen der Menschen mit der Seele Gottes
+
+Lukas – empfangen durch James Padgett am 25. April 1918, Washington, DC, USA.
+
+Lass mich einen Satz schreiben - Lukas.
+
+Ich war heute Abend mit dir in der Kirche und hörte zu, was der Prediger (Gordon) in Bezug auf die Religionen und ihre Berührungspunkte sagte, und war etwas überrascht über seine Erklärungen bezüglich der Analogie, die er zwischen den Gläubigen der verschiedenen sogenannten christlichen Religionen zog.
+
+Während, wie du weißt, in den Seelen der Menschen eine Sehnsucht nach dem eingepflanzt ist, was sie erhebt und spiritualisiert, auch wenn diese Sehnsucht bei einer großen Anzahl von ihnen nicht bewusst vorhanden sein mag, so sind doch die Überzeugungen über die Art und Weise, wie diese Sehnsucht manifestiert werden kann und die spirituelle Natur der Seele entwickelt werden kann, bei denjenigen, die sich zu diesen verschiedenen Religionen bekennen, sehr unterschiedlich, und die Wege sind nicht gleichermaßen wirksam, um ihre spirituelle Entwicklung zu bewirken.
+
+Religion ist eine Sache der Seele und nicht des Intellekts, und je größer die Entwicklung der Seele in die richtige Richtung ist, desto höher wird der spirituelle Zustand der Seele sein. Bloßer intellektueller Glaube, egal wie intensiv und zweifelsfrei, wird nicht dazu neigen, diese spirituelle Entwicklung herbeizuführen, denn "Religion ist wirklich nichts anderes als die Beziehung und Harmonie der Seelen der Menschen mit der Seele Gottes." Der Verstand wird nicht ausreichen, um diesen Zustand zu schaffen, denn der Verstand des Menschen kann unmöglich die Seele des Schöpfers und die des Geschöpfes in Einklang bringen. Der Verstand mag in seiner Ausübung dazu neigen, die Seele zu dieser Möglichkeit der Beziehung zu erwecken, aber nur das Wirken der Seele kann die vollständige Einheit des Schöpfers und des Geschaffenen bewirken. Nur die Seele kann zur Seele sprechen, und der Verstand ist nur ein Helfer, vorausgesetzt, die Seele ist lebendig in ihrem Verlangen.
+
+Es ist also offensichtlich, dass die Form des Glaubens, die ganz dem Intellekt entspringt, keinen gemeinsamen Treffpunkt mit dem Glauben haben kann, der das Ergebnis der Entwicklung der Seele ist; und daher ist die Behauptung, dass die Menschen aller verschiedenen Religionen, nur weil sie so genannte Christen sind, in einer gleichen Beziehung zum Vater stehen, falsch und irreführend.
+
+Was den Zustand des Menschen als vollkommener Mensch betrifft, so können diese verschiedenen Religionen dazu tendieren, diesen Zustand der Vollkommenheit herbeizuführen, wenn die moralischen Gebote, die sie lehren, von den Menschen beachtet und praktiziert werden. Aber was den Menschen als göttlichen Engel betrifft, d.h. als spirituelles Wesen, das die Essenz des Göttlichen in sich trägt, kann nur diejenige Religion den Menschen zum Einssein mit dem Vater in Seinem eigentlichen Wesen führen, die den wahren Weg lehrt, diese Göttlichkeit zu erlangen. In dieser Hinsicht kann es nur eine wahre Religion geben und nur einen Weg, auf dem diese Religion ausgeübt und besessen werden kann; und zu sagen, dass alle Religionen einen gemeinsamen Ansatzpunkt haben, ist irreführend und trügerisch.
+
+Ich weiß, dass es unter diesen verschiedenen Religionen Einzelne gibt, die den Weg zu der Methode gefunden haben, in die göttliche Natur des Vaters umgewandelt zu werden, und das, obwohl die Lehren und Glaubensbekenntnisse der verschiedenen Kirchen nicht den Weg zu dieser Seelenentwicklung in das Spirituelle des Göttlichen zeigen. Aber in diesen Kirchen fehlt in ihren Dogmen und Lehren das, was den Menschen zu dieser wahren Religion verhelfen wird.
+
+Weil man in den Kirchen einige finden mag, die bis zu einem gewissen Grad diese spirituelle Göttlichkeit haben, ist es nicht gerechtfertigt zu sagen, dass es in diesen verschiedenen Religionen einen gemeinsamen Treffpunkt gibt. Natürlich können die moralischen Gebote von allen christlichen Kirchen gelehrt werden, und wenn sie befolgt werden, werden sie letztendlich alle Menschen zum Zustand des vollkommenen natürlichen Menschen führen, und nur in diesem Ausmaß kann man sagen, dass sie eine gemeinsame Basis der Religion haben, die aus dem Glauben an die moralischen Lehren entsteht.
+
+Und die Kirche, die mit großer Genauigkeit und erweitertem Verständnis als ihre Religion erklärt und lehrt, ist die Kirche, in der diese, wie ich sie nennen darf, natürliche Religion existiert; und je unterschiedlicher diese Kirchen in diesen Lehren sind, desto weiter ist ihre Annäherung (sic). Wenn ein Prediger der einen Kirche mit der Überzeugung, die aus seiner aufrichtigen und ehrlichen Untersuchung der moralischen Gesetze entsteht, weiß, dass eine andere Kirche diese großen moralischen Wahrheiten nicht lehrt oder auf der Beobachtung durch ihre Mitglieder besteht, dann hat er kein Recht zu schließen und zu sagen, dass diese letztere Kirche der Besitzer der Religion ist, wie die Kirche, in der diese moralischen Wahrheiten gelehrt und von ihren Anhängern befolgt werden.
+
+Es ist ein Fehler, wenn ein Prediger sagt, dass, weil es in allen Kirchen gute und spirituelle Menschen geben mag, deshalb eine Kirche in ihren Lehren genauso gut und religiös ist wie eine andere Kirche. Die Wahrheit ist von einer solchen Natur, dass sie nicht Kompromisse eingehen kann, und der Mann oder Prediger, der die Wahrheit mit Kompromissen belegen würde, erfüllt nicht seine Pflicht gegenüber Gott oder den Menschen.
+Die Kirche, die lehrt, dass es nichts Größeres als die Moral gibt und dass der Mensch nicht transzendenter werden kann als der vollkommene Mensch, ist frei von der Wahrheit und würde nicht als Lehrer der vollen Wahrheit akzeptiert werden, ebenso wie die Kirche, die den Weg kennt und lehrt, durch den der Mensch ein göttlicher Engel werden kann.
+
+Dass die Prediger der verschiedenen Kirchen als gleichwertig und als Besitzer der wahren Religion akzeptiert werden, wenn diese moralischen Lehren von diesen Kirchen gleich gelehrt werden und einen gemeinsamen Ansatzpunkt haben, ist nicht zu verwundern, denn diese Prediger kennen die höhere Religion nicht oder sind nicht in der Lage, den Weg zu derselben zu lehren. Und wenn man versteht, dass eine moralische Wahrheit eine Wahrheit ist, egal wo sie erscheint und von wem sie gelehrt wird, gibt es eine gewisse Berechtigung zu erklären, dass alle Kirchen, die die moralischen Wahrheiten lehren, auf einer Ebene der Gleichheit stehen, und dass die eine genauso viel Respekt und Freiheit von Kritik verdient wie die andere. Und da die große Wahrheit der Wiederschenkung der Fähigkeit, die göttliche Liebe zu empfangen, und die Wirkung auf die Seelen der Menschen bis zum Kommen des Meisters nie bekannt und gelehrt wurde, ist es nicht verwunderlich, dass keine der Kirchen diese große spirituelle Wahrheit und die einzig wahre Religion, die sich daraus ergibt, lehren kann oder lehrt. Das Wissen um diese Wahrheit ist kurze Zeit nach dem Ableben des Meisters von der Erde verschwunden, und daher kann keine Kirche diese Religion der Seele lehren, die den Sterblichen in das Göttliche verwandelt.
+
+Die Religion des vollkommenen Menschen mag in unterschiedlichen Graden in allen christlichen Kirchen existieren, aber die Religion des göttlichen Engels existiert in keiner, obwohl einige Individuen dieser Kirchen bis zu einem gewissen Grad die große Wahrheit - die göttliche Liebe - in ihren Seelen empfangen haben, auch wenn sie kein intellektuelles Wissen über dieselbe haben.
+
+Ich hielt es für ratsam, diese wenigen Bemerkungen zu der Erklärung des Predigers zu machen, um zu zeigen, dass seine weit gefasste Behauptung, dass die genannten Religionen, die für ihn allumfassend ist, einen gemeinsamen Treffpunkt mit jeder Religion haben kann. Wenn er die Wahrheit erfährt, wird er die Fehler seiner menschlichen und brüderlichen Erklärungen erkennen. Ich werde nicht mehr schreiben. Gute Nacht, und Gott segne dich.
+
+Dein Bruder in Christus, Lukas.

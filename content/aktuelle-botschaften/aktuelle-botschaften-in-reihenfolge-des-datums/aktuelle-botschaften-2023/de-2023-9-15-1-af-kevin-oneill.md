@@ -1,0 +1,27 @@
+---
+title: "Ich bin frei!"
+menu_title: ""
+description: "Ich bin frei!"
+date: 2023-05-12 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Ich bin frei!
+
+Kevon O'Neill <sup id="a1">[1](#f1)</sup> - empfangen durch Al Fike am 15. September 2023, Sechelt, BC, Kanada.
+
+Ich bin hier, hier ist Kevin. Der glücklichste Tag in meinem Leben war der Tag, an dem ich in den Geist überging. Denn ich hatte immer das Verlangen, dorthin zu gehen, und war neugierig darauf, wie diese Welt aussieht. Jetzt sind mir die Augen geöffnet worden und ich sehe die Herrlichkeit der wunderschönen Sphäre, in der ich mich befinde. Ich möchte euch allen für eure Gebete danken, denn sie haben mir geholfen, leicht zu bestehen. Ich möchte, dass ihr erkennt, dass es wichtig ist, egal in welchem Zustand ihr euch befindet, egal unter welchen Umständen euer Leben verläuft, dass Gott in Liebe zu dienen der Schlüssel zu einem guten Leben ist und euch viele Belohnungen und Segnungen bringen wird.
+
+Ich weiß, dass es nicht einfach war, mit mir zusammen zu sein, dass ich eine eigenwillige Persönlichkeit hatte und dass einige von euch dadurch verwirrt waren. Aber wisst, dass ich meine Brüder und Schwestern immer geliebt habe. Ich habe euch immer geehrt und ich wollte euch dienen. Das habe ich auch getan, so gut ich konnte. Ich weiß es zu schätzen, dass ihr das anerkennt. Ich habe mich oft gefragt, ob ich überhaupt etwas Gutes getan habe. Aber jetzt weiß ich, dass die kleinen Anstrengungen, die ich unternommen habe, sich zu einem großen Segen für mich und in mir summiert haben. Ich bin jetzt wirklich ein glücklicher Mann. Ich verspreche euch, dass ich euch helfen werde, euer Glück zu finden und euren Weg zu mehr Licht und Wahrheit zu gehen.
+
+Wir alle lieben Gott, und wir wissen, dass Gott uns liebt. Diese eine Wahrheit öffnet also die Türen zu vielen Dingen und Segnungen. Was für ein Glück, dass wir das wissen, dass wir die Wahrheit so erfahren können und dass unser Weg ein Weg des Lichts, der Heilung, der Freude und manchmal auch des großen Friedens ist. Möget ihr alle gesegnet werden, so wie ich gesegnet wurde. Möget ihr alle euren Weg finden, so wie ich meinen Weg gefunden habe. Ich möchte euch sagen, dass ich ein Beweis für die Macht und die Herrlichkeit von Gottes Liebe bin. Denn was glaubt ihr, wo ich ohne sie gelandet wäre? Sicherlich nicht im Licht. Auf der Suche nach Gott und nach meinem wahren Selbst musste ich viele Hürden überwinden, viele Situationen, Einstellungen und Bedingungen, die ich mir selbst geschaffen hatte.
+
+Wie gesegnet sind wir doch alle, dass wir diese Wahrheit und ihre Kraft kennen. Gott hat nichts dagegen, dass ihr ihn testet. Gott hat etwas dagegen, dass ihr ihn ignoriert, dass ihr nicht glaubt, dass er existiert. Ich fordere euch auf, Gott zu finden, euch selbst seine Existenz zu beweisen und die Segnungen der Liebe und alles Gute, das von ihm kommt, zu definieren und in euer Leben, in euer Bewusstsein und in das, was ihr seid, zu bringen. Ihr werdet große Belohnungen für diese Bemühungen finden. In euren Kämpfen, in eurem Schmerz und in eurer Freude werden die Segnungen von Gottes Berührung in allem zu finden sein.
+
+Danke, meine geliebten Freunde. Ich setze meine Reise fort und erkenne dabei, wie sehr ich von Gott geliebt werde. Und auch eure Liebe spüre ich und erkenne sie an. Und meine Liebe zu mir selbst, die am schwierigsten anzuerkennen ist, sehe ich, fühle ich und weiß ich es.
+
+Ich segne euch, meine Freunde, und verabschiede mich von diesem alten Griesgram, der Freude an der Wahrheit der Liebe Gottes gefunden hat. Gott segne euch alle. Ich liebe euch. Gott segne euch.
+<small>
+
+1. <large id="f1"> Kevin starb am 12. September 2023. Er war ein aktives Mitglied in der Bewegung der Göttlichen Liebe und regelte für eine Zeit das nieder schreiben und sortieren der vielen Botschaften die von mehreren Medien empfangen wurden. Innerhalb weniger Stunden nach seinem Tod besuchte Kevin Göttliche Liebe Medien und hinterließ jedem von ihnen wertvolle Botschaften vom Geiste. Was für ein Charakter Kevin war: so ein scharfer Verstand! Ein wunderbarer Scherzkeks! Das muss DAS unglaublichste Beispiel für die Medialität der Göttlichen Liebe überhaupt sein! Wenn man darüber nachdenkt, macht dieser wunderbare „Streich” absolut Sinn, weil Kevin eine so wichtige Rolle in der Bewegung der Göttlichen Liebe spielte - er war nicht nur mit allen Padgett- und Judas-Botschaften vertraut, sondern auch mit allen aktuellen Botschaften, die die Bewegung der Göttlichen Liebe im letzten Jahrzehnt empfangen hat. Außerdem nahm Kevin an vielen Retreats der Göttlichen Liebe, an weit entfernten Orten, teil - er traf und betete persönlich mit jedem einzelnen dieser über den Planeten verstreuten Medien und baute mit jedem einzelnen eine liebevolle Freundschaft auf! In der Kommunikation der nächsten Woche werden wir Botschaften von Jesus, der dabei war, um Kevins Hand zu halten und ihn aus seinem physischen Körper ins Licht zu führen,  teilen. Kevin sagte, dass der Tag, an dem er von uns gegangen ist, der glücklichste Tag seines Lebens war! Kevins wunderbares Team von Freiwilligen fühlt sich zutiefst gesegnet, von ihrem geliebten Bruder und Teamleiter persönlich zu hören. Kevin ist in eine hohe zweite Sphäre übergegangen - an einen Ort, der als Dämmerungszohne oder [Sommerland](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/die-daemmerungszone-twilight-zone-und-sommerland-hr-judas-8-september-2001/) bekannt ist.[↩](#a1)

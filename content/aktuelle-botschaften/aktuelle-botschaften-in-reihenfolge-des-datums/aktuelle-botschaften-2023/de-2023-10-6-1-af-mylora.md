@@ -1,0 +1,32 @@
+---
+title: "Mutter Erde heilen"
+menu_title: ""
+description: "Mutter Erde heilen"
+date: 2023-11-02 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Mutter Erde heilen
+
+Mylora - empfangen durch Al Fike am 6. Oktober 2023, Sechelt, BC, Kanada.
+
+Ich bin Mylora. Ich komme, um Frieden und Heilung zu bringen. Ich komme, weil es mir eine Ehre und ein Privileg ist, euch und der Erde zu dienen. Es ist mein Bestreben, Harmonie in eure Welt zu bringen. Das ist der Grund, warum ich gekommen bin. Denn ich liebe diese Welt, die Gott geschaffen hat. Ich liebe euch alle, die wunderbarsten seiner Schöpfungen. Wenn wir im Gebet zusammenkommen und versuchen, die Welt mit Licht zu beschenken, ein Kanal für die Welt zu sein, ein Werkzeug Gottes, dann erfüllen wir die Wünsche unserer Seele, die höchsten Neigungen und Fähigkeiten unserer Seele, Gottes Werkzeuge zu sein, um Lichter in der Welt zu sein.
+
+Überlegt, wie ihr ein Licht in der Welt sein könnt, liebe Freunde. Seid ein Freund eurer Welt, der Natur, den Schöpfungen der Natur, den Schöpfungen Gottes. Damit alles wieder in Harmonie kommt. Es gibt so viel Ungleichgewicht in eurer Welt. Es gibt nur wenige Bereiche in eurer Welt, die nicht so stark von der Menschheit beeinflusst sind. Sie befinden sich noch im Fluss und in der Freiheit der natürlichen Ordnung.
+
+Einige von euch leben in einem Land, das voller Wälder, Flüsse, Seen und Meere ist. Ihr seid sehr gesegnet, dass diese Teile der Welt nicht von der Bevölkerung überflutet werden. Ihr spürt ein Gefühl der Freiheit, ein Gefühl, Teil der natürlichen Ordnung zu sein, das so viele in eurer Welt nicht haben. Sie sind in den Schöpfungen der Menschheit eingeschlossen, in einer eigenen Welt, getrennt von der natürlichen Ordnung, und das ist sehr bedauerlich. Denn wie könnt ihr sonst Gottes Schöpfungen würdigen, wenn ihr nicht ein Teil von ihnen seid? Wie könnt ihr wirklich ein Instrument im Einklang mit allem sein, was ist, wenn ihr die Welt aus einem ganz bestimmten Blickwinkel betrachtet? Eine, die von der Menschheit geschaffen wurde. Euer Verstand ist Teil einer Realität, die nicht von Gott, sondern von den Menschen geschaffen wurde.
+
+Das muss berichtigt werden. Denn die ganze Menschheit muss zu einem Verständnis der natürlichen Ordnung zurückkehren. Die natürliche Welt, die Gott geschaffen hat. Denn wenn sie das nicht tun, wie können sie dann wirklich sensibel sein und die Bedürfnisse eurer Welt verstehen? Ihr könnt als Spezies nicht weiterhin alles nehmen, was ihr von der Welt bekommen könnt, und euch nicht bemühen, etwas zurückzugeben, um die Teile der natürlichen Welt wiederherzustellen, die durch den Willen des Menschen zerstört wurden.
+
+Jedes System, das Gott geschaffen hat, alles in Gottes Schöpfung, ist nachhaltig und wird in Liebe aufrechterhalten, getragen von der Ordnung und den Rhythmen, die Gott geschaffen hat. Aber der Mensch lebt außerhalb dieser Rhythmen und Ordnungen, weil Gott der Menschheit ein großes Geschenk gemacht hat. Sie haben das Privileg und die Möglichkeit, ihre eigene Realität, eure eigene Realität, zu schaffen. Sie sehen also weder eine Verpflichtung, noch fühlen sie sich für die schöne Welt, die sie erhält, verantwortlich. Einige natürlich schon. Einige sehen sehr deutlich, was erforderlich ist. Aber die große Mehrheit lebt ihr Leben weiterhin in ihrer Blindheit und in den Rhythmen, die sie selbst geschaffen haben, und ehrt Gott nicht in liebevoller Anerkennung seiner Schöpfung.
+
+Ihr müsst das ändern, geliebte Seelen. Ändert es in euch selbst. Ändert es in der Welt. Seid freimütig. Seid ein Vorbild für andere, damit sie sehen, dass ihr euch kümmert. Dass ihr euch um die Welt kümmert und dass ihr euch um sie kümmert. Indem ihr euch kümmert, werdet ihr Teil der Kraft, des Antriebs, um Harmonie zu schaffen, um Teil von Gottes Plan für die Rettung eurer Welt und aller Menschen in ihr zu sein. Bedenkt diese Dinge, meine Freunde, denn es wird nicht genug Zeit darauf verwendet, über die Schönheit und das Wunder von Gottes Schöpfung nachzudenken, über die Bedürfnisse von Gottes Schöpfung und darüber, was nötig ist, um Harmonie herzustellen und diese schöne Welt zu verjüngen.
+
+Einige haben mehr Glück als andere und leben am Rande der natürlichen Ordnung, während andere ganz und gar in der menschlichen Schöpfung und ihren Bedingungen leben. Diejenigen unter euch, die in der Natur leben und ihr nahe sind, sind wirklich sehr gesegnet. Denn was habt ihr für Vorteile, wenn ihr in Wäldern an Bächen spazieren geht, die frische Luft atmet und die Tiere um euch herum kennt. Das ist ein großes Geschenk und steht im Einklang mit Gottes Absicht, dass die Menschheit ihren Weg innerhalb der natürlichen Ordnung findet. Aber auch, um in den Fluss von Gottes Willen und Gottes Segen zu kommen.
+
+Alles ist möglich, alles kann erreicht werden mit der richtigen Einstellung, den richtigen Wünschen und dem Aufbau der großen Liebe Gottes in der Seele. Ich ermutige euch, meine schönen Freunde, wo auch immer ihr auf der Welt seid, schätzt eine Blume, einen Vogel, einen Schmetterling, das glitzernde Wasser, den schönen Himmel, die Berge, die Felder, die Wälder. All diese Dinge sind Gottes Schöpfung, denn sie sind ein Geschenk an euch. Dieser Planet ist ein Geschenk an euch. Ehrt dieses Geschenk Gottes und wandelt in der Harmonie von Gottes Schöpfung, Gottes Liebe.
+
+Wir alle arbeiten daran, Harmonie in eure Welt zu bringen und wiederherzustellen. Wir ermutigen euch, in Gottes Liebe zu wachsen, die wunderschöne Schöpfung Gottes wahrzunehmen und anzuerkennen und euren eigenen Platz darin zu ehren. Meine geliebten und schönen Freunde, wir sind Gottes Schöpfungen, Gottes Kinder. Wir leben in diesem wunderschönen Licht und in der Schöpfung Gottes. Sucht weiterhin nach Mitteln und Wegen, um mehr Harmonie und Licht in die Welt zu bringen - auf allen möglichen Wegen, auf allen Ebenen des Ausdrucks und der Bemühungen.
+
+Ich danke euch, meine geliebten Freunde, dass ihr mir zugehört habt. Ihr wisst, dass ich euch liebe. Ich liebe jeden einzelnen von euch. Gott liebt euch so sehr. Gott hat euch so viel gegeben. Vom Leben, über einen Platz zum Leben in dieser materiellen Sphäre, bis hin zu einer Seele, die Gott erkennen kann. So vieles, so vieles steht euch zur Verfügung, ist euch in Liebe geschenkt worden. Möget ihr all das zu schätzen wissen, was euch gegeben wurde, das Wunder der Schöpfung, das Wunder der Liebe Gottes. Gott segne euch. Ich bin Mylora und ich liebe euch. Ich liebe euch alle. Gott segne euch.

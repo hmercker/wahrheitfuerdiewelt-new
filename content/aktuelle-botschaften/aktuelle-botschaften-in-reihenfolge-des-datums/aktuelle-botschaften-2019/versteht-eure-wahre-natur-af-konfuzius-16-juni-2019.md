@@ -1,0 +1,28 @@
+---
+title: "Versteht eure wahre Natur"
+menu_title: ""
+description: "Versteht eure wahre Natur"
+date: 2020-08-01 06:25:48+00:77
+draft: False
+hidden: True
+weight:
+---
+### Versteht eure wahre Natur
+
+Konfuzius - empfangen durch Al Fike am 16. Juni 2019, Gibsons, BC, Kanada.
+
+Möge Gottes Liebe euch segnen, geliebte Seelen, und euch in die Höhen des Lichts und der Freude und des Friedens tragen, indem ihr bewusst die Berührung Gottes auf euch spürt, die Kraft der Liebe fühlt, die euch erhebt, heilt und reinigt, geliebte Seelen. Denn ihr sucht die Höchste Quelle, den Größten Segen, das schönste Erwachen, das jeder Seele zuteil werden kann. Ja, meine geliebten, schönen Brüder, ich überwache euren Fortschritt. Ich komme oft zu euch, zu jedem einzelnen von euch und zu vielen anderen, um euch zu ermutigen und den Segen zu bringen, den ich als Gottes Werkzeug denen von euch geben kann, die in Not sind, die die Wahrheit suchen, die Gott suchen. Es ist mein Segen und mein Privileg, euch zu dienen, geliebte Seelen. Die Sehnsüchte in euren Herzen, meine geliebten Brüder, bringen euch der Wahrheit, dem Licht und der Liebe immer näher.
+
+Vieles von den Zuständen dieser Welt ist aufgrund der Natur der Menschen entstanden, die Macht und Kontrolle haben wollen, die sehen, dass sie stark und fähig sein müssen, für das zu kämpfen und zu erhalten, was sie in der Welt wünschen, indem sie ihren Willen und ihre Fähigkeiten einsetzen, um die Erfüllung der Wünsche ihres Verstandes zu erreichen. Dies hat viel Zerstörung und Unfrieden in die Welt gebracht, denn im Verstand der Menschen gibt es das Bedürfnis, unabhängig und stark zu sein und von den Menschen um sie herum als solches anerkannt zu werden. Doch das ist nicht die wahre Natur des Menschen. Unter diesem Furnier, dieser mentalen Vorstellung von dem, was ein Mensch ist, befindet sich eine weitere Schicht wahrer Gaben und Fähigkeiten, die Gott in jede Seele gelegt hat, und in dieser Seele ist die Fähigkeit zu großer Liebe, Zärtlichkeit und Demut. Ich beschwöre euch alle, Männer und Frauen, diese Fähigkeiten in euren Brüdern zu fördern, zu lieben, mit tiefer Einsicht und Demut in der Welt zu wandeln, ein Kanal der Liebe in der Welt zu sein und für eure Brüder und Schwestern zu sorgen.
+
+Denn es gibt eine große Kraft in den Seelen der Menschen, eine Kraft, die heilen und umarmen und schaffen kann in einer Welt in Verbindung mit Gott. Es gibt viel, was mit denen erreicht werden kann, die wach sind und über die oberflächlichen Übergriffe der menschlichen Bedingung hinaus zu jenem Ort der Weisheit und Zärtlichkeit und Liebe sehen können. Ohne dass die Menschheit diese Verkleidungen des Verhaltens und des Verständnisses, wer sie ist, durchbricht, wird die Welt weiterhin unter den Illusionen und Verblendungen leiden, die in den Kulturen und dem Verständnis eines Großteils der Menschheit so weit verbreitet sind. Die Kraft, die Rüstung und den Irrtum zu durchbrechen, kommt mit diesem Geschenk der Liebe, sie kommt von Gottes Berührung der Seele, die die wahren Aspekte jeder Seele erweckt und jedem geliebten Kind Gottes die Fähigkeit und das Verständnis bringt, was sie in dieser Welt sein können, was sie in dieser Welt erreichen können, das in Harmonie mit Gottes Gesetzen der Schöpfung und der Liebe ist.
+
+Ja, es gibt so viel, das zu jeder Seele in eurer Welt kommen muss. Es muss eine große Veränderung und ein tiefes Verständnis für die wahre Natur jeder Seele geben, damit sie sich tatsächlich mit Weisheit und Anmut und Schönheit, mit Liebe und Freude ausdrücken kann. Ich fordere euch alle auf, in der Gnade der Liebe Gottes zu wandeln, ein Kanal Seiner Liebe in dieser Welt zu sein, tief in euch selbst einzutauchen und eure wahre Natur zu verstehen, das Wunder eurer eigenen Seele in Beziehung zu Gott. Denn es gibt viel zu erfahren und es gibt viel auszudrücken in einer Seele, die von der Göttlichen Liebe erweckt wird. Jeder von euch ist ernsthaft und sehnt sich danach, auf diese Weise weiter zu wachsen, seinen Weg in diesem großen Wald der Bedingungen zu finden, der Interaktionen mit anderen, mit allem, was in eurer Welt ist, das Licht und Liebe herausfordert.
+
+Seid stark, Geliebte. Nicht eine Stärke, die mit der physischen Natur der Menschen kommt, oder der Willkür und Macht, die sie suchen. Nein, eine Stärke, die mit den sanften Winden der Liebe kommt, mit der Umarmung, die mit einer Seele kommt, die in Harmonie mit Gott ist, mit der Weisheit, die von der Seele ausgedrückt wird und dass alles für jeden von euch Geliebten verstanden und klar ist. Dass der Weg Gottes, der Weg der Liebe, die Sanftmut und Demut, die kommt, das ist, was eure Welt retten und die Harmonie in Gottes Schöpfung zurückbringen wird.
+
+Ihr alle seid von Gott aufgerufen, in euch selbst jene Dinge zu verändern, die Unharmonie verursachen, denen es an Liebe und an Einsichten in die Wahrheit mangelt. Jeder von euch geht weiterhin diesen Weg zu größerer Wahrheit und Liebe. Wir werden weiterhin mit euch gehen, geliebte Seelen, um an eurer Seite zu sein, während ihr lernt und wächst und die wahre Natur eurer Seelen zum Ausdruck bringt.
+
+Geliebte, ich bringe euch einen Segen des Friedens und der Heilung und erhebe euch in das Licht der Gegenwart Gottes und der Gnade über euch. Mögen sich eure Seelen wie eine Blume für Seine Berührung und die Wärme Seiner Liebe öffnen und euch an den Ort des tiefen Friedens, der tiefen Liebe und der tiefen Freude bringen.
+
+Gott segne euch. Ich bin Konfuzius und ich liebe euch von Herzen. Ich liebe euch alle, meine Brüder, meine Schwestern. Ich liebe euch alle. Gott segne euch. Gott segne euch Geliebte.

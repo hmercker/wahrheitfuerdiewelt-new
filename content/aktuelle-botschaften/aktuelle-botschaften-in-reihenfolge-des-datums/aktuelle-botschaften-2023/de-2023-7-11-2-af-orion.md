@@ -1,0 +1,20 @@
+---
+title: "Mit Gottes Liebe werden eure Seelen an Weisheit, Stärke und höherem Bewusstsein wachsen"
+menu_title: ""
+description: "Mit Gottes Liebe werden eure Seelen an Weisheit, Stärke und höherem Bewusstsein wachsen"
+date: 2023-05-12 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Mit Gottes Liebe werden eure Seelen an Weisheit, Stärke und höherem Bewusstsein wachsen
+
+Orion - empfangen durch Al Fike am 11. Juli 2023, Sechelt, BC, Kanada.
+
+Spürt den Frieden der Gegenwart Gottes, meine Freunde. Ich bin Orion. Möge dieser Friede immer mit euch sein. Denn in der Stille Gottes und dem Frieden seines Segens über euch findet ihr eure Orientierung, die Harmonie, das Ziel, den Fluss eurer Fähigkeiten und eurer Führung. In eurer Beziehung zu Gott werden alle geistlichen Dinge deutlich und klar. Im Licht von Gottes Gegenwart schöpft ihr diesen Frieden und diese Klarheit. Durch das Geschenk seiner Liebe wächst eure Seele an Weisheit und Stärke, an Wahrnehmung und an der Fähigkeit zu lieben.
+
+Diese Dinge wisst ihr, meine Freunde. Ihr habt all diese Dinge auf eurem spirituellen Weg erfahren. Dennoch ist es wichtig, dass wir euch daran erinnern und euer Bewusstsein auf diese Wahrheiten lenken, denn der Kreuzstrom des menschlichen Zustands ist stark. Und wenn ihr nicht weiter auf diese Aspekte des Lichts und der Wahrheit hinarbeitet, werdet ihr oft von den Ablenkungen des menschlichen Daseins weggefegt. Gott zieht euch zurück und wir kommen, um euch zu inspirieren, euer Gesicht zu Gott zu wenden. So wirken diese Dinge zusammen. Gottes Segen über euch, zu dem auch unsere Anwesenheit bei euch gehört, eure Sehnsüchte in der Seele, die sich nach Höherem sehnen und euer Bewusstsein auf Höheres lenken.
+
+Alle guten Dinge wirken auf größeres Licht, tieferes Bewusstsein, höheres Bewusstsein hin. Deshalb inspirieren und leiten wir euch weiterhin. Wir können nicht darauf bestehen oder euch genau sagen, was ihr tun müsst, aber wir können euch ermuntern und beraten und euch helfen, euch aufzurichten, damit ihr nicht weggezogen werdet. Es ist wichtig, dass ihr euch diese Zeit gemeinsam und konsequent nehmt. Denn bringt euch das nicht in die Nähe eures Schöpfers und in unsere Gegenwart? Es ist leicht, aus dem Rhythmus dieser Bedingungen, dieses Bemühens herauszufallen. Wenn ihr euch gemeinsam dazu verpflichtet, das Erwachen zu suchen, das große Geschenk der Essenz Gottes zu suchen, erinnert ihr euch selbst daran und bekräftigt die Wahrheit, ihr bringt euch an den Ort der Rhythmen und Muster eurer spirituellen Absicht, zurück zu Gott, zurück zum Licht, zurück zu allem, was wichtig ist. Wir freuen uns also, dass ihr immer wieder zurückkehrt. Das macht uns wirklich sehr glücklich. Denn ihr braucht diese Zeit, diese Erfrischung der Seele, diese Rhythmen und Praktiken des Gebets und der Kontemplation, um das Licht um euch herum zu erhalten und das Licht in euch immer mehr zur Entfaltung zu bringen.
+
+Seid nahe bei Gott, meine Freunde. Es ist die große Wahrheit, dass Gott möchte, dass ihr ihm nahe seid, dass Gott möchte, dass ihr euch nach seiner Gegenwart, seinem Frieden und seiner Liebe sehnt. Alles andere wird kommen, wenn ihr auf diesen Wunsch eingeht und danach handelt. Es kommt mit großem Segen, großem Frieden, großem Licht, Einsicht und Verständnis. Seid mit Gott zusammen, meine geliebten Freunde. Seid in seiner Gegenwart. Erfahrt den Frieden, der alles Verstehen übersteigt, und wisst, dass ihr wirklich am richtigen Ort seid, an diesem Ort der Harmonie und des Friedens, der Freude und der Liebe. Was könntet ihr euch mehr wünschen? Was gibt es Wichtigeres als dieses Geschenk Gottes und diesen Ort des Lichts, den ihr gemeinsam und mit anderen teilt? Möget ihr in diesem Licht weiter wachsen, die Kraft von Gottes Berührung wahrhaftig verstehen und erkennen und in Frieden sein, immer in Frieden sein. Gott segne euch. Ich bin Orion. Ich habe große Liebe für jeden von euch, geliebte Freunde des Lichts und der Wahrheit. Gott segne euch. Gott segne jeden von euch.

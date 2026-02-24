@@ -1,0 +1,30 @@
+---
+title: "Denkt an die verlorenen Seelen"
+menu_title: ""
+description: "Denkt an die verlorenen Seelen"
+date: 2024-08-01 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Denkt an die verlorenen Seelen
+
+Barbara Davies - empfangen durch Al Fike am 21. Dezember 2024, Sechelt, BC, Kanada.
+
+Danke, geliebte Schwester (Terry), für deine Gebete. Du weißt, dass ich dich liebe und dir nahe bin. Ich bin Barbara und diese Jahreszeit war eine sehr arbeitsreiche Zeit für mich, denn diese liebe Seele, ich und andere verbrachten viele Stunden damit, sich um die Bedürfnisse der Menschen um uns herum zu kümmern, die in großer Not und großer Armut waren. Wir nutzten diese Zeit, um mit vielen in Kontakt zu treten und zu sagen: *„Hier ist ein Geschenk.“* So materiell es auch war, die Botschaft war, dass man sich um euch kümmert und euch liebt. In der Tat spürten viele den Trost und den Segen dieser kleinen Gaben wie Essen, manchmal Spielzeug für die Kinder und andere Dinge.
+
+Das war die Tradition unserer Zeit und eurer Zeit. Obwohl es harte Arbeit war, erinnere ich mich gerne an diese Zeiten, an die Zeiten, in denen ich die Geburt Christi an Weihnachten feierte und an die Gebete, die ich am Heiligen Abend sprach, nur ich und Gott, in dem Wissen, dass wir wissen und dass Gott sein Versprechen an uns erfüllt hat, sein Versprechen, uns ein Geschenk zu machen, das Geschenk der Liebe.
+
+Diese Zeit ist oft eine materielle Zeit. Viele denken, dass sie traurig sind und sich vernachlässigt fühlen, wenn diese Bedürfnisse nicht erfüllt werden. In Wahrheit ist es eine sehr spirituelle Zeit, eine Zeit, um Gott kennenzulernen und mit ihm zusammen zu sein, eine Zeit, um zu schätzen und anzuerkennen, was Gott euch gegeben hat, das größte Geschenk von allen, dass ihr dieses Geschenk angenommen und in euer Herz gebracht habt, nicht nur einmal, sondern immer wieder, so oft ihr es euch wünscht. Dieses Geschenk ist gegeben, vorausgesetzt, eure Gebete sind aufrichtig und eure Sehnsüchte sind intensiv. Sind wir als Gottes Familie der Liebe nicht hier, um gemeinsam die Wahrheit zu feiern? Sind wir nicht hier, um die Freiheit anzuerkennen, die diese Wahrheit uns geschenkt hat, die Freiheit von wahrer Not, die Freiheit von Irrtum, die Freiheit von unseren eigenen menschlichen Schwächen, die in diesem Augenblick geheilt und verwandelt werden?
+
+Es ist ein Geschenk jenseits aller Geschenke und es wird ohne Wertung gegeben. Sie wird jeder Seele gegeben, die sie begehrt, unabhängig von ihrem Stand im Leben. Ganz gleich, in welchem Zustand sie sich befinden, sie wird frei gegeben. Wir sind heute hier zusammengekommen, um dies zu erfahren, zu spüren und zu erleben, und zwar für eine andere Zeit, ein anderes Gebet, das wir unserem himmlischen Vater darbringen. Gebt von eurem Herzen, meine geliebten und schönen Freunde. Dies ist der Zeitplan, um von eurem Herzen zu geben. Wenn ihr jemandem, der in großer Not ist, etwas materiellen Trost spenden könnt, dann bitte ich euch, das zu tun. Ignoriert nicht diejenigen, die in großer Not sind, die sich ungeliebt und unversorgt fühlen.
+
+Das ist die wahre Botschaft, die Jesus verkündet hat: die Botschaft der Liebe. Diese Liebe kann auf viele verschiedene Arten ausgedrückt werden. Auch wenn das größte Geschenk der Liebe Gottes für euch persönlich bestimmt ist, ist dieser Segen zwischen euch und Gott, das, was ihr mit diesem Geschenk macht, wie ihr es in der Welt ausdrückt, wichtig und notwendig. Behaltet die großen Segnungen, die großen Gaben Gottes, nicht für euch und versteckt sie nicht. Seid in der Welt als Gottes Kanäle der Liebe. Seid in der Welt offen für Gottes Führung und Inspiration, damit ihr wirklich ein Licht für andere sein könnt.
+
+Auf diese Weise schließt ihr den Kreis, ihr schließt den Segen. Denn was ist Liebe ohne Ausdruck, ohne einem anderen, der Welt Licht zu geben? Seid dieses Licht, meine geliebten Freunde. Seid ein Geschenk für andere, damit eure Liebe leuchtet, damit ihr Trost und Sicherheit spendet, damit ihr euren Lieben und Freunden die Botschaft vermittelt, dass ihr sie liebt und in Liebe für sie da seid. Auf diese Weise zeigt ihr die Wahrheit, die Jesus vor so langer Zeit gebracht hat, und ihr bekräftigt für unseren geliebten Meister, dass sein Werk weitergeht und noch sehr lange weitergehen wird.
+
+Möget ihr gesegnet sein, meine geliebten Freunde, gesegnet in der Liebe des Vaters, gesegnet in der Inspiration durch die Engel, gesegnet im Licht, dem reinen Licht von Gottes Berührung auf uns alle, damit wir seine Werkzeuge, seine Kanäle der Liebe sind und dies als ständige Ausstrahlung und Ausfluss von jedem von uns in die Welt geben können. So wird die Welt von denen verändert, die die Veränderung und den Wandel Seiner Liebe annehmen. Wir bekräftigen die Wahrheit, indem wir sie leben.
+
+Wir sind die Werkzeuge Gottes. Ihr tragt die Engel mit euch, wohin ihr auch geht. Ihr seid ein Licht. Wählt eure Worte sorgfältig. Wählt sie in Liebe. Urteilt nicht über andere, sondern schenkt Liebe. Erkennt die wunderschöne Seele an, die jeder Mensch ist. Wenn ihr den anderen auf eurem täglichen Weg berührt, habt ihr der Welt ein Licht geschenkt. Diese Berührung kann eine große Veränderung entfachen und den Wunsch wecken, den göttlichen Weg zu beschreiten und eine weitere schöne Seele zu Gott zu bringen.
+
+Möget ihr gesegnet sein, meine geliebten Freunde, in euren Bemühungen, in eurer Arbeit, in eurem Dienst und in euren Gebeten. Alles, was ihr tut, möge in Liebe geschehen. Auf diese Weise ehrt ihr das Werk unseres geliebten Bruders Jesus und ihr seid seine Jünger für die Wahrheit. Gott segne euch, meine Geliebten. Ich bin Barbara und ich liebe euch alle. Ich bin vielen von euch nahe, meinem lieben Sohn, den ich liebe, seiner lieben Partnerin, meiner geliebten Terry und allen in meiner Familie. Ich gebe euch meine Liebe und Anerkennung in unserer Beziehung der Liebe und des Lichts. Gott segne euch alle, denn ich war mit jedem von euch zu einem bestimmten Zeitpunkt zusammen und werde dies auch weiterhin tun, wenn Gott mich führt und mich in den Dienst für euch alle stellt. Gott segne euch, Geliebte. Gott segne euch.

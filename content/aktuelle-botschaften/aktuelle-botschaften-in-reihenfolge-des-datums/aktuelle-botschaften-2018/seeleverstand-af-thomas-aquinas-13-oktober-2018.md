@@ -1,0 +1,24 @@
+---
+title: "Seelenverstand"
+menu_title: ""
+description: "Seelenverstand"
+date: 2020-08-01 06:25:48+00:64
+draft: False
+hidden: True
+weight:
+---
+### Seelenverstand
+
+Thomas Aquinas - empfangen durch Al Fike am 13. Oktober 2018, Gibsons, BC, Kanada.
+
+Ich bin Thomas von Aquin.
+
+Ich heiße euch an diesem schönen Tag willkommen, während ich für meine Mitarbeiter in diesem Werk spreche, um zu sagen, dass wir euch lieben. Wir sind mit euch, während ihr weiterhin immer höher zu Gott aufsteigt, dass ihr weiterhin nach dem Erwachen eurer Seelen strebt und nach dem Höchsten sucht. Noch immer spekuliert euer Verstand, grübelt, sucht Klarheit und sucht nach Antworten auf jene tiefen Fragen, die wirklich nur die Seele beantworten kann. Denn die Antworten auf eure Fragen, Geliebte, haben viele Schichten und Facetten, und nur durch die Kommunikation mit euren Seelenfähigkeiten im Einklang mit eurem materiellen Verstand kann dieses tiefe und reiche Verständnis der Wahrheit kommen.
+
+Die Seele ist mehrdimensional, der Verstand ist es nicht. Deshalb kann der Versuch, die tieferen Wahrheiten der Schöpfung des Vaters mit dem Verstand zu verstehen, nur zu zirkulärem Denken und Spekulationen führen, die sich immer weiter drehen wie ein Hund, der versucht, seinen eigenen Schwanz zu fangen. Bis jene Teile eures Verstandes diese Anstrengung erschöpft loslassen und erkennen, dass die Antworten nicht vorhanden sind, dass dies die Seele zu Wort kommen lässt, um die Wahrheit hervorzubringen, vorausgesetzt, man ist im Gebet, in einem Zustand der Empfänglichkeit und hat den Wunsch nach dem Höchsten und Wahrsten. Der seelische Verstand existiert und seine Fähigkeiten für die Wahrheit sind grenzenlos, sobald er von der Liebe Gottes entfacht wurde. Der materielle Verstand, den ihr auf diese Lebensreise mitbringt, ist notwendig, damit ihr euch in den materiellen Belangen dieser Welt zurechtfindet. Doch er ist nur die Spitze des Eisbergs eures Bewusstseins, so vieles liegt unter dieser Schicht der akzeptablen Realität verborgen. In eurer gemeinsamen Zeit schält ihr diese Barriere zurück, öffnet neue Wege des Bewusstseins, des Verstehens und bringt so die Wahrheit zu euch. Auch wenn sie am Anfang schimmern und verschwinden und wieder in eurem Bewusstsein auftauchen mag, ist es der Anfang. So wie ein Lichtstrahl auf dem Wasser widergespiegelt wird, in deine Vision eindringt, gefolgt von einem anderen und einem weiteren, bis die ganze Landschaft mit funkelndem Licht erfüllt ist, so wird dein Verständnis von Gott kommen, ein Strahl, der dein Bewusstsein trifft, gefolgt von einem anderen und einem weiteren, bis die ganze Vision deines Verstandes mit Gott erfüllt ist.
+
+Das ist es, wovon die Mystiker sprechen, Geliebte. Das ist es, wovon der Meister sprach und viele andere, die die Fülle der Gottesgegenwart erfahren haben. Jeder von euch ist fähig, Gott auf diese Weise zu erkennen, seine Augen für die große Vision und das Licht Gottes zu öffnen, zu wissen, seine Gegenwart, sein Universum und seine Liebe wirklich zu kennen. Wie ein neugeborenes Kind, das seine Augen langsam öffnet, sich anpasst, sich auf die neue Realität seines Lebens einstellt, so könnt ihr, wenn eure Seelen erwachen, kaum sehen, aber etwas Neues und Mächtiges um euch herum spüren. Wir helfen, eure Sicht zu lenken und trösten euch, während ihr weiter erwacht und Dinge erlebt, die neu sind und noch nicht ganz verstanden werden. Wir sind mit euch. Unsere Liebe umhüllt, beschützt und erhebt dich weiterhin. Wir füttern euch mit der Wahrheit, so wie eine Mutter ihr Kind füttert, und stellen sicher, dass das, was gegeben wird, aufgenommen wird und seine Nahrung das Kind unterstützt. All dies geschieht in Liebe.
+
+Ihr habt ein Fest vor euch, Geliebte, ein wundersames Fest der Wahrheit, des Segens, der Heilung und der Liebe. In eurem eigenen Zeitmaß, nach euren eigenen Wünschen, werdet ihr diese Früchte der Wahrheit zu euch nehmen. Dieses Wasser des Lebens, diese Häppchen, die die Seele, den Verstand und den Körper nähren, sind alle vor euch Geliebten ausgelegt. Möge euer Hunger wachsen und eure Fähigkeit, in diesem Fluss der Liebe, der Wahrheit und des Lichts Gottes zu sein, weiterhin eure Seelen erwecken. Gott begrenzt nicht, was ihr in dieser Hinsicht konsumieren dürft, Seine Großzügigkeit ist unbegrenzt. Sein Wunsch nach eurem Wachstum und eurem Glück, eurer Freude und eurer Stärkung sorgt weiterhin dafür, dass ihr gefüttert werdet, dass ihr alles erhaltet, was ihr braucht, um zu erwachen und damit diese neue und zarte Seele von euch zur Reife und darüber hinaus wachsen kann. Ihr seid gesegnet, meine Freunde, so sehr gesegnet. Nehmt Gottes Gaben an, hungert nach den Früchten Seiner Seele, trinkt von den Wassern des Heiligen Geistes, erwacht zu der neuen Dämmerung der Wahrheit, die in euch aufsteigt.
+
+Gott segne euch, meine Freunde. Ich bin Thomas und ich liebe euch. Gott segne euch.

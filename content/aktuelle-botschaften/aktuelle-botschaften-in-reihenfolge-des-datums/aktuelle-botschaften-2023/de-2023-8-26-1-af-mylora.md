@@ -1,0 +1,26 @@
+---
+title: "Wir alle haben mächtige Heilungsfähigkeiten"
+menu_title: ""
+description: "Wir alle haben mächtige Heilungsfähigkeiten"
+date: 2023-05-12 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Wir alle haben mächtige Heilungsfähigkeiten
+
+Mylora - empfangen durch Al Fike am 26. August 2023, Sechelt, BC, Kanada.
+
+Gott segne euch, meine Freunde, ich bin Mylora. Ihr denkt nicht oft daran, dass ein Teil eurer Instrumente und des Plans, der entwickelt wird, darin besteht, die heilenden Gaben zum Ausdruck zu bringen, die jeder und jedem von euch innewohnen. Denn wenn eure Brüder und Schwestern, die verloren und auf der Suche sind, zu euch kommen, sind sie oft als Erstes empfänglich für den Trost und die Heilung, die sie durch euch erfahren können. Denn jede Seele, die sucht, sucht, weil sie Schmerzen hat, sucht, weil sie verloren ist, sucht, weil sie eine Sehnsucht nach mehr hat, nach etwas von Gott. Die größte Gabe und der größte Segen ist die Heilung, die ihr euren Brüdern und Schwestern schenken könnt. Auf diese Weise fühlen sie sich aufgerichtet und getröstet. Wenn sie körperliche Schmerzen und Unbehagen haben, können sie Erleichterung spüren. Das ist ein Zeichen für sie, dass das, was ihr bringt, Gültigkeit, Kraft und Schönheit hat.
+
+Ja, ihr könnt diejenigen von uns manifestieren, die im himmlischen Königreich wohnen. Ihr könnt diese Dinge bringen und sie sind in der Tat dramatisch. Doch die Gabe der Heilung, die Gabe des Trostes für andere, ist für euch und durch euch viel leichter verfügbar. Ich möchte, dass ihr versteht, dass diese Berührung, diese Umarmung, die ihr euren Brüdern und Schwestern schenken könnt, eine mächtige Tür ist, durch die sie gehen können. Wenn sie sich getröstet und in Frieden fühlen, sind sie offener für das, was ihr zu sagen habt, für die Wahrheiten, die ihr vortragen könnt. In vielerlei Hinsicht könnt ihr durch Heilung die Macht dieser Wahrheiten demonstrieren.
+
+Das ist nicht die einzige Gabe, die ihr einem Menschen schenken könnt, aber es ist eine, die man ernsthaft in Betracht ziehen und verstehen sollte, dass jeder von euch die Gabe der Heilung hat. Wenn ihr einen anderen berührt, überträgt sich ein Segen aus heilenden Energien und Licht durch euch auf den anderen. Das mag unaufgefordert und unbewusst geschehen, aber es geschieht. Denn es ist Teil einer Seele, die sich im Licht entwickelt, einer Seele, die in Wahrheit erstrahlt. So wie ihr die Gabe der Liebe Gottes empfangt, so sind auch die Segnungen der Heilung Teil dieser Gabe und manifestieren sich mit dieser Gabe. Denn wenn Gott euch mit seiner Essenz, der Essenz seiner Seele, berührt, ist die Seele tatsächlich ein Kanal für große Heilkraft und Segen für das Universum. Wenn ihr nur einen Teil dieses Segens der Liebe empfangt, dann erhaltet ihr auch viele Dinge, die mit diesem Segen einhergehen.
+
+Jeder Mensch hat die Gabe und die Fähigkeit, Energien zu geben, die aufbauend und hilfreich sind. Aber wenn ihr die Göttliche Liebe in eurer Seele empfangt, erweckt ihr auch Aspekte von euch selbst, Geschenke der Seele, die die Fähigkeit beinhalten, ein Kanal für Gottes Segen und Heilung für andere zu sein. Dies ist das Gesetz in Aktion, ein Segen, der sich auf viele verschiedene Arten manifestiert. So wie ihr alle einzigartig seid, spiegeln auch die Fähigkeiten zu heilen und zu segnen diese Einzigartigkeit wider. Die Energien sind zwar dieselben und universell, aber wie und durch wen sie ausgedrückt werden, bestimmt die Wirkung auf den anderen, der gesegnet wird.
+
+Seid euch eurer Gaben bewusst, meine geliebten Freunde. Seid euch bewusst, dass die Manifestation des Geistes nur ein Aspekt der vielen Segnungen und Gaben ist, die in euch stecken. Wenn ihr euch weiterentwickelt und gemeinsam für das Höchste arbeitet, werden diese Fähigkeiten, Segnungen und Gaben als natürliches Ergebnis eurer Bemühungen sichtbar. Bleibt eurer Seele treu, denn sie ist die Quelle für alles, was ihr in der Welt auf spirituelle Weise manifestieren könnt. In der Tat, wenn ihr das Fundament der Göttlichen Liebe legt, können so viele Fähigkeiten und Manifestationen daraus entstehen und von diesem großen Segen profitieren.
+
+Meine geliebten Freunde und Freundinnen, betrachtet euch als Menschen mit vielen Gaben und Möglichkeiten, die sich durch euch manifestieren. Jeder von euch wird in diesen Ausdrucksformen einzigartig sein. Jede Seele ist einzigartig. Wenn ihr zu Gott kommt, kommt diese Einzigartigkeit, ihre Schönheit und ihr Wunder zum Vorschein und erstrahlt im Licht von Gottes Berührung. Möget ihr euch selbst und einander schätzen lernen und erkennen, dass jede Seele mit Möglichkeiten gefüllt ist, mit dem Potenzial für viele wunderbare Dinge. Viele wunderbare Segnungen können sich durch sie manifestieren, wenn sie die richtige Situation, Umgebung und Entwicklung vorfinden. Ihr entwickelt euch. Ihr wächst. So wachsen eure Gaben und erwachen.
+
+Möget ihr weiterhin im großen Segen der Liebe Gottes stehen. Macht weiterhin einen Schritt nach vorne. Fahrt fort, die vielen Teile von euch zu erforschen. So vieles ist noch verborgen, so vieles gibt es noch zu entdecken. Meine geliebten Freunde, möget ihr gesegnet sein und in der Liebe Gottes voll aufblühen. Ich bin Mylora und ich liebe euch, geliebte Freunde. Gott segne euch.

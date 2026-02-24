@@ -1,0 +1,36 @@
+---
+title: "Kreativität ist die Quelle der Seele"
+menu_title: ""
+description: "Kreativität ist die Quelle der Seele"
+date: 2020-08-01 06:25:48+00:65
+draft: False
+hidden: True
+weight:
+---
+### Kreativität ist die Quelle der Seele
+
+Josephus - empfangen durch Al Fike am 29. April 2020, Gibsons, BC, Kanada.
+
+Geliebter Sohn und geliebte Tochter, ich bin Josephus.
+
+Ich möchte über die Fähigkeiten der Seele in Bezug auf ihre Kreativität und ihre Ausdrucksmöglichkeiten sprechen. Gott hat jedem Seiner Kinder viele Fähigkeiten und Kapazitäten gegeben, sowohl des Verstandes als auch der Seele. Eine der großen Fähigkeiten, die die Menschheit besitzt, ist eine Vorstellungskraft, die sich auf kreative Weise ausdrücken kann. Die Fähigkeit der Menschheit, Objekte zu visualisieren und sie in der Welt real werden zu lassen, ist ein großes Geschenk. Diese Kreativität bringt viele schöne Dinge in eurer Welt zum Vorschein.
+
+Wenn der Verstand und die Seele zusammenarbeiten, um solche Schönheit, Harmonie, Anmut und Einsicht hervorzubringen, dann wird die Welt durch die Bemühungen dieses Individuums bereichert. Jedes Individuum hat bis zu einem gewissen Grad die Fähigkeit zur Kreativität, um ein Geschenk in die Welt zu bringen, und zwar auf eine Art und Weise, dass andere es wahrnehmen, sich damit identifizieren und verstehen können, was es ist, das sie auf ihre einzigartige Weise geben möchten.
+
+Die Menschheit hat viele Wege für diese Anstrengung der Kreativität geschaffen. Die Vorstellungskraft der Menschen ist in der Tat groß. Die Fähigkeiten der Menschheit, Dinge des Schönen, Dinge des Praktischen und Dinge, die für ihren Komfort und ihr Wohlbefinden benötigt werden, zu erschaffen, diese Dinge werden die Ergebnisse einer Kultur genannt. Denn in den Vorstellungen und verstandesmäßigen Anliegen des Menschen wird die Bildung zu einem Werkzeug, von dem aus jeder Einzelne mit dem ausgestattet wird, was er braucht, um seine Kreativität und das, was er sich vorstellen kann, in die Welt zu bringen.
+
+Mit einer geweckten Seele, einer Seele, die mit der Liebe des Vaters gesegnet ist, werden diese Akte der Kreativität verstärkt. Alle anderen Dinge innerhalb eines Individuums werden in dieser Hinsicht in Harmonie gebracht, größere Harmonie, aufgrund der Weisheit der Seele. Gott möchte, dass Seine Kinder ihre Kreativität, ihre Fähigkeiten, die Gaben der Seele und des Verstandes zum Ausdruck bringen. Aber Gott möchte, dass diese Dinge im Einklang mit Seinen Gesetzen funktionieren, dass sie in Harmonie mit Seiner Kreativität sind, mit Seinen wundersamen Taten der Liebe und des Ausdrucks im Universum. Die Menschheit hat diese Kapazität, diese Fähigkeit, durch das Erwachen ihrer Seelen wahrhaftig zu verstehen, wie sie in der Tat im Einklang mit Gott arbeiten kann, um eine sich ständig verändernde Welt hervorzubringen, um diese kreativen Anstrengungen zu unternehmen, die größeres Licht und größere Harmonie in die Welt bringen.
+
+Wenn die Seele und der Verstand im Einklang und in Harmonie miteinander arbeiten, hat die Seele die Fähigkeit, sich von Gott und den Engeln inspirieren zu lassen, um Dinge hervorzubringen, die in der Tat als ein Geschenk Gottes gedacht sind und die durch die Talente und Fähigkeiten des Einzelnen ans Licht gebracht werden. Man kann ein Kanal für viele Dinge sein, geliebte Seelen, je nach euren Gaben, je nach euren Talenten und eurem Wunsch.
+
+Ich spreche durch dieses Individuum, das begabt ist. Es ist ein kreativer Prozess, nicht wahr, diese Kommunikationen mit Worten hervorzubringen, die inspirieren und die Wahrheit bringen werden? Er ist ein kreatives Individuum. Er drückt seine Kreativität auch auf andere Weise aus, auf wunderschöne Weise. Er strebt danach, in Harmonie mit Gott zu sein, ein liebender Diener Gottes zu sein. So steigert er mit jedem Tag seine Fähigkeit, seine Kreativität und seine Talente, um größere Harmonie in sein Leben zu bringen und durch seine Handlungen eine größere Fähigkeit des Dienens für andere zu erreichen. Dies ist ein gutes Beispiel dafür, wozu jeder Einzelne fähig sein kann. Er ist einzigartig, so wie jeder von euch einzigartig ist.
+
+So wird der Ausdruck eines jeden individuell sein, schön auf seine eigene Art und Weise und Ausdrucksform. Genieße diese Fähigkeiten, Ausdrücke der Liebe und Kreativität in der Welt. Es ist so gewollt. Gott wünscht sich, dass jedes Individuum diese Fähigkeiten, diese Einzigartigkeit jeder erschaffenen Seele erforscht, damit sich dies in der Welt manifestieren kann. Es ist kein Fehler, kreativ zu sein und sich danach zu sehnen, sein wahres Selbst in der Welt auszudrücken. Sei es durch Kunst oder Musik oder Schreiben, sogar durch Erfindungen und das Schaffen mechanischer Geräte. Solange diese Dinge in Harmonie mit Gott sind und oft von Gott inspiriert und in einer Art und Weise genutzt werden, die mit Seinen Gesetzen und Seiner Liebe in Einklang steht, dann ist es zu begrüßen. Es ist ein Geschenk für die Welt. Eure Bemühungen, geliebte Seelen, können ein Geschenk für die Welt sein.
+
+Aber wenn diese Neigungen und Wünsche der Menschheit nach größerem Gewinn, nach Prestige, nach Anerkennung, anstatt nach Liebe zur Kreativität an sich, dann ist das der Punkt, an dem die Dinge beginnen, in Richtung dunkler Ziele und Mittel umgeleitet zu werden, anstatt in Harmonie. Die eigentliche Grundlage der Kreativität muss die Liebe sein. Mit Liebe, vermehrter Liebe, größerer Liebe, reinerer Liebe, werden diese Dinge der Seele, diese schöpferischen Impulse, die Gott in euch gelegt hat, verfeinert und schöner, sie werden wahrlich ein göttlicher Ausdruck eurer Seele.
+
+Zweifelt nicht daran, geliebte Seelen, dass jeder große Gaben hat. Jeder kann diese Gaben auf kreative Weise vorwärts bringen. Es gibt nichts, was euch zurückhält, außer eurem eigenen Verstand, der skeptisch gegenüber euren Fähigkeiten ist, unsicher gegenüber euch selbst, nicht wissend, was tief in euch liegt. Natürlich liegt es an euch, zu experimentieren und zu versuchen, diese Dinge hervorzubringen, Vertrauen zu haben, dass Gott tatsächlich eine einzigartige und schöne Seele geschaffen hat, die mit Gaben und Fähigkeiten gefüllt ist, die mit der Zeit kreativ und schön zum Ausdruck kommen werden.
+
+Wie ich schon sagte, wenn Seele und Verstand gemeinsam im Konzert sind, dann wird sich die Musik in all ihrer Schönheit entfalten. Möget ihr euren Weg zu diesen kreativen Bemühungen finden, die eurem Herzen Freude bringen werden, ein tieferes Verständnis für eure Seele und einen größeren Ausdruck der Liebe Gottes, die in euch liegt und ein großes Licht ist, das eure Ausdrucksformen motivieren wird. Jeder von euch ist wunderschön. Jeder von euch ist auf dem Weg der Entdeckung, was diese Schönheit ist und in der Welt manifestiert werden kann.
+
+Segen für euch, geliebte Seelen. Möge Gott euch inspirieren, euch mit Seiner Liebe erheben und neue Einsichten und Fähigkeiten bringen, um die Wunder eurer Seele durch das Instrument eures Verstandes und eurer Vorstellungskraft auszudrücken. Gott segne euch, geliebte Seelen. Ich bin Josephus. Ich freue mich, dass ich heute zu euch über die schönen und erhebenden Aspekte der Seele sprechen konnte. Gott segne euch. Meine Liebe ist immer mit euch. Ich bin euer Diener, Josephus.

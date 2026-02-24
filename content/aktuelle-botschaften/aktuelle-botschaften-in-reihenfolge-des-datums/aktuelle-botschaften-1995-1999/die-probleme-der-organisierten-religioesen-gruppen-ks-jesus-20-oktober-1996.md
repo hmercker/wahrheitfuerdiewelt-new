@@ -1,0 +1,36 @@
+---
+title: "Die Probleme der organisierten religiösen Gruppen"
+menu_title: ""
+description: "Die Probleme der organisierten religiösen Gruppen"
+date: 2020-08-01 06:25:48+00:107
+draft: False
+hidden: True
+weight:
+---
+### Die Probleme der organisierten religiösen Gruppen
+
+Jesus- empfangen durch Kathryn Stokes am 20. Oktober 1996.
+
+*[Lieber Vater im Himmel, ich liebe Dich und bin dankbar für Deine Liebe und Barmherzigkeit. Wenn ich in der Lage bin, Jesu Gedanken klar zu empfangen, möchte ich gerne seine Gedanken über die Mormonenkirche haben - ihre Lehre, ihren Ursprung oder andere Informationen, die ausreichen, um einen Fragesteller in Belgien zu befriedigen, der D____ über das Internet um Informationen von den Engeln über diese Kirche bat. Er hatte sechzehn Jahre lang mit der Mormonenkirche zu tun gehabt und fühlte sich mit ihren Lehren nicht zufrieden. Ich bin mir sicher, dass Du und die Engel wissen, was der Fragesteller für eine Antwort sucht.*
+
+*Ich bete um mehr von Deiner Liebe in dieser Zeit; danke, dass Du mir in meinem täglichen Austausch mit meiner Mutter hilfst. Danke Dir und Deinen dienenden Engeln, dass sie heute bei uns waren, als wir uns zum Gebet versammelt haben. Ich bete, dass ich mit Deinem Willen in meinem Leben in Einklang bin. Ich wünsche mir, vom Heiligen Geist getauft zu werden. Ich wünsche mir, das höchste Potential meiner Seele zu entwickeln, um mit Dir in Liebe eins zu werden.*
+
+*Ich möchte mich in Deine liebevolle Fürsorge begeben; ich möchte darauf vertrauen, dass ich dies tun kann und dass Du meine Gebete erhörst, dass ich aus meiner Seele bete und dass ich in Deiner wundersamen Liebe Fortschritte mache. Amen.]*
+
+Ich bin jetzt hier, um zu schreiben, meine liebe Schwester in Christus, und ich komme heute Abend wieder zu dir, um eine Frage, eine Anfrage, über die Gründungslehren der Mormonenkirche nach bestem Wissen und Gewissen zu beantworten. Ich bin dein Freund und Bruder im Geiste, der Geist der in meiner Seele offenbar gewordenen Liebe Gottes, Jesus der Bibel und Meister der Göttlichen Himmel.
+
+Wie du weißt, waren wir während der Entstehung dieser Kirche anwesend und waren während ihrer vielen Veränderungen anwesend, und wie du auch weißt, gibt es Veränderungen durch Entwürfe von Menschen, die Macht über andere oder Kontrolle über das, was innerhalb der Hierarchie der Kirche und ihrer Organisationen geschieht, wollen. Auch wenn wir hier sind, um die Menschen auf den Weg der Wahrheit zu führen, sind wir nicht in der Lage, die Menschen zu zwingen, die Wahrheit wissen zu wollen oder diesem Weg zu folgen. Wenn also der freie Wille der Menschen den Geboten in die Quere kommt, die vielleicht auf einem guten Weg begonnen haben, werden sie leicht dazu gebracht, Vorschlägen, Ideen und neuen "Richtlinien" zu folgen, die dazu neigen können, die ursprünglichen Lehren zu verfälschen.
+
+Ich sehe deine Gedanken und du fragst dich, ob dies auf die Trennungen in deiner eigenen Kirche zutreffen würde, und ich werde dir versichern, dass, obwohl die Kirche sich in mehrere Gruppen aufgespalten zu haben scheint, jede einzelne der himmlischen Führung folgt und die grundlegenden Lehren als ihre Doktrin verwendet.
+
+Wenn unsere Kirchen über die Verfügbarkeit von Gottes Gnade der göttlichen Liebe lehren und wie Gottes Kinder sie in ihre Seelen aufnehmen können, dann werden sie weiterhin unter unseren wachsamen Augen und unserer liebevollen Fürsorge stehen. Solange unsere Jünger liebevoll sind und versuchen, nach meinem [Elften Gebot]( /zentrale-themen/das-elfte-gebot/) so gut wie möglich zu leben, sind sie Zweige unserer Kirche.
+
+Wenn es also Leiter gibt, die eine Bewegung starten und nach Wahrheit und Führung suchen, kann dies eine spirituelle Oase für viele sein, die eine Zuflucht vor dem Sturm des Lebens suchen; aber wenn die Zeit voranschreitet und Organisationen auf diesen ursprünglichen Prinzipien wachsen, treten Veränderungen im "Management" auf. Einige Menschen, die in die Macht erhoben werden, mögen nur scheinbar spirituell motiviert sein, aber viele haben Hintergedanken für ihre Verbindung mit der Organisation. Diese Veränderungen treten nicht schnell oder merklich auf, sondern untergraben mit der Zeit das ursprüngliche Gefüge und die gesunden Anfänge der Gründer. So, wie dir bei so vielen Gelegenheiten geraten wurde, wenn Menschen in Verwirrung über ihre Religionen oder die Wahrhaftigkeit der Lehren ihrer Kirche sind; sie müssen es ins Gebet nehmen und Gott bitten, ihnen den Weg aus ihrer Verwirrung zu zeigen, ihnen helfen, den Pfad klar zu sehen, dem sie folgen sollen - denn diese aufrichtigen Gebete für die Wahrheit werden die Wahrnehmungen der Seele des Betenden öffnen und ihm oder ihr erlauben, Führung von wahrhaftigen spirituellen Wesen zu empfangen.
+
+Die ganze Wahrheit wird nicht auf einmal gelernt; Wissen und spirituelles Wachstum sind allmähliche Prozesse, und bevor große Schritte gemacht werden können, müssen viele kleine vorbereitende Schritte unternommen werden.
+
+Ich will den Suchenden beglückwünschen, dass er mit der mormonischen Religion, wie sie heute besteht, unzufrieden ist, denn wenn er nicht den seelischen Wunsch hätte, die Wahrheit zu kennen, wäre ihm vielleicht nicht bewusst, dass etwas in den Lehren fehlt, was die Seele noch nicht vollständig mit Gott verbunden hat. Manchmal kann ein aufrichtig Suchender Gott durch seine eigenen Gebete finden, trotz der Unvollkommenheiten in der Lehre der Kirche, aber diese Fälle beschränken sich auf die unabhängigen Denker, die den Wunsch haben, die Wahrheit zu kennen, und die leicht erkennen können, dass die organisierten Religionen starr und komplex, intolerant und unflexibel geworden sind, und so nicht in der Lage sind, mit ihren Gemeinden spirituell zu wachsen. Wenn mehr und mehr Kinder Gottes die Gnade Seiner Liebe in ihre Seelen aufnehmen, werden sie ihren spirituellen Zustand erhöhen und den Ritualen der Kirche entwachsen. Aber in unseren Gemeinden wird mit dem spirituellen Wachstum der Anhänger auch die Gemeinde wachsen und sich verändern, um den Bedürfnissen derer gerecht zu werden, die den Leib der Gemeinde ausmachen.
+
+Es tut mir leid, dass ich keine Details über die betreffende Organisation genannt habe, aber ich glaube nicht, dass es ein angemessenes Zeitmaß ist, dies zu tun; vielleicht können in der Zukunft mehr Details offengelegt werden. Aber die wichtige Tatsache, die verstanden werden muss, ist, dass, wenn eine Kirche es versäumt, die Wichtigkeit des Suchens nach dem Einssein mit Gott durch das Gebet zu betonen, dann fehlt etwas in ihrer Lehre. Sucht die Wahrheit mit euren Herzen und Seelen. Betet aufrichtig um Gottes Barmherzigkeit und Liebe. Trachtet danach, Gottes Willen zu tun, begebt euch in Seine liebende Fürsorge, habt Vertrauen in Seine Fähigkeit, für euch zu sorgen, wenn ihr aufhört, um die Kontrolle zu kämpfen.
+
+Ich liebe euch, jeden einzelnen von euch. Wir wissen, dass das Erdenleben eine ziemliche Herausforderung für das Streben nach einem Leben in Harmonie mit der Liebe darstellt, aber es kann mit Hilfe der Kraft der Liebe Gottes in euren Seelen erreicht werden. Ich verlasse euch nun mit meinen Segnungen und danke euch, dass ihr mir erlaubt habt, meine Gedanken heute Abend durch euch auszudrücken. Ich bin dein Freund und Bruder im Geiste, Jesus der Bibel und Meister der Göttlichen Himmel.

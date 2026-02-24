@@ -1,0 +1,50 @@
+---
+title: "In der Liebe leben"
+menu_title: ""
+description: "In der Liebe leben"
+date: 2020-08-01 06:25:48+00:161
+draft: False
+hidden: True
+weight:
+---
+### In der Liebe leben
+
+Franziskus - empfangen durch James Reid am 11. Juni 2014, Sydney, NSW, Australien.
+
+*[James - das Medium: Guten Morgen liebe Freunde. Ich fühle mich nicht sehr wohl, aber ich habe das Bedürfnis, euch zu schreiben, denn es scheint so viel los zu sein. Vieles entsteht durch die Versammlung, die wahrscheinlich viele Veränderungen in uns allen hervorrufen wird. Viele sind neugierig auf eure Bemerkungen, Franziskus, bezüglich des Treffens und ich möchte euch bitten, sie zu erläutern. Viele betrachten eure bisherigen Kommentare als einige der wichtigsten, die in letzter Zeit empfangen wurden.]*
+
+Guten Tag, lieber Bruder. Ich bin erfreut, dass meine [Kommentare](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2014/einander-lieben-jr-franziskus-von-assisi-26-mai-2014/) eine Reaktion hervorgerufen haben. Wie ich schon damals sagte, ist die Botschaft wichtig und muss beachtet werden. Es gibt ganz grundlegende Richtlinien für das menschliche Leben, die viele Jahre lang missachtet und nicht beachtet wurden, was zu der Menge an Konflikten geführt hat, die derzeit auf der Erde herrschen, sehr zum Nachteil aller Menschen. Wie wir immer wieder betonen, geschieht alles, was ein Mensch tut, in ihm selbst, beeinflusst aber das Ganze und das war schon immer so und wird auch immer so sein. Jeder Konflikt und jedes Urteil, das jeder Mensch in sich trägt, trägt zur allgemeinen Unruhe und zum Unwohlsein des Planeten bei.
+
+Bei eurem Treffen in Caloundra seid ihr alle mit etwas unterschiedlichen Haltungen und Wünschen angekommen, aber mit dem gemeinsamen Ziel, euch auf einer tieferen und wissenden Ebene miteinander zu verbinden. Indem ihr das getan habt, habt ihr mit dem Aufbau einer Einheit begonnen, die euch alle auf einer Ebene umfasst, in der ihr besser in der Lage sein werdet, gemeinsam für das Gemeinwohl zu arbeiten. Wir haben viele in solchen Bestrebungen unterstützt, denn diese sind notwendig für die fortgesetzte Verbreitung des Wissens über die Göttliche Liebe und ihre Auswirkungen. Während ihr bereits eure elektronischen Netzwerke habt, ist es wünschenswert, andere zwischenmenschliche Netzwerke aufzubauen, die unabhängig von Maschinen und irdischen Energiequellen sind. Diese sind die wichtigsten, die ihr habt und entwickeln werdet.
+
+Solche Netzwerke sind für ihr effektives Funktionieren auf Harmonie angewiesen. Je größer der Grad der Harmonie innerhalb eines solchen Netzwerks ist, desto größer wird die Effizienz aller Handlungen sein, die in seinem Rahmen durchgeführt werden. Meine anfängliche Botschaft schlug vor, dass jeder einzelne von denen, die sie lesen, eine persönliche Bestandsaufnahme ihrer Einstellungen und Gefühle gegenüber allen anderen innerhalb der Gruppe durchführen und die volle persönliche Verantwortung für das, was sie finden, übernehmen könnte. Die Harmonie der Gruppe ist auf der Harmonie jedes Einzelnen aufgebaut.
+
+Der Prozess der Entwicklung und der Bewegung hin zum Einswerden mit unserem Schöpfer ist immer ein Prozess, in dem man seine persönliche Harmonie erhöht und sensibler für die Harmonie des gesamten Universums wird. Jeder trägt die letztendliche Verantwortung für sein eigenes Maß an Harmonie und seine Bemühungen, in den universellen Chor auf die beste und harmonischste Weise einzutreten. Dies verlangt in keiner Weise Perfektion von denen, die in ihrer Entwicklung voranschreiten, denn alles ist ein Prozess, der sich auf das gewünschte Ziel zu bewegt.
+
+Dass ihr von der Göttlichen Liebe wisst und regelmäßig und aufrichtig um sie betet, ist sehr wichtig und wird euch in eurem Fortschritt gut dienen. Ihr alle lebt jedoch in menschlichen Körpern und auf der Erde, voll und ganz den Auswirkungen aller irdischen wie auch geistigen Einflüsse unterworfen und in keiner Weise davor gefeit. Kein Mensch kann es sich leisten, dies zu ignorieren. Jeder muss das Leben, das er hat, so vollständig wie möglich leben.
+
+Wenn ich von der Entwicklung neuer Paradigmen spreche, beziehe ich mich auf die mögliche Entwicklung neuer Wege, das, was ihr von der Göttlichen Liebe wisst, der breiteren Gemeinschaft mitzuteilen. Es hat keinen Sinn, sich in der Bequemlichkeit und dem Wissen auszuruhen, dass ihr etwas höchst Wertvolles wisst, das eine große Entwicklung in euch fördern wird. Meine eigene Erfahrung, während ich auf der Erde war, war, dass es die Art und Weise war, in der ich lebte, die anderen am effektivsten mitteilte, was meine Wahrheit war. Nun, ich schlage keinen Moment lang vor, dass ihr euch raue Gewänder und Sandalen anzieht und durch die Landschaft zieht. Eure Vorgehensweise muss mit den akzeptierten Normen eurer Zeit übereinstimmen. Auch schlage ich nicht vor, dass man unbedingt missionieren und predigen sollte.
+
+Mehr als alles andere schlage ich vor, dass jeder sehr effektiv aktiv sein persönliches Niveau des Friedens in sich selbst und in seinem unmittelbaren und weiteren Lebensbereich erhöhen kann. Das ist die wichtigste Sache, die jeder Mensch auf der Erde in dieser Zeit tun kann. Dies erfordert große Ehrlichkeit und noch größere Demut und Akzeptanz. Ohne die ständige Praxis und Übung dieser grundlegenden menschlichen und geistigen Qualitäten wird alles andere vermindert. Auf diese Weise zu leben erfordert, dass große Aufmerksamkeit auf die Art und Weise gerichtet wird, wie jeder von euch seinen freien Willen einsetzt.
+
+Ich spreche in so direkter Weise zu euch allen, weil ihr die freie Willensentscheidung getroffen habt, euch der Gruppe anzuschließen, die sich gerade bildet und die viel größer ist als jede andere Gruppe, der ihr bisher angehört habt. Ihr habt auch stillschweigend die persönliche Verantwortung übernommen, die Bemühungen dieser großen Gruppe zu fördern, das Wissen und die Erfahrung der Liebe in der Menschheit voranzubringen. Bitte beachte, dass ich "Liebe" gesagt habe, ohne zwischen natürlicher und göttlicher Liebe zu unterscheiden, und das ist absolut absichtlich von mir.
+
+Natürliche und göttliche Liebe sind nicht durch Barrieren getrennt, wie es vielleicht aufgrund der Existenz von natürlichen und göttlichen Liebessphären den Anschein hat. Es ist einfach so, dass es einen Übergang gibt, der durch die Wirkung der Göttlichen Liebe auf die Seele eines Menschen herbeigeführt wird, der den Fortschritt auf die nächste Ebene ermöglicht. Es ist wichtig, die natürliche Liebe nicht als den armen Cousin der göttlichen Liebe zu sehen, denn das ist absolut nicht der Fall und ich kann das nicht genug betonen.
+
+Unser Wunsch ist es, euch so effektiv und stark zu führen, wie ihr es durch euren freien Willen akzeptiert und in der Lage seid, ihm zu folgen. Wenn ihr wählt, einen Schritt in eine neue Richtung zu machen, wie ihr es alle getan habt, dann werden wir euch Führung anbieten, vielleicht mit einer neuen Ausrichtung und Zielsetzung. Wie ihr alle von den Erziehungsprozessen wisst, die auf der Erde angewandt werden, ist die Führung an die Fähigkeit der Schüler angepasst, sie anzunehmen und entsprechend zu wachsen.
+
+Dies ist die Grundlage meiner Worte und meiner Art zu sprechen. Während wir ständig Ermutigung anbieten werden, werden wir häufiger eine Führung anbieten, die direkter und auf den Punkt ist. Wir werden immer die Gelegenheit nutzen, alles zu fördern, was ihr uns anbietet, was für eure persönliche Entwicklung und die der gesamten Menschheitsfamilie von Vorteil ist.
+
+In all euren Interaktionen mit allen Menschen, ob Mitglieder dieser Gruppe oder nicht, versucht, Harmonie in euch selbst und in der Interaktion mit anderen zu finden. Es reicht nie aus, auf einen anderen zu warten, um einen Konflikt, den ihr empfindet, zu lösen, jeder muss sich persönlich damit auseinandersetzen. Das ist es, was mit der Liebe zu deinem Nächsten gemeint ist und es ist das, was die Liebe zu dir selbst fördert, da beide untrennbar miteinander verbunden sind. Sie sind ein und dieselbe Sache.
+
+So wie ihr euren freien Willen ausgeübt habt, um in die Konstruktion dieser großen Gruppe einzutreten, so könnt ihr euch auch zurückziehen, wenn ihr das wünscht. Die Art und Weise, wie jeder seinen freien Willen ausübt, bestimmt genau die Art und Weise, wie sein Leben verläuft und den Grad der Harmonie oder Disharmonie, den jeder erleben wird.
+
+Klinge ich wie ein strenger Meister? Ich hoffe nicht, denn nichts liegt mir ferner als das, was ich mir wünsche. Wir alle, die wir mit euch und den Gruppen, zu denen ihr gehört, verbunden sind - und das sind sehr viele aus allen Ebenen des Göttlichen Himmels - sind hocherfreut, dass ihr in der Art und Weise zusammen gekommen seid, wie ihr es getan habt, und über das, was ihr mit unserer Hilfe erschafft. Wir allein können nicht erschaffen, was ihr auf der Erde erschaffen könnt, und wir sind euch allen äußerst dankbar, dass ihr euch mit uns in eurem freien Willen verbindet. Die ständigen Lebensbeispiele, die wir euch immer anbieten werden, sind in erster Linie unsere Liebe zu jedem einzelnen von euch ohne Urteil und Kritik. Zweitens werden wir immer in totaler Demut und Geduld handeln. Als nächstes werden wir immer totale Akzeptanz für jeden von euch und eure Bemühungen, in Harmonie zu arbeiten und zu leben, anbieten.
+
+Alles, was ihr tut, ist Teil eines wunderbaren evolutionären Prozesses, der von unserem Schöpfer ausgeht. Die Rolle eines jeden Menschen, wie winzig diese auch erscheinen mag, ist wesentlich im Gesamtprozess.
+
+Meine Schwestern und Brüder, ich liebe euch alle und werde dies immer tun. Ich segne euch alle und all eure Bemühungen und versichere euch unserer fortgesetzten Unterstützung, Ermutigung und Führung. Es macht keinen Sinn, dass ihr stolpert wie wir, als wir auf der Erde waren, wenn wir euch über die Hürden und Fallstricke hinwegführen können.
+
+Ich bin Franziskus und ich verlasse euch mit meinem Segen und meiner Liebe.
+
+*© Diese Botschaft ist urheberrechtlich geschützt*

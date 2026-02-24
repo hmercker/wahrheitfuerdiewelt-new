@@ -1,0 +1,24 @@
+---
+title: "Wenn ihr in der Liebe wachst, wachst ihr im Dienst an Gott"
+menu_title: ""
+description: "Wenn ihr in der Liebe wachst, wachst ihr im Dienst an Gott"
+date: 2020-08-01 06:25:48+00:59
+draft: False
+hidden: True
+weight:
+---
+### Wenn ihr in der Liebe wachst, wachst ihr im Dienst an Gott
+
+Seretta Kem - empfangen durch Al Fike am 15. Januar 2018, Gibsons, BC, Kanada.
+
+Gott segne euch. Spürt ihr den Eifer eurer Freunde aus der Ferne, die mit euch im Gebet sein wollen? Diese Gelegenheit wird nur eine von vielen sein, denn wenn andere Seelen zu den Möglichkeiten erwachen, werden auch sie bei euch sein wollen, um sich im Gebet zu nähern. Viele Gelegenheiten warten auf euch, meine Geliebten. Euer Leben ist jetzt dem Gebet gewidmet und dem Teilen dieser Erfahrung der Liebe Gottes mit einander und mit vielen anderen. Deshalb ist es wichtig, dass ihr offen und empfänglich seid für die Gelegenheiten, die sich euch bieten, dass ihr im Frieden seid und alle freudig einschließt. Denn wenn ihr euch auf diese Weise vorwärts wagt, wird Gott euch die Mittel dazu zur Verfügung stellen. Diesen Zweck zu erfüllen, ist Teil Seines Willens, denn Er möchte Seine Kinder im Gebet versammeln. Er möchte all eure Gaben füreinander nutzen und wenn ihr dieses Licht unter euch aufbaut, diese Bande der Liebe, diese Erfahrungen, die ihr teilt, dann werdet ihr andere anziehen, die wiederum andere anziehen werden. Das Momentum wird sich aufbauen, geliebte Seelen, das Momentum wird sich aufbauen.
+
+Wenn ihr weiter in dieser Liebe wächst und die Hindernisse auf eurem Weg überwindet, werden eure Gaben erblühen und sich öffnen und für alle, die euch begegnen, vorzeigbar sein. Ja, dies ist Teil von Gottes Plan, meine Geliebten. Diese Herausforderungen, diese Gelegenheiten, diese Ausdrucksformen der Liebe, alles ist Teil von Gottes Plan. Erlaubt Ihm, euch in diesem großen Fluss der Liebe mitzunehmen, der reich an Führung und Gelegenheiten, Licht und Wahrheit ist.
+
+So wie ihr euer Leben weiterhin diesem Dienst widmet, so wird Gott euch auf viele verschiedene Arten gebrauchen. Ihr werdet viele verschiedene Wege in dieser Welt gehen, denn das ist das Schicksal eines jeden Einzelnen, der sich im Dienst für Gott widmet. Gott sendet sie im Dienst aus, um viele andere zu berühren. Das ist Sein Plan. Das ist eure Bestimmung, eure Gaben und eure Möglichkeiten zu dienen. Lasst dieses Erwachen und die Vertiefung eures Dienstes zu. Ihr spürt die Aufregung in euren Seelen, die wissen, dass ihr tatsächlich im Einklang mit Gottes Willen seid. Fahrt auf diese Weise fort und wisst tief in eurem Inneren, dass ihr den Willen Gottes erfüllt. Die Einzelheiten werden kommen und an ihren Platz fallen, wenn ihr weiterhin die Tiefen eurer Seelen auslotet und die Weisheit in euch hervorbringt. So wie diese Weisheit wächst, so wird auch eure Fähigkeit, mit diesen komplexen Angelegenheiten und Arrangements umzugehen, leichter werden. Ihr werdet wissen, wann ihr handeln müsst, ihr werdet den Zeitplan spüren, die zielgerichtete Anstrengung, die klar und eindeutig sein wird. Wieder werdet ihr geprüft. Wieder wird euch die Möglichkeit gegeben, zu wachsen. Wieder werdet ihr euren Weg finden, wenn ihr die Fähigkeiten eurer Seelen ausübt und erweitert.
+
+Ein neuer Tag bricht an, meine Geliebten. Ein neuer Tag, ein Erwachen, das verschiedene Fähigkeiten in euch nutzt, indem ihr euch diesen Situationen aus der Perspektive eurer Seele nähert und nicht aus der eures Verstandes. Wenn ihr die Perspektive eurer Seelen an die erste Stelle setzt und dann eurem Verstand erlaubt, die Weisheit und die Wahrnehmungen, die aus der Seele kommen, aufzunehmen, dann entsteht Harmonie, denn die Fähigkeiten eurer Seelen sind mächtig und kennen den Weg zur Harmonie. Ihr müsst also diesen Gaben erlauben, in euch zu gedeihen. Ihr müsst diese Gaben mit euren Gebeten um die Liebe des Vaters nähren und diese wunderbare Reise zum Einssein mit Gott und dem Erwachen eurer Seelen fortsetzen.
+
+Wir sind mit euren Bemühungen zufrieden, ihr Lieben. Wir arbeiten weiterhin mit euch auf viele verschiedene Arten zusammen, um Türen zu öffnen, Gelegenheiten zu nutzen, Möglichkeiten, die neues Wachstum, neues Verständnis, tieferes Bewusstsein und größere Liebe bringen werden. So schreitet ihr weiter voran, um eure Wege zu finden, um euer eigenes wahres Selbst zu erkennen. Ihr seid gesegnet, meine Geliebten. Der Vater segnet euch alle, hüllt euch in Seine Liebe ein, trägt euch mit Seiner tiefen Fürsorge und Liebe für euch.
+
+Fahrt fort, in diesem Fluss des Lichts zu wandeln, in dieser wunderschönen Beziehung mit eurer Seele und Seiner großen Seele. So vieles wird darin kommen. So vieles kommt und wird seinen Weg als Ausdruck in eurer Welt finden. Gott segne euch Geliebte. Ich bin Seretta Kem und ich liebe euch. Ich liebe euch von Herzen. Gott segne euch.

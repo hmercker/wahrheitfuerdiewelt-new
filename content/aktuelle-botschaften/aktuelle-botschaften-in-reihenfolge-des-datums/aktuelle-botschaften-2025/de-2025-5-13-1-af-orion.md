@@ -1,0 +1,30 @@
+---
+title: "Wie das Urteilen der Seelenentwicklung im Weg steht"
+menu_title: ""
+description: "Wie das Urteilen der Seelenentwicklung im Weg steht"
+date: 2025-07-09 06:00:00+00:00
+draft: False
+hidden: True
+weight:
+---
+### Wie das Urteilen der Seelenentwicklung im Weg steht
+
+Orion - empfangen durch Al Fike am 13. Mai 2025, Direkte Stimme Gruppe, Sechelt, BC, Kanada.
+
+Die Welt ist in der Tat in Aufruhr. Da draußen in der Welt herrscht große Not, meine Freunde. Ich bin Orion. Ich bin gekommen, um wieder einmal bei euch zu sein. In der Tat, überall gibt es Konflikte. Es gibt Konflikte im Verstand aller Menschen auf diesem Planeten, Konflikte, die von Urteilen stammen, Konflikte, die von Schmerz stammen, Konflikte, die sich in Wut ausdrücken, alle Arten von Konflikten, was einen Mangel an Harmonie bedeutet.
+
+Wie könnt ihr diesen Zuständen entgegenwirken? Sicherlich müsst ihr den Konflikt in euch selbst lösen. Findet Frieden. Findet Harmonie. Dies geschieht, wie wir euch gelehrt haben und wie ihr seit vielen Jahren wisst, indem ihr eure Seele dem großen Schöpfer von allem öffnet, der Frieden bringt und Disharmonie auflöst. Jeder von euch muss sich persönlich darum bemühen, in Harmonie mit sich selbst zu sein, Frieden in seinem Leben auszudrücken, der Kraft der Liebe treu zu sein und alles zu bringen, was ihr braucht, damit ihr in Frieden seid und ein Instrument, ein Kanal der Liebe.
+
+Wenn ihr diese Dinge nicht in euch selbst lösen könnt, wie wollt ihr dann ein Instrument sein, um Konflikte in der Welt zu lösen? Wenn ihr nicht die Weisheit in eurer Seele habt, das Fehlen eines Urteils, das durch Akzeptanz ersetzt wird, und die Liebe, die in eurer Seele liegt, wie könnt ihr das dann in der Welt zum Ausdruck bringen? Gott wird euch mit diesen Bedingungen ausstatten, aber wenn diese Bedingungen, die der Liebe in euch entgegenstehen, vorhanden sind, dann wird es ein gestelzter und verzerrter Ausdruck sein. Wie wir schon gesagt haben, ist Reinheit gefragt. Es braucht den wahren Wunsch, sich von diesen menschlichen Bedingungen zu befreien.
+
+Meine Freunde, es liegt in eurer Verantwortung, wachsam zu sein in euren Gedanken, in euren Gefühlen und in eurem Umgang mit Gott, indem ihr wirklich nach Gott sucht, wahrhaftig die Harmonie in euch sucht und wahrhaftig im Einklang mit der Wahrheit der Liebe Gottes seid. Wenn ihr diese Dinge erreicht, wird euer Wirken gewaltig und mächtig sein und viele erreichen. Jeder von euch ist hier, weil es euer Wunsch ist, Gottes Werkzeug in der Welt zu sein, eure Gaben und Fähigkeiten zu entwickeln, um die Wahrheit zu zeigen und ein Ausdruck der Wahrheit zu sein. Meine geliebten Freunde, jeder von euch ist mit einem großen Potenzial und vielen Gaben ausgestattet. Die Liebe in euch, in eurer Seele, wächst. Ihr erlaubt dieser Liebe, in euer Bewusstsein einzutreten. Ich fordere euch auf, die Türen zu öffnen, damit die Schleusen der Liebe überfließen können und ihr wahrhaftig ein Licht seid. Ihr seid wirklich ein Instrument der Liebe, um eure Brüder und Schwestern zu trösten und zu unterstützen.
+
+Ja, Konflikte gibt es überall, aber wenn ihr euch davon frei macht und nicht mehr über die Welt urteilt, dann werdet ihr zu einem reinen und schönen Instrument der Liebe. Wenn ihr über die Zustände in eurer Welt urteilt und euch fürchtet, dann tragt ihr zu diesen Zuständen bei. Ihr seid ein Teil davon und euer Beitrag trägt nicht zur Harmonie bei. Euer Bewusstsein ist nicht in Harmonie, wenn ihr die Informationen, die euch über die Drähte geschickt werden, so ernst nehmt, dass ihr Angst um euch selbst, um eure Lieben und um die Welt habt.
+
+Angst ist ein dunkler Zustand. Angst bringt weder Hoffnung noch bringt sie Licht. Doch der Glaube, meine Freunde, der Glaube an Gott, der Glaube an Gottes Fähigkeit und Wunsch, der Welt eine Lösung und Harmonie zu bringen, ist eine Geste der Liebe und des Lichts. Ich ermutige euch, in diesem Zustand, in diesem Verstand und in dieser Seelenverfassung zu sein, damit ihr inspiriert und angeleitet werdet, ein Werkzeug Gottes zu sein, anderen zu helfen, ein Licht zu sein und ein Leuchtfeuer des Lichts und des Friedens zu sein. Das wird der Welt helfen. Ihr habt die Wahl, meine Freunde, ob ihr die menschlichen Zustände, die immer noch in euch stecken und die so sehr Teil eurer Denk- und Handlungsgewohnheiten sind, weiter verstärkt und nährt, oder ob ihr euch zur Wehr setzt und sagt: *"Nie wieder. Ich werde nicht Teil davon sein. Wenn es sein muss, stehe ich auch alleine da, aber ich mache da nicht mit.”*
+
+Wenn ihr in der Lage seid, so stark und wachsam mit eurem eigenen Ausdruck und eurem Licht umzugehen, dann kann Gott euch in der Tat auf viele Arten gebrauchen. Diese Wege müssen nicht unbedingt offen sein und andere herausfordern. Es kann einfach nur darum gehen, Frieden zu bringen, Frieden zu schaffen, ein Werkzeug des Friedens zu sein, oder es kann etwas anderes sein. Wenn ihr euch dem Willen Gottes durch euch nicht in den Weg stellt, werdet ihr überrascht sein, was dabei herauskommt, was erreicht wird, was gesagt wird und mit wem ihr euch anfreunden könnt, mit Menschen, die ihr aufgrund früherer Urteile niemals anfreunden würdet. Wenn ihr ein Freund der Welt seid, gibt es keine Urteile. Es gibt nur Liebe. Wenn ihr ein Freund seid, selbst für die am meisten Geschmähten, besteht die Chance, dass sie gesegnet werden, dass sie sich ändern, dass sie einen anderen Weg in der Welt kennenlernen.
+
+Das sind eure Herausforderungen. Wie immer komme ich, um euch zu inspirieren und oft auch herauszufordern, aber diese Herausforderungen müssen angegangen werden. Denn die Hindernisse, Barrieren und Fehler in euch, die der Liebe im Wege stehen, müssen beseitigt, aufgelöst und geheilt werden. Das muss mit der Liebe einhergehen und das wird es auch, meine Freunde. Das wird es. Liebt euch selbst, liebt euch gegenseitig und liebt euren Schöpfer. Auf diese Weise wird alles in Harmonie und Frieden sein.
+
+Gott segne euch, geliebte Schüler der Wahrheit. Ich bin Orion. Ich liebe euch so sehr. Gott segne euch, meine Freunde. Gott segne euch.

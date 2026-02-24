@@ -1,0 +1,18 @@
+---
+title: "Der Mensch auf der Erde muss wieder einmal in direkter Anweisung von Gott leben"
+menu_title: ""
+description: "Der Mensch auf der Erde muss wieder einmal in direkter Anweisung von Gott leben"
+date: 2020-08-01 06:25:48+00:115
+draft: False
+hidden: True
+weight:
+---
+### Der Mensch auf der Erde muss wieder einmal in direkter Anweisung von Gott leben
+
+Kuanaha Terhan Bey - empfangen im Jahre 1970, Vancouver, BC, Kanada.
+
+Ich bin daran interessiert, mit Erdenmenschen zu arbeiten, die der gesamten Menschheit auf der Erde Wahrheit bringen wollen, und ich komme in eure Mitte, um euch zu helfen, die Direkte Stimme zu öffnen. Ich spreche nicht gerne auf diese Weise, aber das ist alles, was ich heute Abend durch dieses Instrument tun darf, aber mein Instrument, das still sitzt und etwas überschattet ist, wird mich direkt zu euch bringen können.
+
+Der Mensch auf der Erde muss eindeutige Beweise haben und es ist durch die Bösartigkeit und das Fehlverhalten des Menschen, dass die Gesetze der Kommunikation missachtet wurden, dem Betrug ausgesetzt wurden und anstatt in der Lage zu sein, Gutes auf der Erde zu tun, wurden sie lächerlich gemacht und in gewisser Weise unterdrückt und der Mensch hat dies getan. Jetzt müssen wir kommen und die wahren Kanäle öffnen und den Menschen auf der Erde wieder die Gesetze des Überlebens offenbaren und die Menschen wieder die wahren Gesetze Gottes lehren. Wenn wir also kommen, so wie wir heute Abend gekommen sind, bringen wir große Kraft und Chemikalien in eure Mitte und einige von euch werden das Gefühl haben, dass ihr weggleitet. Das wird euch keinen Schaden zufügen, meine Freunde, das müsst ihr akzeptieren und euch gehen lassen und viele arbeiten in dieser Gruppe, um euch vor allem Schaden zu bewahren und obwohl einige von euch entgleiten mögen und sich nichts bewusst sind, wird jeder von euch für unsere Arbeit durch euch vorbereitet. Zuerst müssen wir euer Bewusstsein abschneiden. Der Mensch auf der Erde muss wieder nach direkter Anweisung von Gott leben. Er kann nicht länger zappeln und so müssen wir uns bemühen, Instrumente zu schaffen, die wahrhaftig genutzt werden können.
+
+Es ist sehr schwer, wenn das eigene Bewusstsein bewusst ist, und so müssen wir, bevor wir die direkte Stimme bringen können, euer Bewusstsein abschalten. Wenn der Kanal erst einmal geöffnet ist, dann kann das Bewusstsein wiederhergestellt werden. Es wird in den Jahren viele Zentren eröffnet werden, nicht in diesem Teil der Welt, sondern überall auf der Welt, und so müssen wir die Instrumente vorbereitet haben, die zu diesen verschiedenen Zentren gehen können. Das mag für einige von euch beängstigend sein, aber in den Plänen für euch gibt es keinen Grund zur Angst. Die Gruppe der Lehrer, die mit euch arbeitet, muss sich eines jeden von euch sicher sein. Zu oft wurden in der Vergangenheit Kanäle für Sensationen geöffnet und obwohl bei der ersten Öffnung der Wunsch bestand, für Gott zu arbeiten, war der Wunsch später nicht mehr für Gottes Werk. Ihr seht also, meine Freunde, wenn ihr zu dieser Gruppe kommt, schließt ihr euch mit denen zusammen, die aufrichtig Gottes Werk tun und lehren wollen, und so kommen wir in dem Wissen, dass wir eine Gruppe haben, mit der wir arbeiten können. Ihr werdet feststellen, dass wenn ihr nicht nach den Gesetzen Gottes und der Wahrheit lebt, diese Gaben zurückgenommen werden und wie andere festgestellt haben, wenn dies geschieht, haben sie nichts. Es ist immer noch das Gesetz Gottes, das wirkt. Ich möchte nicht noch mehr von eurer Zeit in Anspruch nehmen, denn viele warten darauf zu sprechen, aber ich werde wiederkommen.

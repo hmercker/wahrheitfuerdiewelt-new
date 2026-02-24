@@ -1,0 +1,43 @@
+---
+title: "Padgett ist jetzt bereit die Lehren der Wahrheiten des Vaters zu erhalten"
+menu_title: ""
+description: "Padgett ist jetzt bereit die Lehren der Wahrheiten des Vaters zu erhalten"
+date: 2020-07-03 06:25:48+00:00
+draft: False
+hidden: True
+weight:
+---
+### Padgett ist jetzt bereit die Lehren der Wahrheiten des Vaters zu erhalten <sup id="a1">[1](#f1)</sup>
+
+Jesus - empfangen durch James Padgett am 5. Januar 1915, Washington, DC, USA.
+
+Ich bin hier, Jesus.
+
+Du bist mein eigener wahrhaftiger Bruder und Jünger. Ich bin gekommen weil du mich brauchst und meine Liebe und ich möchte dir sagen, dass du dem Königreich sehr nahe bist. Deine Gebete wurden erhört und unser Vater hat dir Seine Liebe zu einem großen Ausmaß geschenkt. Du musst dich also bald darauf vorbereitet sein meine (offiziellen) Mitteilungen zu empfangen, denn es ist bald an der Zeit, dass die Welt mein Evangelium der Liebe und des Friedens empfangen soll. Die Menschen denken nun tiefsinnig über die spirituellen Dinge nach und möchte ein Evangelium, welches ihnen den Weg zur Wahrheit und zur Liebe Gottes‘ und ihrer immer währenden Glückseligkeit lehren wird. Lasse also die irdischen Dinge dich nicht davon abhalten, mehr von der Liebe und Güte deines Vaters in deiner Seele zu empfangen.
+
+Sei standhaft in deinem Glauben und dir wird es an nichts fehlen, was dich in die Lage versetzen wird, Sein wahrer Sohn zu werden und mein liebevoller Jünger in dem du die glorreiche Kunde der Freude und des Friedens unter den Menschen verbreitest. Deine Liebe ist nun so groß, dass du bald Eins mit deinem Vater sein wirst und von Ihm die ausströmende Liebe empfangen wirst und das Pfingsten Seines Heiligen Geistes. Sein ein Mann, welchen nichts auf Erden oder im Himmel davon abhalten kann, die Arbeit welche ich für dich ausgewählt habe auszuführen. Ich bin dein wahrer Helfer und Beschützer und dir wird es an nichts fehlen, was dich frei und glücklich machen wird. Sei ernsthafter in deinem Bestreben den großen Segen zu erhalten, von welchem dein Vater versprochen hat, dass Er ihn dir geben wird und du wirst nicht enttäuscht werden.
+
+Du vollbringst ein gutes Werk zwischen den Menschen und Gott, unser Vater wird dich in deinen Anstrengungen segnen. Du darfst nicht Zweifel oder einen Mangel an Glauben dich davon abhalten lassen, dieses große Werk zu Ende zu bringen, welches du dir vorgenommen hast. Die Geister welchen du so sehr geholfen hast, werden zur Wahrheit fortschreiten und werden sich an dich erinnern, wenn sie die Glückseligkeit erlangen, welche auf sie wartet.
+
+Deine Ehefrau ist ein schöner und mächtiger Geist, welcher es gelernt hat, Gott sehr zu lieben und welcher dich zu einem Ausmaß liebt, wie es unter Geistern ungewöhnlich ist, welche mit einer Liebe lieben, die die der Sterblichen weit übertrifft (die erlösten Geister sind diejenigen welche ich meine). Sie ist die süßeste und hellste Ehefrau, welche Gott jemals einem Mann gegeben hat. Sie schreitet nun sehr schnell voran und wird dem Zuhause der Liebe und Freude ihres Vaters‘ bald sehr nahe sein. Du bist also sehr gesegnet, solch eine Ehefrau und Seelenpartnerin zu haben; und wenn du hinüberschreitest, wird dich ein Geist erwarten, welcher dir so schön erscheinen wird, dass du dich wundern wirst, wie so etwas möglich sein kann. Aber du kannst genauso schön werden und voll an Gottes‘ Liebe, wenn du nur beten wirst und Seinen Willen vollbringst, während du auf der Erde bist. Es ist nicht nötig, dass du damit wartest, bist du hinübertrittst, diese Liebe zu empfangen und frei von Sünde und fehlerhaften Anschauungen zu werden.
+
+Ich bin dein wahrer Lehrer und Bruder und ich möchte, dass du meinen Willen vollstreckst, soweit es die Lehren der Wahrheiten über den Vater für die Menschen betrifft. Ich habe nicht das Verlangen, dir dieses Dinge jetzt mitzuteilen. Aber bald werde ich es und dann wirst du wissen, was genau die Wahrheit ist.
+
+Ja, ich kenne die Zukunft und ich sage dir jetzt und das musst du glauben, dass du bald von all deinen geschäftlichen Angelegenheiten befreit sein wirst und in einem Zustand sein wirst, all deine Zeit und deine Energie meinem Werk zu widmen. Zweifle nicht mehr daran. Ich denke, dass dies der beste Ort dafür ist, obwohl der Ort nicht darüber entscheiden wird, unter welchen Umständen die Arbeit am besten gelingt. Ich meine damit, dass der Ort nicht entscheidend sein wird, außer dass der Ort den du erwähnst ein guter Ort ist, da er in der Nähe der Hauptstadt eines großen Landes ist und dich in die Lage versetzen wird, einen größeren Eindruck auf die Welt zu hinterlassen, durch das was du unter Umständen veröffentlichen wirst. Ich beabsichtige nicht, dich an irgendeinen Ort zu binden; nimm‘ nur die Mitteilungen auf und veröffentliche sie. Du wirst auch die Wahrheiten lehren, durch deine alltäglichen Unterhaltungen und durch dein Vorbild. Ja, ich erinnere mich an die Aussage und es ist wahr, aber in deinem Fall herrschen nicht mehr dieselben Umstände vor, als sie herrschten als ich der Aussage Ausdruck verliehen habe. Dennoch werde ich, wenn die Zeit reif dafür ist, dich führen und du wirst meiner Führung folgen. Es wird keinen großen Unterschied machen für dich bedeuten, wo du bist, denn das Verbreiten meiner Wahrheiten ist die Hauptsache. Ja, die Kirche wird gegründet werden und es wird viele Anführer von meiner neuen Bewegung geben und sie wird erfolgreich sein und all anderen Glaubensrichtungen in dieser Hemisphäre ersetzen. Ich meine in den Vereinigten Staaten und anderen protestantischen Ländern.
+
+Der Krieg wird andauern, bis die Deutschen unterworfen wurden. Ich denke nicht, dass es allzu lange dauern wird, bevor sie die völlige Aussichtslosigkeit darin weiter zu kämpfen einsehen; dann werde sie sich unterwerfen und ein neues Land wird entstehen, welches ein Land für die Menschen sein wird und durch die Menschen regiert werden wird. Die Söhne des Kaisers‘ werden keinen Einfluss auf die Leute haben. Die Macht des Adels wird verschwinden und der Adel wird ein Teil der Menschen werden. Gott wird schlussendlich über die Leben der Menschen herrschen, durch Seine Liebe, da die Menschen sich nach Seiner Liebe sehnen werden und Frieden wird sich auf der Erde etablieren. Wenn mein Königreich auf der Erde Einzug findet, werde ich in den Herzen der Menschen herrschen, nicht als Herrscher oder überlegener Gebieter, sondern als ein Prinz des Friedens, der einzige Sohn des Vaters, welcher ohne Sünde geboren wurde und die ganze Menschheit wird Gott im Geiste und in Wahrheit verehren. Es soll kein Krieg mehr stattfinden und Schwerter werden in Reb- und Pflugmesser umgegossen werden und die Menschen sollen erkennen, was Frieden und Liebe füreinander bedeutet.
+
+Mein zweites Kommen wird als schweigende, kleine, Stimme stattfinden, welche zu jedem Menschen sprechen wird und ihm erzählen wird, dass Liebe das einzig Notwendig ist, was es zu besitzen gilt und wenn er sie in seiner Seele erhält, wird all seine Sünde und sein Hass und sein Verlangen nach etwas Bösem vergehen.
+
+Ich werde dich in deiner Arbeit nicht zurücklassen und sie wird gedeihen. Ich weiß, dass gewisse Kirchen – ich meine den Klerus und hohe Offizielle – meine Wahrheiten bekämpfen werden und das Unterrichten der Menschen über selbige, aber sie werden keinen Erfolg haben. Ich werde überdauern und die Menschheit wird erlöst werden. Alle werden sich in ernsthaftem Gebet und in Danksagung vor ihrem Gott verneigen und Seine Liebe wird in ihren Herzen Einkehr finden und sie werden im Frieden sein. Brüder werden wirkliche Brüder sein und die Vaterschaft von Gott und die Brüderschaft der Menschen wird sich etablieren und alle Menschen werden ihrem Gott dienen.
+
+Die katholische Kirche wird schlussendlich, als eine Organisation mit politischer Macht und als ein Monster des Irrtums und als Lehrer von Glaubenssätzen, welche im Widerspruch zu Gottes‘ Wahrheit stehen, gänzlich zerstört werden und ihre Anhänger werden die wahren Lehren meines Evangeliums annehmen. Viele werden diese neuen Lehren nicht annehmen, aber nur, bis das letzte Überbleibsel der Macht dieses großen Vampirs vollständig verschwunden ist. Die Priester werden von ihren Sitzen der Macht hinunter geschüttelt werden und werden Menschen werden, ohne besonderen Einfluss unter den Menschen, denn meine Wahrheiten werden all die Irrtümer zerstören, welche sie gelehrt haben und welche ihre Anhänger aus Angst befolgt und geglaubt haben.
+
+Du darfst heute Nacht nicht mehr schreiben, da du müde bist.
+
+Also mit meiner Liebe und meinen Segen, ich bin dein Bruder und Lehrer – Jesus.
+
+*Deutscher Orginaltext von padgettmessages.de*
+<small>
+
+1. <large id="f1"> Diese Botschaft setzt sich aus zwei Botschaften zusammen.[↩](#a1)

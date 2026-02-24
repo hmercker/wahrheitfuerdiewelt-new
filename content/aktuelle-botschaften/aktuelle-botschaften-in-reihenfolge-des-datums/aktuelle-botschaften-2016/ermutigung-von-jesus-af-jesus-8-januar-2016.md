@@ -1,0 +1,20 @@
+---
+title: "Ermutigung von Jesus"
+menu_title: ""
+description: "Ermutigung von Jesus"
+date: 2020-08-01 06:25:48+00:51
+draft: False
+hidden: True
+weight:
+---
+### Ermutigung von Jesus
+
+Jesus - empfangen durch Al Fike am 8. Januar 2016 in Gibsons, B.C. Kanada.
+
+*„Segne diese deine Kinder, die in sich eine große Aufgabe haben, die sie in diesem Leben erfüllen müssen. Lege deine Hand auf sie, lieber Vater, damit sie mit jedem Atemzug Deine Gegenwart spüren und die Engel in ihre Ohren flüstern und Deine Liebe auf sie, in ihnen und um sie herum fließt, damit sie ihr Leben in dieser Bewegung im Fluss Deines Göttlichen Wesens haben. Und öffne ihre Herzen, geliebter Vater, damit sie Liebe und Mitgefühl für alles empfinden können, was ihnen begegnet, damit es keine Hindernisse für diesen Fluss der Liebe zu ihrer Welt gibt, denn während sie in dieser Welt wandeln, wandeln sie im Licht, und Du, mein geliebter Vater, berühre viele Seelen durch sie, berühre viele Seelen, und wir sind dankbar für Deine Berührung. Wir suchen Deine Berührung in diesem Augenblick, um uns immer näher zur Quelle Deiner Liebe zu bringen, um uns dem Verständnis Deiner Wahrheiten und Deiner Schöpfung näher zu bringen, um uns immer tiefer in das Licht Deiner Gegenwart zu bringen, denn wir sind Deine Kinder, Vater, und Du nährst uns mit jedem Atemzug. Du trägst uns in Deinen liebenden Armen vorwärts, hilfst uns, in Harmonie mit Dir und Deiner Liebe zu sein, öffnest in uns das wahre Seelenbewusstsein, das die mächtigen Veränderungen in unserem Bewusstsein bringen wird, damit wir als Deine Werkzeuge des Friedens und der Liebe und der Veränderung in unserer Welt wandeln können.“*
+
+Meine Geliebten, ihr werdet in den kommenden Zeiten viele Veränderungen erleben, sowohl in euch als auch in euren Leben. Es wartet viel auf euch, und eure Seelen spüren die Freude der Vorfreude darauf, eure Seelen wissen, was kommen wird, und Gott hat in euch den großen Wunsch gelegt, Agenten der Veränderung in dieser Welt zu sein, um mehr Frieden und Licht, Liebe und Verständnis für eure Brüder und Schwestern einzuführen. Ja, meine Töchter, ihr alle werdet in der kommenden Zeit lehren, und dieser Sohn wird in der Tat viele lehren. Gott wird die Türen öffnen, meine Geliebten, Er wird die Türen öffnen. Ihr werdet erstaunt sein, welche Türen geöffnet werden können, welche Gelegenheiten sich vor euch auftun, wenn ihr euch diesem großen Plan unseres Himmlischen Vaters für die Erlösung der Menschheit verpflichtet.
+
+Seid fröhlich, meine geliebten Brüder. Freut euch, denn ihr werdet von einem Fluß, einer Strömung, einem Strom mitgerissen, der euch an viele wundersame Orte führen wird, der für die große Nahrung eurer Seelen sorgen wird und euch Offenbarung um Offenbarung bringen und in euch einen großen Kanal des Dienstes für die Menschheit öffnen wird. Ihr seid die Vorhut, meine Geliebten, ihr seid die Vorhut, die diese Offenbarungen, die Manifestationen von Gottes Liebe und Heilung und Gegenwart den Verlorenen und Blinden, denjenigen in Dunkelheit und Unwissenheit, denjenigen, die so leiden, bringen wird. Ihr werdet das Licht bringen, das erforderlich ist, um ihre Augen zu öffnen, ihren Körper und ihren Verstand zu trösten, die Wahrheit zu ihren Seelen zu bringen. Die Hand Gottes ist auf euch und ich bin mit euch, ich bin Jesus. Ich bin mit euch, meine Geliebten.
+
+Tragt dieses Licht in euch in die Welt, an viele dunkle Orte, an viele, die euch erwarten und sich nach dem sehnen, was ihr habt. Dies kommt. Es entfaltet sich im perfekten Zeitrahmen von Gottes Willen. Ich bin mit euch, ich werde euch niemals verlassen, und ich segne euch alle auf euren Reisen, eurer Reise zu Gott, eurer Reise als Gottes Werkzeuge auf dieser Welt und der Reise der Offenbarung des wahren Verständnisses der Seele. Ihr seid gesegnet und ich liebe euch so sehr, ich liebe euch so sehr. Meine Jünger, ihr seid meine Jünger. Geliebte, seid in Frieden. Wisst, dass ihr über alle Maßen geliebt werdet, und bald wird alles, was ihr seid und alles, was ihr tut, diese Liebe und all ihre Reinheit und Anmut und Schönheit widerspiegeln. Gott segne euch, Gott segne euch.

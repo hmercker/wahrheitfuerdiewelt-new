@@ -1,0 +1,92 @@
+---
+title: "Franziskus von Assisi - Minderbrüder"
+menu_title: ""
+description: "Franziskus von Assisi - Minderbrüder"
+date: 2024-08-01 02:18:11+11:00
+draft: False
+hidden: True
+weight:
+---
+### Franziskus von Assisi - Minderbrüder
+
+<p style="text-align: center"><img src="/portraits/de-franziskus-von-assisi.JPG"></p>
+<small>*Ein Gemälde des Franziskus von Assisi von Philip Fruytiers.*</small>
+
+Franziskus von Assisi (* 1181 oder 1182 in Assisi im heutigen Italien als Giovanni di Pietro di Bernardone; † 3. Oktober 1226) war der Begründer des Ordens der Minderbrüder und Mitbegründer der [Klarissen](/de-autoren-spirituellen-welt/de-weltreligionen/de-klara-von-assisi/). Er wird in der römisch-katholischen Kirche als Heiliger verehrt. Hinsichtlich des Quellenumfangs zu Leben und Wirken gehört Franziskus zu den am besten dokumentierten Persönlichkeiten des Mittelalters.
+
+Franziskus lebte nach dem Vorbild Jesu Christi. Diese Lebensweise zog gleichgesinnte Gefährten an, was zur Gründung der Minderen Brüder führte, deren Orden rasch wuchs. Trotz großer Widerstände während der ersten Jahre seines Wirkens wurde er von der katholischen Kirche schon zwei Jahre nach seinem Tode heiliggesprochen. Der von Franziskus gegründete Orden breitete sich binnen weniger Jahre in ganz Europa aus. So wurde etwa bereits 1230 eine Niederlassung in Riga gegründet.
+
+Die starke Verbreitung eines in 53 kurze Kapitel eingeteilten Florilegium über das Leben des Franz von Assisi, das sogenannte Fioretti, hat als Andachtsbuch im 19. und 20. Jahrhundert das Bild des Franziskus in der Bevölkerung lange geprägt. In den letzten Jahrzehnten versuchen viele Autoren, ein gemäßigteres, menschlicheres und weniger legendenhaftes Bild von der Person des Franziskus zu vermitteln.
+
+Sein Gedenktag ist in der römisch-katholischen, der alt-katholischen, der anglikanischen und einigen evangelischen Kirchen am 4. Oktober, in der evangelischen Kirche in Deutschland der 3. Oktober. <small>*Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Franz_von_Assisi)*</small>
+
+### Empfangene Botschaften
+
+**Author** | **Titel der Botschaft** | **Datum der Botschaft**  
+---|---|---
+Franziskus von Assisi | [Einander lieben](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2014/einander-lieben-jr-franziskus-von-assisi-26-mai-2014/) | 26 Mai 2014
+Franziskus von Assisi | [In der Liebe leben](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2014/in-der-liebe-leben-jr-franziskus-von-assisi-8-juni-2014/) | 8 Juni 2014
+Franziskus von Assisi | [Wandelt auf dieser Welt, geführt vom himmlischen Vater und Seinen Engeln](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2015/wandelt-auf-dieser-welt-gefuehrt-vom-himmlischen-vater-und-seinen-engeln-af-franziskus-von-assisi-28-januar-2015/) | 28 Januar 2015
+Franzikus von Assisi | [Seid ein Leitstern und eine Quelle des Lichts](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2015/seid-ein-leitstern-und-eine-quelle-des-lichts-af-franzikus-von-assisi-20-august-2015/) | 20 August 2015
+Franziskus von Assisi | [Franziskus: Wie ich ein Kanal der Liebe Gottes in der Welt wurde](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2016/franziskus-wie-ich-ein-kanal-der-liebe-gottes-in-der-welt-wurde-af-franziskus-von-assisi-28-januar-2016/) | 28 Januar 2016
+Franziskus von Assisi | [Der einfache Weg der Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2016/der-einfache-weg-der-liebe-af-franziskus-von-assisi-17-april-2016/) | 17 April 2016
+Franziskus von Assisi | [Liebe ist die wahre Währung des Lebens](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2016/liebe-ist-die-wahre-waehrung-des-lebens-af-franziskus-von-assisi-4-juli-2016/) | 4 Juli 2016
+Franziskus von Assisi | [Viele sind mit euch in euren Bemühungen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2016/viele-sind-mit-euch-in-euren-bemuehungen-af-franziskus-von-assisi-11-september-2016/) | 11 September 2016
+Franzikus von Assisi | [Der schöne Garten der Göttlichen Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2017/der-schoene-garten-der-goettlichen-liebe-af-franzikus-von-assisi-13-mai-2017/) | 13 Mai 2017
+Franzikus von Assisi | [Eure Gebete können die Zustände der Welt verändern](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/eure-gebete-koennen-die-zustaende-der-welt-veraendern-af-franzikus-von-assisi-6-februar-2019/) | 6 Februar 2019
+Franziskus von Assisi | [Frühling für die Seele](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/fruehling-fuer-die-seele-mc-franziskus-von-assisi-17-maerz-2019/) | 17 März 2019
+Franziskus von Assisi | [Wenn ihr mit eurer Seele seht](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/wenn-ihr-mit-eurer-seele-seht-jw-franziskus-von-assisi-22-juni-2019/) | 22 Juni 2019
+Franziskus von Assisi | [Wir werden mit euch in diesem Heiligen Haus sein](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/wir-werden-mit-euch-in-diesem-heiligen-haus-sein-jw-franziskus-von-assisi-24-juni-2019/) | 24 Juni 2019
+Franziskus von Assisi | [Seid mental auf die Wünsche eures Herzens bedacht](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/seid-mental-auf-die-wuensche-eures-herzens-bedacht-jw-franziskus-von-assisi-28-juni-2019/) | 28 Juni 2019
+Franzikus von Assisi | [Die Wichtigkeit der Schönheit in eurem Leben](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/die-wichtigkeit-der-schoenheit-in-eurem-leben-af-franzikus-von-assisi-13-juli-2019/) | 13 Juli 2019
+Franziskus von Assisi | [Ihr könnt überall einen Kreis des Lichts haben](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/ihr-koennt-ueberall-einen-kreis-des-lichts-haben-jw-franziskus-von-assisi-6-august-2019/) | 6 August 2019
+Franziskus von Assisi | [Im Garten der Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/im-garten-der-liebe-jw-franziskus-von-assisi-20-august-2019/) | 20 August 2019
+Franziskus von Assisi | [Es ist eure Entscheidung, ob ihr Licht oder Dunkelheit in diese Welt bringt](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/es-ist-eure-entscheidung-ob-ihr-licht-oder-dunkelheit-in-diese-welt-bringt-af-franziskus-von-assisi-3-september-2019/) | 3 September 2019
+Franziskus von Assisi | [Werdet die Gärtner eurer Seelen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/werdet-die-gaertner-eurer-seelen-jw-franziskus-von-assisi-17-november-2019/) | 17 November 2019
+Franziskus von Assisi | [Pflegt die Gärten eurer Seelen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/pflegt-die-gaerten-eurer-seelen-jw-franziskus-von-assisi-15-dezember-2019/) | 15 Dezember 2019
+Franziskus von Assisi | [Der Glaube an Gottes Liebe übersteigt alle anderen Überzeugungen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/der-glaube-an-gottes-liebe-uebersteigt-alle-anderen-ueberzeugungen-jw-franziskus-von-assisi-1-januar-2020/) | 1 Januar 2020
+Franziskus von Assisi | [Verrückt nach Gott](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/verrueckt-nach-gott-jw-franziskus-von-assisi-14-februar-2020/) | 14 Februar 2020
+Franziskus von Assisi | [Lasst eure Seelen in Gottes Garten der Liebe wachsen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/lasst-eure-seelen-in-gottes-garten-der-liebe-wachsen-jw-franziskus-von-assisi-3-maerz-2020/) | 3 März 2020
+Franziskus von Assisi | [Ehrung der Betreuer - Fürsorge für andere](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/ehrung-der-betreuer-fuersorge-fuer-andere-jw-franziskus-von-assisi-6-maerz-2020/) | 6 März 2020
+Franziskus von Assisi | [Folgt euren Herzen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/folgt-euren-herzen-jw-franziskus-von-assisi-8-maerz-2020/) | 8 März 2020
+Franziskus von Assisi | [Die Welt verlangsamt sich](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/die-welt-verlangsamt-sich-jw-franziskus-von-assisi-13-maerz-2020/) | 13 März 2020
+Franziskus von Assisi | [Heilige Verbundenheit Heilige Gemeinschaft](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/heilige-verbundenheit-heilige-gemeinschaft-jw-franziskus-von-assisi-17-maerz-2020/) | 17 März 2020
+Franziskus von Assisi | [Wie einfach unser Leben ist](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/wie-einfach-unser-leben-ist-jw-franziskus-von-assisi-12-april-2020/) | 12 April 2020
+Franziskus von Assisi | [Eine Brücke zwischen Himmel und Erde](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/eine-bruecke-zwischen-himmel-und-erde-jw-franziskus-von-assisi-25-april-2020/) | 25 April 2020
+Franziskus von Assisi | [Sing mit den Vögeln](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/sing-mit-den-voegeln-hm-franziskus-von-assisi-7-mai-2020/) | 7 Mai 2020
+Franziskus von Assisi | [Verweigert euch nicht denen, die nach Wahrheit streben](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/verweigert-euch-nicht-denen-die-nach-wahrheit-streben-jw-franziskus-von-assisi-12-mai-2020/) | 12 Mai 2020
+Franziskus von Assisi | [Erlaubt den Absichten eurer Seelen, sich zu verbreiten](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/erlaubt-den-absichten-eurer-seelen-sich-zu-verbreiten-jw-franziskus-von-assisi-23-mai-2020/) | 23 Mai 2020
+Franziskus von Assisi | [Der Pfad der Göttlichen Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/der-pfad-der-goettlichen-liebe-jw-franziskus-von-assisi-6-juni-2020/) | 6 Juni 2020
+Franziskus von Assisi | [Gebt das Geschenk der Liebe Gottes](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/gebt-das-geschenk-der-liebe-gottes-jw-franziskus-von-assisi-13-juni-2020/) | 13 Juni 2020
+Franziskus von Assisi | [Diese Kommunion kann eure sein](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/diese-kommunion-kann-eure-sein-jw-franziskus-von-assisi-16-juni-2020/) | 16 Juni 2020
+Franziskus von Assisi | [Alle in Gottes Liebe umarmen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/alle-in-gottes-liebe-umarmen-jw-franziskus-von-assisi-17-juli-2020/) | 17 Juli 2020
+Franziskus von Assisi | [Bleibt in Gottes Gnade](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/bleibt-in-gottes-gnade-jw-franziskus-von-assisi-31-juli-2020/) | 31 Juli 2020
+Franziskus von Assisi | [Alles in Liebe umarmen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/alles-in-liebe-umarmen-jw-franziskus-von-assisi-1-august-2020/) | 1 August 2020
+Franziskus von Assisi | [Das Geheimnis der Seele ist es, demütig zu sein](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/das-geheimnis-der-seele-ist-es-demuetig-zu-sein-jw-franziskus-von-assisi-18-august-2020/) | 18 August 2020
+Franziskus von Assisi | [Das Geheimnis](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/das-geheimnis-jw-franziskus-von-assisi-4-oktober-2020/) | 4 Oktober 2020
+Franziskus von Assisi | [Seligpreisung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/seligpreisung-jw-franziskus-von-assisi-10-oktober-2020/) | 10 Oktober 2020
+Franziskus von Assisi | [Nackt vor Gott stehen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/nackt-vor-gott-stehen-jw-franziskus-von-assisi-10-november-2020/) | 10 November 2020
+Franziskus von Assisi | [Wählt das, was wirklich wichtig ist](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/waehlt-das-was-wirklich-wichtig-ist-jw-franziskus-von-assisi-1-januar-2021/) | 1 Januar 2021
+Franziskus von Assisi | [Bis zehn zählen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/bis-zehn-zaehlen-jw-franziskus-von-assisi-13-januar-2021/) | 13 Januar 2021
+Franziskus von Assisi | [Reicht euch mit der Liebe Gottes in euren Herzen die Hand](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/reicht-euch-mit-der-liebe-gottes-in-euren-herzen-die-hand-jw-franziskus-von-assisi-15-februar-2021/) | 15 Februar 2021
+Franziskus von Assisi | [Geht in Gnade! Es ist einfach](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/geht-in-gnade-es-ist-einfach-jw-franziskus-von-assisi-22-maerz-2021/) | 22 März 2021
+Franziskus von Assisi | [Ich halte euch den Rücken frei](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/ich-halte-euch-den-ruecken-frei-jw-franziskus-von-assisi-20-april-2021/) | 20 April 2021
+Franziskus von Assisi | [Die Liebe wird die Welt verändern](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/die-liebe-wird-die-welt-veraendern-jw-franziskus-von-assisi-7-juni-2021/) | 7 Juni 2021
+Franziskus von Assisi | [Die Liebe Gottes teilen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/die-liebe-gottes-teilen-jw-franziskus-von-assisi-28-juni-2021/) | 28 Juni 2021
+Franziskus von Assisi | [Geht in Frieden, seid nicht beunruhigt](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/geht-in-frieden-seid-nicht-beunruhigt-jw-franziskus-von-assisi-13-juli-2021/) | 13 Juli 2021
+Franziskus von Assisi | [Gesegnet seien die Kinder](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/gesegnet-seien-die-kinder-jw-franziskus-von-assisi-6-september-2021/) | 6 September 2021
+Franziskus von Assisi | [Gottes Plan für Freunde und Familie](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/gottes-plan-fuer-freunde-und-familie-jw-franziskus-von-assisi-6-november-2021/) | 6 November 2021
+Franziskus von Assisi | [Diese einfache Entscheidung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/diese-einfache-entscheidung-jw-franziskus-von-assisi-20-dezember-2021/) | 20 Dezember 2021
+Franziskus von Assisi | [Es ist nur eine Frage der Gnade](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2022/es-ist-nur-eine-frage-der-gnade-jw-franziskus-von-assisi-14-maerz-2022/) | 14 März 2022
+Franziskus von Assisi | [Blüte im Reichtum der Liebe Gottes](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2022/bluete-im-reichtum-der-liebe-gottes-jw-franziskus-von-assisi-28-maerz-2022/) | 28 März 2022
+Franziskus von Assisi | [Der siebte Sinn](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2022/der-siebte-sinn-jw-franziskus-von-assisi-6-juni-2022/) | 6 Juni 2022
+Franziskus von Assisi | [Die Gaben der Seele](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2022/die-gaben-der-seele-jw-franziskus-von-assisi-12-dezember-2022/) | 12 Dezember 2022
+Franziskus von Assisi | [Dienst und Führung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2023/dienst-und-fuehrung-jw-franziskus-von-assisi-9-januar-2023/) | 9 Januar 2023
+Franziskus von Assisi | [Wo viel gegeben wird, wird auch viel erwartet](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2023/wo-viel-gegeben-wird-wird-auch-viel-erwartet-jw-franziskus-von-assisi-6-februar-2023/) | 6 Februar 2023
+Franziskus von Assisi | [Lasst euch von eurer Krise zu einem Leben in Gott treiben](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2023/lasst-euch-von-eurer-krise-zu-einem-leben-in-gott-treiben-jw-franziskus-von-assisi-23-februar-2023/) | 23 Februar 2023
+Franziskus von Assisi | [Worte ohne Taten](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2023/worte-ohne-taten-jw-franziskus-von-assisi-14-maerz-2023/) | 14 März 2023
+Franziskus von Assisi | [Vollkommenheit in der Gnade](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2023/vollkommenheit-in-der-gnade-jw-franziskus-von-assisi-8-mai-2023/) | 8 Mai 2023
+Franziskus von Assisi | [Einerlei in Gottes Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2023/einerlei-in-gottes-liebe-jw-franziskus-von-assisi-19-juni-2023/) | 19 Juni 2023
+Franziskus von Assisi | [Was nehmt ihr mit?](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2023/was-nehmt-ihr-mit-jw-franziskus-von-assisi-1-dezember-2023/) | 1 Dezember 2023
+Franziskus von Assisi | [In der Gnade bleiben](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2024/in-der-gnade-bleiben-jw-franziskus-von-assisi-8-januar-2024/) | 8 Januar 2024
+Franziskus von Assisi | [Füttere die hungrige Seele mit Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2024/fuettere-die-hungrige-seele-mit-liebe-jw-franziskus-von-assisi-17-maerz-2024/) | 17 März 2024

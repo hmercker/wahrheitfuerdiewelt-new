@@ -1,0 +1,35 @@
+---
+title: "Ihr seid dazu aufgerufen, zu erwachen"
+menu_title: ""
+description: "Ihr seid dazu aufgerufen, zu erwachen"
+date: 2020-08-01 06:25:48+00:75
+draft: False
+hidden: True
+weight:
+---
+### Ihr seid dazu aufgerufen, zu erwachen
+
+Jesaja & Elias <sup id="a1">[1](#f1)</sup> - empfangen durch Al Fike am 5. Mai 2019, Gibsons, BC, Kanada.
+
+Möge der große Segen Gottes über euch geliebte Seelen kommen, ich bin Jesaja. Der Wille des Menschen ist groß. Gott hat jedes Individuum mit einem freien Willen beschenkt. Der Mensch hat dieses Geschenk in jeder Hinsicht in eurer Welt ausgeübt, hat seine eigene Macht kennengelernt, hat seine eigenen Fähigkeiten anerkannt, hat erkannt, wie es möglich ist, die Welt in Verbindung mit seinem Willen zu manipulieren. Dadurch hat die Menschheit Segen und Zerstörung, Licht und Dunkelheit, Harmonie und Disharmonie gebracht. Denn die Potentiale jeder geliebten Seele in dieser Welt sind von beiden Naturen und haben sich in dem, was nicht in Harmonie mit Gottes Gesetzen ist, stärker ausgedrückt.
+
+So findet ihr euren Platz in einer Welt, die nicht in Harmonie mit Gottes Gesetzen ist. Sie ist kein Ausdruck von Gottes Liebe für seine ganze Schöpfung. Sie ist ein schwieriger Ort zum Leben geworden und hat viel Zerstörung gebracht, wo viele Geschöpfe Gottes sehr gelitten haben und die Menschheit selbst sehr gelitten hat. In all den Äonen der Existenz der Menschheit haben sich Tag für Tag, Jahr für Jahr Zustände der Finsternis aufgetürmt, die durch den freien Willen der Menschheit herbeigeführt wurden. In der Tat sind eure Gebete dafür, dass die Menschheit erwacht und die Macht ihres eigenen Willens erkennt, die Macht ihres eigenen Wesens in dieser Welt und wie in Gottes Absicht eine Zusammenarbeit zwischen der Macht des Menschen und der Macht Gottes vorgesehen war. Damit alles in eine geschaffene, sich entfaltende Evolution der Seele in dieser Welt fließen würde.
+
+Doch der Preis, den die Menschheit für dieses Geschenk bezahlt hat, war groß. Es ist nun an der Zeit, dass diejenigen von euch, die bereit sind, aus ihrem Schlummer zu erwachen und in dieser Welt zu wandeln, sich der großen Macht bewusst werden, die sie ausüben, und der großen Macht, die sie haben, um Gottes Segen und Einfluss in dieser Welt zu erlangen, und der großen Kraft, die mit Seiner Liebe kommt, die in eure Seele fließt und sie zu all ihren Potenzialen erweckt.
+
+Dies ist eure Botschaft, Geliebte, die gegeben werden muss, um die ihr gebetet habt, dass sie der Menschheit gegeben wird, nicht nur eine Botschaft der Worte, sondern eine Botschaft des Handelns, des Denkens, des Ausdrucks der Seele. So seid ihr aufgerufen, wie schon viele Male, zu Gott zu erwachen, die eigenen, von Gott gesegneten Seelenpotentiale zu erwecken und Gott in seinem großen Plan zur Rettung der Menschheit zu dienen.  
+
+Es ist eine große Verpflichtung, geliebte Seelen. Für diejenigen unter euch, die diese Reise gerade erst begonnen haben, scheint es jenseits eures Wissens oder eurer Fähigkeiten zu liegen. Ich sage euch, geliebte Seelen, Gott wird jede einzelne Seele umhüllen, die bereit ist, auf diese Weise zu dienen, und dass alles, was dafür erforderlich ist, als großer Segen für die Seelen des Lichts gegeben werden wird. So seid ihr aufgerufen, Geliebte, vorzutreten, zu beten, geführt zu werden, zu fragen, was ihr tun könnt, um zu helfen, all das zu berichtigen, was im Namen des Menschen geschehen ist, damit es in die Harmonie Gottes umgewandelt werden kann. Es ist die Kraft der Liebe, meine Geliebten, die dies tun wird. Es ist die Kraft der Liebe Gottes in euren Seelen, die die Fähigkeiten erwecken wird, die die Weisheit und die Fähigkeit in euch bringen wird, zu lehren, zu heilen, ein Beispiel zu sein, ein Kanal der Liebe in der Welt zu sein.
+
+Erlaubt Gott, euch auf diesen Wegen zu führen, denn ihr wurdet zusammengebracht und viele weitere werden auf den Feldern des Lichts zusammengebracht werden, wo die Kraft eurer gemeinsamen Anstrengungen einen Wandel in der Welt bewirken und Harmonie bringen wird, größere Harmonie für alles, was in dieser Welt existiert. Das ist der Plan Gottes, Geliebte. Seid ihr fähig zuzuhören? Könnt ihr zu dieser großen Einladung erwachen, wenn Gott euch bittet, in Liebe und Wahrheit voranzugehen, um mit jedem Tag, jedem Moment, jedem Atemzug dieser Kanal der Liebe zu sein?  
+
+Wenn sich diese Liebe in eurem Wesen intensiviert, wird sie sich ausdehnen und wachsen und viele Seelen berühren, die wiederum viele Seelen berühren werden und so wird es weitergehen, eine zur anderen. Ein großes Feuer der Reinigung, das aus Liebe besteht, in dem alles, was aus Schmerz und Dunkelheit, Einsamkeit und Aufruhr, Irrtum und Mangel an Liebe besteht, in der Asche verschwinden wird. Der Phönix wird aufsteigen, der eurer Seele, die in ihrer Herrlichkeit erwacht, rein in ihrer Freude und Wahrheit. Die Kraft dessen, die Schönheit dessen, die Herrlichkeit dessen wird die Welt für immer verändern.
+
+Gott braucht seine Werkzeuge, geliebte Seelen. Ihr seid euch der Bedingungen dieser Welt wohl bewusst, die sich weiter verschärfen und vielen großen Schmerz bringen. Es ist an der Zeit, die Ablenkungen beiseite zu legen, die Haltungen, die euch von der Liebe zurückhalten, beiseite zu legen, Gott zu bitten, euch mit einer solchen Intensität, einer solchen Kraft der Liebe zu segnen, dass diese Transformation in jeder eurer Seelen offensichtlich und wunderschön ausgedrückt wird. Die Welt braucht euch, Geliebte. Die Welt braucht die transformierenden Energien der Liebe, die Segnungen Gottes, um Gottes Schöpfung wieder ganz zu machen, um wieder Licht zu bringen, um Heilung und Harmonie zu bringen.  
+
+Jeder von euch fühlt sich hingezogen. Jeder von euch spürt eine Bestimmung, eine Berufung, den Wunsch, eure Seelen zu erwecken. So bitte ich euch dringend, auf diesen inneren Ruf in euch zu hören, denn Gott hat dies in eure Seelen gelegt, Geliebte. Gott hat euch mit vielen Potentialen und Ausdrucksmöglichkeiten erschaffen. Eure Seelen sind reif für den Ausdruck, um ein Kanal der Liebe zu sein, rein und schön. Erwacht dazu, ihr Geliebten. Nutzt alle Gelegenheiten, die euch zur Verfügung stehen, um Liebe und Wahrheit auf einfache Weise zu bringen, auf eine Weise, die gesegnet und geführt ist, auf eine Weise, die erklärt, dass ihr von Gott berührt wurdet und dass die Quelle von allem die Quelle der Heilung für die Menschheit ist. Geht in dieser Welt, geliebte Seelen, mit erhobenem Haupt, eure Herzen voller Liebe, euer Verstand darauf bedacht, die Wahrheit zu sprechen. Während ihr eure Brüder und Schwestern umarmt, seid ein Kanal der Liebe, ein Kanal der Heilung, des Trostes, des Friedens. Auf diese Weise tragt ihr zu der Veränderung bei, die sein muss. Auf diese Weise seid ihr offen für den Willen Gottes.
+
+Segen für euch, Geliebte. Ich bin Elias. Segnungen der Liebe. Gott segne euch.
+<small>
+
+1. <large id="f1"> Jesaja und Elias sind zwei sehr unterschiedliche spirituelle Wesen. Es ist ungewiss, ob es sich um einen einfachen Identifikationsfehler des Mediums handelt oder ob zwei verschiedene spirituelle Wesen beteiligt waren.[↩](#a1)

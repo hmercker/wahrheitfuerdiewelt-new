@@ -1,0 +1,28 @@
+---
+title: "Wir sind hier, um diese Musik der Seele zu orchestrieren "
+menu_title: ""
+description: "Wir sind hier, um diese Musik der Seele zu orchestrieren "
+date: 2020-08-01 06:25:48+00:98
+draft: False
+hidden: True
+weight:
+---
+### Wir sind hier, um diese Musik der Seele zu orchestrieren
+
+Matthäus - empfangen durch Al Fike am 13. April 2021, Gibsons, BC, Kanada.
+
+Gott segne euch, geliebte Seelen, ich bin Matthäus.
+
+Ich komme heute, um etwas Klarheit und Erklärung hinzuzufügen, was in diesen Kreisen möglich ist, wenn ihr zusammenkommt und betet und ein Teil dieses Lichtkreises seid. Wenn ihr nach dem Höchsten greift, wenn eure Gebete ins Schwarze treffen und eurer Seele eine Antwort von Gott bringen, so entfacht ihr eine Reihe von Ereignissen und eröffnet eine Vielzahl von Möglichkeiten für Gott, euch als Werkzeuge in der Welt zu gebrauchen.
+
+Gemeinsam werdet ihr zu einer großen Lichtlinse, die von uns im Himmelreich konstruiert und in Übereinstimmung mit Gottes Willen in die Welt gelenkt werden kann, so dass wir alle gemeinsam daran arbeiten, der Menschheit Segen zu bringen. Wenn jede Seele, die an dieser Arbeit beteiligt ist, im Einklang mit Gott ist, dann sind die Segnungen, die sich ergießen können, mächtig und von höchstem und reinstem Kaliber. Und so können wir jeden von euch auf diese Weise benutzen, denn wir können verschiedene Aspekte und Gaben eurer Person nutzen, um Segen für andere zu lenken.
+
+Sogar eure physischen Körper können als fein abgestimmtes Instrument genutzt werden, um anderen Segnungen der Heilung zu bringen, denn ihr seid ein Teil der großen Resonanzenergien eurer Erdebene, das, was ihr oft das magnetische Licht nennt, das in allem vorhanden ist. So kann dieses Licht durch euch fokussiert werden und ihr könnt als Kanal der Heilung für andere genutzt werden. Und auch mit euren Seelen, vorausgesetzt, sie wurden bis zu einem gewissen Grad gereinigt und die Verkrustungen um sie herum wurden aufgelöst, so dass etwas Licht durch eure Seele kommen kann. Auch dies ist eine weitere Linse, die Gott benutzen kann, um Licht und Liebe zu Individuen auf eurer Erde zu lenken, einige, mit denen ihr verbunden seid und die ihr gut kennt - eure Familien, eure Lieben, einige, die ihr überhaupt nicht kennt, aber weil sie empfänglich sind und um einen Segen gebetet haben, dann werdet ihr, wie wir, ein Instrument für Gott, um einem anderen Segen zu bringen. Auch euer Verstand ist eine Art Instrument, das genutzt werden kann, um verschiedene Energien zu bündeln, die helfen können, einen anderen zu erheben und zu segnen.
+
+Wenn es eine Einheit der Gedanken und des Wunsches gibt, wenn ihr als ein großer Körper von Individuen mit all diesen Kapazitäten, Fähigkeiten und Gaben zusammenkommt, dann kann Gott euch wie ein Symphonieorchester benutzen, mit verschiedenen Gaben, die im Einklang sind und in die Welt geleitet werden, wenn ihr auf diese Weise zusammensitzt und all diese verschiedenen Ebenen eurer Gaben nutzt, von der sehr physischen bis zur sehr spirituellen.
+
+Ihr seht also, wenn ihr zusammenkommt, in erster Linie mit der Motivation, die göttliche Liebe in eurer Seele zu empfangen und zu versuchen, diese Liebe in euch zu intensivieren, werdet ihr in zweiter Linie auch als Instrumente für Gott benutzt, um anderen Segen zu bringen. Dies geschieht in Übereinstimmung mit dem Zustand des Lichts, das euch umgibt, und das sich mit jedem Tag verändert, wie ihr sehr wohl wisst. Wenn bestimmte Kräfte im Einklang sind, diese Gaben offen sind, eure Seelen sich danach sehnen, euer Verstand klar ist, eure Körper auf diese psychischen und spirituellen Gaben und Energien eingestimmt sind, dann können wir viele Dinge durch euch tun, um vielen anderen Seelen auf eurer Welt zu helfen. In der Tat betet ihr darum und in der Tat kommen und fließen diese Segnungen durch euch, einige individuell und einige durch euch alle, und einige durch Gruppen von euch. Und so sind wir hier, um zu orchestrieren, um der Dirigent zu sein, wenn ihr so wollt, dieses wundervollen Orchesters, dieser Musik der Seele, dieser Segnungen des Lichts, die kommen, wenn Gott Seinen Segen über euch ausgießt und Seinen Segen durch euch ausgießt, zum Wohle eurer Brüder und Schwestern.
+
+Möget ihr die Möglichkeiten eurer Zusammenkünfte erkennen, dass vieles in Übereinstimmung mit eurem Wunsch, eurer Bereitschaft, eurem Glauben, der Kraft eurer Gebete, der Schönheit eures Lichts, den großen Segnungen, die in eurer Seele liegen und darauf warten, sich zu entfalten und in der Welt auszudrücken, kommen kann. Fahrt fort, gemeinsam zu beten, geliebte Seelen, denn dies ist ein entscheidender Schritt in einer Reihe von wunderbaren Ergebnissen und Ausdrucksformen, die von Gott und seinen geliebten Engeln des himmlischen Königreichs orchestriert und genutzt werden. Ihr seid wahrlich ein Teil dieser Bemühungen, und ihr tut euren Teil als Teilnehmer an Gottes Plan für die Rettung der Menschheit. Wisst, dass das, was ihr tut, viele Aspekte hat, und je tiefer ihr in euer Seelenbewusstsein geht, desto mehr werdet ihr die großen Segnungen sehen und erkennen, die sich durch euch manifestieren können.
+
+Möget ihr gesegnet sein auf dieser Reise des Erwachens, der Liebe, der Seelenwahrheit und des Seelenausdrucks. Auf dieser Reise werden viele Erkenntnisse und Erfahrungen kommen, während Gott euch weiterhin segnet, geliebte Seelen, euch schön und wunderbar und gnädig in Seiner Liebe segnet. Gott segne euch, ich bin Matthäus und ich danke euch, dass ihr dieser Lektion heute zugehört habt. Gott segne euch, geliebte Seelen, wir sind mit euch, jeder einzelne, wir sind mit euch. Gott segne euch.

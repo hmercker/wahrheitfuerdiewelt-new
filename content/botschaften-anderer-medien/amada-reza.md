@@ -1,0 +1,115 @@
+---
+title: "Amada Reza"
+menu_title: "Amada Reza"
+description: "Amada Reza Botschaften"
+date: 2020-07-03 02:18:11+11:00
+draft: False
+hidden: False
+weight: 720
+---
+## Amada Reza
+
+**Author** | **Titel der Botschaft** | **Datum der Botschaft**  
+---|---|---
+Jesus | [Jesus spricht über Abtreibung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/jesus-spricht-ueber-abtreibung-ar-jesus-30-juni-1985/) | 30 Juni 1985
+Jesus | [Einfügung in die Bänder](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/einfuegung-in-die-baender-ar-jesus-30-dezember-1990/) | 30 Dezember 1990
+Maria | [Persönliche Botschaft](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/persoenliche-botschaft-ar-maria-10-august-1998/) | 10 August 1998
+Maria | [Maria schreibt über Himmel, Hölle und persönliche Ratschläge](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/maria-schreibt-ueber-himmel-hoelle-und-persoenliche-ratschlaege-ar-maria-10-september-1998/) | 10 September 1998
+Maria | [Die Auswahl von Herrn Padgett und sein freier Wille](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/die-auswahl-von-herrn-padgett-und-sein-freier-wille-ar-maria-15-oktober-1998/) | 15 Oktober 1998
+Maria | [Warum lassen die Himmlischen Engel schlimme Dinge geschehen?](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/warum-lassen-die-himmlischen-engel-schlimme-dinge-geschehen-ar-maria-11-november-1998/) | 11 November 1998
+Maria | [Persönlicher Rat für A___](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/persoenlicher-rat-fuer-a-ar-maria-12-november-1998/) | 12 November 1998
+Maria | [Wenn ein Medium die Unwahrheit channelt](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/wenn-ein-medium-die-unwahrheit-channelt-ar-maria-25-november-1998/) | 25 November 1998
+Maria | [Warum hat Gott uns erschaffen?](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/warum-hat-gott-uns-erschaffen-ar-maria-10-dezember-1998/) | 10 Dezember 1998
+Maria | [Die Himmelfahrt Jesu und Daniels Prophezeiungen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/die-himmelfahrt-jesu-und-daniels-prophezeiungen-ar-maria-dezember-1998/) |  Dezember 1998
+Maria | [Der Urantia- und Mormonen-Text](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/der-urantiaund-mormonentext-ar-maria-16-januar-1999/) | 16 Januar 1999
+Maria | [Teilen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/teilen-ar-maria-25-februar-1999/) | 25 Februar 1999
+Josef | [Der Verstand und die Spiritualität](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/der-verstand-und-die-spiritualitaet-ar-josef-4-maerz-1999/) | 4 März 1999
+Kahlil Gibran | [Poesie](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/poesie-ar-kahlil-gibran-19-maerz-1999/) | 19 März 1999
+Maria | [Über Selbstverteidigung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/ueber-selbstverteidigung-ar-maria-7-juli-1999/) | 7 Juli 1999
+Maria | [Über die Gabe der Kommunikation mit spirituellen Wesen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/ueber-die-gabe-der-kommunikation-mit-spirituellen-wesen-ar-maria-5-august-1999/) | 5 August 1999
+Maria | [Warum Gott Schlechtes zulässt](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/warum-gott-schlechtes-zulaesst-ar-maria-6-august-1999/) | 6 August 1999
+White Eagle | [Tiere und die natürliche Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/tiere-und-die-natuerliche-liebe-ar-white-eagle-4-september-1999/) | 4 September 1999
+Maria | [Beantwortung persönlicher Fragen und warum James Padgett ausgewählt wurde](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/beantwortung-persoenlicher-fragen-und-warum-james-padgett-ausgewaehlt-wurde-ar-maria-16-september-1999/) | 16 September 1999
+Maria & White Eagle | [Das Wunder von Fátima und die Liebe Gottes](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/das-wunder-von-fatima-und-die-liebe-gottes-ar-maria-white-eagle-19-september-1999/) | 19 September 1999
+Maria | [Wie die Gesetze Gottes auf das Leben von Männern und Frauen wirken](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/wie-die-gesetze-gottes-auf-das-leben-von-maennern-und-frauen-wirken-ar-maria-12-oktober-1999/) | 12 Oktober 1999
+Maria | [Über Tierquälerei](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/ueber-tierquaelerei-ar-maria-30-oktober-1999/) | 30 Oktober 1999
+White Eagle | [Heilen durch die Instrumentalität von spirituellen Wesen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/heilen-durch-die-instrumentalitaet-von-spirituellen-wesen-ar-white-eagle-3-november-1999/) | 3 November 1999
+Maria | [Du fragst, was Gott von dir will? Nur Deine Liebe!](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/du-fragst-was-gott-von-dir-will-nur-deine-liebe-ar-maria-7-november-1999/) | 7 November 1999
+Maria & Johannes | [Über den Mangel an Selbstliebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/ueber-den-mangel-an-selbstliebe-ar-maria-johannes-12-november-1999/) | 12 November 1999
+Johannes | [Alfredo ermutigen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/alfredo-ermutigen-ar-johannes-20-november-1999/) | 20 November 1999
+Maria | [Wie die Engel die Sterblichen führen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/wie-die-engel-die-sterblichen-fuehren-ar-maria-20-november-1999/) | 20 November 1999
+Maria | [Gefühle von Unwürdigkeit](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/gefuehle-von-unwuerdigkeit-ar-maria-23-november-1999/) | 23 November 1999
+Maria | [Wie kann man Vater und Mutter ehren, wenn sie gewalttätiges oder missbräuchliches Verhalten befürworten?](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/wie-kann-man-vater-und-mutter-ehren-wenn-sie-gewalttaetiges-oder-missbraeuchliches-verhalten-befuerworten-ar-maria-1-dezember-1999/) | 1 Dezember 1999
+Maria & Johannes | [Botschaft der Ermutigung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/botschaft-der-ermutigung-ar-maria-johannes-17-dezember-1999/) | 17 Dezember 1999
+Jesus | [Dr. Samuels' Channelings und die Bedeutung der eigenen Fähigkeit des Lesers, den Gebrauch seiner oder ihrer eigenen Seelenwahrnehmung dieser Wahrheiten anzuwenden](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/dr-samuels-channelings-und-die-bedeutung-der-eigenen-faehigkeit-des-lesers-den-gebrauch-seiner-oder-ihrer-eigenen-seelenwahrnehmung-dieser-wahrheiten-anzuwenden-ar-jesus-25-dezember-1999/) | 25 Dezember 1999
+Jesus | [Jährliche Trance-Botschaft](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1995-1999/jaehrliche-trancebotschaft-ar-jesus-juni-1999/) |  Juni 1999 1999
+Jesus | [Gespräch über Selbstmord](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/gespraech-ueber-selbstmord-ar-jesus-16-januar-2000/) | 16 Januar 2000
+Maria | [Die Einzigartigkeit der Seelenqualitäten umarmen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/die-einzigartigkeit-der-seelenqualitaeten-umarmen-ar-maria-28-januar-2000/) | 28 Januar 2000
+Josef | [Der Vater von Jesus und Josef von Arimathäa sind ein und dieselbe Person](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/der-vater-von-jesus-und-josef-von-arimathaea-sind-ein-und-dieselbe-person-ar-josef-9-februar-2000/) | 9 Februar 2000
+Maria | [Ihr alle habt die Fähigkeit, ein Kanal für heilende Energien zu sein](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/ihr-alle-habt-die-faehigkeit-ein-kanal-fuer-heilende-energien-zu-sein-ar-maria-27-februar-2000/) | 27 Februar 2000
+Maria | [Botschaft der Hoffnung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/botschaft-der-hoffnung-ar-maria-5-maerz-2000/) | 5 März 2000
+Maria & David | [Mit dem Leben zurechtkommen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/mit-dem-leben-zurechtkommen-ar-maria-david-19-maerz-2000/) | 19 März 2000
+James Padgett & Dr Stone | [Die Liebe unter uns fördern](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/die-liebe-unter-uns-foerdern-ar-james-padgett-dr-stone-27-maerz-2000/) | 27 März 2000
+Maria | [Du bist das Geschenk an diese Welt](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/du-bist-das-geschenk-an-diese-welt-ar-maria-2-april-2000/) | 2 April 2000
+Maria | [Mit Liebe kann man jedem Übel mit Zuversicht entgegentreten](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/mit-liebe-kann-man-jedem-uebel-mit-zuversicht-entgegentreten-ar-maria-13-mai-2000/) | 13 Mai 2000
+Jesus | [Die Wahrheit, die in deiner Seele geschrieben steht, muss in jeder Sprache ausgesprochen werden](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/die-wahrheit-die-in-deiner-seele-geschrieben-steht-muss-in-jeder-sprache-ausgesprochen-werden-ar-jesus-4-juni-2000/) | 4 Juni 2000
+Jesus | [Jährliche Trance-Botschaft](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/jaehrliche-trancebotschaft-ar-jesus-25-juni-2000/) | 25 Juni 2000
+Jesus | [Ermutigung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/ermutigung-ar-jesus-30-juli-2000/) | 30 Juli 2000
+Maria | [Über die Channelings durch Patricia Talbott Borrero](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/ueber-die-channelings-durch-patricia-talbott-borrero-ar-maria-8-august-2000/) | 8 August 2000
+Ein hohes spirituelles Wesen | [Die Bedeutung des Glaubens](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/die-bedeutung-des-glaubens-ar-ein-hohes-spirituelles-wesen-28-august-2000/) | 28 August 2000
+Jesus | [Alfredo und Swift Bear](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/alfredo-und-swift-bear-ar-jesus-28-august-2000/) | 28 August 2000
+Maria & Johannes | [Ermutigung für W___](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/ermutigung-fuer-w-ar-maria-johannes-2-september-2000/) | 2 September 2000
+Maria | [Gebet und Antwort](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/gebet-und-antwort-ar-maria-2-september-2000/) | 2 September 2000
+Maria & Johannes | [In Zungen sprechen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/in-zungen-sprechen-ar-maria-johannes-24-september-2000/) | 24 September 2000
+Maria | [Der Prozess des spirituellen Erwachens](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/der-prozess-des-spirituellen-erwachens-ar-maria-8-oktober-2000/) | 8 Oktober 2000
+Maria | [Was beeinflusst eine Seele, sich dem Vater zuzuwenden](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/was-beeinflusst-eine-seele-sich-dem-vater-zuzuwenden-ar-maria-20-oktober-2000/) | 20 Oktober 2000
+Maria | [Der Stoff, aus dem euer Leben ist](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/der-stoff-aus-dem-euer-leben-ist-ar-maria-10-november-2000/) | 10 November 2000
+Jesus | [Eine Weihnachtsbotschaft von Jesus](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/eine-weihnachtsbotschaft-von-jesus-ar-jesus-25-dezember-2000/) | 25 Dezember 2000
+Maria | [Was ist Glaube?](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/was-ist-glaube-ar-maria-28-dezember-2000/) | 28 Dezember 2000
+Maria | [Seele, Glaube und Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2000/seele-glaube-und-liebe-ar-maria-30-dezember-2000/) | 30 Dezember 2000
+Maria | [Das Gesetz der Wiedergutmachung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/das-gesetz-der-wiedergutmachung-ar-maria-4-januar-2001/) | 4 Januar 2001
+Jesus | [Das Heilen - Teil 1](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/das-heilen-teil-1-ar-jesus-18-januar-2001/) | 18 Januar 2001
+Jesus | [Das Heilen - Teil 2](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/das-heilen-teil-2-ar-jesus-23-januar-2001/) | 23 Januar 2001
+Johannes | [Loslassen und einfach Liebe sein](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/loslassen-und-einfach-liebe-sein-ar-johannes-4-februar-2001/) | 4 Februar 2001
+White Eagle | [Weißer Adler: spirituelle Sehkraft](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/weisser-adler-spirituelle-sehkraft-ar-white-eagle-11-februar-2001/) | 11 Februar 2001
+Johannes | [Wie in der Welt zu sein, aber nicht von ihr](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/wie-in-der-welt-zu-sein-aber-nicht-von-ihr-ar-johannes-11-maerz-2001/) | 11 März 2001
+Maria | [Die Seele und ihre Emotionen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/die-seele-und-ihre-emotionen-ar-maria-24-maerz-2001/) | 24 März 2001
+Maria | [Wahrheit oder Liebe, was ist größer?](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/wahrheit-oder-liebe-was-ist-groesser-ar-maria-26-april-2001/) | 26 April 2001
+Johannes | [Der Anblick und der Klang der Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/der-anblick-und-der-klang-der-liebe-ar-johannes-13-mai-2001/) | 13 Mai 2001
+Jesus | [Juwelen der Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/juwelen-der-liebe-ar-jesus-30-mai-2001/) | 30 Mai 2001
+Jesus | [Trance-Botschaft von Jesus](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/trancebotschaft-von-jesus-ar-jesus-24-juni-2001/) | 24 Juni 2001
+Johannes | [Perfekte Liebe bedeutet perfekte Ergebnisse](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/perfekte-liebe-bedeutet-perfekte-ergebnisse-ar-johannes-15-juli-2001/) | 15 Juli 2001
+Maria | [In der Liebe wachsen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/in-der-liebe-wachsen-ar-maria-22-juli-2001/) | 22 Juli 2001
+Johannes | [Erziehung von Kindern](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/erziehung-von-kindern-ar-johannes-29-juli-2001/) | 29 Juli 2001
+Maria Magdalena | [Unterschiede zwischen den Geschlechtern](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/unterschiede-zwischen-den-geschlechtern-ar-maria-magdalena-19-august-2001/) | 19 August 2001
+Jesus | [Jesus schreibt über Seelenpartner](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/jesus-schreibt-ueber-seelenpartner-ar-jesus-11-oktober-2001/) | 11 Oktober 2001
+Johannes | [Die Schönheit des täglichen Lebens](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/die-schoenheit-des-taeglichen-lebens-ar-johannes-2-november-2001/) | 2 November 2001
+Maria Magdalena | [Das Gesicht der Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/das-gesicht-der-liebe-ar-maria-magdalena-4-november-2001/) | 4 November 2001
+Maria | [Seid standhaft gegen Gewalt](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2001/seid-standhaft-gegen-gewalt-ar-maria-1-dezember-2001/) | 1 Dezember 2001
+Maria & Johannes | [Lade dich in deine Seele ein](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2002/lade-dich-in-deine-seele-ein-ar-maria-johannes-2-februar-2002/) | 2 Februar 2002
+Maria | [Warum wir Liebe brauchen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2002/warum-wir-liebe-brauchen-ar-maria-7-maerz-2002/) | 7 März 2002
+Jesus | [Wendet eure Hoffnung auf den Glauben](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2002/wendet-eure-hoffnung-auf-den-glauben-ar-jesus-25-maerz-2002/) | 25 März 2002
+Moses | [Das auserwählte Volk](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2002/das-auserwaehlte-volk-ar-moses-7-april-2002/) | 7 April 2002
+Maria | [Das gemeinsame Herz](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2002/das-gemeinsame-herz-ar-maria-1-mai-2002/) | 1 Mai 2002
+Jesus | [Die Person hinter dem Schleier](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2002/die-person-hinter-dem-schleier-ar-jesus-2-september-2002/) | 2 September 2002
+Maria | [Liebe ist gegenwärtig](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2002/liebe-ist-gegenwaertig-ar-maria-30-november-2002/) | 30 November 2002
+Jesus | [Gehe sanft in Frieden](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2003/gehe-sanft-in-frieden-ar-jesus-17-februar-2003/) | 17 Februar 2003
+Maria & Johannes | [Göttlicher Verstand](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2003/goettlicher-verstand-ar-maria-johannes-16-mai-2003/) | 16 Mai 2003
+Johannes | [Der Göttliche Verstand](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2003/der-goettliche-verstand-ar-johannes-8-juni-2003/) | 8 Juni 2003
+Maria | [Liebes-Radio](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2003/liebesradio-ar-maria-12-november-2003/) | 12 November 2003
+Maria | [Genug ist langweilig](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2004/genug-ist-langweilig-ar-maria-4-februar-2004/) | 4 Februar 2004
+Maria | [Der bescheidene Körper](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2004/der-bescheidene-koerper-ar-maria-15-mai-2004/) | 15 Mai 2004
+Maria | [Wo is die spirituelle Welt?](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2004/wo-is-die-spirituelle-welt-ar-maria-31-oktober-2004/) | 31 Oktober 2004
+Johannes & Jesus | [Die Gleichheit der Liebe Gottes](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2004/die-gleichheit-der-liebe-gottes-ar-johannes-jesus-17-dezember-2004/) | 17 Dezember 2004
+Johannes & Maria | [Das Sehvermögen der Seele (Fortsetzung)](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2004/das-sehvermoegen-der-seele-fortsetzung-ar-johannes-maria-27-dezember-2004/) | 27 Dezember 2004
+Jesus | [Mitgefühl und die Gabe der Wahl](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2005/mitgefuehl-und-die-gabe-der-wahl-ar-jesus-26-maerz-2005/) | 26 März 2005
+Jesus | [Erfüllung als Attribut der Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2005/erfuellung-als-attribut-der-liebe-ar-jesus-7-mai-2005/) | 7 Mai 2005
+Johannes | [Das Land der Liebe](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2005/das-land-der-liebe-ar-johannes-22-mai-2005/) | 22 Mai 2005
+Aman | [Das erste Experiment](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2005/das-erste-experiment-ar-aman-5-juni-2005/) | 5 Juni 2005
+Maria | [Liebe ist die Realität, die wir suchen](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2005/liebe-ist-die-realitaet-die-wir-suchen-ar-maria-24-juli-2005/) | 24 Juli 2005
+Maria | [Ein Geschenk an Gott](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2005/ein-geschenk-an-gott-ar-maria-3-september-2005/) | 3 September 2005
+Johannes | [Die natürliche Intelligenz der Seele](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2005/die-natuerliche-intelligenz-der-seele-ar-johannes-9-oktober-2005/) | 9 Oktober 2005
+Maria Magdalene & Jesus | [Die menschliche Seele beobachten](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2006-2010/die-menschliche-seele-beobachten-ar-maria-magdalene-jesus-1-april-2006/) | 1 April 2006
+Maria | [Der Stoff der Ewigkeit](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2006-2010/der-stoff-der-ewigkeit-ar-maria-5-juni-2006/) | 5 Juni 2006
+Jesus | [Der ewige Moment](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2006-2010/der-ewige-moment-ar-jesus-10-juni-2006/) | 10 Juni 2006
+Maria | [Wir sind alle miteinander verbunden](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2018/wir-sind-alle-miteinander-verbunden-ar-maria-27-mai-2018/) | 27 Mai 2018

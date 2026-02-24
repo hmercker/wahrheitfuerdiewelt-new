@@ -1,0 +1,22 @@
+---
+title: "Ein wahres Kind Gottes sein"
+menu_title: ""
+description: "Ein wahres Kind Gottes sein"
+date: 2020-08-01 06:25:48+00:111
+draft: False
+hidden: True
+weight:
+---
+### Ein wahres Kind Gottes sein
+
+Keea Atta Kem - empfangen im Jahre 1970, Vancouver, BC, Kanada.
+
+Es sind heute Abend viele aus dem himmlischen Sphären, und sie sind sehr darauf bedacht, einen Kanal für die Direkte Stimme geöffnet zu bekommen, und sie kommen mit euch, um sich zu treffen und auf euch eingestimmt zu werden, damit ihr, wenn die Zeit gekommen ist, die Direkte Stimme von all diesen wunderbaren Seelen hören werdet. Ihr müsst erkennen, dass auch sie, so hochentwickelt wie sie sind, sich auf diese Arbeit vorbereiten müssen. Das mag für euch unglaublich sein, aber wir werden euch erklären, warum das so ist.
+
+Während man sich immer weiter von der Erde entfernt, sind die Bedingungen um eure Erde herum nicht länger ein Teil von uns. Ihr müsst also erkennen, dass wir uns, um so zurückzukommen, wie wir es tun, genauso vorbereiten müssen wie ihr. Nur weil die Entwicklung einiger von uns hoch ist, bedeutet das nicht, dass wir tun können, was wir wollen. Wir müssen studieren und uns fähig machen, wieder auf die Erde zu kommen. Denn die chemische Reaktionen um die Erdsphären plus die Bedingungen, die wir euch für diese Entwicklung bringen, machen es für jemanden, der göttlich ist, sehr schwer, auf eure Schwingungen herunter zu kommen. Ihr seht also, wir alle arbeiten, aber wenn wir mit der Sehnsucht arbeiten, eins mit Gott zu werden, wissen wir, dass all unsere Wünsche und Sehnsüchte erfüllt werden. Wenn ich euch dazu bringen könnte, euch so zu fühlen, wie ich mich heute Abend fühle, glorreich glücklich, während ich als euer Diener vor euch stehe, dass jeder von euch hier sein Leben Gott gewidmet hat.
+
+Es gibt nichts, was erschaffen wurde, was euch so viel Glück bringen kann, wie ein wahres Kind Gottes zu sein. Sucht demütig nichts für euch selbst, damit ihr bereit seid, dieses große Werk zu tun. Eure Bemühungen und euer Leben werden reichlich belohnt werden. Während ich bei euch stehe, fühle ich großes Erstaunen, denn ich bin mir der Strahlung bewusst, die von euch ausgeht. Diese letzten Monate eurer Erdenzeit haben mir gezeigt, was eine Gruppe wie die eure, die in Harmonie und Liebe zueinander sitzt, tun kann. Euch alle hier bitte ich, sehr vorsichtig zu sein, mit wem ihr in diesem großen Werk Kontakt aufnehmt, denn während eure Weisheit und Macht größer wird, wird es viele geben, die versuchen werden, euch zu zerstören. Aber denkt immer daran, dass ihr für uns sehr wertvolle Instrumente seid und ihr werdet beschützt werden. Das Wissen und die Weisheit, die ihr erlangt, werdet ihr mit der Zeit an die ganze Welt weitergeben.
+
+Heute Abend, während ihr ruhig sitzt, haben wir aus eurem Solarplexus die gesamte Lebenskraft gezogen, die wir aus euch herausholen konnten, und einige von euch haben vielleicht ein Ziehen oder sogar Übelkeit gespürt. Während diese Lebenskraft aus eurem Physischen gezogen wird, raste ein starkes Band der Kraft um das Zentrum eurer Gruppe mit einer solchen Geschwindigkeit und Kraft, dass es uns sehr glücklich machte. Ich muss euch sagen, was wir mit euch machen. Wir testen euch jedes Mal, wenn ihr sitzt. Testen die Verschmelzung der Kräfte aus eurer Lebensenergie, und durch die Geschwindigkeit, mit der wir diese Substanz als festes Band halten können, zeigt uns eure Fähigkeit, das, was durch euch kommt, zu halten und aufrecht zu erhalten. Während dies geschah, brachten Chemiker von unserer Seite des Lebens Chemikalien zu euch und jeder von euch hat diese Chemikalien in seinen physischen Körper empfangen und auch dies wird mit denen geschehen, die nicht persönlich hier sind. Wir werden dies heute Nacht zu ihnen bringen müssen, während sie in ihrem Schlafzustand sind und dann nächste Woche, wenn sie kommen, werden wir sie in dieses Band ziehen, das wir heute Nacht aus euch geschaffen haben. Und während dies geschieht, wurden alle eure Kehlen behandelt und einige von euch mögen in der letzten Woche Unbehagen verspürt haben, aber nach heute Abend werdet ihr feststellen, dass alle Heiserkeit von euch gewichen sein wird.
+
+Während ich hier stehe, steht ein Freund von euch neben mir und wartet darauf, mit euch zu sprechen. Ich danke euch für das, was ihr tut. Wisset, dass wir im Geiste die Opfer erkennen, die ihr alle bringt. Wie gesegnet ihr doch seid. Gute Nacht.

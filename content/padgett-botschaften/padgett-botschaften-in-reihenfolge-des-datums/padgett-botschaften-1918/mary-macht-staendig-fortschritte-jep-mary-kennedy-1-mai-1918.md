@@ -1,0 +1,30 @@
+---
+title: "Mary macht ständig Fortschritte"
+menu_title: ""
+description: "Mary macht ständig Fortschritte"
+date: 2020-08-01 06:25:48+00:87
+draft: False
+hidden: True
+weight:
+---
+### Mary macht ständig Fortschritte
+
+Mary Kennedy – empfangen durch James Padgett am 1. Mai 1918, Washington, DC, USA.
+
+Ich bin hier, Mary Kennedy.
+
+Ich werde ein paar Zeilen schreiben, wenn du zustimmst, und ich weiß, dass du es tun wirst, denn Helen sagt, dass du so viele Briefe der Liebe und Ermutigung von ihr erhältst, dass du völlig verständnisvoll bist, wenn andere Seelenpartner ihren anderen Hälften auf der Erde schreiben wollen, und besonders, wenn ich komme, um meinem zu schreiben, und Helen weiß das und sagt mir nie eine Unwahrheit, außer wenn sie versucht, mich zu plagen oder zu necken.
+
+Nun, ich bin sehr froh, dass ich Leslie wieder einmal schreiben kann, denn es ist lange her, wie es mir scheint, seit ich ihm geschrieben habe, und ich glaube, dass er auch so denkt. Ich weiß, dass er sich die ganze Zeit für mich interessiert, aus dem Grund, weil ich weiß, dass er mich liebt und wo Liebe hinkommt, kann es an Interesse nicht fehlen, und so muss es auch sein.
+
+Ich bin sehr glücklich und mache ständig Fortschritte in meinen Seelenqualitäten und in meiner Stellung in den Seelensphären, wo nur die Göttliche Liebe existiert, außer der anderen Liebe, die nur zu Seelenpartnern gehört. Seit ich ein Bewohner der himmlischen Sphären geworden bin und erkannt habe, was für eine absorbierende Sache die Göttliche Liebe ist, wundere ich mich, dass ich so viel von dieser Seelenpartner-Liebe haben kann, wie ich es tue, wenn ich die Tatsache erkenne und weiß, dass keine andere Liebe in unseren Sphären existiert, außer der Göttlichen Liebe und unserer Seelenpartner-Liebe. Keine Mutter- oder Vaterliebe oder irgendeine andere Liebe, die zu den Beziehungen des menschlichen Lebens gehörte, hat irgendeinen Platz in unserem Dasein oder Glück, denn die spirituellen Wesen haben keine Brüder und Mütter und andere Beziehungen mehr, sondern alle sind wie eine große Bruderschaft, deren Nähe und Einheit von der Menge der Göttlichen Liebe abhängt, die in die Seelen der jeweiligen spirituellen Wesen eintritt, und in dieser, unterscheidet sich die Göttliche Liebe von unserer Seelenpartner-Liebe dadurch, dass die erstere von einer Natur und Substanz ist, obwohl sie von den spirituellen Wesen in verschiedenen Graden besessen wird, und von der gleichen Qualität ist und von den Seelen der spirituellen Wesen gleichermaßen besessen werden kann, während die letztere nur den beiden Seelenpartnern gehört, und kein anderer kann in die Liebe, die nur den beiden Seelenpartnern gehört, eintreten oder einen Teil davon besitzen. Ich denke oft über diese Tatsache nach, und wie gut ist der Vater darin, uns diese große Liebe zu geben, an der wir gemeinsam mit allen anderen spirituellen Wesen teilhaben, und doch sollten wir diese Seelenpartner-Liebe ganz für uns haben. Dies mag auf den ersten Blick egoistisch erscheinen, ist es aber nicht, denn obwohl eine der beiden Seelen sie haben kann und hat, wird dadurch keiner anderen Seele eine Liebe vorenthalten, die sie unglücklich machen oder ihr ein größeres Glück bescheren würde. Es ist kein Egoismus, sondern lediglich der Besitz dessen, was die Liebe der beiden Seelen ausmacht.
+
+Nun dürft ihr aus dem, was ich gesagt habe, nicht schließen, dass, wenn wir Bewohner der himmlischen Sphären werden, all die Lieben, die uns auf der Erde aufgrund unserer menschlichen Beziehung gehörten, nicht bei uns sind, denn es wäre nicht wahr, eine solche Schlussfolgerung zu ziehen. Die Erklärung ist, dass die Objekte und der Ort der Existenz der Objekte unserer Lieben, bestimmt, ob wir weiterhin diese Liebe der menschlichen Beziehung haben. Wenn unsere Eltern oder Brüder oder Schwestern oder andere, die eine Beziehung haben, die wir liebten, als wir auf der Erde waren, weiterhin im Fleisch oder sogar in den unteren Sphären der spirituellen Welt leben, dann bleibt unsere Erdenliebe, wie ich sie nennen kann, bei uns, und unsere Lieben werden genauso oder in einem größeren Maße geliebt, als wenn wir auf der Erde oder in den unteren Sphären waren; und aus dieser Liebe wächst unser Wunsch, unseren Verwandten zu helfen und sie zum Guten zu beeinflussen.
+
+Aber wenn diese Verwandten mit uns zu Bewohnern der himmlischen Sphären werden, wo die göttliche Liebe die große Liebe ist, die uns allen gehört, dann verlässt uns die Liebe, die wir aufgrund unserer Verwandtschaft zueinander besitzen, und hat keinen Einfluss. Solange ihr Sterbliche seid, lieben wir euch wie Eltern oder Kinder oder andere Verwandte, aber wenn ihr mit uns in die Göttlichen Himmeln kommt, gibt es keinen Grund, warum diese Liebe fortbestehen sollte, denn diese Göttliche Liebe ist für alle ausreichend und ersetzt diese anderen Lieben.
+
+Nun, ich liebe meinen Leslie, und ich werde ihn für und durch alle Ewigkeit lieben, denn ich weiß, dass er zu mir in mein Haus kommen und vereint sein wird, seine Seele mit der meinen. Ich bin viel bei ihm, und meine Liebe zu ihm lässt nie nach oder hört auf, ihren Einfluss auf seine Seele auszuüben, und wird es auch nie, solange wir getrennt bleiben, was nicht sehr lange andauern wird, wie wir, die wir in der Ewigkeit sind, es sehen. Ich habe schon zu lange geschrieben und muss aufhören. Aber ich möchte ihm sagen, dass er seine Engel sehr oft um sich und bei sich hat, und dass er nie allein gelassen wird. Wenn er betet, und ich weiß, dass er das tut, sind wir alle bei ihm und beten zum Vater für ein größeres Einströmen Seiner Liebe in die Seele meines Lieben.
+
+Oh, wie sehr wünschte ich, dass ich ihm das Ausmaß meiner Liebe sagen könnte und was sie ihm bedeutet, und wie sehr ich mir all die Liebe wünsche, die er mir geben kann. Er muss an mich denken und seinen Mut und seinen Glauben an die Wahrheiten, die zu ihm gekommen sind, aufrechterhalten, denn er wird niemals in diesem Glauben oder in den Erwartungen, die daraus entstehen, enttäuscht werden. Gute Nacht, mein Lieber.
+
+Deine dich liebende, Mary.

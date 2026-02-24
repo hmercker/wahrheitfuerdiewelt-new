@@ -1,0 +1,28 @@
+---
+title: "Feiert die Freude am Leben!"
+menu_title: ""
+description: "Feiert die Freude am Leben!"
+date: 2025-07-09 06:00:00+00:00
+draft: False
+hidden: True
+weight:
+---
+### Feiert die Freude am Leben!
+
+Orion - empfangen durch Al Fike am 22. April 2025, Sechelt, BC, Kanada.
+
+...sei euer, schöne Freunde. Ich bin Orion. Die Segnungen einer Seele, die sich nach Gott sehnt. Dies wird frei gegeben. Wann immer ihr bittet, werdet ihr empfangen. Die Segnungen des Fleisches und der materiellen Ebene, das Staunen über Gottes Schöpfung um euch herum. Das wird euch umsonst gegeben. Der Segen des Verstandes und des Geistes, der sich mit Wertschätzung, Kreativität und allen guten Dingen in euch beschäftigt, drückt sich durch euch aus. Das ist ein Geschenk an euch und kann frei zum Ausdruck gebracht werden. Es gibt so vieles, was Gott euch in eurem Leben gegeben hat, das von großem Wert und Segen ist. Egal, ob ihr reich oder arm seid, ob ihr niedergeschlagen oder erhoben seid, diese Segnungen stehen jeder Seele zur Verfügung, vorausgesetzt, sie entscheidet sich dafür, sich darauf einzulassen, sie zu schätzen und sich an dieser Wertschätzung zu erfreuen.
+
+Ja, Gott schenkt seinen Kindern so viel. Ich war bei diesem Instrument, während er in seinem Garten schuftete und wie er die Natur schätzt, die sich im Frühling erhebt und ihn mit Leben und Schönheit begrüßt. In diesem einfachen Dienst an Gott und seinem Garten steckt viel Freude. Für einige von euch liegt sie in den Beziehungen zu euren Brüdern und Schwestern, in der Anerkennung eures Lebens und eurer Lebendigkeit in dieser Welt. Für andere sind es die kreativen Handlungen, die Schönheit hervorbringen. Diese Dinge entspringen der Seele und sind eine wunderbare Manifestation dessen, was Gott in euch geschaffen hat.
+
+Oh, es gibt so viele Möglichkeiten, sich auf das Leben einzulassen, sich auf das Wunder des Lebens und all seine Freuden einzulassen, sich auf all die Schichten und Ebenen des Lebens in all seiner Komplexität und Schönheit einzulassen. Wir möchten euch ermutigen, euch zu engagieren. Macht euch keine Sorgen und Gedanken über materielle Belange und Hindernisse, auch wenn es dafür sicherlich Zeit und Bedarf gibt, wenn ihr es im Glauben und in Unbekümmertheit tut. Doch auch dabei kann Freude aufkommen. Denn wenn ihr ein freudiges Leben führt, ein Leben, das in der Schönheit von Gottes Schöpfung erstrahlt, dann sind diese Umstände, diese sorgenvollen Umstände, weniger belastend und weniger schwierig, denn die Freude überschattet alles. Die Liebe ist der Prüfstein für alles.
+
+Wir ermutigen euch, weiterhin nach Freude zu streben, nach Liebe zu streben und das Wunder, das Gottes Schöpfung ist, und das Wunder, das eure eigene Schöpfung ist, zu würdigen und wahrzunehmen. Diese Dinge, die im Einklang mit Gottes Gesetzen stehen, werden euch weiterhin Erfüllung bringen und euch nähren. Alle Dinge Gottes, all das Gute, all das Wunderbare, all die Schönheit, all die Kreativität und all die Freude, das ist es, was für die Menschheit bestimmt ist. Wir wünschen uns, dass ihr im Rahmen von Gottes großartiger Schöpfung lebt und diese zum Ausdruck bringt.
+
+Wenn ihr das könnt, wenn ihr bereit seid, euch diesen Dingen des Lichts vollständig zu öffnen, dann gibt es keinen Schmerz mehr. Es mag sein, dass ihr die Umstände und Situationen, die euch umgeben, beobachtet und wahrnehmt, aber wenn die Freude eure Wahrnehmung und eure Lebenserfahrungen überspült, lässt der Schmerz nach, bis er nicht mehr da ist. Es geht nicht darum, dass ihr eure Sorge um eure Brüder und Schwestern ablegt. Vielmehr werdet ihr mit eurer Freude zu einem Kanal, zu einem Instrument der Heilung und des Aufschwungs, um den Menschen Hoffnung zu geben und sie zu dem zu inspirieren, was ihr habt und was ihr ausdrückt.
+
+Entscheidet euch, liebe Freunde, für das Staunen, die Freuden, die Tiefe und Weite von Gottes Schöpfung in all ihrer Schönheit. Ihr werdet glücklich und erfüllt sein und den wahren Sinn des Lebens erkennen, der darin besteht, Freude zu empfinden, sich auf das Leben einzulassen, sich auf Gottes Schöpfung einzulassen und sich gegenseitig in Liebe zu begegnen. Diese Dinge entstehen, wenn die Seele in der Liebe Gottes erwacht. Diese Dinge kommen, weil Gott es euch ermöglicht, all das zu sehen und wahrzunehmen, zu erleben und zu fühlen, was aus Licht besteht.
+
+Meine geliebten Freunde, wir feiern mit euch das Leben und erkennen das Licht, das Gute und die Schöpfung an, und wir erkennen die Schönheit an, die eure Schöpfung und die Schöpfung Gottes an euch ist. Wie kühn und wunderbar ist es, dass es euch gibt und dass ihr selbst eine schöpferische Kraft seid, dass eure Seele, die weiterhin von Gottes Liebe erfüllt ist, eine immer größere Kraft des Lichts sein wird. Wie wunderbar ist das. Fortschritt, der immer weiter voranschreitet. Kreativität, die sich immer weiter ausbreitet. Freude und Liebe, die sich in euch vertiefen und wachsen. Schöne Kinder Gottes, ich bin euer Bruder, und ich teile eure Freude. Ich teile die Erfahrung. Ich teile meine Anerkennung und eure Anerkennung unseres Schöpfers. Ihr seid gesegnet, wie wir gesegnet sind. Ihr seid lebendig, wie wir lebendig sind. Wir freuen uns, wie ihr euch an der Lebendigkeit des Lebens erfreut.
+
+Gott segne euch alle. Ich bin Orion und ich liebe euch. Ich habe große Freude daran, eure Schönheit zu erkennen und zu sehen, das Wunder eurer einzigartigen Schöpfung zu bewundern und euch manchmal auf dieser wunderschönen, wundersamen Erde in all ihrer Vielseitigkeit, ihrer Lebendigkeit und ihrer Schönheit zu begleiten. Gott segne euch, meine Freunde. Meine Liebe ist immer und ewig mit euch. Gott segne euch.

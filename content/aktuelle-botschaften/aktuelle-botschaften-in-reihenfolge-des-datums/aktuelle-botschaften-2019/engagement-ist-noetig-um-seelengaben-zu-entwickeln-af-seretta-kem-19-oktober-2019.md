@@ -1,0 +1,22 @@
+---
+title: "Engagement ist nötig, um Seelengaben zu entwickeln"
+menu_title: ""
+description: "Engagement ist nötig, um Seelengaben zu entwickeln"
+date: 2020-08-01 06:25:48+00:73
+draft: False
+hidden: True
+weight:
+---
+### Engagement ist nötig, um Seelengaben zu entwickeln
+
+Seretta Kem - empfangen durch Al Fike am 19. Oktober 2019, Gibsons, BC, Kanada.
+
+Wir möchten unseren Dank und unsere Dankbarkeit auf jeden einzelnen von euch ausdrücken, der sich in diesen Wochen versammelt hat, als ihr mit einem Interesse an der Medialität der Göttlichen Liebe zusammengekommen seid. Denn es ist in eurer Welt, dass wir in der Tat hoffen, mehr Medien zu benutzen und zu entwickeln, denn da es große Veränderungen auf eurer Welt gibt, wird es ein großes Bedürfnis und Trost für viele geben, von dieser Liebe zu wissen, vom Trost Gottes zu wissen, zu wissen, dass Gott sie nicht verlassen hat.
+
+Wir, eure Engelsfreunde, möchten diese Medien für Worte der Liebe und des Trostes nutzen, um euch zu ermutigen und euch zu zeigen, wie ihr durch diese vielen Veränderungen voranschreiten könnt. Wie die liebe Seele, die euch mit ihrer außergewöhnlichen Gabe der Medialität einen so großen Dienst erwiesen hat, angedeutet hat, ist es nicht von heute auf morgen, dass jeder Einzelne entwickelt werden kann, damit wir, eure himmlischen Freunde, nahe genug herankommen und eine seelische Verbindung haben können. Nein ihr Lieben, es ist eine Zeit der Entwicklung, die das Engagement des Einzelnen erfordert. Zuallererst ist ihr Engagement im Gebet erforderlich. Ihre Sehnsucht danach, dass ihre Seele gereinigt, gesäubert, erweckt, geheilt, befreit und bis zu einem gewissen Grad durch die göttliche Liebe geöffnet wird, wird benötigt.
+
+Ohne diesen Faktor ist es für uns nicht möglich, eine Verbindung mit dem Individuum aufrechtzuerhalten. So ist eure Hingabe, für die Göttliche Liebe zu beten, damit Gott eure Seele berührt, der primäre Faktor dafür, dass sich eure Gabe der Medialität für den Dienst entwickelt, die Lehren und Wahrheiten der Göttlichen Liebe an andere zu verbreiten. Es ist eine, bei der Gott und eure Engelfreunde euch genau beobachten, liebe Freunde, denn ihr seid nie allein. Es ist eine Sache, so vor anderen zu sein, wie ihr in der Öffentlichkeit auftretet und euch zeigt. Aber denkt auch daran, dass wir euch beobachten, wenn ihr allein seid. Es ist ein wichtiger Teil eures Engagements, Gott eure Wahrheit, eure Integrität und eure Ehrlichkeit zu zeigen, um ihm zu dienen. Denn dieser Stil der Medialität ist nicht zur Show. Es geht nicht darum, die Anerkennung und den Ruhm von anderen zu empfangen. Es geht darum, dass ihr ernsthaft in euch wahrhaftig seid, euch heilt und ehrlich und klar zu Gott seid.
+
+Es braucht ein großes Engagement von unserer Seite des Lebens, um zu helfen, diese Gaben der Seele zu entwickeln. Ja, einige von euch haben gespürt, wie wir an euch arbeiten. Wir setzen uns sehr dafür ein, dass ihr in der Entwicklung eurer Gaben erweckt werdet. Ist es nicht eine schöne Sache, mit der Neugierde der Medialität der Göttlichen Liebe zusammenzukommen. Ein Medium zu sein, die Idee davon, kann für viele eine Anziehung sein. Aber wie die liebe Schwester erzählte, war das, was sie am meisten von dieser Zeit des Zusammenkommens erhielt, eine Heilung für ihre Seele durch das Geschenk der Liebe Gottes, die in ihr fließt. Das ist der Schlüssel. Egal, welche Gaben ihr tragt, Geliebte, die ihr den Weg der Göttlichen Liebe geht, jeder von euch ist gleich in der Möglichkeit, das Geschenk der Göttlichen Liebe zu erhalten.
+
+Wenn ihr das tut, werden alle anderen Gaben, die in euch eingepflanzt wurden, gestärkt, wenn sie bereits genutzt werden. Denn die Samen, die in euch eingepflanzt wurden und die vielleicht noch keine Wurzeln geschlagen haben oder noch nicht zu wachsen begonnen haben, werden dies durch die Gnade dieser Liebe tun. Gottes Entwurf ist vollständig. Es gibt nicht einen Aspekt in eurem Leben, den die Gnade der göttlichen Liebe nicht korrigieren, heilen und in Harmonie bringen könnte. Es ist unsere Hoffnung, dass ihr euch noch einmal auf diese Weise versammelt und weiterhin zusammenkommt, um zu wachsen, in eurem spirituellen Weg zu wachsen und euch tief als Familie zu verbinden, denn jeder von euch erkennt in seiner Seele den anderen als Familie. Es war eine große Freude, mit jedem von euch zu arbeiten, und wir werden dies auch weiterhin tun. Betet immer um die göttliche Liebe und alles wird gut werden. Ich bin eure Lehrer Seretta Kem. Meine Liebe ist mit euch. Gott segne euch.

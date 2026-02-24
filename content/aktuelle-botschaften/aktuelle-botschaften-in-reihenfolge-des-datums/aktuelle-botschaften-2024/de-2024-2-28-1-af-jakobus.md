@@ -1,0 +1,26 @@
+---
+title: "Ihr bestimmt die Schnelligkeit eures eigenen Seelenfortschritts"
+menu_title: ""
+description: "Ihr bestimmt die Schnelligkeit eures eigenen Seelenfortschritts"
+date: 2025-03-10 06:00:00+00:10
+draft: False
+hidden: True
+weight:
+---
+### Ihr bestimmt die Schnelligkeit eures eigenen Seelenfortschritts
+
+Jakobus - empfangen durch Al Fike am 28. Februar 2024, Hawaii, USA.
+
+Ich bin Jakobus. Die Stärke eures Verlangens wird über euren Fortschritt entscheiden, geliebte Seelen. Habt ihr eine tiefe und beständige Sehnsucht in eurer Seele, das große Geschenk der Liebe Gottes zu empfangen? Oder ist euer Verlangen im Gebet eher mittelmäßig und fade und spiegelt ein ebenso mittelmäßiges Engagement wider? Ich weiß, dass es Zeiten gibt, in denen ihr müde seid und nicht die Kraft und den Fokus habt, wirklich gut zu beten. Aber die Kraft eures Gebets, die Wirksamkeit eurer Gebete hängt von eurem eigenen Zustand ab und von der Ausrichtung eures Verstands und eurer Seele im Gebet.
+
+Der Einklang zwischen eurem Verstand und eurer Seele auf der Suche nach dem großen Geschenk Gottes ist das, was gebraucht wird, und die Intensität und Feinheit dieses Einklanges bestimmt maßgeblich die Tiefe und Breite des Segens, den Gott euch geben wird. Diese Gesetze kennt ihr gut. Diese Gesetze sind wichtig und ihr müsst sie befolgen, wenn ihr Erfolg haben wollt. Wir werden euch nicht verurteilen, wenn ihr euch nicht an diese Gesetze haltet. Doch das Urteil kommt in Form von mangelnder Reaktion, mangelndem Gefühl, mangelndem Aufschwung und einem Gefühl der Enttäuschung bei euren Gebeten.
+
+Das passiert jedem Sterblichen von Zeit zu Zeit. Es ist nicht so, dass ihr absichtlich versucht, zu stören oder von euren Bemühungen abzulenken. Wenn euer Tag voranschreitet und es viele Aktivitäten und Erlebnisse gibt, ist es oft schwierig, sich auf das Gebet zu konzentrieren. Das ist verständlich. Gott urteilt nicht über euch. Wir verurteilen euch auch nicht. Doch wenn ihr tiefe und wundersame Gebete in diesem schönen Raum des Lichts, dieser schönen Pforte des Lichts und diesen schönen Seelen des Lichts erwartet, dann muss der Fokus da sein, die Hingabe, der Glaube, der Wunsch.
+
+Es gibt so viel, was Gott jedem einzelnen von euch geben möchte. Dieser Segen kann in der Tat mächtig sein und sich auf euch auswirken. Aber die Sterne müssen im Einklang sein, wie ihr sagen würdet. Alles muss in Harmonie sein. Alles ist ein Spiegelbild eurer tiefen Sehnsucht, die ihr nach außen hin zu Gott ausdrückt. Ihr alle versteht das Gebet sehr gut. Ihr habt viele, viele Male gebetet.  Manchmal gab es einen großen Segen, eine große Veränderung, ein großes Einströmen von Gottes Liebe in eure Seelen. Zu anderen Zeiten spürt ihr sehr wenig. Seid ihr in eurer Seele, im Einklang mit eurer Seele? Oder seid ihr nur in eurem Verstand und nehmt die Dinge mit euren fünf Sinnen wahr? Sicherlich gibt es eine Kombination aus diesen beiden Perspektiven und Zuständen.
+
+Unser Wunsch ist es, dass ihr ganz in eurer Seele seid. Auf diese Weise wird das Staunen über Gottes Berührungen stark und schön sein und eine erstaunliche Reichweite haben. Es liegt an euch, diesen Ort zu finden. Je öfter ihr diesen Ort der wahren seelischen Übereinstimmung mit Gott findet, desto bemerkenswerter und wunderbarer wird euer Leben und euer spirituelles Leben sein. Eure Seele wird dabei schnell wachsen. Euer Verstand wird von diesem schnellen Wachstum absorbiert werden, diesem achtsamen Wachstum der Seele, die Gottes Berührung auf euch und in euch reflektiert und darauf reagiert.
+
+Die Ungereimtheiten sind typisch für eure Welt: auf und ab, hoch und runter, tief und flach. All diese Dinge gehören wirklich zum menschlichen Zustand. Deshalb müsst ihr euch mehr anstrengen, meine geliebten Freunde. Ihr müsst mit Gott gehen, mit Gott sein, wirklich. Lasst seinen großen Segen in euch fließen, damit ihr euch dieser Dinge bewusst seid. Damit ihr euch an diesen Erfahrungen erfreuen könnt. Damit ihr den Willen Gottes, die Gegenwart Gottes und die Liebe Gottes wahrhaftig erkennt und versteht. Diese Dinge sind für euch. Sie sind euer Geburtsrecht, Geliebte. Nehmt euer Geburtsrecht wahr. Ergreift das, was euch gegeben wurde, und tut es wie ein Mann in der Wüste, der nach Wasser dürstet. So ist es auch mit dem Durst eurer Seele nach dem Wasser, dem lebendigen Wasser der Liebe Gottes. Trinkt tief. Löscht euren Durst. Denn dieser Durst wird immer wieder kommen und ihr werdet seine Sehnsucht, seine Gegenwart in eurem Bewusstsein spüren.
+
+Möget ihr gesegnet sein, geliebte Seelen, tief und wahrhaftig. Möget ihr die Freude an diesem Segen finden. Möget ihr auf viele Arten, Ebenen und Aspekte eurer Wahrnehmung kommen. Dieser Segen wird euch in all seiner Fülle, Klarheit, Kraft, Schönheit und seinem Licht gegeben. Alles ist für euch, Geliebte, wahrhaftig, für euch, um zu erfahren, zu wissen und zu empfangen. Möget ihr gesegnet sein, meine Freunde. Ich bin Jakobus. Ich liebe euch. Ich bin euch nahe. Ich liebe euch und möchte, dass ihr die Tiefe und Weite der Liebe Gottes zu euch und unsere Liebe zu euch und all die Liebe, die euch an diesem wunderschönen Ort, diesem Heiligtum der Liebe, umgibt, wirklich erkennt. Gott segne euch. Gott segne euch alle. Meine Liebe ist mit euch, immer. Gott segne sie.

@@ -1,0 +1,34 @@
+---
+title: "Große Umwälzungen kommen auf die Erde zu "
+menu_title: ""
+description: "Große Umwälzungen kommen auf die Erde zu "
+date: 2020-07-03 06:25:48+00:00
+draft: False
+hidden: True
+weight: 150
+---
+### Große Umwälzungen kommen auf die Erde zu   
+
+Augustinus- empfangen durch Al Fike am 9. November 2019, Fitzroy Falls, Australien.
+
+Brüder und Schwestern, schöne Seelen, ich bin Augustinus. Ich war einst Bischof von Hippo vor vielen, vielen Jahren. Ich bin ein Bewohner des Göttlichen Himmelreiches und habe diesen Studenten in meiner Obhut seit vielen Jahren unterrichtet. Ich bin gekommen, um euch, meine Freunde, zu versichern, dass Gott tatsächlich eine Lösung für diese Dilemmas hat, denen ihr in dieser Welt begegnet. Ja, die Welt, auf der ihr lebt, leidet weiterhin. In vielerlei Hinsicht leiden alle, die auf diesem Planeten leben. Das ist der vorherrschende Zustand eurer Erde. Wo die Liebe fehlt, da geht das Leiden weiter. Wo Unwissenheit nicht vorhanden ist, wird es einen Sinn für eine Lösung geben, um ein größeres Verständnis und eine größere Sensibilität dafür zu entwickeln, wie ihr alle auf dieser Erde auftreten könntet.  
+
+Es kommen große Veränderungen auf eure Erde zu. Es kann nichts anderes sein als eine große Verschiebung, ein großes Erwachen in eurer Welt. Gott hat der Menschheit einen großen Spielraum gegeben, damit sie auf dieser Welt tun kann, was sie will. Ihr alle habt die große Gabe des freien Willens. Ihr alle geht weiterhin auf eigene Faust. Die große Mehrheit ist der Ansicht, dass sie frei sind und diese Entscheidungen mit Weisheit treffen können. Ich sage euch, meine geliebten Brüder und Schwestern, ihr seid nicht frei. Ihr seid nicht in der Lage, ernsthafte Entscheidungen zu treffen, die eure Welt auf eine Weise beeinflussen, die dauerhafte Lösungen bringt und mit Gottes Schöpfung in Einklang steht.  
+
+Stattdessen habt ihr eine große Tyrannei für euch selbst aufgebaut. Stattdessen ist die Welt weiterhin ein Opfer eurer eigenen willentlichen Wünsche und Bedürfnisse. Ich verurteile euch nicht, geliebte Brüder und Schwestern. Ihr sucht das Licht und Gott gibt euch allen ein Maß an Segen und Liebe, aber es kommt eine Zeit, in der die Welt und jeder von euch auf die Probe gestellt wird. Denn der Wandel muss kommen und zwar schnell. Es bleibt wenig Zeit. Die Kräfte der Zerstörung katapultieren die Welt weiterhin in Dunkelheit und Chaos.  
+
+Obwohl ihr euch in eurem materiellen Leben wohl fühlt, gönnt ihr euch weiterhin alle möglichen materiellen Vergnügungen und Begierden. Diese Zeiten, die kommen, werden für euch alle eine gewisse Härte mit sich bringen. Was ihr, liebe Seelen, mehr als alles andere benötigt, ist eine feste Grundlage in eurer Seele, auf der alle Weisheit, die wahre Weisheit kommt, wo alles, was durch jeden von euch als Instrumente des Lichts getan werden kann, zu euch kommt und zu euch geführt wird. Jeder von euch benötigt einen großen Glauben an die höheren Mächte, wie ihr es nennen würdet - an Gott, wie ich Ihn kenne.  
+
+Auf diese Weise werdet ihr euren Weg durch diese turbulenten Zeiten finden. Viele von euch werden Gott beim Wiederaufbau dieser Welt in einer Weise helfen, die größere Harmonie bringt, in der alle Geschöpfe eurer Welt aufblühen werden. Ihr, alle Völker, werdet im Gleichgewicht und in Harmonie mit der Schöpfung sein. Wie so oft in der Welt der Menschen bedarf es einer Krise, eines Schocks, eines Zustandes, der die Schlafenden wachrüttelt. Jene unter euch, die hier zusammenkommen, versuchen wach zu sein, suchen nach Wissen, suchen nach Harmonie.  
+
+Deshalb kommen wir zu euch, jedem einzelnen von euch, um euch auf dieser Reise des Wachseins und  Wahrheit zu helfen. Wir werden euch auf dieser Reise weiterhin unterstützen. Aber ich sage euch, meine Freunde, die Zeit wird knapp und es wird viel kommen. Jeder von euch hat die Wahl, an diesen Ort des tiefen Glaubens, der Wachsamkeit, des Zusammenseins mit dem Schöpfer zu kommen, sich mit der Wahrheit zu verbinden und durch eure Gebete, in denen ihr Gott um Führung bittet, selbst zu sehen, was getan werden muss. Es wird zu jedem von euch individuell kommen.   
+
+Ihr werdet von keinem Detail oder Teil dieses Plans verschont bleiben, der ein Plan für die Rettung der Menschheit ist, geliebte Seelen. Diese geliebten und schönen Werkzeuge die heute zu euch kommen, sind also auf einer ernsthaften Mission, allen zu helfen, die sich nach Licht sehnen und danach streben, in dem Licht der Wahrheit zusammenzukommen, um gemeinsam in die Welt zu gehen. Auch wenn eure Ideen unterschiedlich sind und die Vorstellungen vom Leben auf jedem Weg einzigartig sind, könnt ihr als Kinder Gottes gemeinsam Gott bei der Rückgewinnung eurer Welt helfen.
+
+Es ist von entscheidender Bedeutung, dass alle die zum Licht gehören, zusammenkommen und auf welche Weise auch immer weiter zusammenarbeiten, damit diejenigen, die ihr in eurer Welt in eurem täglichen Leben erreicht, die Gelegenheit haben, zur Wahrheit zu erwachen, zu den schrecklichen Umständen die überall um euch herum herrschen, zu erwachen. Obwohl ihr in euren Köpfen weiterhin seht, dass alles in Frieden und Ruhe ist, wisst ihr in euren Herzen, dass es nicht so ist; dass das Leben, das Wesen des Lebens, in Frage gestellt wird, dass Gottes Schöpfung am Abgrund schwankt.  
+
+Es tut mir leid, dass ich so ernsthaft mit euch bin, geliebte Seelen, aber ihr habt darum gebeten, für eure geliebte Erde zu beten. Ich bin gekommen, um euch die Botschaft zu übermitteln, dass eure Gebete wichtig sind, dass eure Bemühungen wichtig sind, dass eure Gedanken wichtig sind. Und vor allem ist das Erwachen eurer Seele, das Öffnen eurer Augen, wo Gott die Schuppen wegziehen kann, entscheidend. Geht mit euren Sorgen zu Gott. Geht zu Gott mit euren Gebeten und eurem Wunsch nach Veränderung und Heilung für eure Welt, für euch selbst, für alles, was ihr liebt, und die Türen werden sich öffnen. Die Gelegenheiten werden sich euch bieten. Die Arbeit, die groß ist, braucht eure Hände, eure Bemühungen, eure Worte, eure Liebe, alles, was ihr tun könnt.
+
+Ihr lebt in sehr interessanten Zeiten, liebe Seelen. Ihr werdet große Veränderungen in eurem Leben erleben. Wenn der Sturm vorbei ist und alles auseinander fällt, werdet ihr durch die Augen eurer Seele sehen, dass ein neuer Anfang anbricht, eine neue Welt, in der tausend Jahre lang Frieden herrschen wird und Liebe die Währung aller sein wird. Ich sage dies, weil es große Hoffnung und große Gewissheit gibt, dass eure Welt die nötige Heilung finden wird. Alle in eurer Welt, die dem Willen Gottes, dem Weg der Schöpfung Gottes in Harmonie mit seinen Gesetzen folgen wollen, werden ihren Weg zu Harmonie und Freude und Frieden und großer Liebe finden.
+
+Gesegnet seid ihr, geliebte Seelen. Ich bin euer Lehrer Augustinus und meine Liebe, meine Liebe ist mit euch allen. Gott segne Euch.
