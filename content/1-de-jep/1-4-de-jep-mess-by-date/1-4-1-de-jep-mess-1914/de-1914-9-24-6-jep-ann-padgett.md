@@ -11,3 +11,8 @@ weight:
 
 Ann Padgett - empfangen durch James Padgett am 24. September 1914, Washington, DC, USA.
 
+Du hast meinen Segen. Es war der Christus welcher geredet hat. Er ist dein Freund und Retter.
+
+Deine Mutter – Ann R. Padgett.
+
+*Deutscher Orginaltext von padgettmessages.de*

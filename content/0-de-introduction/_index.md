@@ -2,10 +2,10 @@
 title: "Einleitung "
 menu_title: "Einleitung "
 description: "Einleitung "
-date: 2024-01-17 02:18:11+11:00
+date: 2026-02-24 00:00:00+00:00
 draft: False
 hidden: False
-weight: 9
+weight: 10
 ---
 ## Einleitung
 
