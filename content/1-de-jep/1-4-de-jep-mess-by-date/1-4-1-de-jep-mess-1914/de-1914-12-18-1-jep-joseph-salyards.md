@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Professor Salyards beschreibt seinen Eintritt in die geistige Welt und seinen spirituellen Fortschritt
+### Professor Salyards beschreibt seinen Eintritt in die geistige Welt und seinen spirituellen Fortschritt
 
 Joseph Salyards - empfangen durch James Padgett am 18. Dezember 1914, Washington, DC, USA.
 

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Jesus ist weder Gott, noch kann er Sünden vergeben
+### Jesus ist weder Gott, noch kann er Sünden vergeben
 
 Jesus - empfangen durch James Padgett am 25. Dezember 1914, Washington, DC, USA.
 

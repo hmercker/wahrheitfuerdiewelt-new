@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Professor Salyards ist in die Dritte Sphäre aufgestiegen
+### Professor Salyards ist in die Dritte Sphäre aufgestiegen
 
 Joseph Salyards - empfangen durch James Padgett am 28. Dezember 1914, Washington, DC, USA.
 

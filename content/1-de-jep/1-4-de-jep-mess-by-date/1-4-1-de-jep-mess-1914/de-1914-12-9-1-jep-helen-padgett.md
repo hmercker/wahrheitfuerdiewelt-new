@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Helen beschreibt ihren Übergang in die Spirituelle Welt
+### Helen beschreibt ihren Übergang in die Spirituelle Welt
 
 Helen Padgett - empfangen durch James Padgett am 9. Dezember 1914, Washington, DC, USA.
 

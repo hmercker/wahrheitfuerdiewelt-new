@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Jesus ist nicht Gott sondern wurde vom Vater gesandt um die Menschen zu seiner Gunst und Liebe zu führen
+### Jesus ist nicht Gott sondern wurde vom Vater gesandt um die Menschen zu seiner Gunst und Liebe zu führen
 
 Jesus - empfangen durch James Padgett am 24. September 1914, Washington, DC, USA.
 

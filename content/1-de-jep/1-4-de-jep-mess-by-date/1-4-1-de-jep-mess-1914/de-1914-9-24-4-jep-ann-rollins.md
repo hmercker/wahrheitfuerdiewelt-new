@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Eine Bestätigung durch Ann Rollins
+### Eine Bestätigung durch Ann Rollins
 
 Ann Rollins - empfangen durch James Padgett am 24. September 1914, Washington, DC, USA.
 

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Die Liebe des Vaters zu Herrn Padgett wird ihm bei seinen materiellen Problemen helfen
+### Die Liebe des Vaters zu Herrn Padgett wird ihm bei seinen materiellen Problemen helfen
 
 Ann Rollins - empfangen durch James Padgett am 5. Dezember 1914, Washington, DC, USA.
 

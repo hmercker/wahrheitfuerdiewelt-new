@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Jesus befaehigt Padgett in einen geistlichen Zustand zu kommen um die wichtigen Wahrheiten zu schrieben
+### Jesus befaehigt Padgett in einen geistlichen Zustand zu kommen um die wichtigen Wahrheiten zu schrieben
 
 Jesus - empfangen durch James Padgett am 5. Oktober 1914, Washington, DC, USA.
 

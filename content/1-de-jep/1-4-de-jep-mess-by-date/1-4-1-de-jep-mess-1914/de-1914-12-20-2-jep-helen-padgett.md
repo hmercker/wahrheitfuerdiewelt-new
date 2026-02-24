@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Richter Syrick und Oberst Woods glauben beide an den Spiritualismus
+### Richter Syrick und Oberst Woods glauben beide an den Spiritualismus
 
 Helen Padgett - empfangen durch James Padgett am 20. Dezember 1914, Washington, DC, USA.
 

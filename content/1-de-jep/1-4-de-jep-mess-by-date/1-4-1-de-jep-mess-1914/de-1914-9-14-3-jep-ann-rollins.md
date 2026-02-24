@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Auch Padgett's Grossmutter versichert ihm dass es wirklich Jesus der Bibel war der geschrieben hat
+### Auch Padgett's Grossmutter versichert ihm dass es wirklich Jesus der Bibel war der geschrieben hat
 
 Ann Rollins - empfangen durch James Padgett am 14. September 1914, Washington, DC, USA.
 

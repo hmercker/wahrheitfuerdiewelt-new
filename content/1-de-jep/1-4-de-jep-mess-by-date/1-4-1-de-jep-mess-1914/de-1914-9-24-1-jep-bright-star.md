@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Padgett stellte Fragen in seinem Gespräch mit Bright Star
+### Padgett stellte Fragen in seinem Gespräch mit Bright Star
 
 Bright Star - empfangen durch James Padgett am 24. September 1914, Washington, DC, USA.
 

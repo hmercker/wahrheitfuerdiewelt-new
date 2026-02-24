@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Padgett ist zu sehr mit seinen geschäftlichen Angelegenheiten beschäftigt
+### Padgett ist zu sehr mit seinen geschäftlichen Angelegenheiten beschäftigt
 
 Helen Padgett - empfangen durch James Padgett am 3. November 1914, Washington, DC, USA.
 

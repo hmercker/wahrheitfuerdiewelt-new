@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Jesus wählt Dr. Stone
+### Jesus wählt Dr. Stone
 
 Jesus - empfangen durch James Padgett am 14. Oktober 1914, Washington, DC, USA.
 

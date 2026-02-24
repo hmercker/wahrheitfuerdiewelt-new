@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Ann Rollin's Bestätigung das Jesus schrieb
+### Ann Rollin's Bestätigung das Jesus schrieb
 
 Ann Rollins - empfangen durch James Padgett am 25. Dezember 1914, Washington, DC, USA.
 

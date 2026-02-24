@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Jesus ist während der Feiertage nicht sehr glücklich und entfernt sich von der Erdebene in die höchsten Himmel
+### Jesus ist während der Feiertage nicht sehr glücklich und entfernt sich von der Erdebene in die höchsten Himmel
 
 Helen Padgett - empfangen durch James Padgett am 25. Dezember 1914, Washington, DC, USA.
 

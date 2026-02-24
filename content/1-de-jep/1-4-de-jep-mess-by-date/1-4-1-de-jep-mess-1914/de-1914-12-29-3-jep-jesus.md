@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Ein kurzer Gruss von Jesus
+### Ein kurzer Gruss von Jesus
 
 Jesus - empfangen durch James Padgett am 29. Dezember 1914, Washington, DC, USA.
 

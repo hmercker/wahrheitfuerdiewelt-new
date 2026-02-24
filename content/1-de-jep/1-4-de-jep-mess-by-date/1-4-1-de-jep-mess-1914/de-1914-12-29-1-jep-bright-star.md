@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Das automatische Schreiben ist der unabhängigen Stimme überlegen
+### Das automatische Schreiben ist der unabhängigen Stimme überlegen
 
 Bright Star - empfangen durch James Padgett am 29. Dezember 1914, Washington, DC, USA.
 

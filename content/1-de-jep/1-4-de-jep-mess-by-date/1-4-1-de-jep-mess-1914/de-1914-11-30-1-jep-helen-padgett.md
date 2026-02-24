@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Helen beschreibt ihre Heimat in der dritten Sphäre
+### Helen beschreibt ihre Heimat in der dritten Sphäre
 
 Helen Padgett - empfangen durch James Padgett am 30. November 1914, Washington, DC, USA.
 

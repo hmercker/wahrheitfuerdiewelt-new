@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Eine frühe persönliche Botschaft von Helen
+### Eine frühe persönliche Botschaft von Helen
 
 Helen Padgett - empfangen durch James Padgett am 5. Dezember 1914, Washington, DC, USA.
 

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Helen's Bestätigung
+### Helen's Bestätigung
 
 Helen Padgett - empfangen durch James Padgett am 12. Dezember 1914, Washington, DC, USA.
 

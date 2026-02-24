@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Padgett's Vater erzählt von Aufzeichnungen von Seelenverwandten
+### Padgett's Vater erzählt von Aufzeichnungen von Seelenverwandten
 
 John H Padgett - empfangen durch James Padgett am 31. Dezember 1914, Washington, DC, USA.
 

@@ -22,7 +22,7 @@ Ann Rollins | [Eine Ermutigung von Ann Rollins, Padgett's Großmutter](/1-de-jep
 Helen Padgett | [Helen versichert Padgett dass es wirklich Jesus war der Samstag geschrieben hat](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-9-14-1-jep-helen-padgett/) | 14. September 1914
 John H Padgett | [Padgetts Vater bestätigt dass es Jesus war der am Samstag geschrieben hat](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-9-14-2-jep-john-h-padgett/) | 14. September 1914
 Ann Rollins | [Auch Padgett's Grossmutter versichert ihm dass es wirklich Jesus der Bibel war der geschrieben hat](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-9-14-3-jep-ann-rollins/) | 14. September 1914
-Ann Rollins | [Die Neue Geburt ist das Fließen des Geistes Gottes in die Seele ](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-9-15-1-jep-ann-rollins/) | 15. September 1914
+Ann Rollins | [Die Neue Geburt ist das Fließen des Geistes Gottes in die Seele](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-9-15-1-jep-ann-rollins/) | 15. September 1914
 Ann Padgett | [Padgett's Mutter spricht über ihren Seelenpartner und die Liebe, die sie für ihren Sohn hat](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-9-15-2-jep-ann-padgett/) | 15. September 1914
 Bright Star | [Padgett stellte Fragen in seinem Gespräch mit Bright Star](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-9-24-1-jep-bright-star/) | 24. September 1914
 Jesus | [Jesus ist nicht Gott sondern wurde vom Vater gesandt um die Menschen zu seiner Gunst und Liebe zu führen](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-9-24-2-jep-jesus/) | 24. September 1914
@@ -55,7 +55,7 @@ Helen Padgett | [Herr Riddle hat angefangen zu beten, wie Herr Padgett es ihm vo
 Jesus | [Erster Versuch Jesu, eine Botschaft zu übermitteln - Padgett war nicht in der Lage sie vollständig zu erhalten](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-12-17-1-jep-jesus/) | 17. Dezember 1914
 Ann Rollins | [Die Großmutter Padgett's bestätigt, dass es Jesus war, der gerade geschrieben hat](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-12-17-2-jep-ann-rollins/) | 17. Dezember 1914
 Joseph Salyards | [Professor Salyards beschreibt seinen Eintritt in die geistige Welt und seinen spirituellen Fortschritt](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-12-18-1-jep-joseph-salyards/) | 18. Dezember 1914
-Helen Padgett | [Helen versichert, dass Prof. Salyards  geschrieben hat](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-12-18-2-jep-helen-padgett/) | 18. Dezember 1914
+Helen Padgett | [Helen versichert, dass Prof. Salyards geschrieben hat](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-12-18-2-jep-helen-padgett/) | 18. Dezember 1914
 Ann Padgett | [Padgett's Vater hat seinen Seelenpartner gefunden](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-12-20-1-jep-ann-padgett/) | 20. Dezember 1914
 Helen Padgett | [Richter Syrick und Oberst Woods glauben beide an den Spiritualismus](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-12-20-2-jep-helen-padgett/) | 20. Dezember 1914
 Helen Padgett | [Jesus ist während der Feiertage nicht sehr glücklich und entfernt sich von der Erdebene in die höchsten Himmel](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-12-25-1-jep-helen-padgett/) | 25. Dezember 1914

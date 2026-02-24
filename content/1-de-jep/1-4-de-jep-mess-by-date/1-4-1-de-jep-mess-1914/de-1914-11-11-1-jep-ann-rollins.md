@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Antworten auf viele Fragen über den Heiligen Geist und den Himmlischen Vater
+### Antworten auf viele Fragen über den Heiligen Geist und den Himmlischen Vater
 
 Ann Rollins - empfangen durch James Padgett am 11. November 1914, Washington, DC, USA.
 

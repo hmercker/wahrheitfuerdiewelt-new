@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Erste erhaltene Botschaft von Herrn Padgett's Frau Helen
+### Erste erhaltene Botschaft von Herrn Padgett's Frau Helen
 
 Helen Padgett - empfangen durch James Padgett am 31. Mai 1914, Washington, DC, USA.
 

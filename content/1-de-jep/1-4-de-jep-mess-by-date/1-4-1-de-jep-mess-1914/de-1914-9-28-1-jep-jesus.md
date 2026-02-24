@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Jesus erklärt, dass er nicht vom Heiligen Geist gezeugt wurde
+### Jesus erklärt, dass er nicht vom Heiligen Geist gezeugt wurde
 
 Jesus - empfangen durch James Padgett am 28. September 1914, Washington, DC, USA.
 

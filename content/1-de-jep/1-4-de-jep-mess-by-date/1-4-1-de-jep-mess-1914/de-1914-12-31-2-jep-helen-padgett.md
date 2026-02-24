@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Padgett hilft seinen beiden Freunden zum Licht des Vaters zu kommen
+### Padgett hilft seinen beiden Freunden zum Licht des Vaters zu kommen
 
 Helen Padgett - empfangen durch James Padgett am 31. Dezember 1914, Washington, DC, USA.
 

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Großmutter von Padgett  beschreibt ihr Zuhause in der siebten Sphäre
+### Großmutter von Padgett  beschreibt ihr Zuhause in der siebten Sphäre
 
 Ann Rollins - empfangen durch James Padgett am 28. September 1914, Washington, DC, USA.
 

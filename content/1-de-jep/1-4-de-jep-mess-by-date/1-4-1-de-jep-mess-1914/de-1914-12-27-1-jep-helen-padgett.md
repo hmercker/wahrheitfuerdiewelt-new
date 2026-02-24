@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Helen rät Padgett, all seine Gedanken Gott und Seiner Liebe zu schenken
+### Helen rät Padgett, all seine Gedanken Gott und Seiner Liebe zu schenken
 
 Helen Padgett - empfangen durch James Padgett am 27. Dezember 1914, Washington, DC, USA.
 

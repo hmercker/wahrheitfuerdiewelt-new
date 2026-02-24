@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Helen berichtet über ihre spirituelle Entwicklung zur Dritten Sphäre hin
+### Helen berichtet über ihre spirituelle Entwicklung zur Dritten Sphäre hin
 
 Helen Padgett - empfangen durch James Padgett am 16. November 1914, Washington, DC, USA.
 

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Padgett hat seinen alten Freund beraten, wie er die Liebe des Vaters erlangen kann
+### Padgett hat seinen alten Freund beraten, wie er die Liebe des Vaters erlangen kann
 
 AG Riddle - empfangen durch James Padgett am 27. Dezember 1914, Washington, DC, USA.
 

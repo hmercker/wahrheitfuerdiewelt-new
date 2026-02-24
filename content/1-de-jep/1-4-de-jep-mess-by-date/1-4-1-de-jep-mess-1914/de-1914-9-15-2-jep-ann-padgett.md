@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Padgett's Mutter spricht über ihren Seelenpartner und die Liebe, die sie für ihren Sohn hat
+### Padgett's Mutter spricht über ihren Seelenpartner und die Liebe, die sie für ihren Sohn hat
 
 Ann Padgett - empfangen durch James Padgett am 15. September 1914, Washington, DC, USA.
 

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Padgetts Vater bestätigt dass es Jesus war der am Samstag geschrieben hat
+### Padgetts Vater bestätigt dass es Jesus war der am Samstag geschrieben hat
 
 John H Padgett - empfangen durch James Padgett am 14. September 1914, Washington, DC, USA.
 

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Frau Mary Baker Eddy erkennt den Fehler in ihrer Lehren
+### Frau Mary Baker Eddy erkennt den Fehler in ihrer Lehren
 
 Ann Padgett - empfangen durch James Padgett am 5. Dezember 1914, Washington, DC, USA.
 

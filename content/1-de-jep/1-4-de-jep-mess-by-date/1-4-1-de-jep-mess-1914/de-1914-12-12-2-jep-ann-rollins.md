@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Die Wichtigkeit die Göttliche Liebe in der Seele zu erhalten
+### Die Wichtigkeit die Göttliche Liebe in der Seele zu erhalten
 
 Ann Rollins - empfangen durch James Padgett am 12. Dezember 1914, Washington, DC, USA.
 

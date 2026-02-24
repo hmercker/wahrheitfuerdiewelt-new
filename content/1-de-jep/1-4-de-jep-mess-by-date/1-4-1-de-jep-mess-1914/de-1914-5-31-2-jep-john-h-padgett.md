@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# John H Padgett stimmt dem Vorschlag zu, eine Gruppe zu gründen um seinen Sohn zu schützen
+### John H Padgett stimmt dem Vorschlag zu, eine Gruppe zu gründen um seinen Sohn zu schützen
 
 John H Padgett - empfangen durch James Padgett am 31. Mai 1914, Washington, DC, USA.
 

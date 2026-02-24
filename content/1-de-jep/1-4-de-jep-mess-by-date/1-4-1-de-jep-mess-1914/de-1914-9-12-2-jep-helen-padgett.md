@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Helen bestätigt, dass Jesus geschrieben hat
+### Helen bestätigt, dass Jesus geschrieben hat
 
 Helen Padgett - empfangen durch James Padgett am 12. September 1914, Washington, DC, USA.
 

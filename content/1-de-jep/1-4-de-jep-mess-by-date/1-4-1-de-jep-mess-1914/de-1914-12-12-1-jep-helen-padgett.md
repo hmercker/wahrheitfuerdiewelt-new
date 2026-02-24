@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Eine kurze Nachricht von Helen
+### Eine kurze Nachricht von Helen
 
 Helen Padgett - empfangen durch James Padgett am 12. Dezember 1914, Washington, DC, USA.
 

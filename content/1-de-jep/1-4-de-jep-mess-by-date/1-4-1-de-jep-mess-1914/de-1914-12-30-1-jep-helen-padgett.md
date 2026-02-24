@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Erste Nachricht von Helen für Dr. Stone
+### Erste Nachricht von Helen für Dr. Stone
 
 Helen Padgett - empfangen durch James Padgett am 30. Dezember 1914, Washington, DC, USA.
 

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-# Helen versichert Padgett dass es wirklich Jesus war der Samstag geschrieben hat
+### Helen versichert Padgett dass es wirklich Jesus war der Samstag geschrieben hat
 
 Helen Padgett - empfangen durch James Padgett am 14. September 1914, Washington, DC, USA.
 
