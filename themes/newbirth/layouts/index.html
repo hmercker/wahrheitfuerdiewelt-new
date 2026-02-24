@@ -3,19 +3,19 @@
 {{ define "body_classes" }}page-home{{ end }}
 
 {{ define "meta_tags" }}
-    <meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
-    <meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
-    <meta property="og:type" content="{{ .Site.Params.homepage_meta_tags.meta_og_type }}" />
-    <meta property="og:url" content="{{ .Site.Params.homepage_meta_tags.meta_og_url }}" />
-    <meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image }}" />
-    <meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_og_description }}" />
-    <meta property="og:site_name" content="{{ .Site.Params.homepage_meta_tags.meta_og_site_name }}" />
-{{ end }}
+<meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
+<meta property="og:title" content="{{ .Site.Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="{{ 'images/social.png' | absURL }}" />
+<meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+{{ end }}   
 
 {{ define "banner" }}
 <!-- Banner -->
 <div id="banner">
-    <img class="img-fluid" src="{{ .Site.BaseURL }}/images/logo-banner.jpg" width="940" height="290" alt="A Spiritual Journey" />
+    <img class="img-fluid" src="{{ 'images/logo-banner.jpg' | absURL }}">
 </div>
 <!-- /Banner -->
 {{ end }}
