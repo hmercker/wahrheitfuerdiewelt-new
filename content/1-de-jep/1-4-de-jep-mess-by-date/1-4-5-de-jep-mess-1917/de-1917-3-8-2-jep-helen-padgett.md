@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen drückt Jakobus' Enttäuschung aus
 
-
+Helen Padgett - empfangen durch James Padgett am 8. März 1917, Washington, DC, USA.
 

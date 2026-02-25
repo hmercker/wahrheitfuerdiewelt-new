@@ -9,5 +9,5 @@ weight:
 ---
 ### Samuel beschreibt seine Erfahrung in der 6. Sphäre und seine Fortschritte im göttlichen Königreich
 
-
+Samuel - empfangen durch James Padgett am 5. August 1915, Washington, DC, USA.
 

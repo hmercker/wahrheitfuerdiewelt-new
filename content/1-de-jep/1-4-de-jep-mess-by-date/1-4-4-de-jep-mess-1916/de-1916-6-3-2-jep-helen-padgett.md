@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Josephus schrieb und kommentiert die Gleichheit der Geschlechter
 
-
+Helen Padgett - empfangen durch James Padgett am 3. Juni 1916, Washington, DC, USA.
 

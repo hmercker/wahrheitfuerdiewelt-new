@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes erklärt den Unterschied zwischen der natürlichen Liebe und der Göttlichen Liebe
 
-
+Johannes - empfangen durch James Padgett am 19. Februar 1919, Washington, DC, USA.
 

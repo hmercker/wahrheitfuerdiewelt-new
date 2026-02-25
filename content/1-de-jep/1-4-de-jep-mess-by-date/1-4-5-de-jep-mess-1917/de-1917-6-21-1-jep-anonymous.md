@@ -9,5 +9,5 @@ weight:
 ---
 ### Warte nur, bis ich komme. Des Ewigen Juden Erfahrung
 
-
+Unbekannt - empfangen durch James Padgett am 21. Juni 1917, Washington, DC, USA.
 

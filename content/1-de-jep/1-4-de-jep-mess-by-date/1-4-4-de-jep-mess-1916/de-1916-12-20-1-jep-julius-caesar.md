@@ -9,5 +9,5 @@ weight:
 ---
 ### Cäsar ist Padgett dankbar für sein Gebet und die Bekanntmachung mit seiner Großmutter und schreitet nun ins Licht
 
-
+Julius Cäsar - empfangen durch James Padgett am 20. Dezember 1916, Washington, DC, USA.
 

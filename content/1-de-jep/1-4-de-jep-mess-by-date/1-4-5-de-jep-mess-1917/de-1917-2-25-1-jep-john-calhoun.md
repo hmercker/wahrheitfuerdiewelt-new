@@ -9,5 +9,5 @@ weight:
 ---
 ### John C. Calhoun arbeitet immer noch für sein Land
 
-
+John Calhoun - empfangen durch James Padgett am 25. Februar 1917, Washington, DC, USA.
 

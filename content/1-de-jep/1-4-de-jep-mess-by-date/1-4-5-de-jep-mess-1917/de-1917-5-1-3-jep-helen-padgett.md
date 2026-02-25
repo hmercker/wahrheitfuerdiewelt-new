@@ -9,5 +9,5 @@ weight:
 ---
 ### Frau Padgett bestätigt, dass Julius Cäsar schrieb
 
-
+Helen Padgett - empfangen durch James Padgett am 1. Mai 1917, Washington, DC, USA.
 

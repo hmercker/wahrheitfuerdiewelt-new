@@ -9,5 +9,5 @@ weight:
 ---
 ### Saul versichert, dass Maria, die Mutter Jesu, geschrieben hat
 
-
+Saul - empfangen durch James Padgett am 15. April 1916, Washington, DC, USA.
 

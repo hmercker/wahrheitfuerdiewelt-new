@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus bestätigt und betont was Judas geschrieben hat
 
-
+Jesus - empfangen durch James Padgett am 21. März 1922, Washington, DC, USA.
 

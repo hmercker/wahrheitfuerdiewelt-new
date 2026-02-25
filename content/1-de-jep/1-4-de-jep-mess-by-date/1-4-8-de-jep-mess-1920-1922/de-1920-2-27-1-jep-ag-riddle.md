@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Himmel ist sowohl ein Ort, als auch ein Zustand der Seele
 
-
+AG Riddle - empfangen durch James Padgett am 27. Februar 1920, Washington, DC, USA.
 

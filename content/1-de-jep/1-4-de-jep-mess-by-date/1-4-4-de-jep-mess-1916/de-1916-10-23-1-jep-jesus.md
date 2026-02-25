@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus bittet Padgett, sich auf die Übertragung der Botschaften zu fokussieren
 
-
+Jesus - empfangen durch James Padgett am 23. Oktober 1916, Washington, DC, USA.
 

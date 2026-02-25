@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein spirituelles Wesen, das junge Mädchen in die Irre führte
 
-
+Virginia Compton - empfangen durch James Padgett am 13. September 1916, Washington, DC, USA.
 

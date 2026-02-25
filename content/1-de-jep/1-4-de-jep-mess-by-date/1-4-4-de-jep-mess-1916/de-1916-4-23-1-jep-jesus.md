@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus ist weder Gott, noch gibt es die sogenannte Dreifaltigkeit
 
-
+Jesus - empfangen durch James Padgett am 23. April 1916, Washington, DC, USA.
 

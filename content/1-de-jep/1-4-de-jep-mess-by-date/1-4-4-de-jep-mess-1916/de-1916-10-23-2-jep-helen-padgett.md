@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen sagt Herrn Padgett, dass er die Macht hat, die dunklen Wesen daran zu hindern, zu schreiben
 
-
+Helen Padgett - empfangen durch James Padgett am 23. Oktober 1916, Washington, DC, USA.
 

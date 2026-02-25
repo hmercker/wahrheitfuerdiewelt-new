@@ -9,5 +9,5 @@ weight:
 ---
 ### Die eigentliche Wahrheit des Lebens auf Erden und was es für die Sterblichen bedeutet
 
-
+Jesus - empfangen durch James Padgett am 25. Mai 1915, Washington, DC, USA.
 

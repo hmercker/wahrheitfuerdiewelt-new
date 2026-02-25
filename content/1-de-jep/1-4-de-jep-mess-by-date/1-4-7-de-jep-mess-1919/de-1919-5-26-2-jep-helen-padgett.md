@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Francis Bacon über die Kontinuität des Lebens nach dem Tod schrieb
 
-
+Helen Padgett - empfangen durch James Padgett am 26. Mai 1919, Washington, DC, USA.
 

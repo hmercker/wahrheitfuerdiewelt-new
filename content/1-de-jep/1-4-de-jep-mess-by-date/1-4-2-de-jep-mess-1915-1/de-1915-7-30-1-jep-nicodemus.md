@@ -9,5 +9,5 @@ weight:
 ---
 ### Über die Bedeutung der Neuen Geburt
 
-
+Nikodemus - empfangen durch James Padgett am 30. Juli 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus berichtigt die Beschreibung des Wesens Gottes
 
-
+Jesus - empfangen durch James Padgett am 08. April 1919, Washington, DC, USA.
 

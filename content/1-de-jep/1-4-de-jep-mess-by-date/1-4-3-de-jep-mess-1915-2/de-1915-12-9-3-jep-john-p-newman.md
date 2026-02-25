@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein Pastor möchte seiner Gemeinde sagen, was er gelernt hat über die Wahrheit der Seele
 
-
+John P Newman - empfangen durch James Padgett am 9. Dezember 1915, Washington, DC, USA.
 

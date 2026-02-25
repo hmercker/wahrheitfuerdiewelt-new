@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary ist so glücklich, dass Dr. Stone jetzt ein Foto von ihr hat
 
-
+Mary Kennedy - empfangen durch James Padgett am 24. März 1920, Washington, DC, USA.
 

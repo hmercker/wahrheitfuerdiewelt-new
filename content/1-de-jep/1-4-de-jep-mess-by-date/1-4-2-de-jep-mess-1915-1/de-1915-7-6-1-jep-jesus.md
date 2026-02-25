@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus bestätigt, dass Henry Ward Beecher geschrieben hat
 
-
+Jesus - empfangen durch James Padgett am 6. Juli 1915, Washington, DC, USA.
 

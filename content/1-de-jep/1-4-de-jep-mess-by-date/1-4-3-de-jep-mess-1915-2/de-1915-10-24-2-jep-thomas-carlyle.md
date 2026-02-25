@@ -9,5 +9,5 @@ weight:
 ---
 ### Thomas Carlyle kommentiert Lukas' Schreiben: Dematerialisierung des Körpers Jesu
 
-
+Thomas Carlyle - empfangen durch James Padgett am 24. Oktober 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass der Schreiber ein sehr schönes spirituelles Wesen ist
 
-
+Helen Padgett - empfangen durch James Padgett am 18. April 1919, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Laura Burroughs schreibt, sie sei so dankbar, die Wahrheit zu kennen
 
-
+Laura Burroughs - empfangen durch James Padgett am 18. April 1916, Washington, DC, USA.
 

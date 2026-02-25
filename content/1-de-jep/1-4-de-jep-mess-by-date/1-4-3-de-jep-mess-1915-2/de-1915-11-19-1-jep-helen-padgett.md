@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen erklärt den Sabbat
 
-
+Helen Padgett - empfangen durch James Padgett am 19. November 1915, Washington, DC, USA.
 

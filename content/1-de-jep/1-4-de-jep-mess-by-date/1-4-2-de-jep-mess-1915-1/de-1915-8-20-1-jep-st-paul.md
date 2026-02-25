@@ -9,5 +9,5 @@ weight:
 ---
 ### Gott war nie ein Gott des Zorns, sondern immer der Liebe
 
-
+Paulus - empfangen durch James Padgett am 20. August 1915, Washington, DC, USA.
 

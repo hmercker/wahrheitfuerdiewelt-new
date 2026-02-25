@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Vergleich des mohammedanischen und des christlichen Himmels
 
-
+Seligman - empfangen durch James Padgett am 8. August 1915, Washington, DC, USA.
 

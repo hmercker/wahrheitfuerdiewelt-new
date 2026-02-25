@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes der Täufer drängt ihn, in der Verfassung zu sein, die himmlischen Botschaften zu empfangen
 
-
+Johannes der Täufer - empfangen durch James Padgett am 27. September 1917, Washington, DC, USA.
 

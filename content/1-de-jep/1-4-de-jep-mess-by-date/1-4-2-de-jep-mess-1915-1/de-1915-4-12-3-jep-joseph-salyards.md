@@ -9,5 +9,5 @@ weight:
 ---
 ### Professor Salyards schreibt über die großartige Arbeit die Herr Padgett leistet
 
-
+Joseph Salyards - empfangen durch James Padgett am 12. April 1915, Washington, DC, USA.
 

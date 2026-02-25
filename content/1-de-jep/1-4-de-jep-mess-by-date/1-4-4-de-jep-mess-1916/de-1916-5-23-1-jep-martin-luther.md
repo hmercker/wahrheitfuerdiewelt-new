@@ -9,5 +9,5 @@ weight:
 ---
 ### Luther beschreibt die Beziehung zwischen den Laien und den kirchlichen Amtsträgern zu seiner Zeit
 
-
+Martin Luther - empfangen durch James Padgett am 23. Mai 1916, Washington, DC, USA.
 

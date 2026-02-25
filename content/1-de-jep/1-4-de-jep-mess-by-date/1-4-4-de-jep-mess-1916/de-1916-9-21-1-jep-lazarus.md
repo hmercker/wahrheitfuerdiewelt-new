@@ -9,5 +9,5 @@ weight:
 ---
 ### Lazarus versichert, dass Herr Padgett von Jesus ausgewählt wurde, um diese Arbeit zu tun
 
-
+Lazarus - empfangen durch James Padgett am 21. September 1916, Washington, DC, USA.
 

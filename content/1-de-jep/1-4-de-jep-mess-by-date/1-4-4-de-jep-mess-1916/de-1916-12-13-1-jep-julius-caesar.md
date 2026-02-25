@@ -9,5 +9,5 @@ weight:
 ---
 ### Cäsar ist auf der Suche nach der Göttlichen Liebe; Licht bricht in seine Seele ein
 
-
+Julius Cäsar  - empfangen durch James Padgett am 13. Dezember 1916, Washington, DC, USA.
 

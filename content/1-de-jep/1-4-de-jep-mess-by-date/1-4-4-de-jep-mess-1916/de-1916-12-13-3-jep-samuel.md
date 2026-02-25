@@ -9,5 +9,5 @@ weight:
 ---
 ### Was verursacht in den Seelen der Menschen die Unruhe, die jetzt in der Welt herrscht?
 
-
+Samuel - empfangen durch James Padgett am 13. Dezember 1916, Washington, DC, USA.
 

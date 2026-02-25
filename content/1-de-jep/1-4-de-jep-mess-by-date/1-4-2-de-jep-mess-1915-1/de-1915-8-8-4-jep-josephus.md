@@ -9,5 +9,5 @@ weight:
 ---
 ### Josephus bekräftigt, dass Jesus ein wahrer Sohn Gottes ist, auf Erden lebte und gekreuzigt wurde
 
-
+Josephus - empfangen durch James Padgett am 8. August 1915, Washington, DC, USA.
 

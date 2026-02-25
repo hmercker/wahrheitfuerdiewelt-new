@@ -9,5 +9,5 @@ weight:
 ---
 ### Perfektion ist ein relativer Begriff
 
-
+Paulus - empfangen durch James Padgett am 31. August 1915, Washington, DC, USA.
 

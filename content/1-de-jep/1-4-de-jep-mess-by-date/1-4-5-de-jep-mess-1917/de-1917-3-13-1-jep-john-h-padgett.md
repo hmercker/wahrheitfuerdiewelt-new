@@ -9,5 +9,5 @@ weight:
 ---
 ### Padgett's Vater ist einer seiner Schutzengel
 
-
+John H Padgett - empfangen durch James Padgett am 13. März 1917, Washington, DC, USA.
 

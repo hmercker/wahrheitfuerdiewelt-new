@@ -9,5 +9,5 @@ weight:
 ---
 ### William Stone schrieb über die Erfahrungen seines Sohnes bei seiner ersten Reise in die spirituelle Welt, wo er seine Familie traf
 
-
+William Stone - empfangen durch James Padgett am 28. Dezember 1916, Washington, DC, USA.
 

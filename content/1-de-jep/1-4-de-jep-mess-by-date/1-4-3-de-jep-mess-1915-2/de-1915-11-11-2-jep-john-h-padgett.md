@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Vater von Padgett schreibt über den gegenwärtigen spirituellen Zustand seiner Freunde
 
-
+John H Padgett - empfangen durch James Padgett am 11. November 1915, Washington, DC, USA.
 

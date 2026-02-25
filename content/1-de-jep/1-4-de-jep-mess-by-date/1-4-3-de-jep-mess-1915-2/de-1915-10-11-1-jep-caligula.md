@@ -9,5 +9,5 @@ weight:
 ---
 ### Caligula, ein römischer Kaiser und Mörder von Christen, findet seinen Seelenpartner
 
-
+Caligula - empfangen durch James Padgett am 11. Oktober 1915, Washington, DC, USA.
 

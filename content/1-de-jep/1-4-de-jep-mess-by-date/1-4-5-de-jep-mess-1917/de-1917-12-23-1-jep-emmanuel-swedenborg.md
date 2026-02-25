@@ -9,5 +9,5 @@ weight:
 ---
 ### Swedenborg möchte nicht, dass Herr Padgett bei seiner Arbeit für das Königreich ein Fehlschlag wird, wie er es war
 
-
+Emmanuel Swedenborg - empfangen durch James Padgett am 23. Dezember 1917, Washington, DC, USA.
 

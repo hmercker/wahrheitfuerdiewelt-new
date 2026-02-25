@@ -9,5 +9,5 @@ weight:
 ---
 ### Paulus: Keine unverzeihliche Sünde
 
-
+Paulus - empfangen durch James Padgett am 31. Oktober 1915, Washington, DC, USA.
 

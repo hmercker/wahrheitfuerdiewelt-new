@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen erwähnt die Tatsache, dass Herr Padgett mit dem, worüber die Weisen schrieben, nicht zufrieden war
 
-
+Helen Padgett - empfangen durch James Padgett am 25. November 1918, Washington, DC, USA.
 

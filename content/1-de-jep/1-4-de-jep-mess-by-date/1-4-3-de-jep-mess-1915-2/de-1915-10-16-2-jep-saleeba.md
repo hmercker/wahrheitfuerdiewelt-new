@@ -9,5 +9,5 @@ weight:
 ---
 ### Saleeba berichtet über ihre Fortschritte durch das Erlangen der Göttlichen Liebe
 
-
+Saleeba - empfangen durch James Padgett am 16. Oktober 1915, Washington, DC, USA.
 

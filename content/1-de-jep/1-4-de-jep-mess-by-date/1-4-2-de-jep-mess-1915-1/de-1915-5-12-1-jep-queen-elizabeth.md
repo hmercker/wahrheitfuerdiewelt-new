@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine Königin bekennt sich zu den Verletzungen des Gesetzes der Wiedergutmachung 
 
-
+Königin Elisabeth I - empfangen durch James Padgett am 12. Mai 1915, Washington, DC, USA.
 

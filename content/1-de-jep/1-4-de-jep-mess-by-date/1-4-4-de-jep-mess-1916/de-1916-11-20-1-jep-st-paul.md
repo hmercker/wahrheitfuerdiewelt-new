@@ -9,5 +9,5 @@ weight:
 ---
 ### Paulus setzt seine Botschaft über die Hölle fort
 
-
+Paulus - empfangen durch James Padgett am 20. November 1916, Washington, DC, USA.
 

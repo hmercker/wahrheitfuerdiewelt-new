@@ -9,5 +9,5 @@ weight:
 ---
 ### Taggart ist dankbar für das, was Herr Padgett für ihn getan hat
 
-
+Hugh Taggart - empfangen durch James Padgett am 22. Juli 1915, Washington, DC, USA.
 

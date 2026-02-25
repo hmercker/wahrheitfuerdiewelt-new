@@ -9,5 +9,5 @@ weight:
 ---
 ### Lukas, der Schutzengel von Eugene Morgan, erzählt von der großen Arbeit, die er unter den dunklen katholischen spirituellen Wesen leistet
 
-
+Lukas - empfangen durch James Padgett am 14. Mai 1917, Washington, DC, USA.
 

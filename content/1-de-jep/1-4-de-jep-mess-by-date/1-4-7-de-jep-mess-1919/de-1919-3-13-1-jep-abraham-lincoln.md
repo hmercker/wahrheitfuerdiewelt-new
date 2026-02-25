@@ -9,5 +9,5 @@ weight:
 ---
 ### Wie der Mensch mit den Gesetzen, die ihn als erschaffenen Menschen regieren, in Einklang kommen kann, ohne die Göttliche Liebe zu erlangen
 
-
+Abraham Lincoln - empfangen durch James Padgett am 13. März 1919, Washington, DC, USA.
 

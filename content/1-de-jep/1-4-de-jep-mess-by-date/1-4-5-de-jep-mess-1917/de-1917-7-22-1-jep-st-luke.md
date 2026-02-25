@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein Diskurs über die Devolution und Evolution des Menschen
 
-
+Lukas - empfangen durch James Padgett am 22. Juli 1917, Washington, DC, USA.
 

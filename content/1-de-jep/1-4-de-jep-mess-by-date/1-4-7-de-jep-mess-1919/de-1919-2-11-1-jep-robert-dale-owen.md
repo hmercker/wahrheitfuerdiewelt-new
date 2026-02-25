@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein spirituelles Wesen spricht von Untersuchungen spiritueller Phänomene, über die er zu schreiben pflegte
 
-
+Robert Dale Owen - empfangen durch James Padgett am 11. Februar 1919, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Buddha lehrt nicht mehr die Reinkarnation
 
-
+Helen Padgett - empfangen durch James Padgett am 1. August 1916, Washington, DC, USA.
 

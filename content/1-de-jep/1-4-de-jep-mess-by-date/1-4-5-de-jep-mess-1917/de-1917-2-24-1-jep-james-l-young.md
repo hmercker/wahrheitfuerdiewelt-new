@@ -9,5 +9,5 @@ weight:
 ---
 ### Das Bestreben, aus der Dunkelheit herauszukommen
 
-
+James L Young - empfangen durch James Padgett am 24. Februar 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes schreibt, dass nur der Vater dir Seine Göttliche Liebe, durch ernsthaftes Gebet zu Ihm, geben kann
 
-
+Johannes - empfangen durch James Padgett am 15. April 1916, Washington, DC, USA.
 

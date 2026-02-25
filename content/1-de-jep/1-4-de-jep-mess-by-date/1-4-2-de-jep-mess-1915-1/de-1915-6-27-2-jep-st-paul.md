@@ -9,5 +9,5 @@ weight:
 ---
 ### Paulus erklärt seinen Dorn im Fleisch und seine Erfahrung auf dem Weg nach Damaskus
 
-
+Paulus - empfangen durch James Padgett am 27. Juni 1915, Washington, DC, USA.
 

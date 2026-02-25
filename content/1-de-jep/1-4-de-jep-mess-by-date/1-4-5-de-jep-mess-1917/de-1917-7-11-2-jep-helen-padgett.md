@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen ist bei mir, wenn Harry zu Besuch ins Büro kommt
 
-
+Helen Padgett - empfangen durch James Padgett am 11. Juli 1917, Washington, DC, USA.
 

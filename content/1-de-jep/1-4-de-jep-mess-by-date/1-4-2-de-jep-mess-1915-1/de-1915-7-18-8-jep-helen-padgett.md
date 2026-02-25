@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen ist sehr froh, dass großartige Wesen die Auswahl von Herrn Padgett bestätigt haben
 
-
+Helen Padgett - empfangen durch James Padgett am 18. Juli 1915, Washington, DC, USA.
 

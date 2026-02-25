@@ -9,5 +9,5 @@ weight:
 ---
 ### Wie man Sünde und Irrtum hinter sich lässt und welche Rolle Gott dabei spielt
 
-
+Jesus - empfangen durch James Padgett am 24. Dezember 1916, Washington, DC, USA.
 

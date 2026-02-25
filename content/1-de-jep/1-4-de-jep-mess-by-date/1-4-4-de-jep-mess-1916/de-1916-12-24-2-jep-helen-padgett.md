@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen Padgett kommentiert die Botschaft Jesu
 
-
+Helen Padgett - empfangen durch James Padgett am 24. Dezember 1916, Washington, DC, USA.
 

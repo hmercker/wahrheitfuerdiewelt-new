@@ -9,5 +9,5 @@ weight:
 ---
 ### Thomas B. Monroe kommentiert den Vortrag des Predigers
 
-
+Thomas Munroe - empfangen durch James Padgett am 08. April 1919, Washington, DC, USA.
 

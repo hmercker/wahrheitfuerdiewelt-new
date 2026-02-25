@@ -9,5 +9,5 @@ weight:
 ---
 ### Nita beschreibt ihre Erfahrungen beim Übergang in die spirituelle Welt
 
-
+Nita Padgett - empfangen durch James Padgett am 25. Mai 1920, Washington, DC, USA.
 

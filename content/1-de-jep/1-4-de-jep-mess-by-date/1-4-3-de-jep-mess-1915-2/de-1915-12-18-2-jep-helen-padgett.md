@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Herodes über die Höllen geschrieben hat
 
-
+Helen Padgett - empfangen durch James Padgett am 18. Dezember 1915, Washington, DC, USA.
 

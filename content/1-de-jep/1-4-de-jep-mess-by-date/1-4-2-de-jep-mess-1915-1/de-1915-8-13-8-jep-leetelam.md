@@ -9,5 +9,5 @@ weight:
 ---
 ### Er lebte vor 1000 Jahren in Tibet und schreibt über seinen Glauben als er auf der Erde war
 
-
+Leetelam - empfangen durch James Padgett am 13. August 1915, Washington, DC, USA.
 

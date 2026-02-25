@@ -9,5 +9,5 @@ weight:
 ---
 ### Lukas bestätigt, dass Swedenborg schrieb und dass es wichtig ist, dass Fehler in seinen Schriften korrigiert werden
 
-
+Lukas - empfangen durch James Padgett am 8. April 1917, Washington, DC, USA.
 

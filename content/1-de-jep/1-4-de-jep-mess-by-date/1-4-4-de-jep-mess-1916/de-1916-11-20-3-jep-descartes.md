@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein französischer Philosoph, der die Idee der Göttlichen Liebe ablehnt und auf Vernunft und intellektuelle Entwicklung setzt
 
-
+Descartes - empfangen durch James Padgett am 20. November 1916, Washington, DC, USA.
 

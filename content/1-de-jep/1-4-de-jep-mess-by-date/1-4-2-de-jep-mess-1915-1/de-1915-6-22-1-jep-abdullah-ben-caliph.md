@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein muslimischer Priester beschreibt das Leben der Sphäre in der er lebt
 
-
+Abdullah ben Kaliph - empfangen durch James Padgett am 22. Juni 1915, Washington, DC, USA.
 

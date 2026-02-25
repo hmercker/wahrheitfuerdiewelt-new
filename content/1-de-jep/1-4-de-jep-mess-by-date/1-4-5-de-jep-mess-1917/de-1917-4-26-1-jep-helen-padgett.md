@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine Botschaft von Helen Padgett
 
-
+Helen Padgett - empfangen durch James Padgett am 26. April 1917, Washington, DC, USA.
 

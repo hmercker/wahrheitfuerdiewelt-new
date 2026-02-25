@@ -9,5 +9,5 @@ weight:
 ---
 ### Gesetze der spirituellen Welt
 
-
+Joseph Salyards - empfangen durch James Padgett am 13. April 1915, Washington, DC, USA.
 

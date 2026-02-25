@@ -9,5 +9,5 @@ weight:
 ---
 ### Gott kann sehen und hören und wissen, was die Gedanken der Menschen sind
 
-
+Stephanus - empfangen durch James Padgett am 21. November 1915, Washington, DC, USA.
 

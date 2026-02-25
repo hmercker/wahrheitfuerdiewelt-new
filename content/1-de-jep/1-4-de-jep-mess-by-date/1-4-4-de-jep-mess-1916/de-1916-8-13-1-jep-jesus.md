@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus wird nie als "Prinz Michael" kommen, um sein Reich zu errichten
 
-
+Jesus - empfangen durch James Padgett am 13. August 1916, Washington, DC, USA.
 

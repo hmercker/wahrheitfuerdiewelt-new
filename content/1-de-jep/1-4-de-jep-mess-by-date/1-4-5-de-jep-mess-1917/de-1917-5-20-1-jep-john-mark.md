@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Wichtigkeit, dass die Wahrheit allen Seelen bekannt gemacht wird
 
-
+Markus - empfangen durch James Padgett am 20. Mai 1917, Washington, DC, USA.
 

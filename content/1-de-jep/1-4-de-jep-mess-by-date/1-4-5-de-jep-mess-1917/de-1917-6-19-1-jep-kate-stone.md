@@ -9,5 +9,5 @@ weight:
 ---
 ### Dr. Stone's Schwester erzählt ihm welche Arbeit sie in der Spirituellen Welt verrichtet
 
-
+Kate Stone - empfangen durch James Padgett am 19. Juni 1917, Washington, DC, USA.
 

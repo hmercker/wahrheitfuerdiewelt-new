@@ -9,5 +9,5 @@ weight:
 ---
 ### Richter Syrick berichtet über seine spirituelle Entwicklung und lebt mit seiner Seelenpartnerin in der fünften Sphäre
 
-
+Richter Syrick - empfangen durch James Padgett am 13. Mai 1917, Washington, DC, USA.
 

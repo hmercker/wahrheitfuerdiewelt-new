@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus ist erstaunt über die Fähigkeit von Herrn Padgett, die er mit den dunklen spirituellen Wesen hat
 
-
+Jesus - empfangen durch James Padgett am 7. April 1915, Washington, DC, USA.
 

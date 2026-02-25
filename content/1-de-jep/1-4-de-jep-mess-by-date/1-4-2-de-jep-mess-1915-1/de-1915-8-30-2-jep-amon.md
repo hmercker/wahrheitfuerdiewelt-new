@@ -9,5 +9,5 @@ weight:
 ---
 ### Amon, Mutter aller menschlichen Schöpfung, gibt ihre Erfahrung
 
-
+Amon - empfangen durch James Padgett am 30. August 1915, Washington, DC, USA.
 

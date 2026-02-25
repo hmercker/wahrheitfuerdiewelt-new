@@ -9,5 +9,5 @@ weight:
 ---
 ### Wie Gott Gebete beantwortet und über das Gesetz von Kommunikation und Verbindung
 
-
+Johannes - empfangen durch James Padgett am 2. November 1917, Washington, DC, USA.
 

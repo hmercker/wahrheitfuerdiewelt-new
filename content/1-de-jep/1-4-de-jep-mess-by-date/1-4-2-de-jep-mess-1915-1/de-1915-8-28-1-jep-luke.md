@@ -9,5 +9,5 @@ weight:
 ---
 ### Lukas war der erste der Material zusammenstellte
 
-
+Lukas - empfangen durch James Padgett am 28. August 1915, Washington, DC, USA.
 

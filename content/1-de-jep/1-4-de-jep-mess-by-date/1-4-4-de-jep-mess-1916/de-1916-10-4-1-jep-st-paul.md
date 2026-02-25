@@ -9,5 +9,5 @@ weight:
 ---
 ### Paulus: Was ist der wirkliche Körper, der zum Zeitpunkt des physischen Todes auferweckt wird?
 
-
+Paulus - empfangen durch James Padgett am 4. Oktober 1916, Washington, DC, USA.
 

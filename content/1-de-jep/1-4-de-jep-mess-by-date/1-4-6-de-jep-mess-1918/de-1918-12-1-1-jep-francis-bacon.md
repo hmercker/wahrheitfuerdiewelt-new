@@ -9,5 +9,5 @@ weight:
 ---
 ### Francis Bacon erklärt den Unterschied zwischen den spirituellen und materiellen Elementen
 
-
+Francis Bacon - empfangen durch James Padgett am 1. Dezember 1918, Washington, DC, USA.
 

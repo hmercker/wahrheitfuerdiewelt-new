@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine Nonne, ist keine Katholikin mehr, sondern eine durch den Vater erlöste Christin
 
-
+Camelia - empfangen durch James Padgett am 31. August 1915, Washington, DC, USA.
 

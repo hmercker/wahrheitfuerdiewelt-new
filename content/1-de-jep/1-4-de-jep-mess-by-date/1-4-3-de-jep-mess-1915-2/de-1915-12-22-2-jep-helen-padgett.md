@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen berichtet von ihrem neuen schönen Gewand als Ergebnis ihres spirituellen Fortschritts
 
-
+Helen Padgett - empfangen durch James Padgett am 22. Dezember 1915, Washington, DC, USA.
 

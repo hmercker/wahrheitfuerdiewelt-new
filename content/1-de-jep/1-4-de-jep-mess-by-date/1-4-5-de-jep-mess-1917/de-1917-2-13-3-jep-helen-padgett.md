@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bedauert, dass sie einem alten Freund nicht erlauben kann zu schreiben
 
-
+Helen Padgett - empfangen durch James Padgett am 13. Februar 1917, Washington, DC, USA.
 

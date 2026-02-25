@@ -9,5 +9,5 @@ weight:
 ---
 ### Padgett muss an Jesus als den Erlöser glauben, aber nicht als stellvertretendes Sühneopfer
 
-
+John Caroll - empfangen durch James Padgett am 8. Oktober 1915, Washington, DC, USA.
 

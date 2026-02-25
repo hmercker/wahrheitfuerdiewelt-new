@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein biblischer König, der jetzt ein himmlischer Engel ist
 
-
+Saul - empfangen durch James Padgett am 13. August 1915, Washington, DC, USA.
 

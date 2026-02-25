@@ -9,5 +9,5 @@ weight:
 ---
 ### Was ist die Bedeutung der göttlichen Natur, an der die Seele des Menschen teilhat, wenn diese Seele durch das Einströmen und den Besitz der göttlichen Liebe verwandelt wird?
 
-
+Stephanus - empfangen durch James Padgett am 13. November 1918, Washington, DC, USA.
 

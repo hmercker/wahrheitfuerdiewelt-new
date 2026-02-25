@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen schreibt eine Botschaft
 
-
+Helen Padgett - empfangen durch James Padgett am 13. Mai 1917, Washington, DC, USA.
 

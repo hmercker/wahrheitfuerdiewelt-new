@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus enthüllt, dass auch Padgetts Tochter medial begabt ist
 
-
+Jesus - empfangen durch James Padgett am 7. Mai 1916, Washington, DC, USA.
 

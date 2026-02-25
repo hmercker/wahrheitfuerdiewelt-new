@@ -9,5 +9,5 @@ weight:
 ---
 ### War Premierminister von Großbritannien. Hat tiefe Gefühle des Entsetzens über den tobenden Krieg
 
-
+William E Gladstone - empfangen durch James Padgett am 6. November 1916, Washington, DC, USA.
 

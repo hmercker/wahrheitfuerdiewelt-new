@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus tröstet Eugene Morgan 
 
-
+Jesus - empfangen durch James Padgett am 16. März 1917, Washington, DC, USA.
 

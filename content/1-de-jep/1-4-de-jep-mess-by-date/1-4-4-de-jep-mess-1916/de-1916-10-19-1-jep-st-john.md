@@ -9,5 +9,5 @@ weight:
 ---
 ### Was soll man tun, wenn man mit keiner der Kirchen zufrieden ist?
 
-
+Johannes - empfangen durch James Padgett am 19. Oktober 1916, Washington, DC, USA.
 

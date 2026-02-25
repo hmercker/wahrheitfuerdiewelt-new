@@ -9,5 +9,5 @@ weight:
 ---
 ### Weißer Adler und Arondah unterstützen Dr. Stone bei seiner Heilarbeit
 
-
+White Eagle - empfangen durch James Padgett am 18. April 1916, Washington, DC, USA.
 

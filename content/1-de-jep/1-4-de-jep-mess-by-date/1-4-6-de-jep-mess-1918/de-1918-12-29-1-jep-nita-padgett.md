@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Tochter von Herrn Padgett, Nitas zweiter Brief, konnte nicht der lange Brief sein, den sie schreiben wollte
 
-
+Nita Padgett - empfangen durch James Padgett am 29. Dezember 1918, Washington, DC, USA.
 

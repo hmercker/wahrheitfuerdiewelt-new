@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus bittet Padgett, ihm voll und ganz zu vertrauen
 
-
+Jesus - empfangen durch James Padgett am 27. Dezember 1915, Washington, DC, USA.
 

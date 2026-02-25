@@ -9,5 +9,5 @@ weight:
 ---
 ### Bestätigung, dass Jesus seine Herrlichkeit gezeigt hat
 
-
+AG Riddle - empfangen durch James Padgett am 2. Dezember 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Es ist die Liebe des Vaters, die rettet, und nicht Jesu Blut und Tod
 
-
+Jesus - empfangen durch James Padgett am 6. Mai 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### White Eagle (Weißer Adler) würde einem dunklen Wesen nicht erlauben zu schreiben
 
-
+White Eagle - empfangen durch James Padgett am 19. März 1916, Washington, DC, USA.
 

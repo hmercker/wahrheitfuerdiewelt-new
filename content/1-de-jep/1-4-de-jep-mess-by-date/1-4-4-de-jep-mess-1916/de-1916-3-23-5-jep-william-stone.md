@@ -9,5 +9,5 @@ weight:
 ---
 ### William Stone gibt einen Bericht über die Arbeit seines Sohnes 
 
-
+William Stone - empfangen durch James Padgett am 23. März 1916, Washington, DC, USA.
 

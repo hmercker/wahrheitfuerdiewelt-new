@@ -9,5 +9,5 @@ weight:
 ---
 ### In das Reich Gottes führt allein die Göttliche Liebe
 
-
+Ann Rollins - empfangen durch James Padgett am 28. Mai 1916, Washington, DC, USA.
 

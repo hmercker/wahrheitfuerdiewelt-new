@@ -9,5 +9,5 @@ weight:
 ---
 ### Große Wahrheiten des Vaters werden offenbart
 
-
+Daniel Webster - empfangen durch James Padgett am 9. Dezember 1915, Washington, DC, USA.
 

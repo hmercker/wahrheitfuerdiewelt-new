@@ -9,5 +9,5 @@ weight:
 ---
 ### Erstaunt über die wunderbare Herrlichkeit des Meisters
 
-
+White Eagle - empfangen durch James Padgett am 1. Oktober 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Forrest schreibt, dass er Fortschritte macht und in der Lage ist, das Licht und etwas Glück zu sehen
 
-
+Edwin Forrest - empfangen durch James Padgett am 10. März 1917, Washington, DC, USA.
 

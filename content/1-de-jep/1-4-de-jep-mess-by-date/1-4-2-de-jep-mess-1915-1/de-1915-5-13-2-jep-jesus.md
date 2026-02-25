@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus: die Beschreibung seines Aussehens von Ann Rollins ist korrekt
 
-
+Jesus - empfangen durch James Padgett am 13. Mai 1915, Washington, DC, USA.
 

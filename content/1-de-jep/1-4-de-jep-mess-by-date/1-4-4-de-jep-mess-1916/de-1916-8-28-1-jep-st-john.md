@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes nennt Gründe, warum im Neuen Testament Korrekturen vorgenommen werden müsse
 
-
+Johannes - empfangen durch James Padgett am 28. August 1916, Washington, DC, USA.
 

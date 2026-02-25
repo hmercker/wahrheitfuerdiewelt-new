@@ -9,5 +9,5 @@ weight:
 ---
 ### Anabalixis will wiederkommen um über den Kontinent Atlantis zu schreiben
 
-
+Anabalixis - empfangen durch James Padgett am 22. Juli 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Einsames spirituelles Wesen schreibt über ihren Glauben, als sie auf Erden war
 
-
+Lillian Summer - empfangen durch James Padgett am 6. Juni 1916, Washington, DC, USA.
 

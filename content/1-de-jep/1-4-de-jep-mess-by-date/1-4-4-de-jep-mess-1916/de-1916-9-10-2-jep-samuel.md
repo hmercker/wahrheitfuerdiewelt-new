@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Prophet Samuel beschreibt den Segen, den die Göttliche Liebe in sich birgt
 
-
+Samuel - empfangen durch James Padgett am 10. September 1916, Washington, DC, USA.
 

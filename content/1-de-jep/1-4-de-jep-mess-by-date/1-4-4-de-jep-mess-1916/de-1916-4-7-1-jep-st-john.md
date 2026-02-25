@@ -9,5 +9,5 @@ weight:
 ---
 ### Wahrheit, Wissen und Liebe. Wie man das Problem löst, was wahr ist und was nicht
 
-
+Johannes - empfangen durch James Padgett am 7. April 1916, Washington, DC, USA.
 

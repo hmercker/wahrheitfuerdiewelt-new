@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert die Predigt des Predigers
 
-
+Helen Padgett - empfangen durch James Padgett am 08. April 1919, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus bittet James Padgett erneut, seine Entwicklung zu befördern
 
-
+Jesus - empfangen durch James Padgett am 07. März 1920, Washington, DC, USA.
 

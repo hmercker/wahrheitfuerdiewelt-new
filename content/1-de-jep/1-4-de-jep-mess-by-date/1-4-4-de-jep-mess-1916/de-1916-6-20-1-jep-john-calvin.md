@@ -9,5 +9,5 @@ weight:
 ---
 ### John Calvin interessierte sich für die Arbeit und die Mittel, mit denen alle Menschen die Göttliche Liebe empfangen können
 
-
+John Calvin - empfangen durch James Padgett am 20. Juni 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus weist auf ein spirituelles Wesen hin, das behauptet seine Seele verloren haben
 
-
+Jesus - empfangen durch James Padgett am 3. April 1915, Washington, DC, USA.
 

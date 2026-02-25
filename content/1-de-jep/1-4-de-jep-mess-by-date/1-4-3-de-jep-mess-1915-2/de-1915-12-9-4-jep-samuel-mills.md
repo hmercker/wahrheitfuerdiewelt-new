@@ -9,5 +9,5 @@ weight:
 ---
 ### Mills lernt die spirituellen Gesetze nach denen er lebt
 
-
+Samuel Mills - empfangen durch James Padgett am 9. Dezember 1915, Washington, DC, USA.
 

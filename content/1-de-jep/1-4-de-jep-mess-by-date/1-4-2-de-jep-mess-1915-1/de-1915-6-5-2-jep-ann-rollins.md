@@ -9,5 +9,5 @@ weight:
 ---
 ### Ann Rollins beschreibt die verschiedenen Sphären der spirituellen Welt
 
-
+Ann Rollins - empfangen durch James Padgett am 5. Juni 1915, Washington, DC, USA.
 

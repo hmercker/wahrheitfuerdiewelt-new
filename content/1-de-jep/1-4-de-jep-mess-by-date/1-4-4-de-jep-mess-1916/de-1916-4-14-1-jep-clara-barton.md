@@ -9,5 +9,5 @@ weight:
 ---
 ### Gründerin des Roten Kreuzes, befindet sich in der Erdenebene und interessiert sich nicht allzu sehr für den spirituellen Fortschritt
 
-
+Clara Barton - empfangen durch James Padgett am 14. April 1916, Washington, DC, USA.
 

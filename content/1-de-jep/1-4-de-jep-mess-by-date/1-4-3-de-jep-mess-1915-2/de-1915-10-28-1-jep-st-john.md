@@ -9,5 +9,5 @@ weight:
 ---
 ### Rosebud, die sich zu Padgett hingezogen fühlte, kam mit ihm nach Hause
 
-
+Johannes - empfangen durch James Padgett am 28. Oktober 1915, Washington, DC, USA.
 

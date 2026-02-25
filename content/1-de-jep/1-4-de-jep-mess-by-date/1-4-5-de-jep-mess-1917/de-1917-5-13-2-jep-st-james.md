@@ -9,5 +9,5 @@ weight:
 ---
 ### Jakobus freut sich über die Fortschritte von Dr Stone und möchte, dass er ihm vertraut
 
-
+Jakobus - empfangen durch James Padgett am 13. Mai 1917, Washington, DC, USA.
 

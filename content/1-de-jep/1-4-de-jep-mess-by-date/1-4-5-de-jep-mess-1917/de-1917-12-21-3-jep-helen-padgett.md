@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen ist froh, dass der Richter geschrieben hat
 
-
+Helen Padgett - empfangen durch James Padgett am 21. Dezember 1917, Washington, DC, USA.
 

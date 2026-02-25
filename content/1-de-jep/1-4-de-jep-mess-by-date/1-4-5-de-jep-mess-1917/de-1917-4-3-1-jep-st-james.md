@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Weisheit, mit der Jesus wirkte, wurde ihm direkt vom Vater geschenkt
 
-
+Jakobus - empfangen durch James Padgett am 3. April 1917, Washington, DC, USA.
 

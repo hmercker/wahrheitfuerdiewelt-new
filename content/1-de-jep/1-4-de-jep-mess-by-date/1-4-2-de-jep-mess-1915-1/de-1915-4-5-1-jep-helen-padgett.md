@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bekräftigt, dass dunklen spirituellen Wesen geholfen wurde
 
-
+Helen Padgett - empfangen durch James Padgett am 5. April 1915, Washington, DC, USA.
 

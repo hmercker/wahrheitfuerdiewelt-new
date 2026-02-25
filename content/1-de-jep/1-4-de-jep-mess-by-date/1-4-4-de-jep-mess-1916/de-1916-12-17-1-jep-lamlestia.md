@@ -9,5 +9,5 @@ weight:
 ---
 ### Lamlestia (ein altes spirituelles Wesen) diskutiert über Reinkarnation und Theosophie
 
-
+Lamlestia - empfangen durch James Padgett am 17. Dezember 1916, Washington, DC, USA.
 

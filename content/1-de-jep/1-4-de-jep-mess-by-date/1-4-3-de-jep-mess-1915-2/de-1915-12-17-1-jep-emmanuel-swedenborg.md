@@ -9,5 +9,5 @@ weight:
 ---
 ### Swedenborg schreibt über die Höllen
 
-
+Emmanuel Swedenborg - empfangen durch James Padgett am 17. Dezember 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Salaalida, ein Muslim, der geholfen hat Jerusalem vor den Christen zu verteidigen
 
-
+Salaalida - empfangen durch James Padgett am 12. August 1915, Washington, DC, USA.
 

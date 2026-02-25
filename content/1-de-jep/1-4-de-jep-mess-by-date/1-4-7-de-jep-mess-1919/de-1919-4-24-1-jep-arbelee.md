@@ -9,5 +9,5 @@ weight:
 ---
 ### Vater in der spirituellen Welt schreibt an seinen kranken Sohn, Dr. Arbelee, über sein Leben dort
 
-
+Arbelee - empfangen durch James Padgett am 24. April 1919, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Scott, ein alter Freund, sucht Hilfe
 
-
+Scott - empfangen durch James Padgett am 2. Februar 1920, Washington, DC, USA.
 

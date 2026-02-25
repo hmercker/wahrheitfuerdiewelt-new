@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Göttliche Liebe sollte nicht mit der natürlichen Liebe verwechselt werden
 
-
+Johannes - empfangen durch James Padgett am 8. Juli 1915, Washington, DC, USA.
 

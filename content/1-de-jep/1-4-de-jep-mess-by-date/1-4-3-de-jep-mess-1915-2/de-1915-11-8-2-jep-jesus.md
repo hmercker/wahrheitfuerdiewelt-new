@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus freut sich, dass Padgett seine Lehre annimmt
 
-
+Jesus - empfangen durch James Padgett am 8. November 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Alter Freund Padgett's äußert sich ebenfalls über die Seelenpartner-Liebe
 
-
+General Henkle - empfangen durch James Padgett am 23. März 1916, Washington, DC, USA.
 

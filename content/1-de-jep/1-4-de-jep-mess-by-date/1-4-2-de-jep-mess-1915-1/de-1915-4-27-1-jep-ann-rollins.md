@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Großmutter von Herrn Padgett beschreibt ihre Heimat in der zweiten Göttlichen Himmels-Sphäre
 
-
+Ann Rollins - empfangen durch James Padgett am 27. April 1915, Washington, DC, USA.
 

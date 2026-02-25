@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt das Schreiben von Lazarus
 
-
+Helen Padgett - empfangen durch James Padgett am 21. September 1916, Washington, DC, USA.
 

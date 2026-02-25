@@ -9,5 +9,5 @@ weight:
 ---
 ### Bestätigung durch Helen Padgett
 
-
+Helen Padgett - empfangen durch James Padgett am 2. Dezember 1916, Washington, DC, USA.
 

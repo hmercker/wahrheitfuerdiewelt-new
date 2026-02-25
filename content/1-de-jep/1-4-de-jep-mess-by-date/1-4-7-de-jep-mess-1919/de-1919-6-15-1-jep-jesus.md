@@ -9,5 +9,5 @@ weight:
 ---
 ### Wie wichtig es ist, dass die Menschheit die Wahrheit der Neuen Geburt kennt
 
-
+Jesus - empfangen durch James Padgett am 15. Juni 1919, Washington, DC, USA.
 

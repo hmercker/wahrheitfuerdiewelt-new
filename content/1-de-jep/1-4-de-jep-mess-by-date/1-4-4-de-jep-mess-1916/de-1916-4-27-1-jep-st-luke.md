@@ -9,5 +9,5 @@ weight:
 ---
 ### Was muss man tun, um die Reinheit der Seele und Liebe wiederzuerlangen, die die ersten Eltern besaßen. Die Doktrin der Erbsünde ist eine Lüge
 
-
+Lukas - empfangen durch James Padgett am 27. April 1916, Washington, DC, USA.
 

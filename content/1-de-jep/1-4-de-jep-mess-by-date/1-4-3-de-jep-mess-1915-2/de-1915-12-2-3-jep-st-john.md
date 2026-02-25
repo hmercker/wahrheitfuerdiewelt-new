@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes sagte, der Meister habe geschrieben und seine große Macht und Herrlichkeit gezeigt
 
-
+Johannes - empfangen durch James Padgett am 2. Dezember 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Über seine Auswahl durch den Vater für das Werk
 
-
+Lukas - empfangen durch Eugene Morgan am 11. April 1917, Washington, DC, USA.
 

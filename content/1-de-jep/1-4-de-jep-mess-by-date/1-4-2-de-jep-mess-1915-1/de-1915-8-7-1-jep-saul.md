@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Frau von Endor war keine böse Frau, wie viele glauben
 
-
+Saul - empfangen durch James Padgett am 7. August 1915, Washington, DC, USA.
 

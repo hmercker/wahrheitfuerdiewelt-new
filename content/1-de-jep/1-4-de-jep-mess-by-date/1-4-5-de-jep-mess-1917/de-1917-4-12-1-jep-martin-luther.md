@@ -9,5 +9,5 @@ weight:
 ---
 ### Padgett wird nicht im Irrtum sein, weil seine Schriften nur von spirituellen Wesen und Engeln stammen, die Gottes Wahrheit kennen
 
-
+Martin Luther - empfangen durch James Padgett am 12. April 1917, Washington, DC, USA.
 

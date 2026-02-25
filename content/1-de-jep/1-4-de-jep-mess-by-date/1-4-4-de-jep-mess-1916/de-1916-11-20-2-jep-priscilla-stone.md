@@ -9,5 +9,5 @@ weight:
 ---
 ### Priscilla Stone erklärt die große Freude am Leben im Reich des Vaters
 
-
+Priscilla Stone - empfangen durch James Padgett am 20. November 1916, Washington, DC, USA.
 

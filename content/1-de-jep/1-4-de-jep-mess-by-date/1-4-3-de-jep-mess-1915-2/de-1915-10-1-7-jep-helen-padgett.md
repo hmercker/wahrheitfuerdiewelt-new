@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Salomon durch Herrn Padgett geschrieben hat
 
-
+Helen Padgett - empfangen durch James Padgett am 1. Oktober 1915, Washington, DC, USA.
 

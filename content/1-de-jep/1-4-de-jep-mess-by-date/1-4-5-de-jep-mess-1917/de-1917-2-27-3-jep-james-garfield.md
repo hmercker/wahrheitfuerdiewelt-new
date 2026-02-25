@@ -9,5 +9,5 @@ weight:
 ---
 ### Garfield möchte den Präsidenten beeinflussen, dass er Angelegenheiten von größerer Bedeutung übersieht
 
-
+James Garfield - empfangen durch James Padgett am 27. Februar 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen ist dankbar, dass die beiden Generäle etwas über die Göttliche Liebe erfahren konnten
 
-
+Helen Padgett - empfangen durch James Padgett am 19. Oktober 1915, Washington, DC, USA.
 

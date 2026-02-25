@@ -9,5 +9,5 @@ weight:
 ---
 ### Moses betont die Wichtigkeit, dass die Juden die Wahrheiten Gottes erfahren, wie sie von Jesus verkündet wurden
 
-
+Moses - empfangen durch James Padgett am 9. November 1915, Washington, DC, USA.
 

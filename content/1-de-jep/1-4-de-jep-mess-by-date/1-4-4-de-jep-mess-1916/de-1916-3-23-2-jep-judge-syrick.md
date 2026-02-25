@@ -9,5 +9,5 @@ weight:
 ---
 ### Berichtet von seinen vielen Segnungen seit seinem Eintritt in die spirituelle Welt
 
-
+Richter Syrick - empfangen durch James Padgett am 23. März 1916, Washington, DC, USA.
 

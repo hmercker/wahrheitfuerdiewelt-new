@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Hoffnung das alle Sterblichen auf ein zukünftiges Schicksal frei von Sorge und Unglück habe
 
-
+Elias - empfangen durch James Padgett am 13. Dezember 1916, Washington, DC, USA.
 

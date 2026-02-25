@@ -9,5 +9,5 @@ weight:
 ---
 ### Leslies Vater will ihn wissen lassen, dass die Liebe Gottes in seine Seele in großer Fülle eingeflossen ist
 
-
+William Stone - empfangen durch James Padgett am 21. Juni 1917, Washington, DC, USA.
 

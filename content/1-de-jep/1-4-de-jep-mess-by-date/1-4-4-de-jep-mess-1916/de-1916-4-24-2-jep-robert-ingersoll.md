@@ -9,5 +9,5 @@ weight:
 ---
 ### Ingersoll beschreibt seine Fortschritte und seine Schwierigkeiten, die Ansichten seiner Anhänger zu ändern
 
-
+Robert Ingersoll - empfangen durch James Padgett am 24. April 1916, Washington, DC, USA.
 

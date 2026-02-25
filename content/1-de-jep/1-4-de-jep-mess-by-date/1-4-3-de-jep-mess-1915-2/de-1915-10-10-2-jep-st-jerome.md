@@ -9,5 +9,5 @@ weight:
 ---
 ### Er wusste nichts von der Entwicklung der Seele durch die Göttliche Liebe als er auf Erden war
 
-
+Hieronymus - empfangen durch James Padgett am 10. Oktober 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Daniel und Samuel schrieben
 
-
+Helen Padgett - empfangen durch James Padgett am 21. Juli 1915, Washington, DC, USA.
 

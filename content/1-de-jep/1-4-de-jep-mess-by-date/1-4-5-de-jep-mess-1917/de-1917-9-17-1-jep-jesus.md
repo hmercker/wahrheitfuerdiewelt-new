@@ -9,5 +9,5 @@ weight:
 ---
 ### Seid in der Welt, aber nicht von der Welt!
 
-
+Jesus - empfangen durch James Padgett am 17. September 1917, Washington, DC, USA.
 

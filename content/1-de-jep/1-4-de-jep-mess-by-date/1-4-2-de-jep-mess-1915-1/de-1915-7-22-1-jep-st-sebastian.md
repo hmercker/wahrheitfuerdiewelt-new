@@ -9,5 +9,5 @@ weight:
 ---
 ### Sebastian interessiert sich für die Arbeit des Meisters durch Herrn Padgett
 
-
+Sebastian - empfangen durch James Padgett am 22. Juli 1915, Washington, DC, USA.
 

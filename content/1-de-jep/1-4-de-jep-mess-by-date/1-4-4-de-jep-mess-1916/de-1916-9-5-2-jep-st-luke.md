@@ -9,5 +9,5 @@ weight:
 ---
 ### Lukas bestätigt Konstantins Schreiben
 
-
+Lukas - empfangen durch James Padgett am 5. September 1916, Washington, DC, USA.
 

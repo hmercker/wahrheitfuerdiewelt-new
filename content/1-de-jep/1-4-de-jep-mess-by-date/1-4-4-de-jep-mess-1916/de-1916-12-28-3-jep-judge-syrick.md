@@ -9,5 +9,5 @@ weight:
 ---
 ### Richter Syrick bestätigt die Aussage der Reisen in die spirituelle Welt
 
-
+Richter Syrick - empfangen durch James Padgett am 28. Dezember 1916, Washington, DC, USA.
 

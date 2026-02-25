@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes versichert, dass Aman und Amon, die ersten Eltern, tatsächlich kommuniziert haben
 
-
+Johannes - empfangen durch James Padgett am 30. August 1915, Washington, DC, USA.
 

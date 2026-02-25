@@ -9,5 +9,5 @@ weight:
 ---
 ### Samuel gibt seine Lehre und Erfahrung auf Erden wieder
 
-
+Samuel - empfangen durch James Padgett am 21. Juli 1915, Washington, DC, USA.
 

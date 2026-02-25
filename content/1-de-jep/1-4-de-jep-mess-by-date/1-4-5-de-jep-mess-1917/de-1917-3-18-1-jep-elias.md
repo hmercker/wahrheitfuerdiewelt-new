@@ -9,5 +9,5 @@ weight:
 ---
 ### Elias korrigiert, was die Bibel über ihn schreibt
 
-
+Elias - empfangen durch James Padgett am 18. März 1917, Washington, DC, USA.
 

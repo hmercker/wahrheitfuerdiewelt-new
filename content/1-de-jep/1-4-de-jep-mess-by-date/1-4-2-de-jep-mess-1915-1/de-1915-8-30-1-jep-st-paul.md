@@ -9,5 +9,5 @@ weight:
 ---
 ### Paulus will Fehler in seinen Briefen, wie sie in der Bibel enthalten sind, korrigieren
 
-
+Paulus - empfangen durch James Padgett am 30. August 1915, Washington, DC, USA.
 

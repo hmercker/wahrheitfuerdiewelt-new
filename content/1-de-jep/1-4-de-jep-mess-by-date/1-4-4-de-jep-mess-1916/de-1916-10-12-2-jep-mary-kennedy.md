@@ -9,5 +9,5 @@ weight:
 ---
 ### Erste automatisch geschriebene Botschaft durch Herrn Morgan von Mary Kennedy
 
-
+Mary Kennedy - empfangen durch James Padgett am 12. Oktober 1916, Washington, DC, USA.
 

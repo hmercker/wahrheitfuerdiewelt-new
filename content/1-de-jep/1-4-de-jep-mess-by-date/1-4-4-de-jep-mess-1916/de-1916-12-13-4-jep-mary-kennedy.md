@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary Kennedy gelingt es, ihren Seelenpartner Leslie in die dritte Sphäre zu bringen
 
-
+Mary Kennedy - empfangen durch James Padgett am 13. Dezember 1916, Washington, DC, USA.
 

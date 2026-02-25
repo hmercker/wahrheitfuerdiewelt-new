@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen erzählt, wie sie Neds Liebesbriefe liebte
 
-
+Helen Padgett - empfangen durch James Padgett am 2. November 1921, Washington, DC, USA.
 

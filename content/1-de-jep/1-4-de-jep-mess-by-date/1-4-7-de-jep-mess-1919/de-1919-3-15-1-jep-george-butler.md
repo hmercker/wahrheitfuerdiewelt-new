@@ -9,5 +9,5 @@ weight:
 ---
 ### George Butler schreibt über seine Fortschritte aus der Dunkelheit ins Licht
 
-
+George Butler - empfangen durch James Padgett am 15. März 1919, Washington, DC, USA.
 

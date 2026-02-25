@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Johannes, Saul und Maria geschrieben haben
 
-
+Helen Padgett - empfangen durch James Padgett am 15. April 1916, Washington, DC, USA.
 

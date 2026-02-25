@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes spricht über die Gleichberechtigung der Geschlechter
 
-
+Johannes - empfangen durch James Padgett am 17. März 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Selim, ein Muslim, ist in seinem Paradies glücklich und hasst Christen nicht mehr
 
-
+Selim - empfangen durch James Padgett am 12. August 1915, Washington, DC, USA.
 

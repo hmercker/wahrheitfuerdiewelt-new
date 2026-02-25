@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Napoleon und von Moltke beide anwesend waren
 
-
+Helen Padgett - empfangen durch James Padgett am 1. November 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Petrus gibt Ratschläge zum Beten
 
-
+Petrus - empfangen durch James Padgett am 8. August 1915, Washington, DC, USA.
 

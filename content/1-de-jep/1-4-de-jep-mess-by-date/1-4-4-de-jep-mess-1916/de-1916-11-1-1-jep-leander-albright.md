@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein spirituelles Wesen, das die Göttliche Liebe empfangen hat, schreibt über seine Bemühungen, andere Wesen zur wahren Religion zu erwecken
 
-
+Leander Albright - empfangen durch James Padgett am 1. November 1916, Washington, DC, USA.
 

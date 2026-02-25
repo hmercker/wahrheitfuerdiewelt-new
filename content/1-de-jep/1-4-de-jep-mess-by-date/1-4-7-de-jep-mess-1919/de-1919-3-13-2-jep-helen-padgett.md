@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert die Botschaft von Abraham Lincoln über den Fortschritt des Menschen in seiner natürlichen Liebe
 
-
+Helen Padgett - empfangen durch James Padgett am 13. März 1919, Washington, DC, USA.
 

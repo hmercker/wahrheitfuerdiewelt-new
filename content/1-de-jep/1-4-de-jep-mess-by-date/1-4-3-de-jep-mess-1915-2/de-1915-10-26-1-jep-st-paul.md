@@ -9,5 +9,5 @@ weight:
 ---
 ### Paulus weist das stellvertretende Sühneopfer Jesu als Weg der Erlösung zurück
 
-
+Paulus - empfangen durch James Padgett am 26. Oktober 1915, Washington, DC, USA.
 

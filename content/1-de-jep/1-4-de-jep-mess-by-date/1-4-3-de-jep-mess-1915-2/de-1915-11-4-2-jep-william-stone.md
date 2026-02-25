@@ -9,5 +9,5 @@ weight:
 ---
 ### William Stone ist glücklich, die wunderbare Seelenentwicklung seines Sohnes zu sehen
 
-
+William Stone - empfangen durch James Padgett am 4. November 1915, Washington, DC, USA.
 

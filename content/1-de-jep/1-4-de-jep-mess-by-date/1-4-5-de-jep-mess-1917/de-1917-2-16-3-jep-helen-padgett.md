@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Perry von Herrn Padgett in Richtung der Göttlichen Liebe geholfen wurde
 
-
+Helen Padgett - empfangen durch James Padgett am 17. Februar 1917, Washington, DC, USA.
 

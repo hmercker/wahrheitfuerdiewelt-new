@@ -9,5 +9,5 @@ weight:
 ---
 ### Byerly, ein Schulfreund, schreibt über seine Erfahrungen auf Erden und in der spirituellen Welt
 
-
+Peter Byerly - empfangen durch James Padgett am 29. Oktober 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen ist mit Herrn Padgetts verbessertem Zustand zufrieden
 
-
+Helen Padgett - empfangen durch James Padgett am 28. August 1916, Washington, DC, USA.
 

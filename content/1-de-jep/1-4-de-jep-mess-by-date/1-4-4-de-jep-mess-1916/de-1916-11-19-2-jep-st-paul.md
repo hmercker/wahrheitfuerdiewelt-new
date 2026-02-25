@@ -9,5 +9,5 @@ weight:
 ---
 ### Paulus erklärt, was genau die Hölle ist und dass es keine ewige Verdammung gibt
 
-
+Paulus - empfangen durch James Padgett am 19. November 1916, Washington, DC, USA.
 

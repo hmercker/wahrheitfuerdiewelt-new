@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen versichert, dass Swedenborg schrieb
 
-
+Helen Padgett - empfangen durch James Padgett am 8. April 1917, Washington, DC, USA.
 

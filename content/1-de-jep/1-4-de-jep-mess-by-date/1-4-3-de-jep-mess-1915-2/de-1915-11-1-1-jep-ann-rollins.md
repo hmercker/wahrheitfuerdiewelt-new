@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Glaube an die unverzeihliche Sünde ist Verleumdung und Gotteslästerung
 
-
+Ann Rollins - empfangen durch James Padgett am 1. November 1915, Washington, DC, USA.
 

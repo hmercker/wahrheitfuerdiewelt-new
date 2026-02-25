@@ -9,5 +9,5 @@ weight:
 ---
 ### George Washington ist ein Anhänger des Meisters
 
-
+George Washington - empfangen durch James Padgett am 1. August 1915, Washington, DC, USA.
 

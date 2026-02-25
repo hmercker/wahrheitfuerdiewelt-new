@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass acht der Himmlischen Wesen mit ihrem Namen unterschrieben haben
 
-
+Helen Padgett - empfangen durch James Padgett am 22. April 1917, Washington, DC, USA.
 

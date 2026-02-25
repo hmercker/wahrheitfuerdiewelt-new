@@ -9,5 +9,5 @@ weight:
 ---
 ### Richards beschreibt sein Leben in der spirituellen Welt
 
-
+William Richards - empfangen durch James Padgett am 24. Juni 1915, Washington, DC, USA.
 

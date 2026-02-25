@@ -9,5 +9,5 @@ weight:
 ---
 ### Elias schreibt, dass er der Prophet der Verklärung ist, die tatsächlich stattgefunden hat
 
-
+Elias - empfangen durch James Padgett am 8. Oktober 1916, Washington, DC, USA.
 

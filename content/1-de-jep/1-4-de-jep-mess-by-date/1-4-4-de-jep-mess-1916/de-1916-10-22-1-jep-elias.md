@@ -9,5 +9,5 @@ weight:
 ---
 ### Elias beschreibt die Gefühle der Gemeinde eines orthodoxen Pfarrers, dessen Predigt spirituelle Aufklärung war 
 
-
+Elias - empfangen durch James Padgett am 22. Oktober 1916, Washington, DC, USA.
 

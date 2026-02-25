@@ -9,5 +9,5 @@ weight:
 ---
 ### Eugene Morgans Schwester freut sich, dass Eugene die große Liebe des Vaters erhalten hat
 
-
+Morgan's Schwester - empfangen durch James Padgett am 4. November 1916, Washington, DC, USA.
 

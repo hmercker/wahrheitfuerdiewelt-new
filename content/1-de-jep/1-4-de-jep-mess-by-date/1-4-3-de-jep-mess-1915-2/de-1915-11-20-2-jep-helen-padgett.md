@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen erzählt Herrn Padgett, warum sie ihn zum Schreiben aufgerufen hat
 
-
+Helen Padgett - empfangen durch James Padgett am 20. November 1915, Washington, DC, USA.
 

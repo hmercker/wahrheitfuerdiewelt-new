@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt den Fortschritt ihrer Tochter "Nita" und die Wahrheit über Jesu zweites Kommen auf die Erde
 
-
+Helen Padgett - empfangen durch James Padgett am 29. Dezember 1918, Washington, DC, USA.
 

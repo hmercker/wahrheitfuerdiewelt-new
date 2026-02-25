@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Erlaubnis der niederen spirituellen Wesen die Kontrolle zu übernehmen, haben Padgett so sehr deprimiert, dass er den Glauben an die göttlichen spirituellen Wesen verloren hat
 
-
+Johannes - empfangen durch James Padgett am 7. Juli 1917, Washington, DC, USA.
 

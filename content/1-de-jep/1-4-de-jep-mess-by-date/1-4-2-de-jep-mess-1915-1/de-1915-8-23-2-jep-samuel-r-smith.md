@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein Freund erzählt von der Hilfe die er von Padgett's Gruppe erhalten hat
 
-
+Samuel R Smith - empfangen durch James Padgett am 23. August 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert die Botschaft von Ann Rollin
 
-
+Helen Padgett - empfangen durch James Padgett am 1. Juni 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary Kennedy, die Seelenpartnerin des Verlegers (Dr Stone), ist darauf bedacht, dass er die Göttliche Liebe erlangt, damit sie in engeren Kontakt treten können
 
-
+Mary Kennedy - empfangen durch James Padgett am 29. März 1917, Washington, DC, USA.
 

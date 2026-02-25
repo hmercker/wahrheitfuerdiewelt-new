@@ -9,5 +9,5 @@ weight:
 ---
 ### Lukas kommentiert eine Predigt und rät Herrn Padgett, die Freundschaft dieses Predigers zu pflegen
 
-
+Lukas - empfangen durch James Padgett am 12. Oktober 1916, Washington, DC, USA.
 

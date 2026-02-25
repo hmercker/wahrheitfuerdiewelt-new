@@ -9,5 +9,5 @@ weight:
 ---
 ### Fehler der Kirche, in der er Mitglied war, müssen beseitigt werden
 
-
+Clemens - empfangen durch James Padgett am 29. August 1915, Washington, DC, USA.
 

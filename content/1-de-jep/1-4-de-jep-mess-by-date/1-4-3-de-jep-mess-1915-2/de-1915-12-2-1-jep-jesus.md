@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus: Diese Botschaften sind Teil seiner Wiederkunft auf Erden
 
-
+Jesus - empfangen durch James Padgett am 2. Dezember 1915, Washington, DC, USA.
 

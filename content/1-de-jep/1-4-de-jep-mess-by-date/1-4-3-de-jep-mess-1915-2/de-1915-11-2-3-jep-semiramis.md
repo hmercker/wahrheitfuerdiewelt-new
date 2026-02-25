@@ -9,5 +9,5 @@ weight:
 ---
 ### Einst ein Heide und heute ein Christ
 
-
+Semiramis - empfangen durch James Padgett am 2. November 1915, Washington, DC, USA.
 

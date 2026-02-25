@@ -9,5 +9,5 @@ weight:
 ---
 ### Die spirituelle Mutter schreibt über ihre Erkenntnis und neuen Glaubensvorstellungen und möchte, dass ihr Sohn weiß und glaubt, wie sie es tut
 
-
+Frau Mitchell - empfangen durch James Padgett am 3. Juli 1917, Washington, DC, USA.
 

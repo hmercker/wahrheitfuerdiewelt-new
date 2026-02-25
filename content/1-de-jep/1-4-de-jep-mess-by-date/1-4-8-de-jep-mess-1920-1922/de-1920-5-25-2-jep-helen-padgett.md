@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen ist sehr glücklich, dass ihre Tochter Nita schreiben konnte
 
-
+Helen Padgett - empfangen durch James Padgett am 25. Mai 1920, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary erzählt von dem großen Geschenk, das ihr Seelenpartner Leslie erhalten wird
 
-
+Mary Kennedy - empfangen durch James Padgett am 16. Oktober 1917, Washington, DC, USA.
 

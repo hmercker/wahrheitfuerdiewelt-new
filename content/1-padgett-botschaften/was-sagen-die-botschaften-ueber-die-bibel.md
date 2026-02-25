@@ -4,7 +4,7 @@ menu_title: "Was sagen die Botschaften über die Bibel"
 description: "Was sagen die Botschaften über die Bibel"
 date: 2020-06-28 15:43:52+00:00
 draft: False
-hidden: False
+hidden: True
 weight: 50
 ---
 ## Was sagen die Botschaften über die Bibel

@@ -9,5 +9,5 @@ weight:
 ---
 ### Garfield schreibt, dass Padgett's Großmutter eine positive Wirkung auf ihn hatte 
 
-
+James Garfield - empfangen durch James Padgett am 17. November 1916, Washington, DC, USA.
 

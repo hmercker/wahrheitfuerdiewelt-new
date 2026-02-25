@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus verweist auf die Notwendigkeit der Göttlichen Liebe
 
-
+Jesus - empfangen durch James Padgett am 23. August 1915, Washington, DC, USA.
 

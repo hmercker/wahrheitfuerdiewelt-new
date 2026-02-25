@@ -9,5 +9,5 @@ weight:
 ---
 ### Frau Morgan erzählt von der Göttlichen Liebe des Vaters
 
-
+Frau Morgan - empfangen durch James Padgett am 30. Oktober 1915, Washington, DC, USA.
 

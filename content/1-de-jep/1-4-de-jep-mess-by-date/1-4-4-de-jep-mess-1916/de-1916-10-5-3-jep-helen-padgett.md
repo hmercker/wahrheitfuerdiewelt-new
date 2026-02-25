@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt Lukas' Botschaft
 
-
+Helen Padgett - empfangen durch James Padgett am 5. Oktober 1916, Washington, DC, USA.
 

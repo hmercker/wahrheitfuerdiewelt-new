@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erklärt, dass Gott nur schauen kann, wer eins mit Ihm ist
 
-
+Jesus - empfangen durch James Padgett am 31. August 1915, Washington, DC, USA.
 

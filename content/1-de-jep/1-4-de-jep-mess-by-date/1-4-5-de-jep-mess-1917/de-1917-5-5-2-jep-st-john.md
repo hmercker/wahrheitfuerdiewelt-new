@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Apostel Johannes bekräftigt, dass Jesus über die beiden Königreiche schrieb
 
-
+Johannes - empfangen durch James Padgett am 5. Mai 1917, Washington, DC, USA.
 

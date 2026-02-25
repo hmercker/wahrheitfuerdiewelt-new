@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Lehre vom Sühneopfer Jesu hat der Menschheit enormen Schaden zugefügt
 
-
+Johannes - empfangen durch James Padgett am 18. März 1916, Washington, DC, USA.
 

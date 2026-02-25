@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen beschreibt über die Nähe von spirituellen Wesen und Sterblichen während der Feierlichkeiten zum Erdenfest, an denen Jesus nicht teilnimmt
 
-
+Helen Padgett - empfangen durch James Padgett am 24. Dezember 1918, Washington, DC, USA.
 

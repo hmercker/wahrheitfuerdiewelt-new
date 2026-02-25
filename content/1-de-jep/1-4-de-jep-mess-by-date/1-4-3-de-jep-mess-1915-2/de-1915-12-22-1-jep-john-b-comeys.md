@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Erfahrung der spirituellen Wesen beim Eintritt in die spirituelle Welt und ihr Fortschritt
 
-
+John B Comeys - empfangen durch James Padgett am 22. Dezember 1915, Washington, DC, USA.
 

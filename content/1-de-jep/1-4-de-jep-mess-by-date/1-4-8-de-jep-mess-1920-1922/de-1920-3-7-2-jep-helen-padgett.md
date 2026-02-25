@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus ist so bestrebt, die Wahrheit zu offenbaren, die er zum Wohle der Menschheit kennt
 
-
+Helen Padgett - empfangen durch James Padgett am 07. März 1920, Washington, DC, USA.
 

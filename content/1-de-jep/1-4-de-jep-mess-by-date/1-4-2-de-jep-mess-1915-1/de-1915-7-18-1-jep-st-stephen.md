@@ -9,5 +9,5 @@ weight:
 ---
 ### Bestätigung durch Stephanus, dass Herr Padgett für die Arbeit ausgewählt wurde
 
-
+Stephanus - empfangen durch James Padgett am 18. Juli 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert die wichtige Botschaft Jesu
 
-
+Helen Padgett - empfangen durch James Padgett am 4. Juni 1915, Washington, DC, USA.
 

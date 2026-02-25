@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine Bestätigung, dass der Meister durch Herrn Padgett kommuniziert
 
-
+Georg - empfangen durch James Padgett am 22. Juli 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary schreibt, dass nur die Liebe Gottes heute Abend für ihren Seelenpartner wichtig ist
 
-
+Mary Kennedy - empfangen durch James Padgett am 5. April 1915, Washington, DC, USA.
 

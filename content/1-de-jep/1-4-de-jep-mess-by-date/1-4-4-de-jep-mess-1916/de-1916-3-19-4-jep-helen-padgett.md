@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen erzählt vom armen Lipscomb, der zu schreiben versuchte und sich einbildete, er sei betrunken
 
-
+Helen Padgett - empfangen durch James Padgett am 19. März 1916, Washington, DC, USA.
 

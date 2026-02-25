@@ -9,5 +9,5 @@ weight:
 ---
 ### Sir Walter Raleigh schreibt über seine Fortschritte in der vierten Sphäre
 
-
+Sir Walter Raleigh - empfangen durch James Padgett am 25. Februar 1917, Washington, DC, USA.
 

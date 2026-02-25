@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Wunder, Wohltaten und Segnungen die die Göttliche Liebe Gottes bewirkt
 
-
+Helen Padgett - empfangen durch James Padgett am 8. Juni 1916, Washington, DC, USA.
 

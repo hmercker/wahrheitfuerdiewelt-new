@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen Padgett macht einige Bemerkungen über die Botschaft, die von einem geschrieben wurde, der als der Ewige Jude bekannt ist
 
-
+Helen Padgett - empfangen durch James Padgett am 21. Juni 1917, Washington, DC, USA.
 

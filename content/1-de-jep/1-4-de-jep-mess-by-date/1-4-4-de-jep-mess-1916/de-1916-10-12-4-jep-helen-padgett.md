@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen schreibt, dass Forrest ernsthaft für die Göttliche Liebe betet und Fortschritte macht
 
-
+Helen Padgett - empfangen durch James Padgett am 12. Oktober 1916, Washington, DC, USA.
 

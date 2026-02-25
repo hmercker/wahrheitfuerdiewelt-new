@@ -9,5 +9,5 @@ weight:
 ---
 ### Taggart zieht das spirituelle Glück dem irdischen Leben vor
 
-
+Hugh Taggart - empfangen durch James Padgett am 4. November 1916, Washington, DC, USA.
 

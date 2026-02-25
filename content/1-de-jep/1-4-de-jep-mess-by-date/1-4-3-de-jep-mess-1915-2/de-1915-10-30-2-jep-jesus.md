@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erwählt Eugene Morgan als seinen Jünger
 
-
+Jesus - empfangen durch James Padgett am 30. Oktober 1915, Washington, DC, USA.
 

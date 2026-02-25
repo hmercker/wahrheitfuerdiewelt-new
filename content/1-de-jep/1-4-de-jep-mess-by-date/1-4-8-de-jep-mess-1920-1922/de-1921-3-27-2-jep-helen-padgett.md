@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Samuel die vorhergehende Botschaft geschrieben hat
 
-
+Helen Padgett - empfangen durch James Padgett am 27. März 1921, Washington, DC, USA.
 

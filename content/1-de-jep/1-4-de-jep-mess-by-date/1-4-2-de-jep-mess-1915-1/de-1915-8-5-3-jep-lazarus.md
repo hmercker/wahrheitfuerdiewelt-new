@@ -9,5 +9,5 @@ weight:
 ---
 ### Lazarus sagt, dass er nicht tot war, als er von Jesus auferweckt wurde
 
-
+Lazarus - empfangen durch James Padgett am 5. August 1915, Washington, DC, USA.
 

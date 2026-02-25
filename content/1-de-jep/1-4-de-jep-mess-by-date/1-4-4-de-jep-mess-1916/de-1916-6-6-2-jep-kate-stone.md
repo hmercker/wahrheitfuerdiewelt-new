@@ -9,5 +9,5 @@ weight:
 ---
 ### Kate sagt, sie weiß nun von den wunderbaren Dingen, die mit dem Einströmen der Liebe des Vaters zu ihr kommen
 
-
+Kate Stone - empfangen durch James Padgett am 6. Juni 1916, Washington, DC, USA.
 

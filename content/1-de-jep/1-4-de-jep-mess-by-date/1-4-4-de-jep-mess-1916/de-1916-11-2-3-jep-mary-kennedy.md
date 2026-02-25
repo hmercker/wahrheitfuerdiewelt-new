@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary stimmt dem zu, was seine Mutter über Leslies Fortschritte in seiner Seelenentwicklung gesagt hat
 
-
+Mary Kennedy - empfangen durch James Padgett am 2. November 1916, Washington, DC, USA.
 

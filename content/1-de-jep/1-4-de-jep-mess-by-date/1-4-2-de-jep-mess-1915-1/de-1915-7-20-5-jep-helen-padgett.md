@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen schreibt über die Wichtigkeit, die Wahrheiten des Meisters zu empfangen
 
-
+Helen Padgett - empfangen durch James Padgett am 20. Juli 1915, Washington, DC, USA.
 

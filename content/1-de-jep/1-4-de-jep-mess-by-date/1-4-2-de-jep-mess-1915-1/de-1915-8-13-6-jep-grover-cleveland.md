@@ -9,5 +9,5 @@ weight:
 ---
 ### Grover Cleveland kommt zu Herrn Padgett und bittet um Hilfe
 
-
+Grover Cleveland - empfangen durch James Padgett am 13. August 1915, Washington, DC, USA.
 

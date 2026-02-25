@@ -9,5 +9,5 @@ weight:
 ---
 ### Selbst Jesus kann durch sein Schreiben seine Kraft erschöpfen
 
-
+Lukas - empfangen durch James Padgett am 24. August 1915, Washington, DC, USA.
 

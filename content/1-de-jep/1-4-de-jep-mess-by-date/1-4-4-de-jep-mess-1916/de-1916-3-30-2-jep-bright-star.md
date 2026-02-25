@@ -9,5 +9,5 @@ weight:
 ---
 ### Bright Star wurde infolge einer Séance, an der Herr Padgett teilnahm, zu einem Freund
 
-
+Bright Star - empfangen durch James Padgett am 30. März 1916, Washington, DC, USA.
 

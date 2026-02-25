@@ -9,5 +9,5 @@ weight:
 ---
 ### Swedenborg wusste nicht, dass die Göttliche Liebe sich von der natürlichen Liebe unterscheidet
 
-
+Emmanuel Swedenborg - empfangen durch James Padgett am 8. April 1917, Washington, DC, USA.
 

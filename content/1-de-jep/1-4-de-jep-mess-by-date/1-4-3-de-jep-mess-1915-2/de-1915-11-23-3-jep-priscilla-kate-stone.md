@@ -9,5 +9,5 @@ weight:
 ---
 ### Priscilla Stone und Schwester Kate schrieben eine Liebesbotschaft an Leslie R. Stone
 
-
+Priscilla & Kate Stone - empfangen durch James Padgett am 23. November 1915, Washington, DC, USA.
 

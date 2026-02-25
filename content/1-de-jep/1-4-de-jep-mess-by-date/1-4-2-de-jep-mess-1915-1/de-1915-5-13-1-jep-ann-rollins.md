@@ -9,5 +9,5 @@ weight:
 ---
 ### Ann Rollins' Erfahrung bei der Suche nach der Göttlichen Liebe und eine Beschreibung von Jesus
 
-
+Ann Rollins - empfangen durch James Padgett am 13. Mai 1915, Washington, DC, USA.
 

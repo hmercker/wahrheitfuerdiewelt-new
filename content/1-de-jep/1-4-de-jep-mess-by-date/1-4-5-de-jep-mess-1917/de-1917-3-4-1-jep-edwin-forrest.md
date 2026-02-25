@@ -9,5 +9,5 @@ weight:
 ---
 ### Forrest freut sich über die Fortschritte, die er jetzt aus der Dunkelheit heraus macht und fühlt sich leicht wie Luft
 
-
+Edwin Forrest - empfangen durch James Padgett am 4. März 1917, Washington, DC, USA.
 

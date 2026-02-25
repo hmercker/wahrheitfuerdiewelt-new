@@ -4,7 +4,7 @@ menu_title: "Die Göttliche Liebe spüren"
 description: "Die Göttliche Liebe spüren"
 date: 2020-06-28 02:18:11+11:00
 draft: False
-hidden: False
+hidden: True
 weight: 15
 ---
 ## Die Göttliche Liebe spüren

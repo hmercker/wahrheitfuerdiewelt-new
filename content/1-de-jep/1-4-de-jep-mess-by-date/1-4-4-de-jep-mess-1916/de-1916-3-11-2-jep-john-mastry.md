@@ -9,5 +9,5 @@ weight:
 ---
 ### Mastry wurde ausgewählt, um Padgett bei seinen persönlichen Angelegenheiten zu helfen
 
-
+John Mastry - empfangen durch James Padgett am 11. März 1916, Washington, DC, USA.
 

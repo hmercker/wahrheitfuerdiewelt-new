@@ -9,5 +9,5 @@ weight:
 ---
 ### Latham bekräftigt die Botschaft des Lukas über die 'unverzeihliche Sünde'
 
-
+Chas Latham - empfangen durch James Padgett am 31. Oktober 1915, Washington, DC, USA.
 

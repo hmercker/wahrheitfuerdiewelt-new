@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Dr. Stones Mutter schrieb
 
-
+Helen Padgett - empfangen durch James Padgett am 16. Juni 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen berichtet über die verschiedenen Schreiber, die an diesem Abend schrieben
 
-
+Helen Padgett - empfangen durch James Padgett am 13. März 1917, Washington, DC, USA.
 

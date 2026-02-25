@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Wichtigkeit der Seelenreligion
 
-
+Papst Gregor - empfangen durch James Padgett am 7. November 1915, Washington, DC, USA.
 

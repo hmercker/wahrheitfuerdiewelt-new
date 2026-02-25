@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert die Müdigkeit von Herrn Padgett
 
-
+Helen Padgett - empfangen durch James Padgett am 13. April 1915, Washington, DC, USA.
 

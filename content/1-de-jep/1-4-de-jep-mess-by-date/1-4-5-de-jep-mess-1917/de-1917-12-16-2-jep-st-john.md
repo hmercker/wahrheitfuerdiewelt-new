@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus, unser Führer, unternimmt große Anstrengungen, um ein Königreich Gottes in den Göttlichen Himmeln zu errichten
 
-
+Johannes - empfangen durch James Padgett am 16. Dezember 1917, Washington, DC, USA.
 

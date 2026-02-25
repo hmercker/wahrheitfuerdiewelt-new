@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus beschreibt die Seligkeit, die der Göttlichen Liebe entspringt
 
-
+Jesus - empfangen durch James Padgett am 28. Dezember 1915, Washington, DC, USA.
 

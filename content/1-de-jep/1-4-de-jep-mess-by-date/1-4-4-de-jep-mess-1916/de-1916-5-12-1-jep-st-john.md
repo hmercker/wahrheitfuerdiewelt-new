@@ -9,5 +9,5 @@ weight:
 ---
 ### Wichtig ist, dass der Mensch die Wahrheit suchen und finden muss
 
-
+Johannes - empfangen durch James Padgett am 12. Mai 1916, Washington, DC, USA.
 

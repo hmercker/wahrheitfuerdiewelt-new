@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Göttliche Liebe heilt Körper, Geist und Seele
 
-
+Jesus - empfangen durch James Padgett am 9. Juli 1917, Washington, DC, USA.
 

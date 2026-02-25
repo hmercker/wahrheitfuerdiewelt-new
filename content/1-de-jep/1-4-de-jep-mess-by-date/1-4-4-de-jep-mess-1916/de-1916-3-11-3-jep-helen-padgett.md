@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass sowohl Johannes als auch ein Fremder mit dem Namen Mastry schrieb
 
-
+Helen Padgett - empfangen durch James Padgett am 11. März 1916, Washington, DC, USA.
 

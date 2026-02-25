@@ -9,5 +9,5 @@ weight:
 ---
 ### Frau Morgan möchte Jennie Lawson's Übergang in die spirituelle Welt erklären
 
-
+Frau Morgan - empfangen durch James Padgett am 11. November 1915, Washington, DC, USA.
 

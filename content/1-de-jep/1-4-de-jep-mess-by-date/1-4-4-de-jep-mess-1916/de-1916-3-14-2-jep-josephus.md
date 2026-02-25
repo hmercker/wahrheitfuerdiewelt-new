@@ -9,5 +9,5 @@ weight:
 ---
 ### Josephus versichert Padgett, dass er Botschaften von spirituellen Wesen des Göttlichen Himmelsreichs erhält
 
-
+Josephus - empfangen durch James Padgett am 14. März 1916, Washington, DC, USA.
 

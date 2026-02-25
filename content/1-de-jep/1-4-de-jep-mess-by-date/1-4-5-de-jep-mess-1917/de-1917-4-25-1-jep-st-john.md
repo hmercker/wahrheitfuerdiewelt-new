@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes beschreibt, wie Gott Gebete beantwortet
 
-
+Johannes - empfangen durch James Padgett am 25. April 1917, Washington, DC, USA.
 

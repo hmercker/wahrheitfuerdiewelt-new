@@ -9,5 +9,5 @@ weight:
 ---
 ### Ann Rollins schreibt über die große Liebe Jesu zu ihm und sein Werk von größter Bedeutung
 
-
+Ann Rollins - empfangen durch James Padgett am 14. Dezember 1915, Washington, DC, USA.
 

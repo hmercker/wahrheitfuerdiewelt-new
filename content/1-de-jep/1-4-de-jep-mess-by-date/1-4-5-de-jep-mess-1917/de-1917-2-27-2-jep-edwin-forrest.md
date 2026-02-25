@@ -9,5 +9,5 @@ weight:
 ---
 ### Forrest schreibt, er sei aus der Dunkelheit heraus und im Licht der Liebe
 
-
+Edwin Forrest - empfangen durch James Padgett am 27. Februar 1917, Washington, DC, USA.
 

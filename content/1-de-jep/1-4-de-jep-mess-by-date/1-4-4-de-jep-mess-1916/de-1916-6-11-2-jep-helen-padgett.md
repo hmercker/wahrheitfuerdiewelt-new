@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert den Mangel an Rapport und Verbindung 
 
-
+Helen Padgett - empfangen durch James Padgett am 11. Juni 1916, Washington, DC, USA.
 

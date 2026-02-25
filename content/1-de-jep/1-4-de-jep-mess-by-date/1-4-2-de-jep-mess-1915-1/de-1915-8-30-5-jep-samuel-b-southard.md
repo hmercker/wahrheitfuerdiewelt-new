@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein spirituelles Wesen das an die Glaubensbekenntnisse glaubte und sein Erwachen zur Wahrheit
 
-
+Samuel B Southard - empfangen durch James Padgett am 30. August 1915, Washington, DC, USA.
 

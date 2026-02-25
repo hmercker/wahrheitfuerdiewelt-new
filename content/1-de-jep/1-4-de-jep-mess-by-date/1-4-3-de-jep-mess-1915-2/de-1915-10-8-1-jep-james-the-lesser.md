@@ -9,5 +9,5 @@ weight:
 ---
 ### Jakobus versichert, James Padgett nach Kräften zu unterstützen
 
-
+Jakobus - empfangen durch James Padgett am 8. Oktober 1915, Washington, DC, USA.
 

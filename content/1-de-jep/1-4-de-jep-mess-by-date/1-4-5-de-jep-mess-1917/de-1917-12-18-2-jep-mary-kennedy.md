@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary ist in die göttlichen Himmelssphären vorgedrungen
 
-
+Mary Kennedy - empfangen durch James Padgett am 18. Dezember 1917, Washington, DC, USA.
 

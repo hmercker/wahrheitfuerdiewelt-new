@@ -9,5 +9,5 @@ weight:
 ---
 ### Ann Rollins beschreibt ihre Heimat in der Zweiten Sphäre des Göttlichen Himmels
 
-
+Ann Rollins - empfangen durch James Padgett am 6. Juli 1915, Washington, DC, USA.
 

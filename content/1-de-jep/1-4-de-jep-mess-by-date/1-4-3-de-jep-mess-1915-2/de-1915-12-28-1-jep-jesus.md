@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus betont, wie wichtig seine Botschaften für die Menschheit sind
 
-
+Jesus - empfangen durch James Padgett am 28. Dezember 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes erklärt, was passiert, wenn ein Mensch stirbt
 
-
+Johannes - empfangen durch James Padgett am 29. Mai 1916, Washington, DC, USA.
 

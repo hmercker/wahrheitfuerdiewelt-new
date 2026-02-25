@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erklärt den Unterschied zwischen Gottes Geist und dem Heiligen Geist
 
-
+Jesus - empfangen durch James Padgett am 10. Mai 1920, Washington, DC, USA.
 

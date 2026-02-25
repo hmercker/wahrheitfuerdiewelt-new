@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen und Mary schrieben eine gemeinsame Botschaft, um Mary's Seelenpartner ein Geheimnis zu erzählen
 
-
+Helen Padgett & Mary Kennedy - empfangen durch James Padgett am 29. Dezember 1915, Washington, DC, USA.
 

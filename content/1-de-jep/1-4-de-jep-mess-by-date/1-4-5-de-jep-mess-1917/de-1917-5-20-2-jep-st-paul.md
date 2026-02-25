@@ -9,5 +9,5 @@ weight:
 ---
 ### Paulus drängt Herrn Padgett, dem Spiritualisten die Botschaft Jesu über "Die Seele" sowie die vorliegende Botschaft zu überbringen
 
-
+Paulus - empfangen durch James Padgett am 20. Mai 1917, Washington, DC, USA.
 

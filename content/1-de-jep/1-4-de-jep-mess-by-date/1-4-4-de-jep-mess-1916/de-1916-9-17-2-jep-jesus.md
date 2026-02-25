@@ -9,5 +9,5 @@ weight:
 ---
 ### Gott liebt alle Seine Kinder
 
-
+Jesus - empfangen durch James Padgett am 17. September 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Professor Salyards bestätigt, dass Jesus schrieb
 
-
+Joseph Salyards - empfangen durch James Padgett am 24. Mai 1915, Washington, DC, USA.
 

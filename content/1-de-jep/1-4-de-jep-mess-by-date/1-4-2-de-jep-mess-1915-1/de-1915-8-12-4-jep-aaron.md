@@ -9,5 +9,5 @@ weight:
 ---
 ### Aaron war ein sehr mächtiger Mann, als er auf Erden war
 
-
+Aaron - empfangen durch James Padgett am 12. August 1915, Washington, DC, USA.
 

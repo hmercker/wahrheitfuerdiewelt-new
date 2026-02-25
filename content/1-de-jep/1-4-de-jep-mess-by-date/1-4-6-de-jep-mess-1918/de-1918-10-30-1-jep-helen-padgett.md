@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen teilt Herrn Padgett mit, dass seine Lektüre über die alten Propheten wenig Wirkung auf seine Seele hatte
 
-
+Helen Padgett - empfangen durch James Padgett am 30. Oktober 1918, Washington, DC, USA.
 

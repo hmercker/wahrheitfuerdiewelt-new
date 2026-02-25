@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Mensch ist die Ursache von Sünde und Krankheit
 
-
+Jesus - empfangen durch James Padgett am 9. Juli 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Amos der Prophet bevorzugt die Version in der Bibel
 
-
+Amos - empfangen durch James Padgett am 10. August 1915, Washington, DC, USA.
 

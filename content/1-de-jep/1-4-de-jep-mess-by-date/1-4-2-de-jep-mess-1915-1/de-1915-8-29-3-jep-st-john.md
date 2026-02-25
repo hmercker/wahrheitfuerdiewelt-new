@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes kommentiert den Glauben des Predigers
 
-
+Johannes - empfangen durch James Padgett am 29. August 1915, Washington, DC, USA.
 

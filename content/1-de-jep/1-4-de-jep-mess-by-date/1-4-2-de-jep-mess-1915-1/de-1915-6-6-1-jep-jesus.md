@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Heilige Geist ist nicht Gott; es gibt keine unverzeihliche Sünde
 
-
+Jesus - empfangen durch James Padgett am 6. Juni 1915, Washington, DC, USA.
 

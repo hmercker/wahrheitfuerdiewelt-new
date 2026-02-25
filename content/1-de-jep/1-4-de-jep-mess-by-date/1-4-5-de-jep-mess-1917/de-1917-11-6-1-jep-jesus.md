@@ -9,5 +9,5 @@ weight:
 ---
 ### Alle Religionen dieser Erde wird einmal ein gemeinsamer Nenner einen: Die Gegenwart der Göttlichen Liebe!
 
-
+Jesus - empfangen durch James Padgett am 6. November 1917, Washington, DC, USA.
 

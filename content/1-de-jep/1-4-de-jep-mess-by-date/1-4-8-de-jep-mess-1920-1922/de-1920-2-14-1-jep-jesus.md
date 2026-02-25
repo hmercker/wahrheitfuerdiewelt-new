@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus bedauert, auch heute keine Botschaft schreiben zu können
 
-
+Jesus - empfangen durch James Padgett am 14. Februar 1920, Washington, DC, USA.
 

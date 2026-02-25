@@ -9,5 +9,5 @@ weight:
 ---
 ### Critcher kam vorbei, um seine Enttäuschung über den Eintritt in die spirituelle Welt zu erklären
 
-
+Critcher - empfangen durch James Padgett am 7. November 1915, Washington, DC, USA.
 

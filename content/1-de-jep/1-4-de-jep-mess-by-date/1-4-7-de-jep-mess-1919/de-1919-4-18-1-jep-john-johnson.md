@@ -9,5 +9,5 @@ weight:
 ---
 ### Johnson kommentiert das Buch, das Herr Padgett gelesen hat
 
-
+John Johnson - empfangen durch James Padgett am 18. April 1919, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Salyards ist in der Siebten Sphäre und hört nie auf, Gott für Seine Liebe und Barmherzigkeit zu danken
 
-
+Joseph Salyards - empfangen durch James Padgett am 6. August 1915, Washington, DC, USA.
 

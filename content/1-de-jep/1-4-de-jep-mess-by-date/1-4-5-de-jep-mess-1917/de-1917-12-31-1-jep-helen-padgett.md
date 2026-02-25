@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine Silvesterbotschaft von Helen. Eine Zeit der Dankbarkeit gegenüber dem Vater für seine große Liebe und Barmherzigkeit
 
-
+Helen Padgett - empfangen durch James Padgett am 31. Dezember 1917, Washington, DC, USA.
 

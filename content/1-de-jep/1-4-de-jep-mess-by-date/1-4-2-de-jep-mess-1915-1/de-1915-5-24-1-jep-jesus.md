@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Zustände in der Welt, als Jesus zum Lehren kam
 
-
+Jesus - empfangen durch James Padgett am 24. Mai 1915, Washington, DC, USA.
 

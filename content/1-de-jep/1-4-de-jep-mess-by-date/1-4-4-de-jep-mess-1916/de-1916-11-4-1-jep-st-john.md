@@ -9,5 +9,5 @@ weight:
 ---
 ### Dr. Stone und Eugene Morgan haben sehr viel Liebe in ihren Seelen
 
-
+Johannes - empfangen durch James Padgett am 4. November 1916, Washington, DC, USA.
 

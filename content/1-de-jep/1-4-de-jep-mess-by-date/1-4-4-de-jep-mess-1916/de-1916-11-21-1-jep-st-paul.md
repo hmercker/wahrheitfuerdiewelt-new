@@ -9,5 +9,5 @@ weight:
 ---
 ### Paulus schließt seine Botschaft über die Hölle ab
 
-
+Paulus - empfangen durch James Padgett am 21. November 1916, Washington, DC, USA.
 

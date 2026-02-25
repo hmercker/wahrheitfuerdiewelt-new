@@ -9,5 +9,5 @@ weight:
 ---
 ### Daniel schreibt über seine Erfahrungen in der spirituellen Welt und über sein Leben auf Erden
 
-
+Daniel - empfangen durch James Padgett am 21. Juli 1915, Washington, DC, USA.
 

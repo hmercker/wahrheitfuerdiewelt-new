@@ -9,5 +9,5 @@ weight:
 ---
 ### Lafayette äußert sich zu Frankreich und Deutschland sowie zum Ausgang des Krieges
 
-
+Lafayette - empfangen durch James Padgett am 1. August 1915, Washington, DC, USA.
 

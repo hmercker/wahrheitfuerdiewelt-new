@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes bekräftigt die außergewöhnliche Erfahrung des Ewigen Juden
 
-
+Johannes - empfangen durch James Padgett am 21. Juni 1917, Washington, DC, USA.
 

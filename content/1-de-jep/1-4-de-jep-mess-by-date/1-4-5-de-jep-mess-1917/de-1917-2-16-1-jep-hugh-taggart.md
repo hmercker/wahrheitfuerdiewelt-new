@@ -9,5 +9,5 @@ weight:
 ---
 ### Ann Rollins hilft einem Freund Padgett's, der Selbstmord begangen hatte und jede Hoffnung auf Vergebung verlor
 
-
+Taggart - empfangen durch James Padgett am 16. Februar 1917, Washington, DC, USA.
 

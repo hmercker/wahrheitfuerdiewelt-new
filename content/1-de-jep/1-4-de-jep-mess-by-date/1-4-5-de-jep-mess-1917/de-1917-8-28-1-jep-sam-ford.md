@@ -9,5 +9,5 @@ weight:
 ---
 ### Wie die spirituellen Wesen in der Erkenntnis der Wahrheiten vorankommen
 
-
+Sam Ford - empfangen durch James Padgett am 28. August 1917, Washington, DC, USA.
 

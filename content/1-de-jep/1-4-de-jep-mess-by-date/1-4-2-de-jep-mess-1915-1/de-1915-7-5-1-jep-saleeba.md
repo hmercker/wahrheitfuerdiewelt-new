@@ -9,5 +9,5 @@ weight:
 ---
 ### Saleeba schreitet voran und wird bald über der dritten Sphäre sein
 
-
+Saleeba - empfangen durch James Padgett am 5. Juli 1915, Washington, DC, USA.
 

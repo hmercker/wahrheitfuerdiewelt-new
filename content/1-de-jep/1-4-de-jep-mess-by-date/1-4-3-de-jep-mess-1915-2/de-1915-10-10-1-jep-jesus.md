@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erklärt, was er unter wahrem Glauben versteht
 
-
+Jesus - empfangen durch James Padgett am 10. Oktober 1915, Washington, DC, USA.
 

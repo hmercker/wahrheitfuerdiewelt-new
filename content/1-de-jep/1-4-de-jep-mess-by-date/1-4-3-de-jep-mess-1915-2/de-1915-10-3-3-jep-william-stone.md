@@ -9,5 +9,5 @@ weight:
 ---
 ### William Stone ist froh, dass Jesus seinen Sohn Leslie ausgewählt hat
 
-
+William Stone - empfangen durch James Padgett am 3. Oktober 1915, Washington, DC, USA.
 

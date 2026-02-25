@@ -9,5 +9,5 @@ weight:
 ---
 ### Frühere Botschaft über die Kontinuität des Lebens wurde fortgesetzt
 
-
+Samuel - empfangen durch James Padgett am 30. März 1916, Washington, DC, USA.
 

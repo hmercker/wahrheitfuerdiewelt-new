@@ -9,5 +9,5 @@ weight:
 ---
 ### Warum Menschen lernen sollten, dass man sie in ihrer Auffassung vom Leben nicht sich selbst überlassen sollte
 
-
+Johannes - empfangen durch James Padgett am 2. Juli 1916, Washington, DC, USA.
 

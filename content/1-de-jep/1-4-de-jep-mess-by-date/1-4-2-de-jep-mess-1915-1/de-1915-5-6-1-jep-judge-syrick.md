@@ -9,5 +9,5 @@ weight:
 ---
 ### Richter Syrick berichtet über seine Erfahrungen und die bisherigen Fortschritte
 
-
+Richter Syrick - empfangen durch James Padgett am 6. Mai 1915, Washington, DC, USA.
 

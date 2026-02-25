@@ -9,5 +9,5 @@ weight:
 ---
 ### Salomon:  Was ist das Größte auf der ganzen Welt?
 
-
+Salomo - empfangen durch James Padgett am 20. April 1916, Washington, DC, USA.
 

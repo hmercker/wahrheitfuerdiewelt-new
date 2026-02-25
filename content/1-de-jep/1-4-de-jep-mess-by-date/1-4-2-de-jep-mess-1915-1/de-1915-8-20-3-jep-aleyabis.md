@@ -9,5 +9,5 @@ weight:
 ---
 ### Aleyabis, ein Anhänger von Zoroaster, weiß nichts von der Neuen Geburt
 
-
+Aleyabis - empfangen durch James Padgett am 20. August 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus versichert, wie sehr James Padgett geliebt wird
 
-
+Jesus - empfangen durch James Padgett am 14. Dezember 1915, Washington, DC, USA.
 

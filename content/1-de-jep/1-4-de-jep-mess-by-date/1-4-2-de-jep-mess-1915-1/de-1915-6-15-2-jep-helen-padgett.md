@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen äußert die Enttäuschung Jesu, dass er keine Botschaft übermitteln konnte
 
-
+Helen Padgett - empfangen durch James Padgett am 15. Juni 1915, Washington, DC, USA.
 

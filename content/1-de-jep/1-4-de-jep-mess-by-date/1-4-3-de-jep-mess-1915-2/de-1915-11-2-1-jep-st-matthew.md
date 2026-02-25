@@ -9,5 +9,5 @@ weight:
 ---
 ### Matthäus erklärt was gemeint ist, wenn vom Tod der Seele die Rede ist
 
-
+Matthäus - empfangen durch James Padgett am 2. November 1915, Washington, DC, USA.
 

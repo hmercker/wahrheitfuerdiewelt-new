@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Unsterblichkeit
 
-
+Henry Ward Beecher - empfangen durch James Padgett am 5. Juli 1915, Washington, DC, USA.
 

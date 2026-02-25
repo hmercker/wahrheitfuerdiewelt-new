@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus bittet James Padgett noch mehr um die Liebe des Vaters zu beten
 
-
+Jesus - empfangen durch James Padgett am 25. November 1915, Washington, DC, USA.
 

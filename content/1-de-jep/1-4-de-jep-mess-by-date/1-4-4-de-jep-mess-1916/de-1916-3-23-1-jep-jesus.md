@@ -9,5 +9,5 @@ weight:
 ---
 ### Wie und auf welche Weise die Göttliche Liebe die Seele des Menschen betritt - Teil 1
 
-
+Jesus - empfangen durch James Padgett am 23. März 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Wahrheiten, die ein Autor gelernt hat, seit er in diesem Leben der spirituellen Welt ist
 
-
+Jay Hudson - empfangen durch James Padgett am 26. Dezember 1918, Washington, DC, USA.
 

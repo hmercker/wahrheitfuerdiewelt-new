@@ -9,5 +9,5 @@ weight:
 ---
 ### Smith, ein Anwaltsbruder, befindet sich in Finsternis
 
-
+Maurice Smith - empfangen durch James Padgett am 19. März 1916, Washington, DC, USA.
 

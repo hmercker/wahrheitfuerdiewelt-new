@@ -9,5 +9,5 @@ weight:
 ---
 ### Elias erklärt das Wechselspiel von Ursache und Wirkung (Gesetz der Wiedergutmachung)
 
-
+Elias - empfangen durch James Padgett am 25. Dezember 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Großvater und Vater halfen Eugene Morgan bei seiner spirituellen Entwicklung
 
-
+Morgan's Großvater - empfangen durch James Padgett am 4. November 1916, Washington, DC, USA.
 

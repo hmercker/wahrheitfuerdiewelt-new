@@ -9,5 +9,5 @@ weight:
 ---
 ### Padgett ist momentan nicht stark genug um die göttlichen Spirituellen Wesen schreiben zu lassen
 
-
+Helen Padgett - empfangen durch James Padgett am 19. Februar 1919, Washington, DC, USA.
 

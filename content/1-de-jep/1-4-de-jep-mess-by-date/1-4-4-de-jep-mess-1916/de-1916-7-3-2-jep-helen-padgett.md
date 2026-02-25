@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt Mary's Plan
 
-
+Helen Padgett - empfangen durch James Padgett am 3. Juli 1916, Washington, DC, USA.
 

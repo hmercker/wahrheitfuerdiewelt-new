@@ -9,5 +9,5 @@ weight:
 ---
 ### Bestätigung durch Samuel, dass Jesus die Botschaften geschrieben hat
 
-
+Samuel - empfangen durch James Padgett am 15. Mai 1917, Washington, DC, USA.
 

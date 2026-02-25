@@ -9,5 +9,5 @@ weight:
 ---
 ### Was ist der Heilige Geist und wie wirkt er?
 
-
+Johannes - empfangen durch James Padgett am 14. Juni 1917, Washington, DC, USA.
 

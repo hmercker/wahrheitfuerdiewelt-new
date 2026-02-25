@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus rät Herrn Padgett, mehr Zeit dem Gebet zu widmen
 
-
+Jesus - empfangen durch James Padgett am 12. April 1915, Washington, DC, USA.
 

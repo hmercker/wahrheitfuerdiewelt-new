@@ -9,5 +9,5 @@ weight:
 ---
 ### Elias kommentiert das mangelnde Wissen des Predigers über die Wahrheiten des Spiritualismus
 
-
+Elias - empfangen durch James Padgett am 1. April 1917, Washington, DC, USA.
 

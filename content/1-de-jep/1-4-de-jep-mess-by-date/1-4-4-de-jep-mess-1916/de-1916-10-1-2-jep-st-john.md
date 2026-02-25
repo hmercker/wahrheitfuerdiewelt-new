@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes erklärt, was das Ende der Welt bedeutet
 
-
+Johannes - empfangen durch James Padgett am 1. Oktober 1916, Washington, DC, USA.
 

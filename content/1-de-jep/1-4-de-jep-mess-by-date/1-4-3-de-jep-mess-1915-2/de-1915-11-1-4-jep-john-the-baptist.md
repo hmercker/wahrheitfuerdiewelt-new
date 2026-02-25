@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein spirituelles Wesen, dass für einen Moment seinen Namen vergaß
 
-
+Johannes der Täufer - empfangen durch James Padgett am 1. November 1915, Washington, DC, USA.
 

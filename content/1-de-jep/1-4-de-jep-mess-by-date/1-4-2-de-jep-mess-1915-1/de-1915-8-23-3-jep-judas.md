@@ -9,5 +9,5 @@ weight:
 ---
 ### Warum Judas Jesus verraten hat
 
-
+Judas - empfangen durch James Padgett am 23. August 1915, Washington, DC, USA.
 

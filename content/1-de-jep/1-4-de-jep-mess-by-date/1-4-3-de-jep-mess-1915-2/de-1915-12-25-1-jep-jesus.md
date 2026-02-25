@@ -9,5 +9,5 @@ weight:
 ---
 ### Was Sünde ist, wie sie entsteht und wodurch sie korrigiert wird
 
-
+Jesus - empfangen durch James Padgett am 25. Dezember 1915, Washington, DC, USA.
 

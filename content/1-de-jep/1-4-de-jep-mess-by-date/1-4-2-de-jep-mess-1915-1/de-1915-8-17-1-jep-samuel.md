@@ -9,5 +9,5 @@ weight:
 ---
 ### Samuel beschreibt den göttlichen Himmel
 
-
+Samuel - empfangen durch James Padgett am 17. August 1915, Washington, DC, USA.
 

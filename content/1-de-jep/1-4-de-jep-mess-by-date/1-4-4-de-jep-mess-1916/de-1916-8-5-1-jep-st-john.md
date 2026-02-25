@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes erklärt, was die Göttliche Liebe ist
 
-
+Johannes - empfangen durch James Padgett am 5. August 1916, Washington, DC, USA.
 

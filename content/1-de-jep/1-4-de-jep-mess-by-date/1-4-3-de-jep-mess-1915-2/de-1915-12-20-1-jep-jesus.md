@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus betont die Wichtigkeit der Seelenentwicklung
 
-
+Jesus - empfangen durch James Padgett am 20. Dezember 1915, Washington, DC, USA.
 

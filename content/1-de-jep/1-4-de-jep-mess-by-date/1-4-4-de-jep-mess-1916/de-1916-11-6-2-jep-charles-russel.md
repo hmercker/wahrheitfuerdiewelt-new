@@ -9,5 +9,5 @@ weight:
 ---
 ### Pastor Russell schreibt über seinen Übergang in die spirituelle Welt
 
-
+Charles Russel - empfangen durch James Padgett am 6. November 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary Kennedy spricht auch von der Reise in die spirituelle Welt durch beide, Dr. Stone und Herrn Padgett
 
-
+Mary Kennedy - empfangen durch James Padgett am 28. Dezember 1916, Washington, DC, USA.
 

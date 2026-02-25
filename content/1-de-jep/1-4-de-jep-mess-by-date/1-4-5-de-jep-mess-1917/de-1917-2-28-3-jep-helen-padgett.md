@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Luther schrieb 
 
-
+Helen Padgett - empfangen durch James Padgett am 28. Februar 1917, Washington, DC, USA.
 

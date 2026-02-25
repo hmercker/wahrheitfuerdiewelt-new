@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine Botschaft von Helen
 
-
+Helen Padgett - empfangen durch James Padgett am 6. Dezember 1915, Washington, DC, USA.
 

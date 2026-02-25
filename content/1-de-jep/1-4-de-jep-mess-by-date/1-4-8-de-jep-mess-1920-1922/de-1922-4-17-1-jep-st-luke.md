@@ -9,5 +9,5 @@ weight:
 ---
 ### Unsterblichkeit ist weit mehr als ein Leben nach dem Tod
 
-
+Lukas - empfangen durch James Padgett am 17. April 1922, Washington, DC, USA.
 

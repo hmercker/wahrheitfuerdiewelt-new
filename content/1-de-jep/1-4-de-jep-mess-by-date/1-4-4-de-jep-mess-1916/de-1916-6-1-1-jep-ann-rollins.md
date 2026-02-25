@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Notwendigkeit die Göttliche Liebe zu erlangen
 
-
+Ann Rollins - empfangen durch James Padgett am 1. Juni 1916, Washington, DC, USA.
 

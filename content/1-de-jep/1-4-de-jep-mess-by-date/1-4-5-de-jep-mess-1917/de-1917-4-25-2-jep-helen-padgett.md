@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bekräftigt, dass Johannes geschrieben hat und kommentiert das Gebet für materielle Dinge
 
-
+Helen Padgett - empfangen durch James Padgett am 25. April 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Was Menschen tun müssen, um Gott zu sehen und zu erkennen, dass Er ein persönlicher Gott ist
 
-
+Judas - empfangen durch James Padgett am 21. März 1922, Washington, DC, USA.
 

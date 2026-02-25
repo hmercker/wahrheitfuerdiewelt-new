@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Joe Shellington geschrieben hat
 
-
+Helen Padgett - empfangen durch James Padgett am 17. Juni 1915, Washington, DC, USA.
 

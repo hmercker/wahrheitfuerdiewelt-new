@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus bestätigt, was Salyads über Gott geschrieben hat
 
-
+Jesus - empfangen durch James Padgett am 22. November 1915, Washington, DC, USA.
 

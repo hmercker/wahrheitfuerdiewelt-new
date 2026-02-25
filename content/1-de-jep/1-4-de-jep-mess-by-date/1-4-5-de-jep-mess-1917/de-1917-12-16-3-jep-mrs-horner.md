@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein spirituelles Wesen schreibt einen sehr schönen Liebesbrief an ihren Seelenpartner
 
-
+Frau Horner - empfangen durch James Padgett am 16. Dezember 1917, Washington, DC, USA.
 

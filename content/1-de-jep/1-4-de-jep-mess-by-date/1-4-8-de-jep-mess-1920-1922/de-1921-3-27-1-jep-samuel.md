@@ -9,5 +9,5 @@ weight:
 ---
 ### Samuel korrigiert den biblischen Bericht von der Kreuzigung Jesu
 
-
+Samuel - empfangen durch James Padgett am 27. März 1921, Washington, DC, USA.
 

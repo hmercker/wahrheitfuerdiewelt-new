@@ -9,5 +9,5 @@ weight:
 ---
 ### Kate fordert Leslie auf, seine Schwestern über spirituelle Kommunikation zu informieren
 
-
+Kate Stone - empfangen durch James Padgett am 22. November 1915, Washington, DC, USA.
 

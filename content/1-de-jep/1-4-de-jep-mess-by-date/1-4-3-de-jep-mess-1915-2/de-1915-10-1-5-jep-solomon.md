@@ -9,5 +9,5 @@ weight:
 ---
 ### Hintergründe warum James Padgett auserwählt wurde
 
-
+Salomo - empfangen durch James Padgett am 1. Oktober 1915, Washington, DC, USA.
 

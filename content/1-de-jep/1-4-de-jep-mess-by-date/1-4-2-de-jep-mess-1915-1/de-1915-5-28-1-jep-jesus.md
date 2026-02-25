@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erklärt, was Unsterblichkeit bedeutet
 
-
+Jesus - empfangen durch James Padgett am 28. Mai 1915, Washington, DC, USA.
 

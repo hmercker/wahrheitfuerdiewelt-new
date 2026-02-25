@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen beschreibt die Liebesszene zwischen dem Doktor und seiner Seelenpartnerin Mary
 
-
+Helen Padgett - empfangen durch James Padgett am 8. Oktober 1915, Washington, DC, USA.
 

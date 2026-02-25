@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes ist der Schutzengel von Herrn Padgett und wird ihn überall hin begleiten
 
-
+Johannes - empfangen durch James Padgett am 15. März 1917, Washington, DC, USA.
 

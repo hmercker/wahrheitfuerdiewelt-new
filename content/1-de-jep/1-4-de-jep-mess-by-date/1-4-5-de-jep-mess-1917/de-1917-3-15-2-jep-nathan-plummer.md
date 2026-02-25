@@ -9,5 +9,5 @@ weight:
 ---
 ### Dr Stone, ein Freund von Nathan Plummer, hat ihm auf Erden und nach seinem Übergang in die spirituelle Welt geholfen
 
-
+Nathan Plummer - empfangen durch James Padgett am 15. März 1917, Washington, DC, USA.
 

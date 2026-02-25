@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert die Predigt über Neues Denken (New Thought)
 
-
+Helen Padgett - empfangen durch James Padgett am 11. Mai 1919, Washington, DC, USA.
 

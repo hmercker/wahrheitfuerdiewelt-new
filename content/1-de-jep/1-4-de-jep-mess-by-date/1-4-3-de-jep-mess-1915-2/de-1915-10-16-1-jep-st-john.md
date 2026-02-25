@@ -9,5 +9,5 @@ weight:
 ---
 ### Padgett ist sehr nahe dem Königreich
 
-
+Johannes - empfangen durch James Padgett am 16. Oktober 1915, Washington, DC, USA.
 

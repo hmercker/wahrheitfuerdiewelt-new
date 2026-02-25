@@ -9,5 +9,5 @@ weight:
 ---
 ### Frau Perry schreibt über die Seele ihres Sohnes, die sich jetzt für die Wahrheit öffnet
 
-
+Perry's Mutter - empfangen durch James Padgett am 17. Februar 1917, Washington, DC, USA.
 

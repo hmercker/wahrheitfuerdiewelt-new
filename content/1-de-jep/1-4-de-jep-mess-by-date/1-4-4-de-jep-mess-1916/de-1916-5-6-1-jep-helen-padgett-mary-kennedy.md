@@ -9,5 +9,5 @@ weight:
 ---
 ### Sowohl Helen als auch Mary schreiben diese Botschaft und Mary ist in die erste Himmelssphäre vorgedrungen
 
-
+Helen Padgett & Mary Kennedy - empfangen durch James Padgett am 6. Mai 1916, Washington, DC, USA.
 

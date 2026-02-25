@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen Padgett kommentiert die Botschaft George Whitefields
 
-
+Helen Padgett - empfangen durch James Padgett am 11. Oktober 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass die heilenden Kräfte der Göttlichen Liebe im Interesse von Herrn Morgan eingesetzt wurden
 
-
+Helen Padgett - empfangen durch James Padgett am 16. Mai 1916, Washington, DC, USA.
 

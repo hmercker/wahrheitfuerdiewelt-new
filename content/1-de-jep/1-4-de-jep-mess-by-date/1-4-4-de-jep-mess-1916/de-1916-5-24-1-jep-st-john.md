@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes kam um Padgett als auch Dr. Stone zu ermutigen, Vertrauen zu haben
 
-
+Johannes - empfangen durch James Padgett am 24. Mai 1916, Washington, DC, USA.
 

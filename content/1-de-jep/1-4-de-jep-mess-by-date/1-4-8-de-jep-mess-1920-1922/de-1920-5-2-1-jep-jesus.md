@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Göttlichen Wahrheiten muss der ganzen Menschheit bekannt gemacht werden
 
-
+Jesus - empfangen durch James Padgett am 02. Mai 1920, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen schreibt über die großartige Arbeit, die Eugene Morgan unter den Katholiken leistet
 
-
+Helen Padgett - empfangen durch James Padgett am 8. November 1917, Washington, DC, USA.
 

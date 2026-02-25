@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Konstrukteur der Großen Pyramide von Gizeh, in Ägypten
 
-
+Anaxylabis - empfangen durch James Padgett am 22. Juli 1915, Washington, DC, USA.
 

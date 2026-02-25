@@ -9,5 +9,5 @@ weight:
 ---
 ### Viele Gesetze des Alten Testaments kamen aus Tradition zu ihm
 
-
+Saul - empfangen durch James Padgett am 7. April 1916, Washington, DC, USA.
 

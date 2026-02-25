@@ -9,5 +9,5 @@ weight:
 ---
 ### Wer oder Was ist Gott
 
-
+Jesus - empfangen durch James Padgett am 25. Mai 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen und Mary schreiben von ihrer Liebe zu ihren Seelenpartnern auf Erden
 
-
+Helen Padgett & Mary Kennedy - empfangen durch James Padgett am 16. Februar 1920, Washington, DC, USA.
 

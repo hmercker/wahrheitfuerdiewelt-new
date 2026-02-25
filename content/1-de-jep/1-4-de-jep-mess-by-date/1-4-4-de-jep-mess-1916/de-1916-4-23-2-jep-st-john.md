@@ -9,5 +9,5 @@ weight:
 ---
 ### Das Leben endet nicht mit dem Tod
 
-
+Johannes - empfangen durch James Padgett am 23. April 1916, Washington, DC, USA.
 

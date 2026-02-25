@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Göttliche Liebe steht allen offen, ob auf Erden oder im spirituellen Reich
 
-
+John Garner - empfangen durch James Padgett am 8. August 1915, Washington, DC, USA.
 

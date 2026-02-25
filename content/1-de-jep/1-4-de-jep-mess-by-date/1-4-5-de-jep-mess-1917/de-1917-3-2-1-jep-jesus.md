@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Seele
 
-
+Jesus - empfangen durch James Padgett am 2. März 1917, Washington, DC, USA.
 

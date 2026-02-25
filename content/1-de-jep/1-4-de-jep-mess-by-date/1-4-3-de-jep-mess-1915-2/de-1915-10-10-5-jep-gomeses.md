@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein Grieche, der in der Zeit Christi lebte und ist jetzt ein himmlischer Engel
 
-
+Gomeses - empfangen durch James Padgett am 10. Oktober 1915, Washington, DC, USA.
 

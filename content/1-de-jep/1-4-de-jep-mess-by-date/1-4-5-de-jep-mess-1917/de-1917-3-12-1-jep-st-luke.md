@@ -9,5 +9,5 @@ weight:
 ---
 ### Was ist die Tatsache in Bezug auf die Authentizität der Bibel?
 
-
+Lukas - empfangen durch James Padgett am 12. März 1917, Washington, DC, USA.
 

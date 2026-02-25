@@ -9,5 +9,5 @@ weight:
 ---
 ### Perry's Mutter bedankt sich bei Herrn Padgett für seine Bemühungen, ihrem Sohn das Licht erblicken zu lassen
 
-
+Perry's Mutter - empfangen durch James Padgett am 4. März 1917, Washington, DC, USA.
 

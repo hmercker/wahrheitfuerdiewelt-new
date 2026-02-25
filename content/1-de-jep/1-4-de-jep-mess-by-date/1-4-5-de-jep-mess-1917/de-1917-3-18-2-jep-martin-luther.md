@@ -9,5 +9,5 @@ weight:
 ---
 ### Kommentare zum Krieg und seinen Folgen
 
-
+Martin Luther - empfangen durch James Padgett am 18. März 1917, Washington, DC, USA.
 

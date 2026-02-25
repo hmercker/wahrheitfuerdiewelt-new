@@ -9,5 +9,5 @@ weight:
 ---
 ### Augustinus sagt, dass man sich auf viele der Lehren der Bibel nicht verlassen kann
 
-
+Augustinus - empfangen durch James Padgett am 7. August 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Fortschritte auf dem Weg zu den Himmelssphären
 
-
+Saleeba - empfangen durch James Padgett am 8. Oktober 1915, Washington, DC, USA.
 

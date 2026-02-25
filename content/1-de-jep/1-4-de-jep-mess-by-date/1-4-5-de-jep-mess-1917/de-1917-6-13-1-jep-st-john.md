@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes als Schutzengel von Padgett ist sehr viel mit ihm zusammen und berät ihn bei den Vorträgen verschiedener Dozenten
 
-
+Johannes - empfangen durch James Padgett am 13. Juni 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erklärt anhand der Christian-Science Kirche, wie Gott den Menschen hilft
 
-
+Jesus - empfangen durch James Padgett am 5. April 1916, Washington, DC, USA.
 

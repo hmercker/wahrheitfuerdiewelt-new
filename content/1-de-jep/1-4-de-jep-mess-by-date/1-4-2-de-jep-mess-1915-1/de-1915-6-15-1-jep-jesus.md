@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erklärt, dass er ein Mensch und kein Gott ist
 
-
+Jesus - empfangen durch James Padgett am 15. Juni 1915, Washington, DC, USA.
 

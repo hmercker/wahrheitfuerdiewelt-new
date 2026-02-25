@@ -9,5 +9,5 @@ weight:
 ---
 ### Stieftochter Napoleons kennt jetzt den Weg zu den Göttlichen Himmel
 
-
+Helene Hortense - empfangen durch James Padgett am 27. Oktober 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein Diskurs über die Seele von Cornelius, dem ersten christlichen Nichtjuden
 
-
+Cornelius - empfangen durch James Padgett am 2. November 1915, Washington, DC, USA.
 

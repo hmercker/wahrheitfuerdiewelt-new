@@ -9,5 +9,5 @@ weight:
 ---
 ### Das Ergebnis der Verkündung Padgett's
 
-
+Jesus - empfangen durch James Padgett am 6. April 1915, Washington, DC, USA.
 

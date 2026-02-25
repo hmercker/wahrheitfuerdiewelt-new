@@ -9,5 +9,5 @@ weight:
 ---
 ### Beschreibt seine seelische Entwicklung
 
-
+Lafayette - empfangen durch James Padgett am 23. April 1916, Washington, DC, USA.
 

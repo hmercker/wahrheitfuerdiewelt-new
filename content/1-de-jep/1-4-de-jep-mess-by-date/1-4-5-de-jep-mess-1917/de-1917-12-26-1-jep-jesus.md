@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus ist weder Gott, noch darf er angebetet werden
 
-
+Jesus - empfangen durch James Padgett am 26. Dezember 1917, Washington, DC, USA.
 

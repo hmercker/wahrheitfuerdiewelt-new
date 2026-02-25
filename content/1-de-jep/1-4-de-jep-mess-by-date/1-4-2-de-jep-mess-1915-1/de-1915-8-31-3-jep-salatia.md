@@ -9,5 +9,5 @@ weight:
 ---
 ### Sie hat ihren Anfang in der spirituellen Welt in Dunkelheit und mit Leiden begonnen
 
-
+Salatia - empfangen durch James Padgett am 31. August 1915, Washington, DC, USA.
 

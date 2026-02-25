@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erwählt James Padgett als sein irdisches Werkzeug
 
-
+Jesus - empfangen durch James Padgett am 24. August 1915, Washington, DC, USA.
 

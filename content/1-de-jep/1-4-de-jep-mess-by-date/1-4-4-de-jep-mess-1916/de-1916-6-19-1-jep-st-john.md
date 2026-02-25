@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Zustand der Seele, während und nachdem die Göttliche Liebe in sie fließt
 
-
+Johannes - empfangen durch James Padgett am 19. Juni 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Lukas erklärt, was mit dem Leichnam Jesu passiert ist
 
-
+Lukas - empfangen durch James Padgett am 24. Oktober 1915, Washington, DC, USA.
 

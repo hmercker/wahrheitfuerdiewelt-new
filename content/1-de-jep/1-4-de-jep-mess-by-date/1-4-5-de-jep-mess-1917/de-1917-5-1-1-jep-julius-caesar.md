@@ -9,5 +9,5 @@ weight:
 ---
 ### Cäsar berichtet über seine Erfahrungen, nachdem er Hilfe von einem göttlichen spirituellen Wesen erhalten hat
 
-
+Julius Cäsar - empfangen durch James Padgett am 1. Mai 1917, Washington, DC, USA.
 

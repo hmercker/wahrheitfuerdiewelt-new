@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary sagt, dass Jakobus ein besonderes Interesse an ihm hat und alles tut, um zu seiner Entwicklung beizutragen
 
-
+Mary Kennedy - empfangen durch James Padgett am 13. Mai 1917, Washington, DC, USA.
 

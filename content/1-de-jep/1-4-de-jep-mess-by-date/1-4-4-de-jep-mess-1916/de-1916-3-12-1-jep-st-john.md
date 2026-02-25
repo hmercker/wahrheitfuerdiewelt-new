@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes korrigiert das Bild vom Himmel
 
-
+Johannes - empfangen durch James Padgett am 12. März 1916, Washington, DC, USA.
 

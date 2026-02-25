@@ -9,5 +9,5 @@ weight:
 ---
 ### Am Anfang war das Wort
 
-
+Johannes - empfangen durch James Padgett am 17. September 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Der skeptische Schriftsteller der Kolonialzeit, Thomas Paine, gesteht, dass er in einigen Belangen seines Glaubens im Irrtum war
 
-
+Thomas Paine - empfangen durch James Padgett am 20. Juni 1915, Washington, DC, USA.
 

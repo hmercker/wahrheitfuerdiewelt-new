@@ -9,5 +9,5 @@ weight:
 ---
 ### Bestätigung durch Petrus
 
-
+Petrus - empfangen durch James Padgett am 17. Juli 1915, Washington, DC, USA.
 

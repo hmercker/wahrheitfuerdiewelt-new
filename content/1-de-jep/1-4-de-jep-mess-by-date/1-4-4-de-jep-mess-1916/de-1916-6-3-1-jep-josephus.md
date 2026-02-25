@@ -9,5 +9,5 @@ weight:
 ---
 ### Schöpfung der ersten Eltern. Unterschiedlich in ihren Eigenschaften, gleich in ihrer Beziehung zu Gott
 
-
+Josephus - empfangen durch James Padgett am 3. Juni 1916, Washington, DC, USA.
 

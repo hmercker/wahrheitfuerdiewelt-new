@@ -9,5 +9,5 @@ weight:
 ---
 ### George Washington bestätigte, dass die spirituellen Wesen des Altertums schrieben
 
-
+George Washington - empfangen durch James Padgett am 12. August 1915, Washington, DC, USA.
 

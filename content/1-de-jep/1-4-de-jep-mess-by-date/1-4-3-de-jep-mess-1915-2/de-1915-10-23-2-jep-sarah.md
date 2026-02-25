@@ -9,5 +9,5 @@ weight:
 ---
 ### Sarah ist jetzt eine Christin
 
-
+Sarah - empfangen durch James Padgett am 23. Oktober 1915, Washington, DC, USA.
 

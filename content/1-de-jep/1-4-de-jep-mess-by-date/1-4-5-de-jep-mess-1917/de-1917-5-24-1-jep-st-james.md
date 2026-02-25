@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Schwächen des menschlichen Verstandes und moralische Qualitäten
 
-
+Jakobus - empfangen durch James Padgett am 24. Mai 1917, Washington, DC, USA.
 

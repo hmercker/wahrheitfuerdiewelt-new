@@ -9,5 +9,5 @@ weight:
 ---
 ### Bestätigung durch Andreas, dass Jesus durch Herrn Padgett schreibt
 
-
+Andreas - empfangen durch James Padgett am 17. Juli 1915, Washington, DC, USA.
 

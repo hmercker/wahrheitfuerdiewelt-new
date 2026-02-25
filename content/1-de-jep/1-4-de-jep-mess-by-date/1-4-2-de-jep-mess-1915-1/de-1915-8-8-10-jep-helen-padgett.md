@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen's Bestätigung
 
-
+Helen Padgett - empfangen durch James Padgett am 8. August 1915, Washington, DC, USA.
 

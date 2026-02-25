@@ -9,5 +9,5 @@ weight:
 ---
 ### Stephanus bestätigt, dass Jesus geschrieben hat
 
-
+Stephanus - empfangen durch James Padgett am 15. März 1916, Washington, DC, USA.
 

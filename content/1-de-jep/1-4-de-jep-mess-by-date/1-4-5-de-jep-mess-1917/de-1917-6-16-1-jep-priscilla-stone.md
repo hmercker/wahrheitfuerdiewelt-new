@@ -9,5 +9,5 @@ weight:
 ---
 ### Priscilla Stone ist dankbar für die Botschaften
 
-
+Priscilla Stone - empfangen durch James Padgett am 16. Juni 1917, Washington, DC, USA.
 

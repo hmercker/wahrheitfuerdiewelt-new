@@ -9,5 +9,5 @@ weight:
 ---
 ### Cornelius, der Zenturio der Bibel und der erste nichtjüdische Christ. Jetzt im Göttlichen Himmel.
 
-
+Cornelius - empfangen durch James Padgett am 12. September 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass John Wesley geschrieben hat
 
-
+Helen Padgett - empfangen durch James Padgett am 15. November 1918, Washington, DC, USA.
 

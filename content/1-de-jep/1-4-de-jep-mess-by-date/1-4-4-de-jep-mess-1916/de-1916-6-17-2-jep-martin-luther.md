@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine kurze Nachricht von Martin Luther
 
-
+Martin Luther - empfangen durch James Padgett am 17. Juni 1916, Washington, DC, USA.
 

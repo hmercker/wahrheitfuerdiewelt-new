@@ -9,5 +9,5 @@ weight:
 ---
 ### Erste formelle Nachricht von Dr. Stone's Vater, William Stone
 
-
+William Stone - empfangen durch James Padgett am 14. November 1915, Washington, DC, USA.
 

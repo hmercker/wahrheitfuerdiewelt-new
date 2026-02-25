@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes erklärt die Trennungen der Seelenpartner im Fall, dass nicht beide die Göttliche Liebe erlangen
 
-
+Johannes - empfangen durch James Padgett am 26. Mai 1916, Washington, DC, USA.
 

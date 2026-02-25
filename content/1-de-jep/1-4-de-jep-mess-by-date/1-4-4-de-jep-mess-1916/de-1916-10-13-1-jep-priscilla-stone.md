@@ -9,5 +9,5 @@ weight:
 ---
 ### Priscilla Stone bringt erneut ihre grosse Liebe zu ihrem Sohn zum Ausdruck 
 
-
+Priscilla Stone - empfangen durch James Padgett am 13. Oktober 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Sowohl Padgett als auch Stone haben richtige Vorstellungen von spiritueller Wahrheit
 
-
+AG Riddle - empfangen durch James Padgett am 6. Oktober 1915, Washington, DC, USA.
 

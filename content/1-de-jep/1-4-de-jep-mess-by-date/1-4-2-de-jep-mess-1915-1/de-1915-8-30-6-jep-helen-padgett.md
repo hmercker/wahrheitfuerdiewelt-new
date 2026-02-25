@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Amon über die Schöpfung der ersten Eltern geschrieben hat
 
-
+Helen Padgett - empfangen durch James Padgett am 30. August 1915, Washington, DC, USA.
 

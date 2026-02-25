@@ -9,5 +9,5 @@ weight:
 ---
 ### Emerson, ein Bewohner der sechsten Sphäre, spricht von ihrer Reinheit
 
-
+Ralph Waldo Emerson - empfangen durch James Padgett am 6. März 1919, Washington, DC, USA.
 

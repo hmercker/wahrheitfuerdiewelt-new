@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Himmlische Wesen geschrieben haben
 
-
+Helen Padgett - empfangen durch James Padgett am 10. August 1915, Washington, DC, USA.
 

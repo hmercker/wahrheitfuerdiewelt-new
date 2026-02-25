@@ -9,5 +9,5 @@ weight:
 ---
 ### Allein die Göttliche Liebe befreit den Menschen aus seiner Begrenzung
 
-
+Jesus - empfangen durch James Padgett am 2. Juni 1915, Washington, DC, USA.
 

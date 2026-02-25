@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Auswirkungen der Seelenentwicklung auf den physischen Verstand nach dem Tod
 
-
+Caligula - empfangen durch James Padgett am 25. Oktober 1915, Washington, DC, USA.
 

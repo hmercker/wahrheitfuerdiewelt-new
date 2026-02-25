@@ -9,5 +9,5 @@ weight:
 ---
 ### Luther kommentiert die Broschüre Schwedenborg's "Menschgewordener Gott"
 
-
+Martin Luther - empfangen durch James Padgett am 28. Februar 1917, Washington, DC, USA.
 

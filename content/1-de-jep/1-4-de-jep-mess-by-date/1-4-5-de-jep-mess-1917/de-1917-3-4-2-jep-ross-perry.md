@@ -9,5 +9,5 @@ weight:
 ---
 ### Perry fühlt sich besser und ist dankbar für all die Hilfe
 
-
+Ross Perry - empfangen durch James Padgett am 4. März 1917, Washington, DC, USA.
 

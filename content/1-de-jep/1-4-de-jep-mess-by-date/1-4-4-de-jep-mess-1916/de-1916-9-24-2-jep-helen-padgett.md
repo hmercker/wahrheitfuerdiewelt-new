@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen Padgett bestätigt dass Jesus schrieb
 
-
+Helen Padgett - empfangen durch James Padgett am 24. September 1916, Washington, DC, USA.
 

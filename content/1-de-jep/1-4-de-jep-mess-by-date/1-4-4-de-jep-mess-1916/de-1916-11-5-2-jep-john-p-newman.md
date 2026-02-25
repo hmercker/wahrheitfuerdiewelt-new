@@ -9,5 +9,5 @@ weight:
 ---
 ### Bishop John P Newman bedauert, die Lehre der Dreifaltigkeit verbreitet zu haben
 
-
+John P Newman - empfangen durch James Padgett am 5. November 1916, Washington, DC, USA.
 

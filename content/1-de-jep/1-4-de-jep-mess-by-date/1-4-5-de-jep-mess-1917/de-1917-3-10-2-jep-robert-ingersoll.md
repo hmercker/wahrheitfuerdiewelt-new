@@ -9,5 +9,5 @@ weight:
 ---
 ### Leben und Tod, die Freunde der Sterblichen, jeder ist willkommen
 
-
+Robert Ingersoll - empfangen durch James Padgett am 10. März 1917, Washington, DC, USA.
 

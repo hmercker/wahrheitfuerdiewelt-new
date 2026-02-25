@@ -9,5 +9,5 @@ weight:
 ---
 ### Elias spricht über die Wichtigkeit, in einen guten Zustand zu kommen, um den spirituellen Wesen das Schreiben zu ermöglichen
 
-
+Elias - empfangen durch James Padgett am 14. April 1917, Washington, DC, USA.
 

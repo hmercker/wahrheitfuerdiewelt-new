@@ -9,5 +9,5 @@ weight:
 ---
 ### Der einzige Weg zum Reich Gottes in den Göttlichen Himmeln
 
-
+Jesus - empfangen durch James Padgett am 15. Mai 1917, Washington, DC, USA.
 

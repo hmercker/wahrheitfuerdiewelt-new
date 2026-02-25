@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes erklärt, warum es so wichtig ist, um die Göttliche Liebe zu beten
 
-
+Johannes - empfangen durch James Padgett am 5. Oktober 1915, Washington, DC, USA.
 

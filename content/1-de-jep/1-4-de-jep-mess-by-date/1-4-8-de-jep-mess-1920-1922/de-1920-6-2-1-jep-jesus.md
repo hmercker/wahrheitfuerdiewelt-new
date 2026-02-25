@@ -9,5 +9,5 @@ weight:
 ---
 ### Die wahre Unsterblichkeit
 
-
+Jesus - empfangen durch James Padgett am 02. Juni 1920, Washington, DC, USA.
 

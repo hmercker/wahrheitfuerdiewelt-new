@@ -9,5 +9,5 @@ weight:
 ---
 ### Bestätigung durch Markus, dass der Meister die große Arbeit durch Herrn Padgett ausführt
 
-
+Markus - empfangen durch James Padgett am 20. Juli 1915, Washington, DC, USA.
 

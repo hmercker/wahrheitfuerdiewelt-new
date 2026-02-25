@@ -9,5 +9,5 @@ weight:
 ---
 ### Mills ist erstaunt über die Fortschritte die Forrest aus der Dunkelheit machte und wird versuchen, dasselbe zu tun
 
-
+Samuel Mills - empfangen durch James Padgett am 3. März 1917, Washington, DC, USA.
 

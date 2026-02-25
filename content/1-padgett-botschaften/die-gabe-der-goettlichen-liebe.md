@@ -4,7 +4,7 @@ menu_title: "Die Gabe der Göttlichen Liebe"
 description: "Die Gabe der Göttlichen Liebe"
 date: 2020-06-28 15:43:52+00:00
 draft: False
-hidden: False
+hidden: True
 weight: 20
 ---
 ## Die Gabe der Göttlichen Liebe

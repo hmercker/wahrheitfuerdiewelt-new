@@ -9,5 +9,5 @@ weight:
 ---
 ### Was kann den Menschen ins Göttliche erheben?
 
-
+Jesus - empfangen durch James Padgett am 15. März 1916, Washington, DC, USA.
 

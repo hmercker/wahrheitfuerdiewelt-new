@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary schreibt, dass die Liebe eines Seelenpartner's nie aufhört zu existieren
 
-
+Mary Kennedy - empfangen durch James Padgett am 11. Oktober 1917, Washington, DC, USA.
 

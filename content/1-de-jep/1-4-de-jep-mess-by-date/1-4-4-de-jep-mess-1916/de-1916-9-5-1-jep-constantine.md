@@ -9,5 +9,5 @@ weight:
 ---
 ### Konstantin erklärt, wie das Christentum zur Staatsreligion wurde
 
-
+Konstantin - empfangen durch James Padgett am 5. September 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein Kommentar über die religiösen Zeremonien
 
-
+Martin Luther - empfangen durch James Padgett am 29. Juni 1916, Washington, DC, USA.
 

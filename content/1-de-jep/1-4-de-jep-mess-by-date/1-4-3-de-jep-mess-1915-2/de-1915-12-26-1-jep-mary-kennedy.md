@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary erklärt weiterhin die Liebe der Seelenpartner
 
-
+Mary Kennedy - empfangen durch James Padgett am 26. Dezember 1915, Washington, DC, USA.
 

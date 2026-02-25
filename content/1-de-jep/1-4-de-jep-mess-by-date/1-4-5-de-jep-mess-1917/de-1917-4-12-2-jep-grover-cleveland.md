@@ -9,5 +9,5 @@ weight:
 ---
 ### Grover Cleveland dankt Herrn Padgett
 
-
+Grover Cleveland - empfangen durch James Padgett am 12. April 1917, Washington, DC, USA.
 

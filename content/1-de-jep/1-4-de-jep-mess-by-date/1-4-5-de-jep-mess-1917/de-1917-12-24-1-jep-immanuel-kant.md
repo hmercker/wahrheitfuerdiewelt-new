@@ -9,5 +9,5 @@ weight:
 ---
 ### Kant wusste nur von der natürlichen Liebe, interessiert sich nun für die Göttliche Liebe
 
-
+Immanuel Kant - empfangen durch James Padgett am 24. Dezember 1917, Washington, DC, USA.
 

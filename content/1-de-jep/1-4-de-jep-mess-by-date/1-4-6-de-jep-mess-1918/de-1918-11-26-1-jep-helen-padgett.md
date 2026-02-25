@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen erklärt Göttliche Liebe, natürliche Liebe, seelenverwandte Liebe und andere Lieben
 
-
+Helen Padgett - empfangen durch James Padgett am 26. November 1918, Washington, DC, USA.
 

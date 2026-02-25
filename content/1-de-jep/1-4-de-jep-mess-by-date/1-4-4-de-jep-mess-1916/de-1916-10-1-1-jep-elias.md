@@ -9,5 +9,5 @@ weight:
 ---
 ### Elias diskutiert die Geschichte der Zeiten, als er auf Erden lebte
 
-
+Elias - empfangen durch James Padgett am 1. Oktober 1916, Washington, DC, USA.
 

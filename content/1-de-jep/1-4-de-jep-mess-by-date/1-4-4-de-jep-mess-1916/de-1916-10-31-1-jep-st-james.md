@@ -9,5 +9,5 @@ weight:
 ---
 ### Jakobus sagt, dass Padgett bald Erleichterung von seinen Sorgen bekommen wird
 
-
+Jakobus - empfangen durch James Padgett am 31. Oktober 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein Attribut Gottes ist die liebevolle Fürsorge die er für Seine Kinder hat
 
-
+Jesus - empfangen durch James Padgett am 19. September 1920, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bekräftigt, dass Stephanus über die Bedeutung der Göttlichen Liebe geschrieben hat
 
-
+Helen Padgett - empfangen durch James Padgett am 13. November 1918, Washington, DC, USA.
 

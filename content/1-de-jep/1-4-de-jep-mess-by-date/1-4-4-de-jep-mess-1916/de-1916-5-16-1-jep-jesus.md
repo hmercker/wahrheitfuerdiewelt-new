@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erklärt, was spirituelle Heilung ist
 
-
+Jesus - empfangen durch James Padgett am 16. Mai 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Riddle versucht einem niedrigeren spirituellen Wesen zu helfen, den Fortschritt zu verstehen
 
-
+AG Riddle - empfangen durch James Padgett am 6. April 1915, Washington, DC, USA.
 

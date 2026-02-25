@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Wahrheit über die Höllen
 
-
+Johannes - empfangen durch James Padgett am 19. Dezember 1915, Washington, DC, USA.
 

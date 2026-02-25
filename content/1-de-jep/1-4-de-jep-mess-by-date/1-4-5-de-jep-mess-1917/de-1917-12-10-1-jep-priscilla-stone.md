@@ -9,5 +9,5 @@ weight:
 ---
 ### Priscilla Stone erzählt von ihrem spirituellen Fortschritt
 
-
+Priscilla Stone - empfangen durch James Padgett am 10. Dezember 1917, Washington, DC, USA.
 

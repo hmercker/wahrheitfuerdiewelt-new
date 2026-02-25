@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Wahrheiten dürfen weder durch Predigten oder Lehren noch durch Hinweise auf die Bibel widerlegt werden
 
-
+Jakobus - empfangen durch James Padgett am 28. Oktober 1915, Washington, DC, USA.
 

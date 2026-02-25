@@ -9,5 +9,5 @@ weight:
 ---
 ### Wie der Mensch wieder zum vollkommenen Menschen werden kann, wie die ersten Eltern vor ihrem Fall
 
-
+Jakobus - empfangen durch James Padgett am 8. März 1917, Washington, DC, USA.
 

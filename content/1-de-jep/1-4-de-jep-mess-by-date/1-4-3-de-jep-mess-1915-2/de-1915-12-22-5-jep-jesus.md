@@ -9,5 +9,5 @@ weight:
 ---
 ### Letzte Nacht nicht anwesend, als das böse spirituelle Wesen kam
 
-
+Jesus - empfangen durch James Padgett am 22. Dezember 1915, Washington, DC, USA.
 

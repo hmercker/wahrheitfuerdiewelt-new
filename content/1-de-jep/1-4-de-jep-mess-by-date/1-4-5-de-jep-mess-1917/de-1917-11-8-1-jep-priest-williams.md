@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein katholischer Priester spricht mit Herrn Morgan
 
-
+Priester Williams - empfangen durch James Padgett am 8. November 1917, Washington, DC, USA.
 

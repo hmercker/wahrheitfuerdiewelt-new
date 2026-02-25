@@ -9,5 +9,5 @@ weight:
 ---
 ### Ingersoll kommentiert die Lehren von Swedenborg während seines Erdenlebens
 
-
+Robert Ingersoll - empfangen durch James Padgett am 29. März 1917, Washington, DC, USA.
 

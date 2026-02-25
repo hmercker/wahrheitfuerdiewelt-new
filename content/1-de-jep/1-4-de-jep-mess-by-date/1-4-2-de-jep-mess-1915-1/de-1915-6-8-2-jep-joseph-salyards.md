@@ -9,5 +9,5 @@ weight:
 ---
 ### Professor Joseph Salyards kommentiert die Botschaft Jesu
 
-
+Joseph Salyards - empfangen durch James Padgett am 8. Juni 1915, Washington, DC, USA.
 

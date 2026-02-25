@@ -9,5 +9,5 @@ weight:
 ---
 ### Elias erläutert die Bedeutung der Verklärung auf dem Berg Tabor
 
-
+Elias - empfangen durch James Padgett am 11. Oktober 1916, Washington, DC, USA.
 

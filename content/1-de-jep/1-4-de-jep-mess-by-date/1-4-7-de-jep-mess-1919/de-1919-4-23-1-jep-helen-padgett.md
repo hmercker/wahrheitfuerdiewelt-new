@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen schreibt über den Besuch, den Padgett mit Dr. Stone bei Dr. Arbelee gemacht hat, der sich in einem Zustand des Todes befand
 
-
+Helen Padgett - empfangen durch James Padgett am 23. April 1919, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### William Stone ist bemüht, das Zuhause seiner Frau zu erreichen um bei ihr zu sein
 
-
+William Stone - empfangen durch James Padgett am 23. November 1915, Washington, DC, USA.
 

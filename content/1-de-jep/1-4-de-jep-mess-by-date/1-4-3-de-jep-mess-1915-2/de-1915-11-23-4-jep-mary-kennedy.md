@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary ist glücklich, wenn sie Leslie schreiben darf
 
-
+Mary Kennedy - empfangen durch James Padgett am 23. November 1915, Washington, DC, USA.
 

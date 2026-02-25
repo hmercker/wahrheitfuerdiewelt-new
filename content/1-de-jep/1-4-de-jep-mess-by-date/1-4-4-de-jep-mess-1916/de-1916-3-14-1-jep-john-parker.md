@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein Bewohner der Siebten Sphäre möchte Padgett versichern, dass die Schreiber wahrhaftig die sind, für die sie sich ausgeben
 
-
+John Parker - empfangen durch James Padgett am 14. März 1916, Washington, DC, USA.
 

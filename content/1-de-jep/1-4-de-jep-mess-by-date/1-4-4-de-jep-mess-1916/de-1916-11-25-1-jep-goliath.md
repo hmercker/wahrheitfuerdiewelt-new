@@ -9,5 +9,5 @@ weight:
 ---
 ### Der berühmte Riese Goliath der Philister versichert, dass es nach dem Tod des sterblichen Körpers keine Reinkarnation gibt
 
-
+Goliath - empfangen durch James Padgett am 25. November 1916, Washington, DC, USA.
 

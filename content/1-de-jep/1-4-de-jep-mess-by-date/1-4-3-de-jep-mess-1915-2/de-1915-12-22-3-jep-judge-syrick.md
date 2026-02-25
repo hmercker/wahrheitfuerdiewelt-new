@@ -9,5 +9,5 @@ weight:
 ---
 ### Richter Syrick bestätigt Helen's Schönheit
 
-
+Richter Syrick - empfangen durch James Padgett am 22. Dezember 1915, Washington, DC, USA.
 

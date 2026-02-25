@@ -9,5 +9,5 @@ weight:
 ---
 ### Selim weiß was die neue Geburt ist
 
-
+Selim - empfangen durch James Padgett am 20. August 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesu Hilfe ist spirituell grenzenlos, aber die materielle Hilfe hängt vom Individuum selbst ab
 
-
+Jesus - empfangen durch James Padgett am 12. Januar 1919, Washington, DC, USA.
 

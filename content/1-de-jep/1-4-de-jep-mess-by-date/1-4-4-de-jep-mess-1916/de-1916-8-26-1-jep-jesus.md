@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus kündigt eine Botschaft an, die erklärt, was Seele und was Geist ist
 
-
+Jesus - empfangen durch James Padgett am 26. August 1916, Washington, DC, USA.
 

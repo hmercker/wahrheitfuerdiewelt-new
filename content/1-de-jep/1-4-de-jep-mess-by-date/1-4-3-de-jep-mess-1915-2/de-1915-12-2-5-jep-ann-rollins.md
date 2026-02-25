@@ -9,5 +9,5 @@ weight:
 ---
 ### Ann Rollins bestätigte, dass der Meister mit solcher Kraft und Herrlichkeit schrieb
 
-
+Ann Rollins - empfangen durch James Padgett am 2. Dezember 1915, Washington, DC, USA.
 

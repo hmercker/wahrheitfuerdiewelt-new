@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Zustand der Menschen ist so, dass es für sie von grösster Wichtigkeit ist, die Wahrheit zu erfahren
 
-
+John Wesley - empfangen durch James Padgett am 15. November 1918, Washington, DC, USA.
 

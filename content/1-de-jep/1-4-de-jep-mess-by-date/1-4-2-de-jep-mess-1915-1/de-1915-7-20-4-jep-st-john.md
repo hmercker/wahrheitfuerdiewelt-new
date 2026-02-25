@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes bestätigt, dass er der Johannes der Bibel ist
 
-
+Johannes - empfangen durch James Padgett am 20. Juli 1915, Washington, DC, USA.
 

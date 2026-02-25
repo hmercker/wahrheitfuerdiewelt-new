@@ -9,5 +9,5 @@ weight:
 ---
 ### Jakobus wurde von der großen Gegenwart Jesu überwältigt
 
-
+Jakobus - empfangen durch James Padgett am 2. Dezember 1915, Washington, DC, USA.
 

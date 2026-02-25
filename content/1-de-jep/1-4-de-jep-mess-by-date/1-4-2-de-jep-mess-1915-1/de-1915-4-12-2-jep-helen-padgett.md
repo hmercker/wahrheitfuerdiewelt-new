@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen sagt, dass mit zunehmender Liebe zum Vater auch ihre Liebe zu ihm zunimmt
 
-
+Helen Padgett - empfangen durch James Padgett am 12. April 1915, Washington, DC, USA.
 

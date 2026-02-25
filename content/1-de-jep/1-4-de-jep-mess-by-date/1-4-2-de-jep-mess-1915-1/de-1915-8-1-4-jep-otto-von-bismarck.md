@@ -9,5 +9,5 @@ weight:
 ---
 ### Bismarck ist anderer Meinung was Lafayette über den deutschen Kaiser geschrieben hat
 
-
+Otto von Bismarck - empfangen durch James Padgett am 1. August 1915, Washington, DC, USA.
 

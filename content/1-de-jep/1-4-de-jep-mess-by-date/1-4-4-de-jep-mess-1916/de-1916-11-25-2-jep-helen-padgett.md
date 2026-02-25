@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt die Aussage, dass es keine Reinkarnation gibt
 
-
+Helen Padgett - empfangen durch James Padgett am 25. November 1916, Washington, DC, USA.
 

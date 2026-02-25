@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Judas über die unverzeihliche Sünde geschrieben hat
 
-
+Helen Padgett - empfangen durch James Padgett am 21. Oktober 1916, Washington, DC, USA.
 

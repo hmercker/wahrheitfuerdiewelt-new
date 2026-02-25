@@ -9,5 +9,5 @@ weight:
 ---
 ### Wer da lebt und an mich glaubt, der wird in Ewigkeit nicht sterben
 
-
+Jesus - empfangen durch James Padgett am 15. August 1915, Washington, DC, USA.
 

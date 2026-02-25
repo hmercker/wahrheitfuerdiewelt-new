@@ -9,5 +9,5 @@ weight:
 ---
 ### Sie hat noch nie so helle Wesen gesehen wie jene, die Herrn Padgett umgeben, wenn er diese Botschaften erhält
 
-
+Elizabeth Browning - empfangen durch James Padgett am 16. Juni 1917, Washington, DC, USA.
 

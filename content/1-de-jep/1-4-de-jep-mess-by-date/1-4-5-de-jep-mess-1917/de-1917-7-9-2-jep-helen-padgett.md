@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert das Gebet zur Beseitigung von Sorgen
 
-
+Helen Padgett - empfangen durch James Padgett am 9. Juli 1917, Washington, DC, USA.
 

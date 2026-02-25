@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen schrieb, dass Perry um die Göttliche Liebe betet und beginnt die große Liebe seiner Mutter zu erkennen
 
-
+Helen Padgett - empfangen durch James Padgett am 4. März 1917, Washington, DC, USA.
 

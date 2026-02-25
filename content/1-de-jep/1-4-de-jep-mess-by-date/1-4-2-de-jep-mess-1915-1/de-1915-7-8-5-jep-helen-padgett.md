@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine Bestätigung, dass Sokrates durch Herrn Padgett geschrieben hat
 
-
+Helen Padgett - empfangen durch James Padgett am 8. Juli 1915, Washington, DC, USA.
 

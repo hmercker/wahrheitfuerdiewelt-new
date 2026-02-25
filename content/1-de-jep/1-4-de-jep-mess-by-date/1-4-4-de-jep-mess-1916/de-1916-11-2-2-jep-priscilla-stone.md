@@ -9,5 +9,5 @@ weight:
 ---
 ### Priscilla Stone erzählt ihrem Sohn Leslie, dass seine Seele immer mehr von der Liebe des Vaters erfüllt wird
 
-
+Priscilla Stone - empfangen durch James Padgett am 2. November 1916, Washington, DC, USA.
 

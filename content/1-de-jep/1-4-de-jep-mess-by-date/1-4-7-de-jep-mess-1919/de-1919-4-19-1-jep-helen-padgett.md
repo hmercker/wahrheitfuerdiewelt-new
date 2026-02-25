@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert das Buch "The Life Beyond Death", das Herr Padgett las
 
-
+Helen Padgett - empfangen durch James Padgett am 19. April 1919, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus bittet Padgett, seine Seele zu entwickeln, um das gemeinsame Werk fortzusetzen
 
-
+Jesus  - empfangen durch James Padgett am 01. Juni 1920, Washington, DC, USA.
 

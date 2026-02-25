@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus setzt seine Botschaft über seine Geburt, Leben und Wirken fort
 
-
+Jesus - empfangen durch James Padgett am 8. Juni 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Viele Wunder Jesu haben sich niemals ereignet
 
-
+Petrus - empfangen durch James Padgett am 30. Mai 1917, Washington, DC, USA.
 

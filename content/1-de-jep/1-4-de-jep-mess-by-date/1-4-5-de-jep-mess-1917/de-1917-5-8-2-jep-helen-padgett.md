@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert die Botschaft Jesu über Padgetts Werk unter den dunklen spirituellen Wesen
 
-
+Helen Padgett - empfangen durch James Padgett am 8. Mai 1917, Washington, DC, USA.
 

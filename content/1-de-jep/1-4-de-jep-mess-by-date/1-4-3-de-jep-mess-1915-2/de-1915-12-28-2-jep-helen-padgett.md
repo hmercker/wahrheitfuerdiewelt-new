@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen Padgett erreicht die Dritte, göttliche Sphäre
 
-
+Helen Padgett - empfangen durch James Padgett am 28. Dezember 1915, Washington, DC, USA.
 

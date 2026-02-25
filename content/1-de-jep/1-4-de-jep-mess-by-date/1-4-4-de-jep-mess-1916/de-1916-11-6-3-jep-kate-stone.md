@@ -9,5 +9,5 @@ weight:
 ---
 ### Dr. Stones Schwester verweist, wie auch John Padgett, auf den deprimierenden Einfluss, den Richard der Dritte mit sich brachte
 
-
+Kate Stone - empfangen durch James Padgett am 6. November 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Leytergus schrieb ein Buch, das eine Beschreibung der Schöpfung und des Sündenfalls des Menschen enthielt
 
-
+Leytergus - empfangen durch James Padgett am 10. August 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Dieser Schriftsteller erzählt von seinen religiösen Ansichten die er auf Erden hatte
 
-
+Robert Ingersoll - empfangen durch James Padgett am 5. August 1915, Washington, DC, USA.
 

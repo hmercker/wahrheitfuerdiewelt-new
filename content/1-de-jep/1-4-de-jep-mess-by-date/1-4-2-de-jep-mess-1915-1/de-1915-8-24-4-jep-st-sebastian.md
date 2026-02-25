@@ -9,5 +9,5 @@ weight:
 ---
 ### Sebastian möchte, dass Herr Padgett weiß, dass er in der Lage ist zu schreiben
 
-
+Sebastian - empfangen durch James Padgett am 24. August 1915, Washington, DC, USA.
 

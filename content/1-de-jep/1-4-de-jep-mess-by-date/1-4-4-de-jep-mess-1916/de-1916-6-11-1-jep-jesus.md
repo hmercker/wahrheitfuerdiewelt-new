@@ -9,5 +9,5 @@ weight:
 ---
 ### Was der Mensch tun muss um seine natürliche Liebe zu läutern
 
-
+Jesus - empfangen durch James Padgett am 11. Juni 1916, Washington, DC, USA.
 

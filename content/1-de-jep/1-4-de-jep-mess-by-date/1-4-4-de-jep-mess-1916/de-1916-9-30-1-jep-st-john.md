@@ -9,5 +9,5 @@ weight:
 ---
 ### Fortsetzung der vorhergehenden Botschaft
 
-
+Johannes - empfangen durch James Padgett am 30. September 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary schreibt, dass beide Elternteile von Dr. Stone jetzt in den Göttlichen Himmeln leben
 
-
+Mary Kennedy - empfangen durch James Padgett am 10. Juni 1920, Washington, DC, USA.
 

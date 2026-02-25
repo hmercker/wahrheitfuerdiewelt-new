@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes versichert, dass Maria, die Mutter Jesu, geschrieben hat
 
-
+Johannes - empfangen durch James Padgett am 16. April 1916, Washington, DC, USA.
 

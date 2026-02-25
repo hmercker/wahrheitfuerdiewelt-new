@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary sagt, ihre Seelenpartner-Liebe zu Leslie sei wie eine verzehrende Flamme
 
-
+Mary Kennedy - empfangen durch James Padgett am 16. Dezember 1916, Washington, DC, USA.
 

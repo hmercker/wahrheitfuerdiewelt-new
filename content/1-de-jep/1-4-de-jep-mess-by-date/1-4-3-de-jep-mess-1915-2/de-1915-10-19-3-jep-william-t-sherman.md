@@ -9,5 +9,5 @@ weight:
 ---
 ### William T Sherman ist derselbe wie auf Erden
 
-
+William T Sherman - empfangen durch James Padgett am 19. Oktober 1915, Washington, DC, USA.
 

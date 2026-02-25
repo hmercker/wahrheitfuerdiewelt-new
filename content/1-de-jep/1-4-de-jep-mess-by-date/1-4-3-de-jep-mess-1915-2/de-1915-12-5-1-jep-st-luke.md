@@ -9,5 +9,5 @@ weight:
 ---
 ### Warum der Spiritualismus, wie er jetzt gelehrt wird, die Seele nicht zufrieden stellt
 
-
+Lukas - empfangen durch James Padgett am 5. Dezember 1915, Washington, DC, USA.
 

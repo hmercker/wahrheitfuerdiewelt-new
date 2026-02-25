@@ -9,5 +9,5 @@ weight:
 ---
 ### Eugene Morgans Mutter schreibt
 
-
+Frau Morgan - empfangen durch James Padgett am 1. November 1915, Washington, DC, USA.
 

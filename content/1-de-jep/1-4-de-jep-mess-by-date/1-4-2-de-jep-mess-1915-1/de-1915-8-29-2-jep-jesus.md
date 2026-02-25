@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus empfiehlt Padgett, Gottesdienste der Kirche der Heiligung zu besuchen
 
-
+Jesus - empfangen durch James Padgett am 29. August 1915, Washington, DC, USA.
 

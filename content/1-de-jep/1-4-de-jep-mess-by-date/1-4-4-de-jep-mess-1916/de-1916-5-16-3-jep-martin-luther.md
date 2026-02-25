@@ -9,5 +9,5 @@ weight:
 ---
 ### Luther sieht die Notwendigkeit der Korrektur vieler Glaubensgrundsätze seiner Anhänger
 
-
+Martin Luther - empfangen durch James Padgett am 16. Mai 1916, Washington, DC, USA.
 

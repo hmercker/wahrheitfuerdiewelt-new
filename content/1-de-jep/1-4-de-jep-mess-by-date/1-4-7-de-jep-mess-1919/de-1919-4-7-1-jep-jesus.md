@@ -9,5 +9,5 @@ weight:
 ---
 ### Gott und Seine Persönlichkeit
 
-
+Jesus - empfangen durch James Padgett am 07. April 1919, Washington, DC, USA.
 

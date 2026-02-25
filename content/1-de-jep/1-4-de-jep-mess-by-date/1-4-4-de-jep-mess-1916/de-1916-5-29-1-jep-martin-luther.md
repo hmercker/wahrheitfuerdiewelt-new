@@ -9,5 +9,5 @@ weight:
 ---
 ### Luther ist sehr bestrebt, dass die Wahrheiten seinen Anhängern bekannt gemacht werden
 
-
+Martin Luther - empfangen durch James Padgett am 29. Mai 1916, Washington, DC, USA.
 

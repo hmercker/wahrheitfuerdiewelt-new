@@ -9,5 +9,5 @@ weight:
 ---
 ### Kommentare zu einem Artikel von James Hyslop bezüglich der Gesetze, die in bestimmten Wundern Jesu wirkten
 
-
+Francis Bacon - empfangen durch James Padgett am 20. November 1918, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erklärt, was Besetzung ist und dass es Reinkarnation nicht gibt
 
-
+Jesus - empfangen durch James Padgett am 13. Juni 1916, Washington, DC, USA.
 

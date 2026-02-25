@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass der Meister schrieb
 
-
+Helen Padgett - empfangen durch James Padgett am 22. März 1916, Washington, DC, USA.
 

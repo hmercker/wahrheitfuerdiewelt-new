@@ -9,5 +9,5 @@ weight:
 ---
 ### Francis Miller schreibt
 
-
+Francis Miller - empfangen durch James Padgett am 5. April 1917, Washington, DC, USA.
 

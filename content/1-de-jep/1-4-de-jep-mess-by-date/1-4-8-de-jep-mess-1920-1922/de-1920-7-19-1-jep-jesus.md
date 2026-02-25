@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus war anwesend als Padgett und Dr. Stone sich über spirituelle Dinge unterhielten
 
-
+Jesus - empfangen durch James Padgett am 19. Juli 1920, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Petrus bestätigt, was Paulus über das stellvertretende Sühneopfer schrieb
 
-
+Petrus - empfangen durch James Padgett am 26. Oktober 1915, Washington, DC, USA.
 

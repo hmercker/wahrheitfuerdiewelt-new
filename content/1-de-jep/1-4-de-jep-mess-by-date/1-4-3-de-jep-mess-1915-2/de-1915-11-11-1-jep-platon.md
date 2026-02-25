@@ -9,5 +9,5 @@ weight:
 ---
 ### Schüler Sokrates, ist jetzt ein wahrer Christ
 
-
+Plato - empfangen durch James Padgett am 11. November 1915, Washington, DC, USA.
 

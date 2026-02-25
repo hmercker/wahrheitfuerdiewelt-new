@@ -9,5 +9,5 @@ weight:
 ---
 ### Erfahrung eines orthodoxen Geistlichen nach seinem Übergang in die spirituelle Welt
 
-
+Pastor Fontaine - empfangen durch James Padgett am 1. Juli 1917, Washington, DC, USA.
 

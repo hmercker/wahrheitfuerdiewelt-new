@@ -9,5 +9,5 @@ weight:
 ---
 ### Warum der Tod Jesu am Kreuz die Welt nicht erlösen kann
 
-
+Lukas - empfangen durch James Padgett am 4. Juni 1916, Washington, DC, USA.
 

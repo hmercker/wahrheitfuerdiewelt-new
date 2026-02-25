@@ -13510,7 +13510,7 @@ button[type='submit'] {
   display: inline-block;
   padding: 6px 14px 7px 14px;
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
-  background: #d04121;
+  background: #cf4020;
   border-radius: 3px;
   font-weight: 500;
   text-transform: uppercase;
@@ -13524,7 +13524,7 @@ button[type='submit'] {
   outline: none; }
   .button:hover {
     color: #fff;
-    background-color: #e16043;
+    background-color: #e15f41;
     transform: translateY(-1px);
     box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
     text-decoration: none; }
@@ -13695,6 +13695,59 @@ body {
   background-color: #f0f0f0;
   /* Same background color as the page */ }
 
+.counter-container {
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px 0; }
+
+.counter-container img {
+  display: inline-block; }
+
+.counter-text {
+  font-size: 9px;
+  color: #d06c29;
+  text-align: center;
+  margin-top: 5px; }
+
+article p,
+article li,
+article td,
+article th {
+  overflow-wrap: break-word;
+  word-wrap: break-word; }
+
+/* --- Make article + tables solid white on small screens --- */
+@media (max-width: 767px) {
+  /* Make the entire content block white so there's no grey strip */
+  article {
+    background: #ffffff !important;
+    /* override bg-content texture on mobile */ }
+  /* Ensure tables fill the article width and match the background */
+  article table {
+    width: 100%;
+    max-width: 100%;
+    background-color: #ffffff;
+    border-collapse: collapse; } }
+
+/* --- Ensure table headings match table width + background on mobile --- */
+@media (max-width: 767px) {
+  /* Make TH match TD widths and wrap behavior */
+  article table th,
+  article table td {
+    width: auto;
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    background-color: #ffffff;
+    /* ensure same background as table */
+    box-sizing: border-box; }
+  /* Ensure TH background looks identical to the table */
+  article table th {
+    font-weight: bold;
+    background-color: #ffffff !important;
+    /* override any theme shading */ } }
+
 .content {
   -webkit-font-smoothing: antialiased; }
   .content pre {
@@ -13743,7 +13796,7 @@ body {
   .content a {
     text-decoration: underline; }
     .content a:hover {
-      color: #a4331a; }
+      color: #a33319; }
   .content p {
     font-family: "PT Serif", serif !important;
     font-size: 1em;
@@ -13799,7 +13852,7 @@ body {
     margin-bottom: 20px; }
   .content h5.h-decorate {
     text-align: center;
-    color: #d04121;
+    color: #cf4020;
     font-size: 1em;
     line-height: 1.4;
     margin-bottom: 20px;

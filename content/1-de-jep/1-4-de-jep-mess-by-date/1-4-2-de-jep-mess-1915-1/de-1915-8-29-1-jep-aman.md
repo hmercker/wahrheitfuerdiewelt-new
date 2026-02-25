@@ -9,5 +9,5 @@ weight:
 ---
 ### Aman, der erste Elternteil, offenbart seine Versuchung und seinen Fall
 
-
+Aman - empfangen durch James Padgett am 29. August 1915, Washington, DC, USA.
 

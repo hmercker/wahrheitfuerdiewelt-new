@@ -9,5 +9,5 @@ weight:
 ---
 ### Padgett und Dr. Stone gehen zum Silvestergottesdienst in eine presbyterianische Kirche
 
-
+Helen Padgett - empfangen durch James Padgett am 31. Dezember 1916, Washington, DC, USA.
 

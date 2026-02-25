@@ -9,5 +9,5 @@ weight:
 ---
 ### Das fortwährende Leben eines Menschen nach dem Tod, wie es sich aus den Manifestationen der Natur ergibt, ist nicht schlüssig
 
-
+Samuel - empfangen durch James Padgett am 21. März 1916, Washington, DC, USA.
 

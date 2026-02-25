@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus anerkennt die Fähigkeit der Großmutter Herrn Padgetts, über die Wahrheiten des Vaters zu schreiben
 
-
+Jesus - empfangen durch James Padgett am 5. Juni 1915, Washington, DC, USA.
 

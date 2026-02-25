@@ -9,5 +9,5 @@ weight:
 ---
 ### In Botschaft scherzen Helen und Mary über ihre Liebe zu ihren Seelenpartnern
 
-
+Helen Padgett & Mary Kennedy - empfangen durch James Padgett am 15. Dezember 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Smith, ein Engländer aus London, wollte Dr. Stone kontaktieren
 
-
+Samuel R Smith - empfangen durch James Padgett am 29. Oktober 1915, Washington, DC, USA.
 

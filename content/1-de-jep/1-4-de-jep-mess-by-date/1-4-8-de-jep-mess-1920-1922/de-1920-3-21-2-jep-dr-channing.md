@@ -9,5 +9,5 @@ weight:
 ---
 ### Kommentare eines Predigers
 
-
+Dr Channing - empfangen durch James Padgett am 21. März 1920, Washington, DC, USA.
 

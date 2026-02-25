@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen schreibt über die große Liebe Jesu zu ihm
 
-
+Helen Padgett - empfangen durch James Padgett am 14. Dezember 1915, Washington, DC, USA.
 

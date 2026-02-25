@@ -9,5 +9,5 @@ weight:
 ---
 ### Forrest, ein Anwaltsbruder sucht Hilfe, da er hörte, dass anderen geholfen wurde
 
-
+Edwin Forrest - empfangen durch James Padgett am 27. Juni 1916, Washington, DC, USA.
 

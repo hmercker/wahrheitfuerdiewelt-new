@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary Kennedy erreicht die erste Himmelssphäre und beschreibt ihr neues Zuhause
 
-
+Mary Kennedy - empfangen durch James Padgett am 8. Oktober 1915, Washington, DC, USA.
 

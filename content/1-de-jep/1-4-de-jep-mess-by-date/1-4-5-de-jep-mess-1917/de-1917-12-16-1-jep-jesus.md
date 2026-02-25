@@ -9,5 +9,5 @@ weight:
 ---
 ### Was der Mensch sät, wird er ernten
 
-
+Jesus - empfangen durch James Padgett am 16. Dezember 1917, Washington, DC, USA.
 

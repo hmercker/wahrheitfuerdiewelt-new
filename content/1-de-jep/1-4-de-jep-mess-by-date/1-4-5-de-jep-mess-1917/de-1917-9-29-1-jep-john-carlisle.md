@@ -9,5 +9,5 @@ weight:
 ---
 ### Carlisle ist im vergangenen Jahr ins Licht vorgedrungen
 
-
+John Carlisle - empfangen durch James Padgett am 29. September 1917, Washington, DC, USA.
 

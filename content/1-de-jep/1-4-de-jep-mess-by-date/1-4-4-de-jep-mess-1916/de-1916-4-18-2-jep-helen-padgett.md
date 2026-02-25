@@ -9,5 +9,5 @@ weight:
 ---
 ### Über die Heilung einer kranken Frau
 
-
+Helen Padgett - empfangen durch James Padgett am 18. April 1916, Washington, DC, USA.
 

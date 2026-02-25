@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Liebe des Vaters ist der Schlüssel zum Reich Gottes
 
-
+Jesus - empfangen durch James Padgett am 28. September 1916, Washington, DC, USA.
 

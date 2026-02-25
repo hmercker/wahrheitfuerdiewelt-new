@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes erklärt, dass selbst Jesus die Macht der Kommunikation verlieren kann
 
-
+Johannes - empfangen durch James Padgett am 24. August 1915, Washington, DC, USA.
 

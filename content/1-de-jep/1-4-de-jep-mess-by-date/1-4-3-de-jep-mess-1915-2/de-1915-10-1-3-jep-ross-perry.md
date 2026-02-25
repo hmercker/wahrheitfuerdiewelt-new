@@ -9,5 +9,5 @@ weight:
 ---
 ### Perry schrieb über seinen Selbstmord und seinen Zustand in der Dunkelheit
 
-
+Ross Perry - empfangen durch James Padgett am 1. Oktober 1915, Washington, DC, USA.
 

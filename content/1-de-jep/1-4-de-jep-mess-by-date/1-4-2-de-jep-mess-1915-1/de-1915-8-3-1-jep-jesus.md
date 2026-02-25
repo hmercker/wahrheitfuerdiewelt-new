@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus: Meine Wahrheiten sind einfach
 
-
+Jesus - empfangen durch James Padgett am 3. August 1915, Washington, DC, USA.
 

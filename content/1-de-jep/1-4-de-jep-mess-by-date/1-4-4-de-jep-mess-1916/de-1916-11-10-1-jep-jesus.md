@@ -9,5 +9,5 @@ weight:
 ---
 ### Wie die Seele eines Sterblichen die Göttliche Liebe empfängt. Was ist eine verlorene Seele?
 
-
+Jesus - empfangen durch James Padgett am 10. November 1916, Washington, DC, USA.
 

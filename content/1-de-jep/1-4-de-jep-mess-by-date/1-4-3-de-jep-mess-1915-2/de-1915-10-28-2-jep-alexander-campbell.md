@@ -9,5 +9,5 @@ weight:
 ---
 ### Campbell verstand den Plan der Erlösung des Menschen nicht, als er noch auf Erden war
 
-
+Alexander Campbell - empfangen durch James Padgett am 28. Oktober 1915, Washington, DC, USA.
 

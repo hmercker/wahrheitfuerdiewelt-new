@@ -9,5 +9,5 @@ weight:
 ---
 ### Judas drängt Padgett nicht zuzulassen, dass sein materieller Verstand sein spirituelles Bewusstsein kontrolliert, was die Fähigkeiten der Seele verdunkelt
 
-
+Judas - empfangen durch James Padgett am 1. Dezember 1916, Washington, DC, USA.
 

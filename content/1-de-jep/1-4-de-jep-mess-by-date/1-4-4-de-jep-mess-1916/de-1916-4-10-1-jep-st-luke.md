@@ -9,5 +9,5 @@ weight:
 ---
 ### Lukas nimmt in der vorhergehenden Botschaft einige Korrekturen vor
 
-
+Lukas - empfangen durch James Padgett am 10. April 1916, Washington, DC, USA.
 

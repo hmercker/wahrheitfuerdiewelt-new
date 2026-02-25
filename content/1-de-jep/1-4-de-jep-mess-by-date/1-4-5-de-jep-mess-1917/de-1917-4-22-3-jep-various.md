@@ -9,5 +9,5 @@ weight:
 ---
 ### Spirituelle Wesen bestätigen, dass Jesus schrieb
 
-
+Mehrere - empfangen durch James Padgett am 22. April 1917, Washington, DC, USA.
 

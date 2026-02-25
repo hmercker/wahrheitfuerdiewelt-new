@@ -9,5 +9,5 @@ weight:
 ---
 ### Lukas schreibt, dass nur sehr wenige Sterbliche die seltene Phase der Medialität von Herrn Padgett haben
 
-
+Lukas - empfangen durch James Padgett am 25. Juni 1917, Washington, DC, USA.
 

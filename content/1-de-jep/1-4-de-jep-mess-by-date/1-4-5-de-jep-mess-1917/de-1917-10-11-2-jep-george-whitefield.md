@@ -9,5 +9,5 @@ weight:
 ---
 ### Der große Weltlehrer wird der Meister sein, wenn er wieder zu Erde kommt in Form seiner Göttlichen Offenbarungen
 
-
+George Whitefield - empfangen durch James Padgett am 11. Oktober 1917, Washington, DC, USA.
 

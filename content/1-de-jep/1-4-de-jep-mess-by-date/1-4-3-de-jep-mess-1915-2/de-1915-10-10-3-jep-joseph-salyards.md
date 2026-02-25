@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Wirkung der Göttlichen Liebe auf die Seele und ihre große reinigende Kraft
 
-
+Joseph Salyards - empfangen durch James Padgett am 10. Oktober 1915, Washington, DC, USA.
 

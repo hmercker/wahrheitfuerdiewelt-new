@@ -9,5 +9,5 @@ weight:
 ---
 ### Chrysostomos möchte in das Buch einbezogen werden, da er Padgett bei der Arbeit unterstützt
 
-
+Chrysostomos - empfangen durch James Padgett am 8. November 1915, Washington, DC, USA.
 

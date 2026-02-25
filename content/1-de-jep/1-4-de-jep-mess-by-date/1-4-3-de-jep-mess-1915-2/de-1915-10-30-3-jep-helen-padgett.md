@@ -9,5 +9,5 @@ weight:
 ---
 ### Kommentare zur Nachricht von Eugene Morgan's Mutter
 
-
+Helen Padgett - empfangen durch James Padgett am 30. Oktober 1915, Washington, DC, USA.
 

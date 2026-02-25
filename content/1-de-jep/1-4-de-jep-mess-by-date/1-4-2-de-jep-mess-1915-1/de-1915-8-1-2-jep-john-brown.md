@@ -9,5 +9,5 @@ weight:
 ---
 ### John Brown kämpft immer noch für Wahrheit und Freiheit 
 
-
+John Brown - empfangen durch James Padgett am 1. August 1915, Washington, DC, USA.
 

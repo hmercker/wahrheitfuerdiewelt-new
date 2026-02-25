@@ -9,5 +9,5 @@ weight:
 ---
 ### Richards erzählt von Frau Kates' Séance und es gibt keine Tiere in der spirituellen Welt
 
-
+John Richards - empfangen durch James Padgett am 13. April 1919, Washington, DC, USA.
 

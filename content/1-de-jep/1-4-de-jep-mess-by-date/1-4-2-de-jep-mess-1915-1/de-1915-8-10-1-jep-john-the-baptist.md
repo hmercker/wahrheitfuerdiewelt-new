@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes der Täufer bestätigt, dass James Padgett von Jesus erwählt wurde
 
-
+Johannes der Täufer - empfangen durch James Padgett am 10. August 1915, Washington, DC, USA.
 

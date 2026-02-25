@@ -9,5 +9,5 @@ weight:
 ---
 ### Von Moltke kommentiert Napoleon's Botschaft
 
-
+Graf von Moltke - empfangen durch James Padgett am 1. November 1915, Washington, DC, USA.
 

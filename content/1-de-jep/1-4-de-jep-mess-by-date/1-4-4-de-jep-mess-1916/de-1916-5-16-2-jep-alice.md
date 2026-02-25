@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine Cousine von Herrn Padgett schreibt über ihr Glück in der Dritten Sphäre
 
-
+Alice - empfangen durch James Padgett am 16. Mai 1916, Washington, DC, USA.
 

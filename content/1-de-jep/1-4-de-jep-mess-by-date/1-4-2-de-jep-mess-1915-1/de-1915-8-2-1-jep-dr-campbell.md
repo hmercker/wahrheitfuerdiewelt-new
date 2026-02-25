@@ -9,5 +9,5 @@ weight:
 ---
 ### Dr. Campbell verschreibt Behandlungen und Diät für James Padgett
 
-
+Dr Campbell - empfangen durch James Padgett am 2. August 1915, Washington, DC, USA.
 

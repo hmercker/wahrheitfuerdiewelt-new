@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Notwendigkeit für die Menschen, ihre Gedanken dem Spirituellen zuzuwenden
 
-
+Lukas - empfangen durch James Padgett am 16. Oktober 1916, Washington, DC, USA.
 

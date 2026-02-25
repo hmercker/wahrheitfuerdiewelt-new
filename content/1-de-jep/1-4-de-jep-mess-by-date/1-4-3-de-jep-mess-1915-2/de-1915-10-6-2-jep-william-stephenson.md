@@ -9,5 +9,5 @@ weight:
 ---
 ### Kann ein Mensch leben und lieben und ins Nichts gehen?
 
-
+William Stephenson - empfangen durch James Padgett am 6. Oktober 1915, Washington, DC, USA.
 

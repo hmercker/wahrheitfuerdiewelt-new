@@ -9,5 +9,5 @@ weight:
 ---
 ### John P. Selman hat die Göttliche Liebe gefunden
 
-
+John P Selman - empfangen durch James Padgett am 18. April 1916, Washington, DC, USA.
 

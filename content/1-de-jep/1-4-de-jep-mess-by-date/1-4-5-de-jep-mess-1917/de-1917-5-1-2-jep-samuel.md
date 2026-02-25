@@ -9,5 +9,5 @@ weight:
 ---
 ### Samuel drückt seine Liebe für Herrn Padgett und die Arbeit aus, die er im Namen des Königreichs leistet
 
-
+Samuel - empfangen durch James Padgett am 1. Mai 1917, Washington, DC, USA.
 

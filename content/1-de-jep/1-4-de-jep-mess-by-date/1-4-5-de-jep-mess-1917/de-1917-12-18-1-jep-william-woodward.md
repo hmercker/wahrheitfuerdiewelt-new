@@ -9,5 +9,5 @@ weight:
 ---
 ### Auf der Erde glaubte er an die neue Geburt, fand sie aber beim Eintritt in die spirituelle Welt ganz anders
 
-
+William Woodward - empfangen durch James Padgett am 18. Dezember 1917, Washington, DC, USA.
 

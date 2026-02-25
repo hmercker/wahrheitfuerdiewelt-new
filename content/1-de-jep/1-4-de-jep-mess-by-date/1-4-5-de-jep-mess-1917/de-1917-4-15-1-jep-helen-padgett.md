@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen schreibt, dass der Meister sehr viel mit Herrn Padgett zusammen ist und sogar abends mit ihm betet
 
-
+Helen Padgett - empfangen durch James Padgett am 15. April 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Der einst eiserne Kanzler des Deutschen Reiches glaubt, dass die Deutschen auf Frieden klagen müssen und dass das Reich am Ende ist
 
-
+Otto von Bismarck - empfangen durch James Padgett am 16. Mai 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Ann Rollins erklärt Enttäuschungen sowohl in der spirituellen als auch in der materiellen Welt
 
-
+Ann Rollins - empfangen durch James Padgett am 7. Juli 1917, Washington, DC, USA.
 

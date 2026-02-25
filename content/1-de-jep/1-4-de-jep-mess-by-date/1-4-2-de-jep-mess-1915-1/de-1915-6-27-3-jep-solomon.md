@@ -9,5 +9,5 @@ weight:
 ---
 ### Salomon's Position in den Himmelssphären
 
-
+Salomon - empfangen durch James Padgett am 27. Juni 1915, Washington, DC, USA.
 

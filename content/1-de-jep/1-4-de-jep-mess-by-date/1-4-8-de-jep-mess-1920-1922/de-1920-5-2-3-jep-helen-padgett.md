@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen fordert Padgett auf,  in einem Zustand der Liebe zu bleiben
 
-
+Helen Padgett - empfangen durch James Padgett am 02. Mai 1920, Washington, DC, USA.
 

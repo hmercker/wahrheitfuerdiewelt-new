@@ -9,5 +9,5 @@ weight:
 ---
 ### Richter Syrick's Seelengefährtin schreibt über seine Fortschritte in der Göttlichen Lieb
 
-
+Rose McGovern - empfangen durch James Padgett am 24. April 1916, Washington, DC, USA.
 

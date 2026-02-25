@@ -9,5 +9,5 @@ weight:
 ---
 ### Edwin Forrest interessiert sich für das Gebet, das Jesus schrieb
 
-
+Edwin Forrest - empfangen durch James Padgett am 6. Dezember 1916, Washington, DC, USA.
 

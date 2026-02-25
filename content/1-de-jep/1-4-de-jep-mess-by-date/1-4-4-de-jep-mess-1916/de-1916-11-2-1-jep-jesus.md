@@ -9,5 +9,5 @@ weight:
 ---
 ### Warum Jesus nicht auf Kriegsschauplätzen und Schlachtfeldern zugegen ist
 
-
+Jesus - empfangen durch James Padgett am 2. November 1916, Washington, DC, USA.
 

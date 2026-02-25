@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Bedeutung der Kenntnis des Weges zum Göttlichen Reiche
 
-
+Jesus - empfangen durch James Padgett am 18. Oktober 1919, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine Mutter berichtet von ihren Erfahrungen nach dem Hinübergehen
 
-
+Grace Stanhope - empfangen durch James Padgett am 21. Dezember 1917, Washington, DC, USA.
 

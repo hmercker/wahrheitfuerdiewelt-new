@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Seelengefährten vergossen Freudenstränen
 
-
+Mary Kennedy - empfangen durch James Padgett am 23. März 1916, Washington, DC, USA.
 

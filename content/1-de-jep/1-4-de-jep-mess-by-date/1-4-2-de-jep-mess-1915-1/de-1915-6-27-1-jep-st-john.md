@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes bestärkt, dass Jesus durch Herrn Padgett schreibt
 
-
+Johannes - empfangen durch James Padgett am 27. Juni 1915, Washington, DC, USA.
 

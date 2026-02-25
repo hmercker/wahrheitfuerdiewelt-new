@@ -9,5 +9,5 @@ weight:
 ---
 ### Warum Sterbliche die Liebe des Vaters nicht suchen und eher die Glaubensbekenntnisse und Sakramente der Kirchen glauben
 
-
+Johannes - empfangen durch James Padgett am 4. Juni 1917, Washington, DC, USA.
 

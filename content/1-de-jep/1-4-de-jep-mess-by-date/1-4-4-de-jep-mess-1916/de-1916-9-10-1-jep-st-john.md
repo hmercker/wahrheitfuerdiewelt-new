@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes schrieb über die Redner beim spirituellen Treffen, dass sie nicht wissen, was Einheit mit dem Vater bedeute
 
-
+Johannes - empfangen durch James Padgett am 10. September 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Maria schreibt, dass Jesus der natürliche Sohn von Josef und Maria war
 
-
+Maria - empfangen durch James Padgett am 15. April 1916, Washington, DC, USA.
 

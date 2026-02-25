@@ -9,5 +9,5 @@ weight:
 ---
 ### Mutter von Pfarrer Mitchell ist sehr glücklich, dass ihr Sohn die Wahrheit Gottes predigt
 
-
+Frau Mitchell - empfangen durch James Padgett am 29. Juli 1917, Washington, DC, USA.
 

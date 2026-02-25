@@ -9,5 +9,5 @@ weight:
 ---
 ### Sokrates beschreibt seinen seelischen Fortschritt
 
-
+Sokrates - empfangen durch James Padgett am 8. Juli 1915, Washington, DC, USA.
 

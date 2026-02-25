@@ -9,5 +9,5 @@ weight:
 ---
 ### Über die Wichtigkeit, die Seele mit Hilfe der Göttlichen Liebe zu entwickeln
 
-
+Jesus - empfangen durch James Padgett am 8. Juli 1915, Washington, DC, USA.
 

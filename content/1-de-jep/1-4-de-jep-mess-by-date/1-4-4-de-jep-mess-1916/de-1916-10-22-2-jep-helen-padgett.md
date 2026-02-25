@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen war ebenfalls anwesend und hörte die Predigt des orthodoxen Geistlichen
 
-
+Helen Padgett - empfangen durch James Padgett am 22. Oktober 1916, Washington, DC, USA.
 

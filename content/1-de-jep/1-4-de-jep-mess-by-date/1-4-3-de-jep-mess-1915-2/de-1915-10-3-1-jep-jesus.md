@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus empfiehlt Padgett die Spiritistenkirche in Washington zu besuchen
 
-
+Jesus - empfangen durch James Padgett am 3. Oktober 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Weder der Tod Jesu, noch der Verrat des Judas gehörten zum Heilsplan Gottes
 
-
+Johannes - empfangen durch James Padgett am 15. August 1915, Washington, DC, USA.
 

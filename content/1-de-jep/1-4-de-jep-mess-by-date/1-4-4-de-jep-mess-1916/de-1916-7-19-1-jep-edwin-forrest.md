@@ -9,5 +9,5 @@ weight:
 ---
 ### Forrest ist aus der Dunkelheit herausgekommen und ist dankbar, den Weg zu kennen, um die Liebe des Vaters zu erlangen
 
-
+Edwin Forrest - empfangen durch James Padgett am 19. Juli 1916, Washington, DC, USA.
 

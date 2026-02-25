@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine Bestätigung, dass Jesus das Gebet geschrieben hat
 
-
+Robert Ingersoll - empfangen durch James Padgett am 2. Dezember 1916, Washington, DC, USA.
 

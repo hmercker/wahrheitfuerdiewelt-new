@@ -9,5 +9,5 @@ weight:
 ---
 ### Herr Padgetts Vater erzählt von seinem Weg zur ersten Himmelssphäre
 
-
+John H Padgett - empfangen durch James Padgett am 28. Oktober 1916, Washington, DC, USA.
 

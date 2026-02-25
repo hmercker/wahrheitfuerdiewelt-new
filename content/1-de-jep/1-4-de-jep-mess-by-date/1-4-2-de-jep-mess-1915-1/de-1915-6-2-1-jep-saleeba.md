@@ -9,5 +9,5 @@ weight:
 ---
 ### Saleeba, ein altes spirituelles Wesen der sechsten Sphäre, erbittet Hilfe
 
-
+Saleeba - empfangen durch James Padgett am 2. Juni 1915, Washington, DC, USA.
 

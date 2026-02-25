@@ -9,5 +9,5 @@ weight:
 ---
 ### Allein die Göttliche Liebe kann aus einem Menschen einen Engel machen
 
-
+Jesus - empfangen durch James Padgett am 27. Juni 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### General Henkle ist überrascht zu erfahren, dass eine Seele den materiellen Körper verlassen und geliebte Menschen in der spirituellen Welt besuchen kann 
 
-
+General Henkle - empfangen durch James Padgett am 28. Dezember 1916, Washington, DC, USA.
 

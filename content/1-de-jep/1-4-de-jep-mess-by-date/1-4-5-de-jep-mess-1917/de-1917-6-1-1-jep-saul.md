@@ -9,5 +9,5 @@ weight:
 ---
 ### Ratschläge für sein Volk, die Juden
 
-
+Saul - empfangen durch James Padgett am 1. Juni 1917, Washington, DC, USA.
 

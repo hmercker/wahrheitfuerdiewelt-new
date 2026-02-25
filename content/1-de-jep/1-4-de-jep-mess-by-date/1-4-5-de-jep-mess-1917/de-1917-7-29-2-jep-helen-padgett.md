@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass die Mutter des Predigers sehr glücklich war, weil ihr Sohn seine dogmatischen Überzeugungen ablegen wird
 
-
+Helen Padgett - empfangen durch James Padgett am 29. Juli 1917, Washington, DC, USA.
 

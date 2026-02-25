@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen erklärt, wie Saleeba durch Padgett sprechen würde
 
-
+Helen Padgett - empfangen durch James Padgett am 7. Juni 1915, Washington, DC, USA.
 

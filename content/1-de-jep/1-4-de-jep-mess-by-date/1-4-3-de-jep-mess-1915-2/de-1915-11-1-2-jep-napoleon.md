@@ -9,5 +9,5 @@ weight:
 ---
 ### Napoleons Liebe zum Land steht bei ihm immer noch im Vordergrund
 
-
+Napoleon - empfangen durch James Padgett am 1. November 1915, Washington, DC, USA.
 

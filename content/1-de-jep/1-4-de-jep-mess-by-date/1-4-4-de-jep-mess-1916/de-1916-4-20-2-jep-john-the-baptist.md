@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus war der wahre Messias und der wahre Christus, wie er auf Erden lehrte
 
-
+Johannes der Täufer - empfangen durch James Padgett am 20. April 1916, Washington, DC, USA.
 

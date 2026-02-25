@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bezieht sich auf Johannes und Paulus und Salomons Schreiben
 
-
+Helen Padgett - empfangen durch James Padgett am 28. Juni 1915, Washington, DC, USA.
 

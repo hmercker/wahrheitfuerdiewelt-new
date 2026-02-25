@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen's Stellungnahme in Bezug einer Idee Padgett's
 
-
+Helen Padgett - empfangen durch James Padgett am 27. Dezember 1915, Washington, DC, USA.
 

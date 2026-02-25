@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Begründung warum so viele der höheren spirituellen Wesen über die Göttliche Liebe schrieben 
 
-
+Ann Rollins - empfangen durch James Padgett am 6. August 1915, Washington, DC, USA.
 

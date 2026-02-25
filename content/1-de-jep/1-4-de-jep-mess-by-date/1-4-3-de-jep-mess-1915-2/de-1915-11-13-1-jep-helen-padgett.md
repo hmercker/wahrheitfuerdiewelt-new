@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Wirkung auf Babys, die durch Abtreibung in die spirituelle Welt kommen
 
-
+Helen Padgett - empfangen durch James Padgett am 13. November 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen kommentiert die vorhergehende Botschaft und bestätigt die Identität Jesu
 
-
+Helen Padgett - empfangen durch James Padgett am 3. April 1915, Washington, DC, USA.
 

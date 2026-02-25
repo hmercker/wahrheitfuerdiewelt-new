@@ -9,5 +9,5 @@ weight:
 ---
 ### Matthäus wird Teil von Herrn Padgett's spiritueller Gruppe sein
 
-
+Matthäus - empfangen durch James Padgett am 20. Juli 1915, Washington, DC, USA.
 

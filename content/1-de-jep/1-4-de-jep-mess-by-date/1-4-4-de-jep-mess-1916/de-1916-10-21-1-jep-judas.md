@@ -9,5 +9,5 @@ weight:
 ---
 ### Die größte Sünde ist jene wider den Heiligen Geist
 
-
+Judas - empfangen durch James Padgett am 21. Oktober 1916, Washington, DC, USA.
 

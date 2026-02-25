@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus ermuntert Padgett, seine Botschaften laut vorzulesen
 
-
+Jesus - empfangen durch James Padgett am 15. August 1916, Washington, DC, USA.
 

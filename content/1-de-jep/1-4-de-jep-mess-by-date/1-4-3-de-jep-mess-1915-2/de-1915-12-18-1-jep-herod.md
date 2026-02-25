@@ -9,5 +9,5 @@ weight:
 ---
 ### Herodes schreibt über die Höllen und bestätigt Swedenborgs Botschaft
 
-
+Herodes - empfangen durch James Padgett am 18. Dezember 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen beantwortet einen Traumanruf von Padgett
 
-
+Helen Padgett - empfangen durch James Padgett am 4. Dezember 1915, Washington, DC, USA.
 

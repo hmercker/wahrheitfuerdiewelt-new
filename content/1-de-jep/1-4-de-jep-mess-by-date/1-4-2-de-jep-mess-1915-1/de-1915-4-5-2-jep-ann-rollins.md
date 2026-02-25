@@ -9,5 +9,5 @@ weight:
 ---
 ### Ann Rollins versichert Herrn Padgett, an den Meister zu glauben, den wahren Jesus der Bibel
 
-
+Ann Rollins - empfangen durch James Padgett am 5. April 1915, Washington, DC, USA.
 

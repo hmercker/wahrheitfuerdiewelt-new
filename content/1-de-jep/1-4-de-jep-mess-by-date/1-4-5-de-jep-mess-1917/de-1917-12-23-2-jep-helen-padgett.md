@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen sagt, dass Swedenborg mit Autorität schrieb
 
-
+Helen Padgett - empfangen durch James Padgett am 23. Dezember 1917, Washington, DC, USA.
 

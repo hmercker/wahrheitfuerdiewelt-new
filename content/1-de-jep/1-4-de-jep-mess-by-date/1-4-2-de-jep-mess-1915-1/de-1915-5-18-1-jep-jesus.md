@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus schreibt über den Glauben und die Herrlichkeit des Vaters
 
-
+Jesus - empfangen durch James Padgett am 18. Mai 1915, Washington, DC, USA.
 

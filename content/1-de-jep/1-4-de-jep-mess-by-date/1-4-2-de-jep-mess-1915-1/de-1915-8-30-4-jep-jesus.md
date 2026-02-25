@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus verspricht James Padgett spirituelle und materielle Unterstützung
 
-
+Jesus - empfangen durch James Padgett am 30. August 1915, Washington, DC, USA.
 

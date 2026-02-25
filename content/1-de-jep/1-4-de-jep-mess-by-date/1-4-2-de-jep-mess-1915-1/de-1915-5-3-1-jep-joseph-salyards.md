@@ -9,5 +9,5 @@ weight:
 ---
 ### Fortsetzung des Themas der Gesetze in der spirituellen Welt
 
-
+Joseph Salyards - empfangen durch James Padgett am 3. Mai 1915, Washington, DC, USA.
 

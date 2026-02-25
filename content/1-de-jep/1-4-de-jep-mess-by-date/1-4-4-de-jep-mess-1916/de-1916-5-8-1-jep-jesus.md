@@ -9,5 +9,5 @@ weight:
 ---
 ### Wie die Göttliche Liebe in die menschliche Seele gelangt - Teil 2
 
-
+Jesus - empfangen durch James Padgett am 8. Mai 1916, Washington, DC, USA.
 

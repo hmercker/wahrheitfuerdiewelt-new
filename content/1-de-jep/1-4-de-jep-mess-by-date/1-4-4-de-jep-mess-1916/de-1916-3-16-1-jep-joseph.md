@@ -9,5 +9,5 @@ weight:
 ---
 ### Josef von Arimathäa berichtet, was nach der Kreuzigung Jesu geschah
 
-
+Josef - empfangen durch James Padgett am 16. März 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Ann Rollins ist erstaunt über die große Zusicherung die Padgett gegeben wurde
 
-
+Ann Rollins - empfangen durch James Padgett am 18. Juli 1915, Washington, DC, USA.
 

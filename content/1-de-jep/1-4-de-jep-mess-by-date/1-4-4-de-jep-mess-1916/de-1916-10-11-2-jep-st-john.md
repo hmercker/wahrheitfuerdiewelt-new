@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus wird nie in all seiner Glorie und Macht kommen, um die Menschen in seine Himmel aufzunehmen
 
-
+Johannes - empfangen durch James Padgett am 11. Oktober 1916, Washington, DC, USA.
 

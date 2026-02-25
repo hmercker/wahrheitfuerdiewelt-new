@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus rät Padgett einem spiritistischen Medium zu helfen, die Göttliche Liebe des Vaters zu entdecken
 
-
+Jesus - empfangen durch James Padgett am 30. März 1919, Washington, DC, USA.
 

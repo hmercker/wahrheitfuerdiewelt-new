@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Wichtigkeit, den Weg zum Himmelreich zu kennen
 
-
+Ann Rollins - empfangen durch James Padgett am 12. März 1919, Washington, DC, USA.
 

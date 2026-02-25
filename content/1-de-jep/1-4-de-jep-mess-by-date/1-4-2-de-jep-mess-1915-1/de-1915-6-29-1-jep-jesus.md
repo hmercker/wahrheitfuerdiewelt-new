@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus korrigiert die These, er wäre mit indischer oder griechischer Philosophie vertraut gewesen
 
-
+Jesus - empfangen durch James Padgett am 29. Juni 1915, Washington, DC, USA.
 

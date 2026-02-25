@@ -9,5 +9,5 @@ weight:
 ---
 ### Prüfung der spirituellen Wesen
 
-
+Martin Luther - empfangen durch James Padgett am 19. Oktober 1915, Washington, DC, USA.
 

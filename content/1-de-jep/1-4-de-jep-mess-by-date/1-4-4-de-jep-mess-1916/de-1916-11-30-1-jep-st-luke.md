@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Mensch selbst muss das Reich Gottes auf Erden errichten
 
-
+Lukas - empfangen durch James Padgett am 30. November 1916, Washington, DC, USA.
 

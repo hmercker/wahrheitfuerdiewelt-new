@@ -9,5 +9,5 @@ weight:
 ---
 ### Ann Rollins bestätigt, dass Jesus über die Unsterblichkeit geschrieben hat
 
-
+Ann Rollins - empfangen durch James Padgett am 28. Mai 1915, Washington, DC, USA.
 

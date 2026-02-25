@@ -9,5 +9,5 @@ weight:
 ---
 ### Aaron schreibt über die Unsterblichkeit und wie man sie erlangen kann
 
-
+Aaron - empfangen durch James Padgett am 23. Oktober 1915, Washington, DC, USA.
 

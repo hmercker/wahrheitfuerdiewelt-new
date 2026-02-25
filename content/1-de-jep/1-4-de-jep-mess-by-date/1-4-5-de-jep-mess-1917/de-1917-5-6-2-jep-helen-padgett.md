@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen's Worte der Ermutigung
 
-
+Helen Padgett - empfangen durch James Padgett am 6. Mai 1917, Washington, DC, USA.
 

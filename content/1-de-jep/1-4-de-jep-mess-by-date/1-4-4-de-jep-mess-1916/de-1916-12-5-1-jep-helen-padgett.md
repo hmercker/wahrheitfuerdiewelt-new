@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen drängt Herrn Padgett, das von Jesus gegebene Gebet zu benutzen
 
-
+Helen Padgett - empfangen durch James Padgett am 5. Dezember 1916, Washington, DC, USA.
 

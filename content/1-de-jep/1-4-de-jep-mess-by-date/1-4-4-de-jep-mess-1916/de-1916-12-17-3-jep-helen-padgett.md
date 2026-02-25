@@ -9,5 +9,5 @@ weight:
 ---
 ### Eine kurze Notiz von Helen Padgett
 
-
+Helen Padgett - empfangen durch James Padgett am 17. Dezember 1916, Washington, DC, USA.
 

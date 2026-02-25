@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen: Eine liebevolle persönliche Botschaft an ihren Ehemann und Seelenpartner
 
-
+Helen Padgett - empfangen durch James Padgett am 24. April 1916, Washington, DC, USA.
 

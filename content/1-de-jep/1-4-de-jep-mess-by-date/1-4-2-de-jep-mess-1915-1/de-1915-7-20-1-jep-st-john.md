@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes ermutigt Padgett. Eine wunderbare Liebe die der Meister für ihn empfindet
 
-
+Johannes - empfangen durch James Padgett am 20. Juli 1915, Washington, DC, USA.
 

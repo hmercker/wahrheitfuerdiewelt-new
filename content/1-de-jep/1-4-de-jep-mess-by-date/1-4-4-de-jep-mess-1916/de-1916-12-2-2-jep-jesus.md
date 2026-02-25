@@ -9,5 +9,5 @@ weight:
 ---
 ### Das einzige Gebet, dass der Mensch an den Vater richten braucht
 
-
+Jesus - empfangen durch James Padgett am 2. Dezember 1916, Washington, DC, USA.
 

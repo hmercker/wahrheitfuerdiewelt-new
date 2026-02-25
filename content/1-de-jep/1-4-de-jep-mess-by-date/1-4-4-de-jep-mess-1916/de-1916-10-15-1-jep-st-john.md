@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes besucht oft die Gottesdienste mit Herrn Padgett
 
-
+Johannes - empfangen durch James Padgett am 15. Oktober 1916, Washington, DC, USA.
 

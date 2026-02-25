@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen teilte heute das Glück von Padgett, als seine Seele so von der Liebe des Vaters erfüllt war
 
-
+Helen Padgett - empfangen durch James Padgett am 29. Mai 1916, Washington, DC, USA.
 

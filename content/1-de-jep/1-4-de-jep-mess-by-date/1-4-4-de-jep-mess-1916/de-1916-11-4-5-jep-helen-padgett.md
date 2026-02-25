@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt die Aussage anderer, dass Herr Morgan jetzt die Göttliche Liebe des Vaters hat
 
-
+Helen Padgett - empfangen durch James Padgett am 4. November 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Kontinuität des Lebens nach dem Tod
 
-
+Francis Bacon - empfangen durch James Padgett am 26. Mai 1919, Washington, DC, USA.
 

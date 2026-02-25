@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Liebe des Vaters ist nie weit weg, wenn die Versuchung kommt
 
-
+Jesus - empfangen durch James Padgett am 23. Mai 1917, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Herrlichkeit und Kraft Jesu war so wunderbar, sie knieten in Ehrfurcht 
 
-
+John Wesley - empfangen durch James Padgett am 14. Dezember 1915, Washington, DC, USA.
 

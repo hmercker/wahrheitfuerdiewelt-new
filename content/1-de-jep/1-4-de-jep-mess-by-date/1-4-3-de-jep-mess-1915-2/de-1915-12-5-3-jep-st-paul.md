@@ -9,5 +9,5 @@ weight:
 ---
 ### Paulus kommentiert die Predigt "Das Drama des heiligen Paulus"
 
-
+Paulus - empfangen durch James Padgett am 5. Dezember 1915, Washington, DC, USA.
 

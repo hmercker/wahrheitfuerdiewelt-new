@@ -9,5 +9,5 @@ weight:
 ---
 ### Niemand wird ewig in der Hölle leiden, alle werden Fortschritte machen
 
-
+Johannes - empfangen durch James Padgett am 19. November 1916, Washington, DC, USA.
 

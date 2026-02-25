@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Heilige Geist ist nicht Gott. Jesus vollbringt immer noch das Werk des Vaters
 
-
+Jesus - empfangen durch James Padgett am 9. April 1915, Washington, DC, USA.
 

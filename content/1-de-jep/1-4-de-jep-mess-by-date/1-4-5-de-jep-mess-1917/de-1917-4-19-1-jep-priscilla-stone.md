@@ -9,5 +9,5 @@ weight:
 ---
 ### Priscilla Stone, unternimmt beträchtliche Anstrengungen, um ihren Kindern auf der Erde zu helfen
 
-
+Priscilla Stone - empfangen durch James Padgett am 19. April 1917, Washington, DC, USA.
 

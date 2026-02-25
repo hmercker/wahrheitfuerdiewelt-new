@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Unterschied zwischen menschlicher Vernunft und den Sinnen der Seele
 
-
+Jesus - empfangen durch James Padgett am 25. Oktober 1915, Washington, DC, USA.
 

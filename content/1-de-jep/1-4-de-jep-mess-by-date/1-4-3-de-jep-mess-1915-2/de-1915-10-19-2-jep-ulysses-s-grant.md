@@ -9,5 +9,5 @@ weight:
 ---
 ### Grant hat seine geistlichen Augen geöffnet und sucht die Göttliche Liebe des Vaters
 
-
+Ulysses S Grant - empfangen durch James Padgett am 19. Oktober 1915, Washington, DC, USA.
 

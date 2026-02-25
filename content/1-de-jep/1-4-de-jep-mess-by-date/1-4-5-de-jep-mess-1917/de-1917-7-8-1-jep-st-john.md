@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes sagt, der Prediger habe sehr wenig Kenntnis von der "Wahrheit", wie sie in den erhaltenen Schriften offenbart wurde
 
-
+Johannes - empfangen durch James Padgett am 8. Juli 1917, Washington, DC, USA.
 

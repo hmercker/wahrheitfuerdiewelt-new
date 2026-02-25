@@ -9,5 +9,5 @@ weight:
 ---
 ### Was Menschen glauben sollten, um wieder der vollkommene Mensch zu werden
 
-
+Jesus - empfangen durch James Padgett am 12. Dezember 1916, Washington, DC, USA.
 

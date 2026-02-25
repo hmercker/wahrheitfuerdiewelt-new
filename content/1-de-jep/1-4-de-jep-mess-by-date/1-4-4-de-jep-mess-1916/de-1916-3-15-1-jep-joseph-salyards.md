@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Sinn des Erdenlebens, durch den der Mensch zum vollkommenen Menschen werden kann - aber nicht zum göttlichen
 
-
+Joseph Salyards - empfangen durch James Padgett am 15. März 1916, Washington, DC, USA.
 

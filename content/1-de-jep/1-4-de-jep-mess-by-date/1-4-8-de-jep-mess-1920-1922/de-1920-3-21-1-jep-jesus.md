@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erklärt, warum sich eine Seele inkarniert
 
-
+Jesus - empfangen durch James Padgett am 21. März 1920, Washington, DC, USA.
 

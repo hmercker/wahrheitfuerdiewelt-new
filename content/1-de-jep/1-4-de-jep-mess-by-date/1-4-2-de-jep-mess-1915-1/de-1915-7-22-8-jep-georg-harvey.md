@@ -9,5 +9,5 @@ weight:
 ---
 ### Harvey will wissen, warum sich Mackey und Taggart so verändert haben
 
-
+Georg Harvey - empfangen durch James Padgett am 22. Juli 1915, Washington, DC, USA.
 

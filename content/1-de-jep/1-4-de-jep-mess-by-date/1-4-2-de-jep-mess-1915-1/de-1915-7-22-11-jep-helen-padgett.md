@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass die alten Schriftsteller jene waren, die sie selbst als solche darstellten
 
-
+Helen Padgett - empfangen durch James Padgett am 22. Juli 1915, Washington, DC, USA.
 

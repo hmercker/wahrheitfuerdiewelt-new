@@ -9,5 +9,5 @@ weight:
 ---
 ### Carlisle schreibt über sein Leiden und die Finsternis, in der er sich befindet und bittet um Hilfe
 
-
+John Carlisle - empfangen durch James Padgett am 20. November 1915, Washington, DC, USA.
 

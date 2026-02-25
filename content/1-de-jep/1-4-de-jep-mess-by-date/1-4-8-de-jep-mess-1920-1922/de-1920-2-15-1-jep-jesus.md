@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Inkarnation der Seele
 
-
+Jesus - empfangen durch James Padgett am 15. Februar 1920, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Aussage von Mary Baker Eddy
 
-
+Mary Baker Eddy - empfangen durch James Padgett am 17. Dezember 1916, Washington, DC, USA.
 

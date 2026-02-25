@@ -9,5 +9,5 @@ weight:
 ---
 ### Padgett vollbringt ein gewaltiges Werk, das für die Menschheit von größter Bedeutung ist
 
-
+Thomas Jefferson - empfangen durch James Padgett am 9. Dezember 1915, Washington, DC, USA.
 

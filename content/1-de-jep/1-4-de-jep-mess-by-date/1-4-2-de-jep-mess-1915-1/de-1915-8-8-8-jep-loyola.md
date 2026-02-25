@@ -9,5 +9,5 @@ weight:
 ---
 ### Loyola ist eine Anhänger des Meisters und ein Bewohner des Vater's Königreichs
 
-
+Loyola - empfangen durch James Padgett am 8. August 1915, Washington, DC, USA.
 

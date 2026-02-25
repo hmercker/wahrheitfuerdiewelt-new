@@ -9,5 +9,5 @@ weight:
 ---
 ### Johannes setzt seine Botschaft über den Himmel fort
 
-
+Johannes - empfangen durch James Padgett am 8. Dezember 1916, Washington, DC, USA.
 

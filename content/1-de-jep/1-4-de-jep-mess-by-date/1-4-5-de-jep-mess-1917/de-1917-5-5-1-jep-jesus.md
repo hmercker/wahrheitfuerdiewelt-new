@@ -9,5 +9,5 @@ weight:
 ---
 ### Jesus erklärt den Unterschied zwischen dem Reich Gottes, dem Paradies und dem Himmel auf Erden
 
-
+Jesus - empfangen durch James Padgett am 5. Mai 1917, Washington, DC, USA.
 

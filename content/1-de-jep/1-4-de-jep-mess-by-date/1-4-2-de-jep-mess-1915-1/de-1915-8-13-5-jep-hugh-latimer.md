@@ -9,5 +9,5 @@ weight:
 ---
 ### Sein Glaube als er auf Erden war. Jesus kam und sagte ihm, dass er nicht Gott sei
 
-
+Hugh Latimer - empfangen durch James Padgett am 13. August 1915, Washington, DC, USA.
 

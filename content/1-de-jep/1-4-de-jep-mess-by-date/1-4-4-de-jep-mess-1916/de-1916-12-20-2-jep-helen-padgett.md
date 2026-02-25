@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass es Cäsar war der tatsächlich schrieb, wie auch andere
 
-
+Helen Padgett - empfangen durch James Padgett am 20. Dezember 1916, Washington, DC, USA.
 

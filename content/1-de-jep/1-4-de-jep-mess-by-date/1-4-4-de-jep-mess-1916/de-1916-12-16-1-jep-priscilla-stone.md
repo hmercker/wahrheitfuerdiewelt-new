@@ -9,5 +9,5 @@ weight:
 ---
 ### Priscilla Stone schreibt über seine Reise in die spirituelle Welt
 
-
+Priscilla Stone - empfangen durch James Padgett am 16. Dezember 1916, Washington, DC, USA.
 

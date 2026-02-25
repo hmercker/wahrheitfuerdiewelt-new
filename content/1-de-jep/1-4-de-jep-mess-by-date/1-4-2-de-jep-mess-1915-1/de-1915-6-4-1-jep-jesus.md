@@ -9,5 +9,5 @@ weight:
 ---
 ### Ohne die Göttliche Liebe kann niemand in das Reich Gottes gelangen
 
-
+Jesus - empfangen durch James Padgett am 4. Juni 1915, Washington, DC, USA.
 

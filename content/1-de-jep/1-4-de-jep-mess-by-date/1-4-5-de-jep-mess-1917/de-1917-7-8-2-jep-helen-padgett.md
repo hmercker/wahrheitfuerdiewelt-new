@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen stimmt zu, dass er von der Teilnahme an dem Treffen nicht profitiert hat
 
-
+Helen Padgett - empfangen durch James Padgett am 8. Juli 1917, Washington, DC, USA.
 

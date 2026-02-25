@@ -9,5 +9,5 @@ weight:
 ---
 ### Spencer (ein Freund) kommentiert das Buch, das Herr Padgett über Spiritismus gelesen hat
 
-
+Spencer - empfangen durch James Padgett am 18. Juni 1919, Washington, DC, USA.
 

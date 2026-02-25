@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt Spinoza's Schreiben 
 
-
+Helen Padgett - empfangen durch James Padgett am 5. Januar 1919, Washington, DC, USA.
 

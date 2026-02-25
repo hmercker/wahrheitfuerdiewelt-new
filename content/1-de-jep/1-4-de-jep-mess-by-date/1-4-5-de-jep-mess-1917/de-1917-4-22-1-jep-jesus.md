@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Notwendigkeit von Glauben und Gebet
 
-
+Jesus - empfangen durch James Padgett am 22. April 1917, Washington, DC, USA.
 

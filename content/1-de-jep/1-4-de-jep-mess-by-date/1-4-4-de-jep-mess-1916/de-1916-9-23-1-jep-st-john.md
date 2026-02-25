@@ -9,5 +9,5 @@ weight:
 ---
 ### Was ist das Schicksal des Sterblichen, der die Neue Geburt nicht erlebt hat
 
-
+Johannes - empfangen durch James Padgett am 23. September 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Colyer, der Prediger, beschreibt seinen Glauben; dementiert die Dreifaltigkeit
 
-
+Robert Colyer - empfangen durch James Padgett am 5. August 1915, Washington, DC, USA.
 

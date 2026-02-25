@@ -9,5 +9,5 @@ weight:
 ---
 ### Nur der Vater kann die Seele mit der Göttlichen Liebe füllen
 
-
+Johannes - empfangen durch James Padgett am 3. Juni 1917, Washington, DC, USA.
 

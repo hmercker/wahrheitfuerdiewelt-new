@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Göttliche Liebe wartet immer darauf, die Seele zu füllen
 
-
+Johannes - empfangen durch James Padgett am 11. Juli 1917, Washington, DC, USA.
 

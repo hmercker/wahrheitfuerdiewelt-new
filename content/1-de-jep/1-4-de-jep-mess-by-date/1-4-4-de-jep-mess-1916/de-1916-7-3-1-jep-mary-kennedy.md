@@ -9,5 +9,5 @@ weight:
 ---
 ### Mary Kennedy beabsichtigt Dr. Stone zu zeigen wo sie lebt 
 
-
+Mary Kennedy - empfangen durch James Padgett am 3. Juli 1916, Washington, DC, USA.
 

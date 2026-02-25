@@ -9,5 +9,5 @@ weight:
 ---
 ### George W. Smith lebte in England in der Nähe der Familie Stone
 
-
+George Smith - empfangen durch James Padgett am 8. Dezember 1917, Washington, DC, USA.
 

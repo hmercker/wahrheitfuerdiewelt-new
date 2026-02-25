@@ -9,5 +9,5 @@ weight:
 ---
 ### Lukas gibt die Namen der spirituellen Führer  bekannt und dass über jedem von ihnen Jesus steht
 
-
+Lukas - empfangen durch James Padgett am 5. Oktober 1916, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Ein Zeugnis über die Fehler der Kirche, da sie nichts von der göttlichen Liebe weiß
 
-
+Chrysostomos - empfangen durch James Padgett am 22. Juli 1915, Washington, DC, USA.
 

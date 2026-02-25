@@ -9,5 +9,5 @@ weight:
 ---
 ### Der Mensch selbst muss die Anstrengung unternehmen, den Einfluss der Bösen zu überwinden
 
-
+Helen Padgett - empfangen durch James Padgett am 4. Dezember 1917, Washington, DC, USA.
 

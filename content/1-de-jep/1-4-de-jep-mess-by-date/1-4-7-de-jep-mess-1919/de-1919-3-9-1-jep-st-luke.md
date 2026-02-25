@@ -9,5 +9,5 @@ weight:
 ---
 ###  Lukas, über die Lehren des Neuen Denkens (New Thought) und erklärt die irrigen Überzeugungen desselben
 
-
+Lukas - empfangen durch James Padgett am 09. März 1919, Washington, DC, USA.
 

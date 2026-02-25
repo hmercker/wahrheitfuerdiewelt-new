@@ -9,5 +9,5 @@ weight:
 ---
 ### Helen bestätigt, dass Jesus geschrieben hat und seine Herrlichkeit zeigte
 
-
+Helen Padgett - empfangen durch James Padgett am 2. Dezember 1915, Washington, DC, USA.
 

@@ -9,5 +9,5 @@ weight:
 ---
 ### Die Bedeutung der Jesus-Botschaft bei der Auswahl von Dr. Stone
 
-
+Johannes - empfangen durch James Padgett am 3. Oktober 1915, Washington, DC, USA.
 

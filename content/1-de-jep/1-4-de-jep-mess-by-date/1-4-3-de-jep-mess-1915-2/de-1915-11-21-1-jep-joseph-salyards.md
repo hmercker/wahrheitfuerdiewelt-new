@@ -9,5 +9,5 @@ weight:
 ---
 ### Professor Salyards beschreibt das Wesen Gottes
 
-
+Joseph Salyards - empfangen durch James Padgett am 21. November 1915, Washington, DC, USA.
 
