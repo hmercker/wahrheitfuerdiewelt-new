@@ -11,3 +11,6 @@ weight:
 
 Helen Padgett - empfangen durch James Padgett am 24. September 1914, Washington, DC, USA.
 
+Gute Nacht, ich liebe dich – Helen.
+
+*Deutscher Orginaltext von padgettmessages.de*
