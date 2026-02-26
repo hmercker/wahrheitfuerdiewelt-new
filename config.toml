@@ -36,3 +36,8 @@ delimiter = ""
     meta_og_type = "article"
     meta_og_description = ""
     meta_og_site_name = "Wahrheit für die Welt"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
