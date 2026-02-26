@@ -11,3 +11,10 @@ weight:
 
 Aaron - empfangen durch James Padgett am 12. August 1915, Washington, DC, USA.
 
+Ich bin hier, Aaron.
+
+Ich war ein Prophet, der Bruder Moses' und der Priester der Tabernakel.
+
+Ich war ein sehr mächtiger Mann, als ich auf Erden war und lehrte die Kinder Israel die Wahrheiten Gottes. Ich werde heute Nacht nicht mehr schreiben, da du schläfrig bist und ich werde später wiederkommen. Ja, sie ist hier.
+
+Ich werde gute Nacht sagen.

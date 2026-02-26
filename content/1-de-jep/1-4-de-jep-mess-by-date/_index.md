@@ -1,13 +1,13 @@
 ---
-title: "Padgett Botschaften in Reihenfolge des Datums"
-menu_title: "Padgett Botschaften in Reihenfolge des Datums"
-description: "Padgett Botschaften in Reihenfolge des Datums"
+title: "Botschaften chronologisch sortiert"
+menu_title: "Botschaften chronologisch sortiert"
+description: "Botschaften chronologisch sortiert"
 date: 2026-02-24 00:00:00+00:00
 draft: False
 hidden: False
 weight: 40
 ---
-## Padgett Botschaften in Reihenfolge des Datums
+## Botschaften chronologisch sortiert
 
 |
 |---

@@ -2,7 +2,7 @@
 title: "Auszüge aus dem Gesamtwerk der Padgett-Botschaften 1917"
 menu_title: ""
 description: "Auszüge aus dem Gesamtwerk der Padgett-Botschaften 1917"
-date: 2020-08-01 06:25:48+00:73
+date: 2026-02-26 00:00:00+00:00
 draft: False
 hidden: True
 weight:
