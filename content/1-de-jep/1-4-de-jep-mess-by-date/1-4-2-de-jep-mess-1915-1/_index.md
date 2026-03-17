@@ -37,8 +37,8 @@ AG Riddle | [Riddle ist in eine neue Sphäre vorgedrungen und sucht nun mehr Hil
 Helen Padgett | [Helen schreibt, dass Riddles Seelenpartnerin einen wunderbaren Einfluss auf ihn hat](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-2-20-2-jep-helen-padgett/) | 20. Februar 1915
 Helen Padgett | [Ein schöner Liebesbrief von Helen](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-2-22-1-jep-helen-padgett/) | 22. Februar 1915
 Joseph Salyards | [Joseph Salyards berichtet über das Leben in der spirituellen Welt](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-2-25-1-jep-joseph-salyards/) | 25. Februar 1915
-Helen Padgett | [Helen Padgett berichtet über die Seligkeit, die sie umgibt](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-3-3-1-jep-helen-padgett/) | 3. März 1915
 Jesus | [Was die Göttliche Liebe bewirkt](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-3-3-2-jep-jesus/) | 3. März 1915
+Helen Padgett | [Helen Padgett berichtet über die Seligkeit, die sie umgibt](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-3-3-1-jep-helen-padgett/) | 3. März 1915
 Jesus | [Jesus schreibt über die Liebe der Menschen](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-3-4-1-jep-jesus/) | 4. März 1915
 Ann Rollins | [Ann Rollins beschreibt ihre seelische Entwicklung](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-3-5-1-jep-ann-rollins/) | 5. März 1915
 Jesus | [Die Kraft der Liebe, die Menschen von Sünde und Irrtum befreit](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-3-6-1-jep-jesus/) | 6. März 1915
