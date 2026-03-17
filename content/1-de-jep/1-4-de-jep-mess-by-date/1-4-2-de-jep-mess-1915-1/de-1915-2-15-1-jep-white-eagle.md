@@ -31,6 +31,6 @@ White Eagle.
 
 **Anmerkung:** *Dieses Foto von White Eagle wurde in Band III veröffentlicht, ohne dass angegeben wurde, wie es entstanden ist.*
 
-![](../portraits/de-white_eagle.jpg)
+![White Eagle](..static/portraits/de-white_eagle.jpg)
 
 *Ein weiterer Kommentar zu diesem Foto lautet wie folgt: White Eagle ist ein mächtiger Indianer und hat seine großen Heilkräfte oft eingesetzt, um Mr. James E. Padgett gesund zu machen. Er schrieb oft, dass er viel göttliche Liebe in seiner Seele hatte, die ihn zu einem hellen und schönen Geist machte.*
