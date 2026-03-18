@@ -39,3 +39,4 @@ Jesus | [Schawuot – Pfingsten, vierter Feiertag, der Sonntag, der dem 50. Tag 
 Jesus | [Chanukka, Weihnachten, Dreikönigstag, der zweite Feiertag, 17. und 18. Dezember; 24. und 25. Dezember; 6. Januar](/2-de-dgs/2-3-de-dgs-mess/de-16-1963-8-samuels-jesus/) | August 1964
 Jesus | [Jom Kippur, Versöhnungstag, Johannes der Täufer, erster Feiertag, letzter Samstag im September](/2-de-dgs/2-3-de-dgs-mess/de-17-1963-8-samuels-jesus/) | August 1963
 Jesus | [Passah – Ostern, dritter Feiertag, 2. Samstagabend und Sonntag im April](/2-de-dgs/2-3-de-dgs-mess/de-18-sep-oct-1955-aug-oct-1962-may-june-1965-samuels-jesus/) | September und Oktober 1955, August und Oktober 1962, Mai und Juni 1965
+Jesus | [Dr. Stone erhält Anweisung, Hilfe von jedem anzunehmen der bereit ist sie zu geben, auch wenn er nicht die Göttliche Liebe hat](/2-de-dgs/2-3-de-dgs-mess/de-19-1954-11-15-samuels-jesus/) | 15. November 1954
