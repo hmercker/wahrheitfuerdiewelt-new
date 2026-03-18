@@ -16,15 +16,15 @@ Es führt auch durch die spirituelle Reise die Jesus selbst machte, und wie er d
 **Author** | **Titel der Predigt** | **Datum der Predigt**  
 ---|---|---
  | | [Einleitung](/2-de-dgs/2-2-de-dgs-sermons/de-ser-0-introduction/) 
-Jesus | [Predigt 01 - Der Weg der Unsterblichkeit](/2-de-dgs/2-2-de-dgs-sermons/de-ser-1-1957-7-16-samuels-jesus/) | 16. Juli 1957
-Jesus | [Predigt 02 - Das Versagen des Christentums, die Liebe des Vaters zu predigen](/2-de-dgs/2-2-de-dgs-sermons/de-ser-2-1957-8-24-samuels-jesus/) | 24. August 1957
-Jesus | [Predigt 03 - Das Fehlen der wahren Gnade Gottes im heutigen Christentum](/2-de-dgs/2-2-de-dgs-sermons/de-ser-3-1957-8-25-samuels-jesus/) | 25. August 1957
-Jesus | [Predigt 04 - Die wahre Erfüllung des Gesetzes - die Liebe des Vaters](/2-de-dgs/2-2-de-dgs-sermons/de-ser-4-1957-8-26-samuels-jesus/) | 26. August 1957
-Jesus | [Predigt 05 - Abrahams wahrer Glaube und Rechtschaffenheit](/2-de-dgs/2-2-de-dgs-sermons/de-ser-5-1957-9-25-samuels-jesus/) | 25. September 1957
-Jesus | [Predigt 06 - Missverständnisse über das Blutopfer](/2-de-dgs/2-2-de-dgs-sermons/de-ser-6-1957-10-22-samuels-jesus/) | 22. Oktober 1957
-Jesus | [Predigt 07 - Der christliche Ritus namens Messe](/2-de-dgs/2-2-de-dgs-sermons/de-ser-7-1957-11-4-samuels-jesus/) | 4. November 1957
-Jesus | [Predigt 08 - Jeremia, der leidende Diener](/2-de-dgs/2-2-de-dgs-sermons/de-ser-8-1957-12-19-samuels-jesus/) | 19. Dezember 1957
-Jesus | [Predigt 09 - Das neue Herz im Alten Testament](/2-de-dgs/2-2-de-dgs-sermons/de-ser-9-1958-1-25-samuels-jesus/) | 25. Januar 1958
+Jesus | [Predigt 1 - Der Weg der Unsterblichkeit](/2-de-dgs/2-2-de-dgs-sermons/de-ser-1-1957-7-16-samuels-jesus/) | 16. Juli 1957
+Jesus | [Predigt 2 - Das Versagen des Christentums, die Liebe des Vaters zu predigen](/2-de-dgs/2-2-de-dgs-sermons/de-ser-2-1957-8-24-samuels-jesus/) | 24. August 1957
+Jesus | [Predigt 3 - Das Fehlen der wahren Gnade Gottes im heutigen Christentum](/2-de-dgs/2-2-de-dgs-sermons/de-ser-3-1957-8-25-samuels-jesus/) | 25. August 1957
+Jesus | [Predigt 4 - Die wahre Erfüllung des Gesetzes - die Liebe des Vaters](/2-de-dgs/2-2-de-dgs-sermons/de-ser-4-1957-8-26-samuels-jesus/) | 26. August 1957
+Jesus | [Predigt 5 - Abrahams wahrer Glaube und Rechtschaffenheit](/2-de-dgs/2-2-de-dgs-sermons/de-ser-5-1957-9-25-samuels-jesus/) | 25. September 1957
+Jesus | [Predigt 6 - Missverständnisse über das Blutopfer](/2-de-dgs/2-2-de-dgs-sermons/de-ser-6-1957-10-22-samuels-jesus/) | 22. Oktober 1957
+Jesus | [Predigt 7 - Der christliche Ritus namens Messe](/2-de-dgs/2-2-de-dgs-sermons/de-ser-7-1957-11-4-samuels-jesus/) | 4. November 1957
+Jesus | [Predigt 8 - Jeremia, der leidende Diener](/2-de-dgs/2-2-de-dgs-sermons/de-ser-8-1957-12-19-samuels-jesus/) | 19. Dezember 1957
+Jesus | [Predigt 9 - Das neue Herz im Alten Testament](/2-de-dgs/2-2-de-dgs-sermons/de-ser-9-1958-1-25-samuels-jesus/) | 25. Januar 1958
 Jesus | [Predigt 10 - Menschliche Liebe ist eine Voraussetzung für die Wertschätzung der Göttlichen Liebe](/2-de-dgs/2-2-de-dgs-sermons/de-ser-10-1958-2-18-samuels-jesus/) | 18. Februar 1958
 Jesus | [Predigt 11 - Die Göttliche Liebe des Vaters, die sich in den Erfahrungen Josefs ankündigt](/2-de-dgs/2-2-de-dgs-sermons/de-ser-11-1958-4-4-samuels-jesus/) | 4. April 1958
 Jesus | [Predigt 12 - Ruth's Vertrauen in die Liebe des Vaters](/2-de-dgs/2-2-de-dgs-sermons/de-ser-12-1958-4-10-samuels-jesus/) | 10. April 1958

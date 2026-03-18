@@ -7,14 +7,15 @@ draft: False
 hidden: False
 weight: 10
 ---
+
 ### Erklärungen und Einsichten in das Neue Testament
 
-Diese Offenbarungen wurden von [Dr. Daniel G. Samuels](/die-gemeinschaft-der-goettlichen-liebe/dr-daniel-g-samuels-floater/) im Zeitraum von 1954 bis 1966 empfangen.
+Diese Offenbarungen wurden von [Dr. Daniel G. Samuels]() im Zeitraum von 1954 bis 1966 empfangen.
 
 Die hier verwendete Nummerierungsreihenfolge entspricht der, die ursprünglich von der Kirche der Neuen Geburt (FCNB) in ihren Publikationen verwendet wurde. Eine neuere Veröffentlichung der Kirche der Göttlichen Wahrheit (FCDT), "New Testament Revelations of Jesus of Nazareth" (NTR), hat diese Botschaften neu nummeriert. In vielerlei Hinsicht ist ihre neue Nummernfolge eine Verbesserung, aber um Verwirrung bei der webbasierten Suche zu vermeiden, haben wir beschlossen, die alte Reihenfolge beizubehalten. Die Nummernfolge des NTR ist auch in jeder Botschaft angegeben.
 
-**Author** | **Titel** | **Datum der Botschaft**  
----|---|---
+|**Author** | **Titel** | **Datum der Botschaft**|
+|---|---|---|
 Jesus | [Dr. Samuels wird mitgeteilt, dass seine gegenwärtige Arbeit zu einem neuen und korrigierten Evangelium für die Menschheit führen wird](/2-de-dgs/2-1-de-dgs-revelations/de-rev-0-1954-12-22-samuels-jesus/) | 22. Dezember 1954
 Jesus | [Offenbarung 01: Jesus und sein Cousin Johannes der Täufer](/2-de-dgs/2-1-de-dgs-revelations/de-rev-1-1955-3-24-samuels-jesus/) | 24. März 1955
 Johannes | [Offenbarung 02: Johannes der Täufer schreibt über sein Leben und sein öffentliches Wirken](/2-de-dgs/2-1-de-dgs-revelations/de-rev-2-1955-3-3-samuels-st-john/) | 3. März 1955
