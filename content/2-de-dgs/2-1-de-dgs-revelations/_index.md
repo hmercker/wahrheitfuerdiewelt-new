@@ -16,16 +16,16 @@ Die hier verwendete Nummerierungsreihenfolge entspricht der, die ursprünglich v
 
 |**Author** | **Titel** | **Datum der Botschaft**|
 |---|---|---|
-Jesus | [Dr. Samuels wird mitgeteilt, dass seine gegenwärtige Arbeit zu einem neuen und korrigierten Evangelium für die Menschheit führen wird](/2-de-dgs/2-1-de-dgs-revelations/de-rev-0-1954-12-22-samuels-jesus/) | 22. Dezember 1954
-Jesus | [Offenbarung 01: Jesus und sein Cousin Johannes der Täufer](/2-de-dgs/2-1-de-dgs-revelations/de-rev-1-1955-3-24-samuels-jesus/) | 24. März 1955
-Johannes | [Offenbarung 02: Johannes der Täufer schreibt über sein Leben und sein öffentliches Wirken](/2-de-dgs/2-1-de-dgs-revelations/de-rev-2-1955-3-3-samuels-st-john/) | 3. März 1955
-Jesus | [Offenbarung 03: Was passiert, wenn Gott die Möglichkeit, Seine Liebe zu erwerben, erneut widerruft](/2-de-dgs/2-1-de-dgs-revelations/de-rev-3-21-april-und-3-may-1955-samuels-jesus/) | 21. April und 3. Mai 1955
-Jesus | [Offenbarung 04: Jesus erklärt sich in der Synagoge von Nazareth öffentlich als Messias Gottes](/2-de-dgs/2-1-de-dgs-revelations/de-rev-4-1955-5-25-samuels-jesus/) | 25. Mai 1955
-Jesus | [Offenbarung 05: Warum Jesus nicht als Messias Gottes anerkannt wurde](/2-de-dgs/2-1-de-dgs-revelations/de-rev-5-14-june-und-5-november-1955-samuels-jesus/) | 14 Juni und 5. November 1955
-Jesus | [Offenbarung 06: Von Engeln und Menschen](/2-de-dgs/2-1-de-dgs-revelations/de-rev-6-16-august-8-september-1955-samuels-jesus/) | 16. August und 8. September 1955
-Jesus | [Offenbarung 07: Das Reich Gottes ist in uns](/2-de-dgs/2-1-de-dgs-revelations/de-rev-7-1955-11-7-samuels-jesus/) | 7. November 1955
-Jesus | [Offenbarung 08:  Der Geist Gottes und der Heilige Geist](/2-de-dgs/2-1-de-dgs-revelations/de-rev-8-31-march-13-april-1955-samuels-jesus/) | 31 März und 13. April 1955
-Jesus | [Offenbarung 09:  Jesu Kindheit in Ägypten](/2-de-dgs/2-1-de-dgs-revelations/de-rev-9-1955-1-10-samuels-jesus/) | 10. Januar 1955
+Jesus | [Jesus beabsichtigt, sein Evangelium zu korrigieren und neu zu schreiben](/2-de-dgs/2-3-de-dgs-mess/de-8-1954-12-22-samuels-jesus/) | 22. Dezember 1954
+Jesus | [Offenbarung 1: Jesus und sein Cousin Johannes der Täufer](/2-de-dgs/2-1-de-dgs-revelations/de-rev-1-1955-3-24-samuels-jesus/) | 24. März 1955
+Johannes | [Offenbarung 2: Johannes der Täufer schreibt über sein Leben und sein öffentliches Wirken](/2-de-dgs/2-1-de-dgs-revelations/de-rev-2-1955-3-3-samuels-st-john/) | 3. März 1955
+Jesus | [Offenbarung 3: Was passiert, wenn Gott die Möglichkeit, Seine Liebe zu erwerben, erneut widerruft](/2-de-dgs/2-1-de-dgs-revelations/de-rev-3-21-april-und-3-may-1955-samuels-jesus/) | 21. April und 3. Mai 1955
+Jesus | [Offenbarung 4: Jesus erklärt sich in der Synagoge von Nazareth öffentlich als Messias Gottes](/2-de-dgs/2-1-de-dgs-revelations/de-rev-4-1955-5-25-samuels-jesus/) | 25. Mai 1955
+Jesus | [Offenbarung 5: Warum Jesus nicht als Messias Gottes anerkannt wurde](/2-de-dgs/2-1-de-dgs-revelations/de-rev-5-14-june-und-5-november-1955-samuels-jesus/) | 14 Juni und 5. November 1955
+Jesus | [Offenbarung 6: Von Engeln und Menschen](/2-de-dgs/2-1-de-dgs-revelations/de-rev-6-16-august-8-september-1955-samuels-jesus/) | 16. August und 8. September 1955
+Jesus | [Offenbarung 7: Das Reich Gottes ist in uns](/2-de-dgs/2-1-de-dgs-revelations/de-rev-7-1955-11-7-samuels-jesus/) | 7. November 1955
+Jesus | [Offenbarung 8:  Der Geist Gottes und der Heilige Geist](/2-de-dgs/2-1-de-dgs-revelations/de-rev-8-31-march-13-april-1955-samuels-jesus/) | 31 März und 13. April 1955
+Jesus | [Offenbarung 9:  Jesu Kindheit in Ägypten](/2-de-dgs/2-1-de-dgs-revelations/de-rev-9-1955-1-10-samuels-jesus/) | 10. Januar 1955
 Jesus | [Offenbarung 10: Jesus und Nikodemus](/2-de-dgs/2-1-de-dgs-revelations/de-rev-10-1960-7-12-samuels-jesus/) | 12. Juli 1960
 Jesus | [Offenbarung 11: Das Grabtuch von Turin](/2-de-dgs/2-1-de-dgs-revelations/de-rev-11-14-september-10-october-1955-samuels-jesus/) | 14. September und 10. Oktober 1955
 Jesus | [Offenbarung 12: Jesus erklärt einige Passagen aus dem Johannes-Evangelium](/2-de-dgs/2-1-de-dgs-revelations/de-rev-12-7-14-30-june-1955-samuels-jesus/) | 7., 14. und 30. Juni 1955

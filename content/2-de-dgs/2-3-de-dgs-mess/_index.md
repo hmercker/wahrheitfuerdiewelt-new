@@ -34,9 +34,10 @@ Jesus | [Seelen bei der Schöpfung, Entwicklung und Dematerialisierung](/2-de-dg
 Jesus | [Die Seele eines Kindes](/2-de-dgs/2-3-de-dgs-mess/de-11-undated-samuels-jesus/) | kein Datum
 Maria | [Maria schreibt über Jesu Geburt und seine frühe Jugendzeit](/2-de-dgs/2-3-de-dgs-mess/de-12-1963-samuels-mary/) | 1963
 Jesus | [Legale Eheschließungen, Scheidung, Ehebruch, Geburtenkontrolle und Abtreibung](/2-de-dgs/2-3-de-dgs-mess/de-13-1961-4-1-samuels-jesus/) | 1. April 1961
-Josef | [Der Vater Jesu wurde von einigen Evangelisten Alphäus genannt](/2-de-dgs/2-3-de-dgs-mess/de-14-1954-11-2-samuels-joseph/) | 2. November 1954
+Josef | [Jesu Vater wurde von einigen Evangelisten Alphäus genannt](/2-de-dgs/2-3-de-dgs-mess/de-14-1954-11-2-samuels-joseph/) | 2. November 1954
 Jesus | [Schawuot – Pfingsten, vierter Feiertag, der Sonntag, der dem 50. Tag nach dem zweiten Samstag im April am nächsten liegt](/2-de-dgs/2-3-de-dgs-mess/de-15-1963-8-samuels-jesus/) | August 196
 Jesus | [Chanukka, Weihnachten, Dreikönigstag, der zweite Feiertag, 17. und 18. Dezember; 24. und 25. Dezember; 6. Januar](/2-de-dgs/2-3-de-dgs-mess/de-16-1963-8-samuels-jesus/) | August 1964
 Jesus | [Jom Kippur, Versöhnungstag, Johannes der Täufer, erster Feiertag, letzter Samstag im September](/2-de-dgs/2-3-de-dgs-mess/de-17-1963-8-samuels-jesus/) | August 1963
 Jesus | [Passah – Ostern, dritter Feiertag, 2. Samstagabend und Sonntag im April](/2-de-dgs/2-3-de-dgs-mess/de-18-sep-oct-1955-aug-oct-1962-may-june-1965-samuels-jesus/) | September und Oktober 1955, August und Oktober 1962, Mai und Juni 1965
 Jesus | [Dr. Stone erhält Anweisung, Hilfe von jedem anzunehmen der bereit ist sie zu geben, auch wenn er nicht die Göttliche Liebe hat](/2-de-dgs/2-3-de-dgs-mess/de-19-1954-11-15-samuels-jesus/) | 15. November 1954
+Jesus | [Jesus möchte, dass das Neue Testament neu geschrieben wird](/2-de-dgs/2-3-de-dgs-mess/de-20-1954-11-11-samuels-jesus/) | 11. November 1954
