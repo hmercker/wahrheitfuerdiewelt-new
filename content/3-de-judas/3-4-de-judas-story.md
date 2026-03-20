@@ -1,11 +1,11 @@
 ---
 title: "Die Judas Geschichte"
-menu_title: ""
+menu_title: "Die Judas Geschichte"
 description: "Die Judas Geschichte"
-date: 2020-08-01 06:25:48+00:73
+date: 2026-03-20 00:00:00+00:00
 draft: False
-hidden: True
-weight:
+hidden: False
+weight: 40
 ---
 ### Die Judas Geschichte
 
