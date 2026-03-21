@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-### Das wahre Evangelium neu übermittelt durch Jesus
+## Das wahre Evangelium neu übermittelt durch Jesus
 
 [James Padgett](https://new-birth.net/mediumship/james-padgett-medium/) erhielt im Zeitraum von 1914 bis zu seinem Tod im Jahr 1923 Botschaften von Jesus und vielen Himmlischen und anderen spirituellen Wesen. Die einzigen Botschaften, die derzeit veröffentlicht wurden, sind in vier ersten Bänden veröffentlicht, die meist den Titel "Das wahre Evangelium, neu übermittelt durch Jesus" tragen. Diese vier Bände wurden zwischen 1941 und 1972 von Dr. Stone, dem engen Mitarbeiter von James Padgett, veröffentlicht. Der letzte Band wurde in der Tat nach Dr. Stones Tod von Pfarrer John Paul Gibson fertiggestellt. Aus dieser ersten Quelle wurde eine Reihe weiterer veröffentlichter Werke zusammengestellt. Da es sich jedoch um die originellsten [Publikationen](https://new-birth.net/other-stuff/books-we-love/books-on-the-messages-received-by-james-padgett/#oop/) handelt, bieten wir diese Web-Version der Bände an.
 

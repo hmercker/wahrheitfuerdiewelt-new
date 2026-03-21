@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 10
 ---
-### Wer war James E. Padgett?
+## Wer war James E. Padgett?
 
 |
 |-

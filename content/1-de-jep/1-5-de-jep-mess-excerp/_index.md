@@ -7,9 +7,9 @@ draft: False
 hidden: False
 weight: 50
 ---
-### Auszüge aus dem Gesamtwerk Padgetts
+## Auszüge aus dem Gesamtwerk Padgetts
 
-#### Der Weg ins Licht
+### Der Weg ins Licht
 
 Die folgende Sammlung von Auszügen basiert zum Teil auf dem wunderbaren Werk (Little Book of Truths) unseres geliebten verstorbenen Bruders [Joseph Babinsky](https://www.lulu.com/search?adult_audience_rating=00&contributor=Joseph+Babinsky&page=1&pageSize=10). Wir möchten ihn und sein hervorragendes Wissen über die Padgett-Botschaften mit diesen Auszügen würdigen und seine Arbeit ehren. Joseph Babinsky hatte die besondere Gabe, die wichtigsten Aspekte aus einem sehr großen Werk von Botschaften zu zitieren. Somit wird hier der Inhalt dieses Büchleins (Little Book of Truths) auszugsweise auf Deutsch wiedergegeben. Weitere Auszüge wurden beigefügt.
 

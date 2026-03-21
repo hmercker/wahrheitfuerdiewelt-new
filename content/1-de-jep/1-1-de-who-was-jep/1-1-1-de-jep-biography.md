@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight: 
 ---
-## Biografie von James Edward Padgett von Alan Ross
+### Biografie von James Edward Padgett von Alan Ross
 
 *von [Alan Ross](http://www.jamesepadgett.com/biography-of-james-e-padgett.html)*
 
