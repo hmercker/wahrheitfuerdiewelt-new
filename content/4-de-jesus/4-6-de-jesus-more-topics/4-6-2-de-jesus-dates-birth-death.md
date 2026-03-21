@@ -60,7 +60,7 @@ Da der Sonnenuntergang variiert, wird für die Kalenderberechnung angenommen, da
 
 Sobald der Molad, der ein Jahr beginnt, bestimmt ist, kann der tatsächliche Beginn des Jahres (Tishri 1) bestimmt werden. Tishri 1 wird der Tag des Molads sein, es sei denn, er wird durch eine der folgenden vier Regeln verzögert (genannt Dehiyyot). Jede Regel kann den Jahresanfang um einen Tag verzögern, und da Regel #1 mit einer der anderen Regeln kombiniert werden kann, kann der Jahresanfang um bis zu zwei Tage verzögert werden.
 
-Tishri [^1] darf niemals Sonntag, Mittwoch oder Freitag sein. (Dies dient vor allem dazu, zu verhindern, dass bestimmte Feiertage auf den Tag vor oder nach dem Sabbat fallen).
+Tishri 1 darf niemals Sonntag, Mittwoch oder Freitag sein. (Dies dient vor allem dazu, zu verhindern, dass bestimmte Feiertage auf den Tag vor oder nach dem Sabbat fallen).
 
 Wenn der Molad am oder nach dem Mittag stattfindet, muss Tishri 1 verschoben werden.
 
@@ -76,13 +76,13 @@ Was sagen uns die Botschaften von Padgett und Samuels?
 
 #### Das Festlegen von Daten:
 
-In "[Offenbarung 33: Der Stern von Bethlehem und die drei Weisen](/samuels-botschaften/erklaerungen-und-einsichten-in-das-neue-testament/offenbarung-33-der-stern-von-bethlehem-und-die-weisen-aus-dem-morgenland-17-januar-1955/)" sagt Jesus:
+In [Offenbarung 33: Der Stern von Bethlehem und die drei Weisen](/2-de-dgs/2-1-de-dgs-revelations/de-rev-33-1955-1-17-samuels-jesus/) sagt Jesus:
 
 > Zur Zeit meiner Geburt, die kurz nach Mitternacht des 7. Januar war, gab es keinen Stern von großem Licht ...
 
 Er wurde also am 7. Januar geboren (weil die Juden einen neuen Tag zählten, der mit dem Sonnenuntergang begann) oder am 8. Januar (nach dem 7. Januar, weniger wahrscheinlich).
 
-In "[Offenbarung 14: Die Weissagung Daniels](/samuels-botschaften/erklaerungen-und-einsichten-in-das-neue-testament/offenbarung-14-die-weissagungen-daniels-12-dezember-1955/)" schreibt Jesus: "Die rätselhafte "Zeit, Zeiten und Zeiteinteilung", die Daniel als 1260 Tage bezeichnete, bezog sich auf die ungefähr dreieinhalb Zeitspanne vor meinem Tod und meinte einfach mein öffentliches Amt, dem Daniels vorausgesagte Zeit sehr nahe kommt. Vom 26. Januar 26 n. Chr. bis zum 18. März 29 n. Chr. ist der kleine Unterschied darauf zurückzuführen, dass mein Dienst nicht volle dreieinhalb Jahre dauerte, sondern etwas weniger als 3 Jahre und drei Monate, nach deinem Kalender".
+In [Offenbarung 14: Die Weissagung Daniels](/2-de-dgs/2-1-de-dgs-revelations/de-rev-14-1955-12-12-samuels-jesus/) schreibt Jesus: "Die rätselhafte "Zeit, Zeiten und Zeiteinteilung", die Daniel als 1260 Tage bezeichnete, bezog sich auf die ungefähr dreieinhalb Zeitspanne vor meinem Tod und meinte einfach mein öffentliches Amt, dem Daniels vorausgesagte Zeit sehr nahe kommt. Vom 26. Januar 26 n. Chr. bis zum 18. März 29 n. Chr. ist der kleine Unterschied darauf zurückzuführen, dass mein Dienst nicht volle dreieinhalb Jahre dauerte, sondern etwas weniger als 3 Jahre und drei Monate, nach deinem Kalender".
 
 So starb er am 18. März 29 n. Chr.
 
@@ -96,14 +96,14 @@ In der gleichen Botschaft sagt er: „Ich wurde im Alter von sechsunddreißig Ja
 … | … 
 2 | 9
 1 | 8
-kein Jahr | …
-1 | 7
-2 | 6
-3 | 5
-4 | 4
-5 | 3
-6 | 2
-7 | 1
+0 | …
+1 v Chr | 7
+2 v Chr | 6
+3 v Chr | 5
+4 v Chr | 4
+5 v Chr | 3
+6 v Chr | 2
+7 v Chr | 1
 
 Je nachdem, wie du die Jahre zählst, wurde Jesus in 8 oder 7 (meiner Meinung nach wahrscheinlich eher) vor Christus geboren.
 
@@ -153,19 +153,19 @@ Dem Purim-Fest geht ein kleines Fasten voraus, das Fasten von Esther, das an die
 
 Leider gibt es zusätzlich zu den Problemen, die die Kalenderreformen mit sich bringen, Ungereimtheiten in den Channelings von Samuels, die die Festlegung der Daten noch schwieriger oder problematischer machen.
 
-In [Offenbarung 18: Wunder die sich niemals ereignet haben](/samuels-botschaften/erklaerungen-und-einsichten-in-das-neue-testament/offenbarung-18-wunder-die-sich-niemals-ereignet-haben-06-09-13-22-dezember-1954/) lesen wir:
+In [Offenbarung 18: Wunder die sich niemals ereignet haben](/2-de-dgs/2-1-de-dgs-revelations/de-rev-18-6-9-13-22-december-1954-samuels-jesus/) lesen wir:
 
 > Auch in den Evangelien von Markus und Matthäus wird meine Rückkehr von Bethanien nach Jerusalem am Montag der Passionswoche erwähnt. Dort heißt es, dass ich hungrig an einem Feigenbaum mit blühenden Blättern anhielt, aber da ich keine Frucht fand, verfluchte ich den Baum, der nach dem Matthäusevangelium sofort verdorrte. Die Wahrheit ist, dass ich gerade von Lazarus' Haus zurückgekehrt war, wo ich ein gutes Frühstück genossen hatte, das mir von Martha serviert und von Maria zubereitet worden war, und dass ich nicht hungrig, sondern nur neugierig war, denn da es Anfang April war, war es nicht die Zeit für Feigenbäume, Früchte zu geben, und da ich Blätter am Baum sah, erwartete ich Feigen zu sehen. Ich möchte klarstellen, dass ich zu keiner Zeit etwas oder jemanden verflucht habe, weder einen Feigenbaum noch Chorazin oder Kapernaum, die Stadt am Gennasaret-See, denn ich bin gekommen, um zu retten und nicht um zu zerstören. Außerdem begann der Baum nicht auf wundersame Weise zu verwelken, und es war nicht Matthäus, der diese Worte schrieb, sondern ein anderer, viele Jahre später, der daran interessiert war, meine Göttlichkeit durch den einzigen Weg zu zeigen, wie er meine Messiasschaft verstehen konnte, eher durch übernatürliche Kräfte als durch Seelenentwicklung.
 
 Also, hier war die Passionswoche im April.
 
-In [Offenbarung 25: Jesus schreibt über seine Verhaftung, das anschliessende Verhör und über die Kreuzigung](/samuels-botschaften/erklaerungen-und-einsichten-in-das-neue-testament/offenbarung-25-jesus-schreibt-ueber-seine-verhaftung-das-anschliesende-verhoer-und-ueber-die-kreuzigung-17-mai-1955/) lesen wir:
+In [Offenbarung 25: Jesus schreibt über seine Verhaftung, das anschliessende Verhör und über die Kreuzigung](/2-de-dgs/2-1-de-dgs-revelations/de-rev-25-1955-5-17-samuels-jesus/) lesen wir:
 
 > Erstens, es war nicht im April, dass ich verhaftet und getötet wurde, wie so oft geschrieben wurde, sondern es geschah im März, und es gibt einige Hinweise darauf im Neuen Testament ...
 
 Und hier ist es wieder März.
 
-Wie ich oben gezeigt habe, starb Jesus angeblich im Jahr 29. Aber in [Offenbarung 36: Josef von Arimathäa und über die stellvertretende Sühne](/samuels-botschaften/erklaerungen-und-einsichten-in-das-neue-testament/offenbarung-36-joseph-von-arimathaea-und-ueber-die-stellvertretende-suehne-20-dezember-1954/) lesen wir:
+Wie ich oben gezeigt habe, starb Jesus angeblich im Jahr 29. Aber in [Offenbarung 36: Josef von Arimathäa und über die stellvertretende Sühne](/2-de-dgs/2-1-de-dgs-revelations/de-rev-36-1954-12-20-samuels-jesus/) lesen wir:
 
 > Ich bin heute Abend hier, um über meinen Vater, Josef, zu schreiben, und du kannst dir seiner Wahrhaftigkeit absolut sicher sein. In erster Linie gibt es Beweise im Neuen Testament, die zeigen, dass mein Vater etwa neun Monate vor der Kreuzigung lebte, und zwar während des Jahres 29 (n. Chr.), als ich in Kapernaum predigte, und die Juden sich gegenseitig fragten: "Ist er nicht der Sohn von Josef und Maria, den wir kennen? - ein Zitat aus dem sechsten Kapitel des Johannes, Zeile 42, das zeigt, dass sie meinen Vater als noch lebendig bezeichneten.
 
