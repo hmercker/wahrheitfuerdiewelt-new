@@ -1,0 +1,295 @@
+{{ define "main" }}
+<style>
+:root{--orange:rgb(208,108,41);--ink:#383f45;--ink-mid:#5a5a5a;--ink-light:#8c8c8c;--white:#ffffff;--border:#dcdcdc;--shadow:rgba(0,0,0,0.12);}
+.kal-heading{text-align:center;margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--border);}
+.kal-heading h1{font-family:'Cinzel',serif !important;font-weight:600;font-size:1.9rem;color:var(--ink);line-height:1.2;margin-bottom:5px;text-indent:0;}
+.kal-hebrew{font-style:italic;color:var(--orange);font-size:.95rem;letter-spacing:.05em;}
+.kal-desc{font-style:italic;font-size:.82rem;color:var(--ink-light);margin-top:4px;}
+.kal-intro{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-bottom:18px;}
+.kal-icard{border:1px solid var(--border);background:var(--white);box-shadow:var(--shadow) 0 1px 3px;padding:10px 12px;}
+.kal-icard h3{font-family:'Cinzel',serif !important;font-weight:600;font-size:.7rem;color:var(--orange);text-transform:uppercase;letter-spacing:.08em;margin-bottom:5px;}
+.kal-icard p{font-size:.78rem;color:var(--ink-mid);line-height:1.5;margin:0;text-indent:0;}
+.kal-legend{display:flex;flex-wrap:wrap;gap:5px 12px;align-items:center;margin-bottom:18px;padding:9px 12px;background:var(--white);border:1px solid var(--border);font-size:.74rem;}
+.kal-leg-group{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center;}
+.kal-leg-title{font-family:'Cinzel',serif !important;font-size:.62rem;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-light);margin-right:2px;}
+.kal-leg{display:flex;align-items:center;gap:4px;color:var(--ink-mid);}
+.kal-leg-dot{width:8px;height:8px;flex-shrink:0;}
+.kal-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px;margin-bottom:24px;}
+.kal-card{background-color:var(--white);border:1px solid var(--border);box-shadow:var(--shadow) 0 1px 3px;transition:box-shadow .2s;}
+.kal-card:hover{box-shadow:rgba(208,108,41,.18) 0 0 10px,var(--shadow) 0 2px 6px;}
+.kal-card.leap{opacity:.82;border-style:dashed;}
+.kal-sbar{height:4px;}
+/* Card header */
+.kal-chead{padding:9px 12px 7px;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:flex-start;}
+.kal-cname{font-family:'Cinzel',serif !important;font-weight:600;font-size:1rem;color:var(--ink);line-height:1.15;}
+.kal-cheb{font-style:italic;font-size:.8rem;color:var(--ink-light);margin-top:2px;}
+.kal-cmeta{text-align:right;flex-shrink:0;margin-left:8px;}
+.kal-cnrs{font-family:'Cinzel',serif !important;font-size:.6rem;color:var(--ink-light);text-transform:uppercase;letter-spacing:.08em;}
+.kal-cgreg{font-size:.74rem;color:var(--orange);margin-top:2px;}
+.kal-cdays{font-size:.68rem;color:var(--ink-light);font-style:italic;}
+.kal-leap-badge{display:inline-block;font-size:.6rem;background:#fde8d8;color:#8b2500;padding:1px 4px;margin-top:2px;}
+.kal-cbody{padding:9px 12px 11px;display:flex;flex-direction:column;gap:8px;}
+.kal-slabel{font-family:'Cinzel',serif !important;font-weight:400;font-size:.62rem;text-transform:uppercase;letter-spacing:.14em;color:var(--ink-light);margin-bottom:4px;}
+/* Moon */
+.kal-moon{background:rgba(74,42,112,.04);border:1px solid rgba(74,42,112,.1);padding:6px 9px;}
+.kal-mrow{display:flex;gap:4px;align-items:center;margin-bottom:3px;}
+.kal-mi{width:13px;height:13px;border-radius:50%;flex-shrink:0;position:relative;overflow:hidden;background:#666;}
+.kal-mi.full{background:#c8c3b4;}.kal-mi.new{background:#555;}
+.kal-mi.wax1{background:#555;}.kal-mi.wax1::after{content:'';position:absolute;top:0;right:0;width:50%;height:100%;background:#c8c3b4;border-radius:0 6px 6px 0;}
+.kal-mi.wax2{background:#c8c3b4;}.kal-mi.wax2::after{content:'';position:absolute;top:0;left:0;width:50%;height:100%;background:#555;border-radius:6px 0 0 6px;}
+.kal-mi.wan1{background:#c8c3b4;}.kal-mi.wan1::after{content:'';position:absolute;top:0;left:0;width:50%;height:100%;background:#555;border-radius:6px 0 0 6px;}
+.kal-mi.wan2{background:#555;}.kal-mi.wan2::after{content:'';position:absolute;top:0;right:0;width:50%;height:100%;background:#c8c3b4;border-radius:0 6px 6px 0;}
+.kal-mlines{display:flex;flex-direction:column;gap:2px;}
+.kal-mline{font-size:.71rem;color:#4a2a70;line-height:1.4;font-style:italic;}
+.kal-mnote{font-size:.67rem;color:var(--ink-light);margin-top:2px;font-style:italic;}
+/* Life year badge */
+.kal-lybadge{border-left:4px solid #b85c00;background:#f5e6d0;padding:7px 10px;display:flex;align-items:center;gap:10px;}
+.kal-lybadge.birth{background:#2a6e30;border-color:#1a4e20;}
+.kal-lybadge.death{background:#6b1a1a;border-color:#4a0a0a;}
+.kal-lybadge.leaponly{background:#e8e4dc;border-color:#9a9080;}
+.lyr-num{font-family:'Cinzel',serif;font-weight:700;font-size:1.5rem;color:#b85c00;line-height:1;flex-shrink:0;}
+.kal-lybadge.birth .lyr-num,.kal-lybadge.death .lyr-num{color:#fff;}
+.kal-lybadge.leaponly .lyr-num{color:#9a9080;font-size:1rem;}
+.lyr-info{display:flex;flex-direction:column;gap:2px;}
+.lyr-title{font-size:.72rem;font-weight:bold;color:#6b2800;}
+.kal-lybadge.birth .lyr-title{color:#c8ffc0;}
+.kal-lybadge.death .lyr-title{color:#ffc0c0;}
+.kal-lybadge.leaponly .lyr-title{color:#5a5248;}
+.lyr-sub{font-size:.68rem;font-style:italic;color:#9a6030;}
+.kal-lybadge.birth .lyr-sub{color:#a0e8a0;}
+.kal-lybadge.death .lyr-sub{color:#ffa0a0;}
+.lyr-note{font-size:.66rem;color:#c06000;margin-top:1px;}
+.kal-lybadge.birth .lyr-note{color:#80ff80;}
+.kal-lybadge.death .lyr-note{color:#ff8080;}
+/* Tags */
+.kal-tags{display:flex;flex-direction:column;gap:3px;}
+.kal-tag{font-size:.72rem;padding:2px 7px;line-height:1.5;}
+.f-high{background:#fef3cd;color:#7a4f00;}
+.f-fast{background:#d4edda;color:#145a2a;}
+.f-semi{background:#d1ecf1;color:#0c5460;}
+.f-joy{background:#e8e4f8;color:#3d2a7a;}
+.f-new{background:#e8e6e0;color:#4a4438;}
+.a-season{background:#e8f4e8;color:#1a4020;}
+.a-prod{background:#fff8e8;color:#5a3800;}
+.h-ps{background:#f5e6d0;color:#6b2800;border-left:3px solid #b85c00;padding-left:5px;font-style:italic;}
+.h-bib{background:#eaf0fb;color:#1a3a6b;border-left:3px solid #3a6abf;padding-left:5px;}
+/* Refs */
+.kal-refs{margin-top:24px;padding:16px 18px;background:#fdf7f0;border:1px solid #e8c8a0;border-left:4px solid #b85c00;font-size:.82rem;color:var(--ink-mid);line-height:1.7;}
+.kal-refs h3{font-family:'Cinzel',serif !important;font-weight:600;font-size:.8rem;color:#6b2800;text-transform:uppercase;letter-spacing:.08em;margin-bottom:12px;text-indent:0;}
+.kal-refs h4{font-family:'Cinzel',serif !important;font-weight:600;font-size:.74rem;color:#6b2800;text-transform:uppercase;letter-spacing:.06em;margin:14px 0 5px;text-indent:0;}
+.kal-refs p{margin-bottom:7px;text-indent:0;}
+.kal-refs ul{margin:0 0 8px 16px;}
+.kal-refs li{margin-bottom:3px;font-size:.78rem;}
+.kal-refs strong{color:#6b2800;}
+.scholarly-note{margin-top:12px;padding:9px 11px;background:rgba(0,0,0,.03);border:1px solid var(--border);font-size:.75rem;color:var(--ink-light);font-style:italic;}
+.scholarly-note strong{color:var(--ink-mid);font-style:normal;}
+@media(max-width:767px){.kal-grid{grid-template-columns:1fr;}.kal-intro{grid-template-columns:1fr;}.kal-heading h1{font-size:1.4rem;}}
+</style>
+
+<div class="kal-heading">
+  <h1>{{ .Title }}</h1>
+  <div class="kal-hebrew">לוח השנה העברי · The Hebrew Calendar</div>
+  <div class="kal-desc">Sacred &amp; Civil Months · Season · Production · Festivals · Life Years of Jesus (Padgett-Samuels)</div>
+</div>
+
+<div class="kal-intro">
+  <div class="kal-icard"><h3>Sacred Year</h3><p>Begins with <strong>Nisan</strong> (Month 1). Biblical order of feasts (Ex 12:2). Life Year 1 of Jesus = Nisan.</p></div>
+  <div class="kal-icard"><h3>Civil Year</h3><p>Begins with <strong>Tishri</strong> (Month 7 sacred = Month 1 civil). Rosh Hashanah — Jewish New Year.</p></div>
+  <div class="kal-icard"><h3>Life Years of Jesus</h3><p>Per Padgett-Samuels: born Nisan 7 BC (LY 1), died Adar II 18 March 29 AD (end LY 12). Each month = one life year.</p></div>
+  <div class="kal-icard"><h3>Lunar Months</h3><p>Each month starts at the new moon (Rosh Chodesh). 29 or 30 days. Leap month Adar II added 7 times in 19 years.</p></div>
+</div>
+
+<div class="kal-legend">
+  <div class="kal-leg-group">
+    <span class="kal-leg-title">Festivals:</span>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#d4a000"></div>High Holy Day</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#2a8a4a"></div>Fast Day</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#2a7a9a"></div>Semi-festival</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#6a58b8"></div>Day of Joy</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#8a8070"></div>New Moon</div>
+  </div>
+  <div class="kal-leg-group" style="margin-left:8px">
+    <span class="kal-leg-title">Season / Production:</span>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#2a6020"></div>Season</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#8a6000"></div>Production</div>
+  </div>
+  <div class="kal-leg-group" style="margin-left:8px">
+    <span class="kal-leg-title">Historical:</span>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#b85c00"></div>Padgett-Samuels</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#3a6abf"></div>Biblical Ref.</div>
+  </div>
+</div>
+
+<div class="kal-grid" id="kalGrid"></div>
+
+<script>
+const ML={new:'New Moon',wax1:'Waxing (Half)',wax2:'Waxing (Three-quarter)',full:'Full Moon',wan1:'Waning (Three-quarter)',wan2:'Waning (Half)'};
+
+function lyYear(lj){
+  const map={1:'7 BC',2:'6 BC',3:'5 BC',4:'4 BC',5:'3 BC',6:'2 BC',7:'1 BC',8:'AD 1',9:'AD 2',10:'AD 3',11:'AD 4',12:'AD 5'};
+  return map[lj]||'—';
+}
+
+// Strictly from uploaded table:
+// Sacred | Civil | Month | Days | Gregorian | Season | Production | Festivals
+// 1=Nisan(LY1), 2=Iyyar(LY2), 3=Sivan(LY3), 4=Tammuz(LY4), 5=Av(LY5), 6=Elul(LY6),
+// 7=Tishri(LY7), 8=Marcheshvan(LY8), 9=Kislev(LY9), 10=Tevet(LY10), 11=Shevat(LY11),
+// 12=Adar(LY12), 13=Adar II/Veadar(leap, LY12 death)
+
+const MONTHS=[
+  { sacred:1, civil:7, name:'Nisan', heb:'נִיסָן', days:30, greg:'March / April', bar:'#e8a020', lj:1, isBirth:true,
+    moon:{phases:['new','wax1','full','wan1'],lines:['1 Rosh Chodesh = New Moon','~7 Half Moon (waxing)','15 Full Moon — Passover begins','~22 Half Moon (waning)'],note:'30 days · Full moon at Passover (15 Nisan)'},
+    season:[{t:'a-season',l:'Spring Rains (Deut 11:14)'},{t:'a-season',l:'Floods (Josh 3:15)'}],
+    production:[{t:'a-prod',l:'Barley ripe'}],
+    fests:[{t:'h-bib',l:'1 New Moon (Rosh Chodesh)'},{t:'f-high',l:'14 The Passover'},{t:'f-high',l:'15–21 Unleavened Bread'},{t:'h-ps',l:'★ Birth of Jesus · LY 1 begins · Nisan 7 BC'}]},
+
+  { sacred:2, civil:8, name:'Iyyar', heb:'אִיָּר', days:29, greg:'April / May', bar:'#d89018', lj:2,
+    moon:{phases:['new','full'],lines:['1 Rosh Chodesh = New Moon','~15 Full Moon'],note:'29 days'},
+    season:[{t:'a-season',l:'Barley Harvest (Ruth 1:22)'},{t:'a-season',l:'Wheat Harvest'},{t:'a-season',l:'Summer begins'},{t:'a-season',l:'No rain April to September (1 Sam 12:17)'}],
+    production:[{t:'a-prod',l:'Harvest'}],
+    fests:[{t:'f-new',l:'1 New Moon'},{t:'f-semi',l:'14 Second Passover (for those unable to keep the first)'}]},
+
+  { sacred:3, civil:9, name:'Sivan', heb:'סִיוָן', days:30, greg:'May / June', bar:'#c07010', lj:3,
+    moon:{phases:['new','wax2','full'],lines:['1 Rosh Chodesh = New Moon','6 Pentecost (waxing moon)','~15 Full Moon'],note:'30 days · Pentecost at waxing moon'},
+    season:[],
+    production:[],
+    fests:[{t:'f-new',l:'1 New Moon'},{t:'f-high',l:'6 Pentecost (Shavuot)'}]},
+
+  { sacred:4, civil:10, name:'Tammuz', heb:'תַּמּוּז', days:29, greg:'June / July', bar:'#d85a30', lj:4,
+    moon:{phases:['new','full'],lines:['1 Rosh Chodesh = New Moon','~15 Full Moon','17 Fast (waning)'],note:'29 days · Longest days of the year'},
+    season:[{t:'a-season',l:'Hot Season, heat increases'}],
+    production:[],
+    fests:[{t:'f-new',l:'1 New Moon'},{t:'f-fast',l:'17 Fast for the taking of Jerusalem'}]},
+
+  { sacred:5, civil:11, name:'Av', heb:'אָב', days:30, greg:'July / August', bar:'#b84020', lj:5,
+    moon:{phases:['new','wan2','full'],lines:['1 Rosh Chodesh = New Moon','9 Tisha B\'Av — darkest moon phase','15 Full Moon — Tu B\'Av'],note:'30 days · Fast day in darkest moon phase'},
+    season:[{t:'a-season',l:'Streams dry up, heat intense'}],
+    production:[{t:'a-prod',l:'Vintage (Lev 26:5)'}],
+    fests:[{t:'f-new',l:'1 New Moon'},{t:'f-fast',l:'9 Fast for the destruction of the Temple'}]},
+
+  { sacred:6, civil:12, name:'Elul', heb:'אֱלוּל', days:29, greg:'August / September', bar:'#906000', lj:6,
+    moon:{phases:['new','full','wan2'],lines:['1 Rosh Chodesh = New Moon','~15 Full Moon','Month end: waning toward Tishri'],note:'29 days · Month of repentance'},
+    season:[{t:'a-season',l:'Heat intense (2 Kings 4:19)'}],
+    production:[{t:'a-prod',l:'Grape Harvest (Num 13:23)'}],
+    fests:[{t:'f-new',l:'1 New Moon'},{t:'f-new',l:'Season of Selichot (penitential prayers)'}]},
+
+  { sacred:7, civil:1, name:'Tishri', heb:'תִּשְׁרֵי', days:30, greg:'September / October', bar:'#5a9a30', lj:7,
+    moon:{phases:['new','wax1','full','wan1'],lines:['1 Rosh Chodesh = New Moon — Rosh Hashanah','~7 Half Moon (waxing)','15 Full Moon — Sukkot begins','~22 Half Moon (waning)'],note:'30 days · Civil New Year · Full moon at Sukkot'},
+    season:[{t:'a-season',l:'Seed Time'},{t:'a-season',l:'Former or early rains begin (Joel 2:23)'},{t:'a-season',l:'Plowing and sowing begin'}],
+    production:[],
+    fests:[{t:'f-high',l:'1 New Year, Day of Blowing of Trumpet, Day of Judgment (Num 29:1)'},{t:'f-high',l:'10 Day of Atonement (Lev 16)'},{t:'f-semi',l:'15 Booths / Sukkot (Lev 23:24)'},{t:'f-high',l:'22 Solemn Assembly'}]},
+
+  { sacred:8, civil:2, name:'Marcheshvan', heb:'מַרְחֶשְׁוָן', days:29, greg:'October / November', bar:'#407a20', lj:8,
+    moon:{phases:['new','full'],lines:['1 Rosh Chodesh = New Moon','~15 Full Moon'],note:'29 or 30 days · Only month with no festival'},
+    season:[{t:'a-season',l:'Rain continues'}],
+    production:[{t:'a-prod',l:'Wheat and barley sown'}],
+    fests:[{t:'f-new',l:'1 New Moon'},{t:'f-new',l:'— No festival this month'}]},
+
+  { sacred:9, civil:3, name:'Kislev', heb:'כִּסְלֵו', days:30, greg:'November / December', bar:'#206010', lj:9,
+    moon:{phases:['new','full'],lines:['1 Rosh Chodesh = New Moon','~15 Full Moon','25 Hanukkah begins (near new moon)'],note:'29 or 30 days (variable)'},
+    season:[{t:'a-season',l:'Winter begins, Snow on mountains'}],
+    production:[],
+    fests:[{t:'f-new',l:'1 New Moon'},{t:'f-joy',l:'25 Dedication / Hanukkah (John 10:22, 29)'}]},
+
+  { sacred:10, civil:4, name:'Tevet', heb:'טֵבֵת', days:29, greg:'December / January', bar:'#1a7860', lj:10,
+    moon:{phases:['new','wax2','full'],lines:['1 Rosh Chodesh = New Moon','2–3 Hanukkah ends (waxing)','~15 Full Moon'],note:'29 days · Coldest month'},
+    season:[{t:'a-season',l:'Coldest month, Hail and snow (Josh 10:11)'}],
+    production:[],
+    fests:[{t:'f-new',l:'1 New Moon'},{t:'f-joy',l:'2–3 Hanukkah ends'},{t:'f-fast',l:'10 Fast for the siege of Jerusalem'},{t:'h-ps',l:'★ Birth of Jesus 7 Jan 7 BC (Julian) · within LY 10 by civil count'}]},
+
+  { sacred:11, civil:5, name:'Shevat', heb:'שְׁבָט', days:30, greg:'January / February', bar:'#408888', lj:11,
+    moon:{phases:['new','full'],lines:['1 Rosh Chodesh = New Moon','15 Full Moon = Tu BiShvat'],note:'30 days · Tu BiShvat falls on full moon'},
+    season:[{t:'a-season',l:'Weather gradually warmer'}],
+    production:[],
+    fests:[{t:'f-new',l:'1 New Moon'},{t:'f-semi',l:'15 Tu BiShvat — New Year of the Trees'}]},
+
+  { sacred:12, civil:6, name:'Adar', heb:'אֲדָר', days:29, greg:'February / March', bar:'#b85c00', lj:12, isDeath:true,
+    moon:{phases:['new','wax2','full'],lines:['1 Rosh Chodesh = New Moon','13–14 Purim (waxing, near full moon)','~15 Full Moon'],note:'29 days · Purim in moonlight · Death of Jesus in Adar II (leap year)'},
+    season:[{t:'a-season',l:'Thunder and hail frequent'},{t:'a-season',l:'Almond tree blossoms'}],
+    production:[],
+    fests:[{t:'f-new',l:'1 New Moon'},{t:'f-fast',l:'13 Fast of Esther (Esther 4:16)'},{t:'f-joy',l:'14–15 Purim (Esther ch. 9)'},{t:'h-ps',l:'★ Death of Jesus · 18 March 29 AD (Julian) · 14 Veadar 3789 · Purim · Friday · End LY 12'}]},
+
+  { sacred:13, civil:6, name:'Adar II / Veadar', heb:'אֲדָר ב׳ / וְאָדָר', days:null, greg:'February / March', bar:'#c87820', lj:null, leap:true,
+    moon:{phases:['new','wax2','full'],lines:['1 Rosh Chodesh = New Moon','13–14 Purim in leap year','~15 Full Moon'],note:'Intercalary month · Purim always one month before Passover in leap year'},
+    season:[{t:'a-season',l:'Intercalary month — same season as Adar'}],
+    production:[],
+    fests:[{t:'f-new',l:'Leap year only (7 times in 19 years)'},{t:'f-fast',l:'13 Fast of Esther'},{t:'f-joy',l:'14–15 Purim (Esther ch. 9)'}]},
+];
+
+function buildCard(m){
+  const el=document.createElement('div');
+  el.className='kal-card'+(m.leap?' leap':'');
+
+  // Life year badge
+  let lyHtml='';
+  if(m.lj){
+    const cls=m.isBirth?'birth':m.isDeath?'death':'';
+    const note=m.isBirth?'<span class="lyr-note">★ Sacred birth month (Padgett)</span>'
+              :m.isDeath?'<span class="lyr-note"></span>':'';
+    lyHtml=`<div class="kal-lybadge ${cls}">
+      <div class="lyr-num">${m.lj}</div>
+      <div class="lyr-info">
+        <span class="lyr-title">Life Year ${m.lj}</span>
+        <span class="lyr-sub">${lyYear(m.lj)}</span>
+        ${note}
+      </div>
+    </div>`;
+  } else {
+    lyHtml=`<div class="kal-lybadge leaponly">
+      <div class="lyr-num">—</div>
+      <div class="lyr-info">
+        <span class="lyr-title">Leap Month</span>
+        <span class="lyr-sub">no fixed life year</span>
+      </div>
+    </div>`;
+  }
+
+  const moonHtml=`<div class="kal-moon">
+    <div class="kal-slabel" style="color:#4a2a70">Moon</div>
+    <div class="kal-mrow">${m.moon.phases.map(p=>`<div class="kal-mi ${p}" title="${ML[p]||p}"></div>`).join('')}</div>
+    <div class="kal-mlines">${m.moon.lines.map(l=>`<div class="kal-mline">◑ ${l}</div>`).join('')}</div>
+    <div class="kal-mnote">${m.moon.note}</div>
+  </div>`;
+
+  const seasonHtml=m.season.length?`<div>
+    <div class="kal-slabel" style="color:#1a4020">Season</div>
+    <div class="kal-tags">${m.season.map(s=>`<div class="kal-tag ${s.t}">${s.l}</div>`).join('')}</div>
+  </div>`:'';
+
+  const prodHtml=m.production.length?`<div>
+    <div class="kal-slabel" style="color:#5a3800">Production</div>
+    <div class="kal-tags">${m.production.map(p=>`<div class="kal-tag ${p.t}">${p.l}</div>`).join('')}</div>
+  </div>`:'';
+
+  const festsHtml=`<div>
+    <div class="kal-slabel">Festivals &amp; Holy Days</div>
+    <div class="kal-tags">${m.fests.map(f=>`<div class="kal-tag ${f.t}">${f.l}</div>`).join('')}</div>
+  </div>`;
+
+  el.innerHTML=`
+    <div class="kal-sbar" style="background:${m.bar}"></div>
+    <div class="kal-chead">
+      <div>
+        <div class="kal-cname">${m.name}</div>
+        <div class="kal-cheb">${m.heb}</div>
+        ${m.leap?'<div class="kal-leap-badge">Leap Month</div>':''}
+      </div>
+      <div class="kal-cmeta">
+        <div class="kal-cnrs">Sacred ${m.sacred} · Civil ${m.civil}</div>
+        <div class="kal-cgreg">${m.greg}</div>
+        <div class="kal-cdays">${m.days?m.days+' days':'variable'}</div>
+      </div>
+    </div>
+    <div class="kal-cbody">
+      ${moonHtml}
+      ${lyHtml}
+      ${seasonHtml}
+      ${prodHtml}
+      ${festsHtml}
+    </div>`;
+  return el;
+}
+
+document.getElementById('kalGrid').append(...MONTHS.map(buildCard));
+</script>
+{{ end }}

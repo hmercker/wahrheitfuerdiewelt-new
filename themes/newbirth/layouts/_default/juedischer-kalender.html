@@ -1,0 +1,296 @@
+{{ define "main" }}
+<style>
+:root{--orange:rgb(208,108,41);--ink:#383f45;--ink-mid:#5a5a5a;--ink-light:#8c8c8c;--white:#ffffff;--border:#dcdcdc;--shadow:rgba(0,0,0,0.12);}
+.kal-heading{text-align:center;margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--border);}
+.kal-heading h1{font-family:'Cinzel',serif !important;font-weight:600;font-size:1.9rem;color:var(--ink);line-height:1.2;margin-bottom:5px;text-indent:0;}
+.kal-hebrew{font-style:italic;color:var(--orange);font-size:.95rem;letter-spacing:.05em;}
+.kal-desc{font-style:italic;font-size:.82rem;color:var(--ink-light);margin-top:4px;}
+.kal-intro{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-bottom:18px;}
+.kal-icard{border:1px solid var(--border);background:var(--white);box-shadow:var(--shadow) 0 1px 3px;padding:10px 12px;}
+.kal-icard h3{font-family:'Cinzel',serif !important;font-weight:600;font-size:.7rem;color:var(--orange);text-transform:uppercase;letter-spacing:.08em;margin-bottom:5px;}
+.kal-icard p{font-size:.78rem;color:var(--ink-mid);line-height:1.5;margin:0;text-indent:0;}
+.kal-legend{display:flex;flex-wrap:wrap;gap:5px 12px;align-items:center;margin-bottom:18px;padding:9px 12px;background:var(--white);border:1px solid var(--border);font-size:.74rem;}
+.kal-leg-group{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center;}
+.kal-leg-title{font-family:'Cinzel',serif !important;font-size:.62rem;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-light);margin-right:2px;}
+.kal-leg{display:flex;align-items:center;gap:4px;color:var(--ink-mid);}
+.kal-leg-dot{width:8px;height:8px;flex-shrink:0;}
+.kal-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px;margin-bottom:24px;}
+.kal-card{background-color:var(--white);border:1px solid var(--border);box-shadow:var(--shadow) 0 1px 3px;transition:box-shadow .2s;}
+.kal-card:hover{box-shadow:rgba(208,108,41,.18) 0 0 10px,var(--shadow) 0 2px 6px;}
+.kal-card.leap{opacity:.82;border-style:dashed;}
+.kal-sbar{height:4px;}
+/* Card header */
+.kal-chead{padding:9px 12px 7px;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:flex-start;}
+.kal-cname{font-family:'Cinzel',serif !important;font-weight:600;font-size:1rem;color:var(--ink);line-height:1.15;}
+.kal-cheb{font-style:italic;font-size:.8rem;color:var(--ink-light);margin-top:2px;}
+.kal-cmeta{text-align:right;flex-shrink:0;margin-left:8px;}
+.kal-cnrs{font-family:'Cinzel',serif !important;font-size:.6rem;color:var(--ink-light);text-transform:uppercase;letter-spacing:.08em;}
+.kal-cgreg{font-size:.74rem;color:var(--orange);margin-top:2px;}
+.kal-cdays{font-size:.68rem;color:var(--ink-light);font-style:italic;}
+.kal-leap-badge{display:inline-block;font-size:.6rem;background:#fde8d8;color:#8b2500;padding:1px 4px;margin-top:2px;}
+.kal-cbody{padding:9px 12px 11px;display:flex;flex-direction:column;gap:8px;}
+.kal-slabel{font-family:'Cinzel',serif !important;font-weight:400;font-size:.62rem;text-transform:uppercase;letter-spacing:.14em;color:var(--ink-light);margin-bottom:4px;}
+/* Moon */
+.kal-moon{background:rgba(74,42,112,.04);border:1px solid rgba(74,42,112,.1);padding:6px 9px;}
+.kal-mrow{display:flex;gap:4px;align-items:center;margin-bottom:3px;}
+.kal-mi{width:13px;height:13px;border-radius:50%;flex-shrink:0;position:relative;overflow:hidden;background:#666;}
+.kal-mi.full{background:#c8c3b4;}.kal-mi.new{background:#555;}
+.kal-mi.wax1{background:#555;}.kal-mi.wax1::after{content:'';position:absolute;top:0;right:0;width:50%;height:100%;background:#c8c3b4;border-radius:0 6px 6px 0;}
+.kal-mi.wax2{background:#c8c3b4;}.kal-mi.wax2::after{content:'';position:absolute;top:0;left:0;width:50%;height:100%;background:#555;border-radius:6px 0 0 6px;}
+.kal-mi.wan1{background:#c8c3b4;}.kal-mi.wan1::after{content:'';position:absolute;top:0;left:0;width:50%;height:100%;background:#555;border-radius:6px 0 0 6px;}
+.kal-mi.wan2{background:#555;}.kal-mi.wan2::after{content:'';position:absolute;top:0;right:0;width:50%;height:100%;background:#c8c3b4;border-radius:0 6px 6px 0;}
+.kal-mlines{display:flex;flex-direction:column;gap:2px;}
+.kal-mline{font-size:.71rem;color:#4a2a70;line-height:1.4;font-style:italic;}
+.kal-mnote{font-size:.67rem;color:var(--ink-light);margin-top:2px;font-style:italic;}
+/* Life year badge */
+.kal-lybadge{border-left:4px solid #b85c00;background:#f5e6d0;padding:7px 10px;display:flex;align-items:center;gap:10px;}
+.kal-lybadge.birth{background:#f5e6d0;border-color:#1a4e20;}
+.kal-lybadge.death{background:#f5e6d0;border-color:#4a0a0a;}
+.kal-lybadge.leaponly{background:#e8e4dc;border-color:#9a9080;}
+.lyr-num{font-family:'Cinzel',serif;font-weight:700;font-size:1.5rem;color:#b85c00;line-height:1;flex-shrink:0;}
+.kal-lybadge.birth .lyr-num,.kal-lybadge.death .lyr-num{color:#b85c00;}
+.kal-lybadge.leaponly .lyr-num{color:#9a9080;font-size:1rem;}
+.lyr-info{display:flex;flex-direction:column;gap:2px;}
+.lyr-title{font-size:.72rem;font-weight:bold;color:#340e28;}
+.kal-lybadge.birth .lyr-title{color:#210404;}
+.kal-lybadge.death .lyr-title{color:#210404;}
+.kal-lybadge.leaponly .lyr-title{color:#5a5248;}
+.lyr-sub{font-size:.68rem;font-style:italic;color:#9a6030;}
+.kal-lybadge.birth .lyr-sub{color:#9a6030;}
+.kal-lybadge.death .lyr-sub{color:#9a6030;}
+.lyr-note{font-size:.66rem;color:#c06000;margin-top:1px;}
+.kal-lybadge.birth .lyr-note{color:#c06000;}
+.kal-lybadge.death .lyr-note{color:#c06000;}
+/* Tags */
+.kal-tags{display:flex;flex-direction:column;gap:3px;}
+.kal-tag{font-size:.72rem;padding:2px 7px;line-height:1.5;}
+.f-high{background:#fef3cd;color:#7a4f00;}
+.f-fast{background:#d4edda;color:#145a2a;}
+.f-semi{background:#d1ecf1;color:#0c5460;}
+.f-joy{background:#e8e4f8;color:#3d2a7a;}
+.f-new{background:#e8e6e0;color:#4a4438;}
+.a-season{background:#e8f4e8;color:#1a4020;}
+.a-prod{background:#fff8e8;color:#5a3800;}
+.h-ps{background:#f5e6d0;color:#6b2800;border-left:3px solid #b85c00;padding-left:5px;font-style:italic;}
+.h-bib{background:#eaf0fb;color:#1a3a6b;border-left:3px solid #3a6abf;padding-left:5px;}
+/* Refs */
+.kal-refs{margin-top:24px;padding:16px 18px;background:#fdf7f0;border:1px solid #e8c8a0;border-left:4px solid #b85c00;font-size:.82rem;color:var(--ink-mid);line-height:1.7;}
+.kal-refs h3{font-family:'Cinzel',serif !important;font-weight:600;font-size:.8rem;color:#6b2800;text-transform:uppercase;letter-spacing:.08em;margin-bottom:12px;text-indent:0;}
+.kal-refs h4{font-family:'Cinzel',serif !important;font-weight:600;font-size:.74rem;color:#6b2800;text-transform:uppercase;letter-spacing:.06em;margin:14px 0 5px;text-indent:0;}
+.kal-refs p{margin-bottom:7px;text-indent:0;}
+.kal-refs ul{margin:0 0 8px 16px;}
+.kal-refs li{margin-bottom:3px;font-size:.78rem;}
+.kal-refs strong{color:#6b2800;}
+.scholarly-note{margin-top:12px;padding:9px 11px;background:rgba(0,0,0,.03);border:1px solid var(--border);font-size:.75rem;color:var(--ink-light);font-style:italic;}
+.scholarly-note strong{color:var(--ink-mid);font-style:normal;}
+@media(max-width:767px){.kal-grid{grid-template-columns:1fr;}.kal-intro{grid-template-columns:1fr;}.kal-heading h1{font-size:1.4rem;}}
+</style>
+
+<div class="kal-heading">
+  <h1>{{ .Title }}</h1>
+  <div class="kal-hebrew">לוח השנה העברי · Der Hebräische Kalender</div>
+  <div class="kal-desc">Heilige &amp; Zivile Monate · Saison · Ernte &amp; Produktion · Feste · Lebensjahre Jesu (Padgett-Samuels)</div>
+</div>
+
+<div class="kal-intro">
+  <div class="kal-icard"><h3>Heiliges Jahr</h3><p>Beginnt mit <strong>Nisan</strong> (Monat 1). Biblische Reihenfolge der Feste (2 Mose 12:2). Lebensjahr 1 Jesu = Nisan.</p></div>
+  <div class="kal-icard"><h3>Ziviles Jahr</h3><p>Beginnt mit <strong>Tischri</strong> (Monat 7 heilig = Monat 1 zivil). Rosch haSchana — Jüdisches Neujahr.</p></div>
+  <div class="kal-icard"><h3>Lebensjahre Jesu</h3><p>Nach Padgett-Samuels: geboren Nisan 7 v.Chr. (LJ 1), gestorben Adar II 18. März 29 n.Chr. (Ende LJ 12). Jeder Monat = ein Lebensjahr.</p></div>
+  <div class="kal-icard"><h3>Mondmonate</h3><p>Jeder Monat beginnt beim Neumond (Rosch Chodesch). 29 oder 30 Tage. Schaltmonat Adar II wird 7-mal in 19 Jahren eingefügt.</p></div>
+</div>
+
+<div class="kal-legend">
+  <div class="kal-leg-group">
+    <span class="kal-leg-title">Feste:</span>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#d4a000"></div>Hoher Feiertag</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#2a8a4a"></div>Fasttag</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#2a7a9a"></div>Halbfeiertag</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#6a58b8"></div>Freudenfest</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#8a8070"></div>Neumond</div>
+  </div>
+  <div class="kal-leg-group" style="margin-left:8px">
+    <span class="kal-leg-title">Saison / Produktion:</span>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#2a6020"></div>Saison</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#8a6000"></div>Produktion</div>
+  </div>
+  <div class="kal-leg-group" style="margin-left:8px">
+    <span class="kal-leg-title">Historisch:</span>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#b85c00"></div>Padgett-Samuels</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#3a6abf"></div>Bibl. Referenz</div>
+    <div class="kal-leg"><div class="kal-leg-dot" style="background:#2a7a9a"></div>Moderner Gedenktag</div>
+  </div>
+</div>
+
+<div class="kal-grid" id="kalGrid"></div>
+
+<script>
+const ML={new:'Neumond',wax1:'Zunehmend (Halbmond)',wax2:'Zunehmend (Dreiviertel)',full:'Vollmond',wan1:'Abnehmend (Dreiviertel)',wan2:'Abnehmend (Halbmond)'};
+
+function lyYear(lj){
+  const map={1:'7 v.Chr.',2:'6 v.Chr.',3:'5 v.Chr.',4:'4 v.Chr.',5:'3 v.Chr.',6:'2 v.Chr.',7:'1 v.Chr.',8:'1 n.Chr.',9:'2 n.Chr.',10:'3 n.Chr.',11:'4 n.Chr.',12:'5 n.Chr.'};
+  return map[lj]||'—';
+}
+
+// Strictly from uploaded table:
+// Sacred | Civil | Month | Days | Gregorian | Season | Production | Festivals
+// 1=Nisan(LY1), 2=Iyyar(LY2), 3=Sivan(LY3), 4=Tammuz(LY4), 5=Av(LY5), 6=Elul(LY6),
+// 7=Tishri(LY7), 8=Marcheshvan(LY8), 9=Kislev(LY9), 10=Tevet(LY10), 11=Shevat(LY11),
+// 12=Adar(LY12), 13=Adar II/Veadar(leap, LY12 death)
+
+const MONTHS=[
+  { sacred:1, civil:7, name:'Nisan', heb:'נִיסָן', days:30, greg:'März / April', bar:'#e8a020', lj:1, isBirth:true,
+    moon:{phases:['new','wax1','full','wan1'],lines:['1 Rosch Chodesch = Neumond','~7. Halbmond (zunehmend)','15. Vollmond — Pessach beginnt','~22. Halbmond (abnehmend)'],note:'30 Tage · Vollmond zu Pessach (15. Nisan)'},
+    season:[{t:'a-season',l:'Frühlingsernte (Deut 11:14)'},{t:'a-season',l:'Flut (Josh 3:15)'}],
+    production:[{t:'a-prod',l:'Gerste reif'}],
+    fests:[{t:'h-bib',l:'1. Rosch Chodesch (Neumond)'},{t:'f-high',l:'14. Pessach (Passah)'},{t:'f-semi',l:'14. Erew Pessach — Vorabend des Passah'},{t:'f-high',l:'15–21. Fest der ungesäuerten Brote'},{t:'f-semi',l:'16. Omer-Zählung beginnt (49 Tage bis Schawuot)'},{t:'f-semi',l:'21. Hoschana Rabba — letzter Sukkot-Gedenktag (im Nisan-Kontext: Abschluss)'},{t:'f-semi',l:'27. Jom haScho\'a — Holocaust-Gedenktag'},{t:'h-ps',l:'★ Geburt Jesu · LJ 1 beginnt · Nisan 7 v.Chr.'}]},
+
+  { sacred:2, civil:8, name:'Ijjar', heb:'אִיָּר', days:29, greg:'April / Mai', bar:'#d89018', lj:2,
+    moon:{phases:['new','full'],lines:['1 Rosch Chodesch = Neumond','~15. Vollmond'],note:'29 Tage'},
+    season:[{t:'a-season',l:'Gerstenernte (Ruth 1:22)'},{t:'a-season',l:'Weizenernte'},{t:'a-season',l:'Sommer beginnt'},{t:'a-season',l:'Kein Regen April bis September (1 Sam 12:17)'}],
+    production:[{t:'a-prod',l:'Ernte'}],
+    fests:[{t:'f-new',l:'1. Rosch Chodesch'},{t:'f-semi',l:'4. Jom haZikaron — Gefallenen-Gedenktag (Israel)'},{t:'f-semi',l:'5. Jom haAtzma\'ut — Israelischer Unabhängigkeitstag (1948)'},{t:'f-semi',l:'14. Pessach Scheni — Zweites Pessach (für jene, die das erste nicht halten konnten)'},{t:'f-semi',l:'18. Lag baOmer — Gedenktag Bar-Kochba · Ende der Omer-Trauerzeit'},{t:'f-semi',l:'28. Jom Jeruschalajim — Gedenktag Vereinigung Jerusalems (1967)'}]},
+
+  { sacred:3, civil:9, name:'Siwan', heb:'סִיוָן', days:30, greg:'Mai / Juni', bar:'#c07010', lj:3,
+    moon:{phases:['new','wax2','full'],lines:['1 Rosch Chodesch = Neumond','6. Pfingsten / Schawuot (zunehmend)','~15. Vollmond'],note:'30 Tage · Schawuot beim zunehmenden Mond'},
+    season:[],
+    production:[],
+    fests:[{t:'f-new',l:'1. Rosch Chodesch'},{t:'f-high',l:'6. Schawuot / Pfingsten — Wochenfest · Übergabe der Tora am Sinai'},{t:'f-high',l:'7. Schawuot zweiter Tag (in der Diaspora)'}]},
+
+  { sacred:4, civil:10, name:'Tammus', heb:'תַּמּוּז', days:29, greg:'Juni / Juli', bar:'#d85a30', lj:4,
+    moon:{phases:['new','full'],lines:['1 Rosch Chodesch = Neumond','~15. Vollmond','17. Fasttag (abnehmend)'],note:'29 Tage · Längste Tage des Jahres'},
+    season:[{t:'a-season',l:'Heiße Jahreszeit, Hitze nimmt zu'}],
+    production:[],
+    fests:[{t:'f-new',l:'1. Rosch Chodesch'},{t:'f-fast',l:'17. Fasttag — Einnahme Jerusalems · Beginn der Drei Wochen Trauer'},{t:'f-semi',l:'17. bis 9. Aw: Drei Wochen Trauerzeit (Bein haMetzarim)'}]},
+
+  { sacred:5, civil:11, name:'Aw', heb:'אָב', days:30, greg:'Juli / August', bar:'#b84020', lj:5,
+    moon:{phases:['new','wan2','full'],lines:['1 Rosch Chodesch = Neumond','9. Tisch\'a beAw — dunkelste Mondphase','15. Vollmond — Tu beAw'],note:'30 Tage · Fasttag in der dunkelsten Mondphase'},
+    season:[{t:'a-season',l:'Bäche versiegen, extreme Hitze'}],
+    production:[{t:'a-prod',l:'Weinlese (Lev 26:5)'}],
+    fests:[{t:'f-new',l:'1. Rosch Chodesch'},{t:'f-fast',l:'9. Tisch\'a beAw — Zerstörung beider Tempel · strengster Fasttag'},{t:'f-semi',l:'10. Tisch\'a beAw — Nachholfasttag (wenn 9. auf Schabbat fällt)'},{t:'f-joy',l:'15. Tu beAw — Liebesfest · Weinlese-Freude · Beginn der Hochzeitszeit'}]},
+
+  { sacred:6, civil:12, name:'Elul', heb:'אֱלוּל', days:29, greg:'August / September', bar:'#906000', lj:6,
+    moon:{phases:['new','full','wan2'],lines:['1 Rosch Chodesch = Neumond','~15. Vollmond','Monatsende: abnehmend Richtung Tischri'],note:'29 Tage · Monat der Buße'},
+    season:[{t:'a-season',l:'Extreme Hitze (2 Kön 4:19)'}],
+    production:[{t:'a-prod',l:'Weintraubenernte (Num 13:23)'}],
+    fests:[{t:'f-new',l:'1. Rosch Chodesch'},{t:'f-new',l:'1.–29. Selichot-Zeit — tägliche Bußgebete'},{t:'f-semi',l:'29. Erew Rosch haSchana — Vorabend des Neujahrs'}]},
+
+  { sacred:7, civil:1, name:'Tischri', heb:'תִּשְׁרֵי', days:30, greg:'September / Oktober', bar:'#5a9a30', lj:7,
+    moon:{phases:['new','wax1','full','wan1'],lines:['1 Rosch Chodesch = Neumond — Rosch haSchana','~7. Halbmond (zunehmend)','15. Vollmond — Sukkot beginnt','~22. Halbmond (abnehmend)'],note:'30 Tage · Ziviles Neujahr · Vollmond zu Sukkot'},
+    season:[{t:'a-season',l:'Saatzeit'},{t:'a-season',l:'Frühregen beginnt (Joel 2:23)'},{t:'a-season',l:'Pflügen und Säen beginnt'}],
+    production:[],
+    fests:[{t:'f-high',l:'1–2. Rosch haSchana — Neujahr · Tag der Posaune · Beginn der 10 Tage der Umkehr (Num 29:1)'},{t:'f-fast',l:'3. Tzom Gedalja — Fasttag (Ermordung Gedaljas)'},{t:'f-semi',l:'1.–10. Aseret Jemei Teschuwa — Zehn Tage der Umkehr'},{t:'f-high',l:'9. Erew Jom Kippur — Vorabend des Versöhnungstags'},{t:'f-high',l:'10. Jom Kippur — Versöhnungstag · höchster Feiertag (Lev 16)'},{t:'f-semi',l:'14. Erew Sukkot — Vorabend des Laubhüttenfestes'},{t:'f-semi',l:'15–21. Sukkot — Laubhüttenfest (Lev 23:24)'},{t:'f-semi',l:'21. Hoschana Rabba — Letzter Sukkot-Tag · besondere Bußgebete'},{t:'f-high',l:'22. Schemini Azeret — Achter Versammlungstag'},{t:'f-joy',l:'23. Simchat Tora — Freude der Tora (in der Diaspora)'}]},
+
+  { sacred:8, civil:2, name:'Marcheschwan', heb:'מַרְחֶשְׁוָן', days:29, greg:'Oktober / November', bar:'#407a20', lj:8,
+    moon:{phases:['new','full'],lines:['1 Rosch Chodesch = Neumond','~15. Vollmond'],note:'29 od. 30 Tage · Einziger Monat ohne Feiertag'},
+    season:[{t:'a-season',l:'Regen hält an'}],
+    production:[{t:'a-prod',l:'Weizen und Gerste gesät'}],
+    fests:[{t:'f-new',l:'1. Rosch Chodesch'},{t:'f-new',l:'— Einziger Monat ohne Feiertag · auch „Bitterer Cheschwan" genannt'}]},
+
+  { sacred:9, civil:3, name:'Kislew', heb:'כִּסְלֵו', days:30, greg:'November / Dezember', bar:'#206010', lj:9,
+    moon:{phases:['new','full'],lines:['1 Rosch Chodesch = Neumond','~15. Vollmond','25. Chanukka beginnt (Neumond-Nähe)'],note:'29 od. 30 Tage (variabel)'},
+    season:[{t:'a-season',l:'Winter beginnt · Schnee auf den Bergen'}],
+    production:[],
+    fests:[{t:'f-new',l:'1. Rosch Chodesch'},{t:'f-joy',l:'25. Chanukka beginnt — Tempelweihe (Joh 10:22, 29)'},{t:'f-joy',l:'25. Kislew bis 2./3. Tewet: 8 Tage Lichterfest · Hallel · Al haNissim'}]},
+
+  { sacred:10, civil:4, name:'Tewet', heb:'טֵבֵת', days:29, greg:'Dezember / Januar', bar:'#1a7860', lj:10,
+    moon:{phases:['new','wax2','full'],lines:['1 Rosch Chodesch = Neumond','2–3 Chanukka endet (zunehmend)','~15. Vollmond'],note:'29 Tage · Kältester Monat'},
+    season:[{t:'a-season',l:'Kältester Monat · Hagel und Schnee (Josh 10:11)'}],
+    production:[],
+    fests:[{t:'f-new',l:'1. Rosch Chodesch'},{t:'f-joy',l:'2–3. Chanukka endet (8. Tag des Lichterfestes)'},{t:'f-fast',l:'10. Assara beTewet — Fasttag · Belagerung Jerusalems durch Nebukadnezar'},{t:'h-ps',l:'★ Geburt Jesu · 7. Jan. 7 v.Chr. (julianisch) · im LJ 10 nach ziviler Zählung'}]},
+
+  { sacred:11, civil:5, name:'Schwat', heb:'שְׁבָט', days:30, greg:'Januar / Februar', bar:'#408888', lj:11,
+    moon:{phases:['new','full'],lines:['1 Rosch Chodesch = Neumond','15. Vollmond = Tu biSchwat'],note:'30 Tage · Tu biSchwat fällt exakt auf den Vollmond'},
+    season:[{t:'a-season',l:'Wetter wird allmählich wärmer'}],
+    production:[],
+    fests:[{t:'f-new',l:'1. Rosch Chodesch'},{t:'f-semi',l:'15. Tu biSchwat — Neujahr der Bäume · Ende der Regenzeit in Israel · Pflanzfest'}]},
+
+  { sacred:12, civil:6, name:'Adar', heb:'אֲדָר', days:29, greg:'Februar / März', bar:'#b85c00', lj:12, isDeath:true,
+    moon:{phases:['new','wax2','full'],lines:['1 Rosch Chodesch = Neumond','13–14 Purim (zunehmend, fast Vollmond)','~15. Vollmond'],note:'29 Tage · Purim im Mondlicht · Tod Jesu in Adar II (Schaltjahr)'},
+    season:[{t:'a-season',l:'Donner und Hagel häufig'},{t:'a-season',l:'Mandelbaum blüht'}],
+    production:[],
+    fests:[{t:'f-new',l:'1. Rosch Chodesch'},{t:'f-semi',l:'7. Adar — Geburts- und Todestag Moses'},{t:'f-fast',l:'13. Taanit Esther — Fasten der Esther (Esther 4:16)'},{t:'f-joy',l:'14. Purim — Errettung der Juden im Perserreich (Esther Kap. 9)'},{t:'f-joy',l:'15. Schuschan Purim — Purim in ummauerten Städten (z.B. Jerusalem)'},{t:'h-ps',l:'★ Tod Jesu · 18. März 29 n.Chr. (julianisch) · 14. Veadar 3789 · Purim · Freitag · Ende LJ 12'}]},
+
+  { sacred:13, civil:6, name:'Adar II / Veadar', heb:'אֲדָר ב׳ / וְאָדָר', days:null, greg:'Februar / März', bar:'#c87820', lj:null, leap:true,
+    moon:{phases:['new','wax2','full'],lines:['1 Rosch Chodesch = Neumond','13–14 Purim im Schaltjahr','~15. Vollmond'],note:'Schaltmonat · Purim stets einen Monat vor Pessach im Schaltjahr'},
+    season:[{t:'a-season',l:'Schaltmonat — gleiche Saison wie Adar'}],
+    production:[],
+    fests:[{t:'f-new',l:'Nur im Schaltjahr (7-mal in 19 Jahren)'},{t:'f-semi',l:'7. Adar II — Gedenktag Moses (im Schaltjahr)'},{t:'f-fast',l:'13. Taanit Esther — Fasten der Esther'},{t:'f-joy',l:'14. Purim (Esther Kap. 9) — in FETT im Schaltjahr'},{t:'f-joy',l:'15. Schuschan Purim — Purim in ummauerten Städten'}]},
+];
+
+function buildCard(m){
+  const el=document.createElement('div');
+  el.className='kal-card'+(m.leap?' leap':'');
+
+  // Life year badge
+  let lyHtml='';
+  if(m.lj){
+    const cls=m.isBirth?'birth':m.isDeath?'death':'';
+    const note=m.isBirth?'<span class="lyr-note">★ Heiliger Geburtsmonat Jesu (Padgett)</span>'
+              :m.isDeath?'<span class="lyr-note">★ Tod: 18. März 29 n.Chr. · Purim · Freitag</span>':'';
+    lyHtml=`<div class="kal-lybadge ${cls}">
+      <div class="lyr-num">${m.lj}</div>
+      <div class="lyr-info">
+        <span class="lyr-title">Lebensjahr ${m.lj}</span>
+        <span class="lyr-sub">${lyYear(m.lj)}</span>
+        ${note}
+      </div>
+    </div>`;
+  } else {
+    lyHtml=`<div class="kal-lybadge leaponly">
+      <div class="lyr-num">—</div>
+      <div class="lyr-info">
+        <span class="lyr-title">Schaltmonat</span>
+        <span class="lyr-sub">kein festes Lebensjahr</span>
+      </div>
+    </div>`;
+  }
+
+  const moonHtml=`<div class="kal-moon">
+    <div class="kal-slabel" style="color:#4a2a70">Mond</div>
+    <div class="kal-mrow">${m.moon.phases.map(p=>`<div class="kal-mi ${p}" title="${ML[p]||p}"></div>`).join('')}</div>
+    <div class="kal-mlines">${m.moon.lines.map(l=>`<div class="kal-mline">◑ ${l}</div>`).join('')}</div>
+    <div class="kal-mnote">${m.moon.note}</div>
+  </div>`;
+
+  const seasonHtml=m.season.length?`<div>
+    <div class="kal-slabel" style="color:#1a4020">Saison</div>
+    <div class="kal-tags">${m.season.map(s=>`<div class="kal-tag ${s.t}">${s.l}</div>`).join('')}</div>
+  </div>`:'';
+
+  const prodHtml=m.production.length?`<div>
+    <div class="kal-slabel" style="color:#5a3800">Produktion</div>
+    <div class="kal-tags">${m.production.map(p=>`<div class="kal-tag ${p.t}">${p.l}</div>`).join('')}</div>
+  </div>`:'';
+
+  const festsHtml=`<div>
+    <div class="kal-slabel">Feste &amp; Heilige Tage</div>
+    <div class="kal-tags">${m.fests.map(f=>`<div class="kal-tag ${f.t}">${f.l}</div>`).join('')}</div>
+  </div>`;
+
+  el.innerHTML=`
+    <div class="kal-sbar" style="background:${m.bar}"></div>
+    <div class="kal-chead">
+      <div>
+        <div class="kal-cname">${m.name}</div>
+        <div class="kal-cheb">${m.heb}</div>
+        ${m.leap?'<div class="kal-leap-badge">Schaltmonat</div>':''}
+      </div>
+      <div class="kal-cmeta">
+        <div class="kal-cnrs">Heilig ${m.sacred} · Zivil ${m.civil}</div>
+        <div class="kal-cgreg">${m.greg}</div>
+        <div class="kal-cdays">${m.days?m.days+' Tage':'variabel'}</div>
+      </div>
+    </div>
+    <div class="kal-cbody">
+      ${moonHtml}
+      ${lyHtml}
+      ${seasonHtml}
+      ${prodHtml}
+      ${festsHtml}
+    </div>`;
+  return el;
+}
+
+document.getElementById('kalGrid').append(...MONTHS.map(buildCard));
+</script>
+{{ end }}

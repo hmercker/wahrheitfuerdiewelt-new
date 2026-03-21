@@ -15,6 +15,6 @@ Wir danken Geoff Cutler, dass er uns die Erlaubnis gegeben hat, diese Botschafte
 
 |
 ---|---|---
-[2025 - 2026](/3-de-judas/3-2-de-judas-mess/3-2-6-de-judas-mess-2025-2026//) | [2021 - 2024](/3-de-judas/3-2-de-judas-mess/3-2-5-de-judas-mess-2021-2024/) | [2012 - 2020](/3-de-judas/3-2-de-judas-mess/3-2-4-de-judas-mess-2012-2020/)
+[2025 - 2026](/3-de-judas/3-2-de-judas-mess/3-2-6-de-judas-mess-2025-2026/) | [2021 - 2024](/3-de-judas/3-2-de-judas-mess/3-2-5-de-judas-mess-2021-2024/) | [2012 - 2020](/3-de-judas/3-2-de-judas-mess/3-2-4-de-judas-mess-2012-2020/)
 [2003](/3-de-judas/3-2-de-judas-mess/3-2-3-de-judas-mess-2003/) | [2002](/3-de-judas/3-2-de-judas-mess/3-2-2-de-judas-mess-2002/) | [1970 - 2001](/3-de-judas/3-2-de-judas-mess/3-2-1-de-judas-mess-1970-2001/)
 | 
