@@ -5,7 +5,7 @@ description: "Botschaften empfangen - 2020"
 date: 2026-07-03 00:00:00+00:00
 draft: False
 hidden: False
-weight: 
+weight: 80
 ---
 ### Botschaften empfangen - 2020
 
