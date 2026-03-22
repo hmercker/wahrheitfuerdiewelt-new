@@ -19,7 +19,7 @@ weight:
 | [Was ist der Unterschied zwischen Natürlicher und Göttlicher Liebe?](/9-de-var-top/9-2-de-spirit-top/9-2-6-de-qa/9-2-6-6-de-nl-dl/)
 | [Was ist mit der Aussage gemeint „von neuem geboren zu werden”?](/9-de-var-top/9-2-de-spirit-top/9-2-6-de-qa/9-2-6-7-de-born-again/)
 | [Warum spüre ich nicht die Gegenwart der Liebe Gottes?](/9-de-var-top/9-2-de-spirit-top/9-2-6-de-qa/9-2-6-8-de-presence-god-love/)
-| [Was sind “tierische Wünsche und Begierden”, die nicht im Einklang mit Gottes Liebe stehen?](/9-de-var-top/9-2-de-spirit-top/9-2-6-de-qa/9-2-6-9-de-animal-desires/)
+| [Was sind „tierische Wünsche und Begierden”, die nicht im Einklang mit Gottes Liebe stehen?](/9-de-var-top/9-2-de-spirit-top/9-2-6-de-qa/9-2-6-9-de-animal-desires/)
 | [Warum ist so viel Böses in der Welt?](/9-de-var-top/9-2-de-spirit-top/9-2-6-de-qa/9-2-6-10-de-evil-in-world/)
 | [Nach dem Tod kommt das Gericht. Was ist das und was ist es nicht?](/9-de-var-top/9-2-de-spirit-top/9-2-6-de-qa/9-2-6-11-de-judgment-after-death/)
 |
