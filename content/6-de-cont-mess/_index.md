@@ -7,11 +7,11 @@ draft: False
 hidden: False
 weight: 70
 ---
-## Aktuelle Botschaften
+# Aktuelle Botschaften
 
 |
 |---
-| [Botschaften chronologisch sortiert](/6-de-cont-mess/6-1-de-cont-mess-date/)
-| [Botschaften sortiert nach Medium](/6-de-cont-mess/6-2-de-mess-by-med/)
+| [Botschaften chronologisch geortnet](/6-de-cont-mess/6-1-de-cont-mess-date/)
+| [Botschaften nach Medium geortnet](/6-de-cont-mess/6-2-de-mess-by-med/)
 | [Verstorbene Freunde teilen](/6-de-cont-mess/6-3-de-dep-friends/)
 |

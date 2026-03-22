@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-### Botschaften durch Dr. Daniel G. Samuels
+## Botschaften durch Dr. Daniel G. Samuels
 
 Dr. Samuels erhielt eine Reihe von Botschaften, die an die Arbeit von James Padgett im Zeitraum von 1954 bis 1966 anknüpfen. Soweit wir das beurteilen können, erhielt er überwiegend Botschaften von Jesus und diese sind auf drei Seiten aufgelistet:
 

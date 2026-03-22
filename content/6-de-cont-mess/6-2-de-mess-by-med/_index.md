@@ -1,13 +1,13 @@
 ---
-title: "Botschaften sortiert nach Medium"
-menu_title: "Botschaften sortiert nach Medium"
-description: "Botschaften sortiert nach Medium"
+title: "Botschaften nach Medium geortnet"
+menu_title: "Botschaften nach Medium geortnet"
+description: "Botschaften nach Medium geortnet"
 date: 2026-03-20 00:00:00+00:00
 draft: False
 hidden: False
 weight: 20
 ---
-## Botschaften sortiert nach Medium
+## Botschaften nach Medium geortnet
 
  | | 
  ---|---|---

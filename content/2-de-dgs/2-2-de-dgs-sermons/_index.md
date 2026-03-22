@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 20
 ---
-### Predigten über das Alte Testament
+## Predigten über das Alte Testament
 
 Diese Predigten wurden von Dr. Samuels im Zeitraum von 1957 bis 1966 erhalten. In diesen Botschaften nimmt Jesus uns auf eine Reise durch das Alte Testament. Es ist daher nützlich, diese in ihrer Anordnung zu lesen. Es wird deutlich, wie sich der jüdische Glaube entwickelte, warum die Zeiten reif für einen Messias waren und wie das Christentum heidnische Riten und Glaubensvorstellungen übernahm, um die christlichen Lehren für Heiden attraktiver zu machen.
 

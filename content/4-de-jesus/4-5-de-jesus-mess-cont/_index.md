@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 50
 ---
-### Aktuelle Botschaften Jesu
+## Aktuelle Botschaften Jesu
 
 Dies sind die Botschaften, die von Jesus erhalten wurden nachdem Dr. Samuels Jesus Botschaften gechannelt hatte. Diese Botschaften wurden durch viele verschiedene Medien erhalten.
 

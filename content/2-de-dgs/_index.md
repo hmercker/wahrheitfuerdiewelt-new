@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-## Dr. Daniel G. Samuels
+# Dr. Daniel G. Samuels
 
 |
 |---

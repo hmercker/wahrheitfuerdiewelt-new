@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 40
 ---
-### Die Judas Geschichte
+## Die Judas Geschichte
 
 [...] Ich begab mich in das Tal von Hinnom, suchte eine steile Klippe, wo ich das Seil befestigte, das ich als eine Art Gürtel benutzte. Das andere Ende legte ich mir um den Hals und sprang. Aber das Seil rutschte vom Felsen ab, und ich stürzte in den Abgrund.
 

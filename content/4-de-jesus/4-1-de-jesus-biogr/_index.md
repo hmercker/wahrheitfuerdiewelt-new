@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 10
 ---
-### Biografie
+## Biografie
 
 Dies ist eine Auswahl bemerkenswerter Botschaften, die viele der frühen Jahre des Lebens Jesu aufzeichnen - faszinierende Einblicke in ein höchst bemerkenswertes Leben. Erst Ende 2000 erhielten wir eine weitere Einsicht von Maria, der Mutter Jesu. Sie sagte in einer Botschaft über den Glauben:
 

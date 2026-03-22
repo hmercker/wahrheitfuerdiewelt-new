@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 40
 ---
-### Aktuelle Lehren Jesu durch Al Fike
+## Aktuelle Lehren Jesu durch Al Fike
 
 Ende September 2020 kündigte Jesus an, dass er Al Fike benutzen würde, um eine Reihe von Lehren zu erteilen - wahrscheinlich über die Seele. Er hatte Al wegen mehrerer Faktoren ausgewählt, nicht zuletzt wegen seiner Bemühungen, ein hohes spirituelles Niveau zu erreichen und aufrechtzuerhalten, das eine sehr gute Verbindung mit Jesus und anderen Christuswesen ermöglicht. Wir werden diese Seite nutzen, um uns auf diese besonderen Lehren zu konzentrieren.  
 

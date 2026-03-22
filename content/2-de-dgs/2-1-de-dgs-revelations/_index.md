@@ -8,7 +8,7 @@ hidden: False
 weight: 10
 ---
 
-### Erklärungen und Einsichten in das Neue Testament
+## Erklärungen und Einsichten in das Neue Testament
 
 Diese Offenbarungen wurden von [Dr. Daniel G. Samuels]() im Zeitraum von 1954 bis 1966 empfangen.
 

@@ -7,11 +7,11 @@ draft: False
 hidden: False
 weight: 10
 ---
-## Einleitung
+# Einleitung
 
 Herzlich willkommen auf unserer Website. Mögen die hier präsentierten Seiten dir Freude auf deiner spirituellen Reise zum Erwachen deiner Seele und Erleuchtung bringen. Du hast die wahren Lehren Jesu gefunden, wie sie zuerst von James Padgett in den ersten Jahren des letzten Jahrhunderts durch das automatische Schreiben empfangen wurden. Nach James Padgett sind weitere Werke von Botschaften über andere Medien empfangen worden, die auch hier auf der Website verfügbar sind. Diese Botschaften, die von den höchsten Engeln des Königreich Gottes ausgehen, enthüllen die Wahrheiten, die Jesus selbst erfahren und der Menschheit offenbart hat.
 
-### Zur Auswahl von Herrn Padgett
+## Zur Auswahl von Herrn Padgett
 
 Warum war James E. Padgett das erwaehlte Instrument, um diese wertvollen Offenbarungen der Göttlichen Wahrheiten zu übermitteln? James Padgett war der erste Sterbliche, durch den es ihm möglich war, erfolgreich seine Lehren wieder zu vermitteln Jesus sagt, dass diese 
 

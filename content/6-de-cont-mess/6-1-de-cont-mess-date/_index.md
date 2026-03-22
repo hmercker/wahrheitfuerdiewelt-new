@@ -1,13 +1,13 @@
 ---
-title: "Botschaften chronologisch sortiert"
-menu_title: "Botschaften chronologisch sortiert"
-description: "Botschaften chronologisch sortiert"
+title: "Botschaften chronologisch geortnet"
+menu_title: "Botschaften chronologisch geortnet"
+description: "Botschaften chronologisch geortnet"
 date: 2026-03-20 00:00:00+00:00
 draft: False
 hidden: False
 weight: 10
 ---
-## Botschaften chronologisch sortiert
+## Botschaften chronologisch geortnet
 
 Sowohl Jesus als auch die vielen anderen, spirituellen Wesen, die hier ihren Beitrag leisten, zeigen unmissverständlich auf, dass es dringend an der Zeit ist, eine  Reformation des Verstandes und ein allgemeines Umdenken anzustreben. Wir alle verspüren den großen Wandel den die Menschheit durchlebt. Die Ereignisse in unserem Weltgeschehen werden intensiver und die dringliche Bitte nach Frieden und Harmonie ist wie ein stiller Schrei in den Herzen aller.
 

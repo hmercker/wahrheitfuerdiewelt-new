@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-### Porträts der Apostel
+## Porträts der Apostel
 
 Diese Porträts sind das Resultat zwischen dem Medium H. und Judas.  Judas ist im Stande eine Vorstellung von einem Bild zu übermitteln dass H. dann wiedergeben kann.  Es gaben noch mehr Anhänger Jesu als hier aufgeführt.
 

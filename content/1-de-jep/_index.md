@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 20
 ---
-## James E. Padgett
+# James E. Padgett
 
 |
 |---

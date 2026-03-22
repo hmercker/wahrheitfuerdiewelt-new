@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 20
 ---
-### Judas Botschaften
+## Judas Botschaften
 
 In all diesen Botschaften wurde das Urheberrecht an Geoff Cutler (new-birth.net) 2013 geltend gemacht.  Er hat das Urheberrecht beanspruchen können, da in den Jahren 2012 und 2013 erhebliche Arbeit geleistet wurde, um all diese Botschaften neu (in Englisch) herauszugeben.  Er hat die ausdrückliche Erlaubnis des Mediums, diese Botschaften zu veröffentlichen.
 

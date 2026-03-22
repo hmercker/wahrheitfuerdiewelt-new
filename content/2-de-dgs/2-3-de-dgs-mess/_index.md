@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-### Weitere Botschaften
+## Weitere Botschaften
 
 Dr. Samuels erhielt eine Reihe von Botschaften im Zeitraum von 1954 bis 1966, die an die Arbeit von James Padgett anknüpfen. Soweit wir das beurteilen können, erhielt er überwiegend Botschaften von Jesus, und diese sind auf zwei Seiten zusammengestellt, die sogenannten Offenbarungen [Erklärungen und Einsichten in das Neue Testament](/2-de-dgs/2-1-de-dgs-revelations/) und die sogenannten Predigten [Predigten über das Alte Testament](/2-de-dgs/2-2-de-dgs-sermons/).
 

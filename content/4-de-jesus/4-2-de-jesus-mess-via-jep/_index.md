@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 20
 ---
-### Botschaften durch James E. Padgett
+## Botschaften durch James E. Padgett
 
 [Jesus von Nazareth erwählt James E. Padgett](/4-de-jesus/4-2-de-jesus-mess-via-jep/4-2-1-de-jesus-selects-jep/)
 
