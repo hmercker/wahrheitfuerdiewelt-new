@@ -9,7 +9,3 @@ weight:
 ---
 ### Heilung und Wunder
 
-|
-|---
-| []()
-|

@@ -9,7 +9,3 @@ weight:
 ---
 ### Freier Wille und spirituelle Gesetze
 
-|
-|---
-| []()
-|

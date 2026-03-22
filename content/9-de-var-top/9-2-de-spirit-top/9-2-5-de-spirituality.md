@@ -9,7 +9,3 @@ weight:
 ---
 ### Allgemeine Spiritualität
 
-|
-|---
-| []()
-|
