@@ -11,7 +11,7 @@ weight: 70
 
 |
 |---
-| [Medialität der Direkten Stimme](/direkte-stimme/medialitaet-der-direkten-stimme/)
-| [Hintergrund zum Projekt der Direkten Stimme (DS)](/direkte-stimme/hintergrund-zum-projekt-der-direkten-stimme/)
-| [Botschaften zur Direkten Stimme](/direkte-stimme/botschaften-zur-ds/)
+| [Medialität der Direkten Stimme](/10-de-mediumship/10-7-de-dv/10-7-1-de-dv-mediumship/)
+| [Projekte der Direkten Stimme](/10-de-mediumship/10-7-de-dv/10-7-2-de-dv-projects/)
+| [Botschaften zur Direkten Stimme](/10-de-mediumship/10-7-de-dv/10-7-3-de-dv-mess/)
 |

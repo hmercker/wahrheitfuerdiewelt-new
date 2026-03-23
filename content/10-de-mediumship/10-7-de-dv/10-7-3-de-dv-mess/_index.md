@@ -15,12 +15,12 @@ Hier sind die Botschaften, die im Rahmen der physischen Medialität des Projekts
 
 |
 |---
-| [Band I](/direkte-stimme/botschaften-zur-ds/ds-projekt-1/ds-band-1-1/)
-| [Band II](/direkte-stimme/botschaften-zur-ds/ds-projekt-1/ds-band-1-2/)
-| [Band III](/direkte-stimme/botschaften-zur-ds/ds-projekt-1/ds-band-1-3/)
-| [Band IV](/direkte-stimme/botschaften-zur-ds/ds-projekt-1/ds-band-1-4/)
-| [Band V](/direkte-stimme/botschaften-zur-ds/ds-projekt-1/ds-band-1-5/)
-| [Band VI](/direkte-stimme/botschaften-zur-ds/ds-projekt-1/ds-band-1-6/)
+| [Band 1](/10-de-mediumship/10-7-de-dv/10-7-3-de-dv-mess/10-7-3-1-de-p1-vol1/)
+| [Band 2](/10-de-mediumship/10-7-de-dv/10-7-3-de-dv-mess/10-7-3-2-de-p1-vol2/)
+| [Band 3](/10-de-mediumship/10-7-de-dv/10-7-3-de-dv-mess/10-7-3-3-de-p1-vol3/)
+| [Band 4](/10-de-mediumship/10-7-de-dv/10-7-3-de-dv-mess/10-7-3-4-de-p1-vol4/)
+| [Band 5](/10-de-mediumship/10-7-de-dv/10-7-3-de-dv-mess/10-7-3-5-de-p1-vol5/)
+| [Band 6](/10-de-mediumship/10-7-de-dv/10-7-3-de-dv-mess/10-7-3-6-de-p1-vol6/)
 |
 
 ### Botschaften des Zweiten Projektes der Direkten Stimme
@@ -33,6 +33,6 @@ Mitte 2021 hat eine dritte Gruppe von Einzelpersonen, vorwiegend in Kanada und N
 
 |
 |---
-| [Band I](/direkte-stimme/botschaften-zur-ds/ds-projekt-3/ds-band-3-1/)
-| [Band II](/direkte-stimme/botschaften-zur-ds/ds-projekt-3/ds-band-3-2/)
+| [Band 1](/10-de-mediumship/10-7-de-dv/10-7-3-de-dv-mess/10-7-3-7-de-p3-vol1/)
+| [Band 2](/10-de-mediumship/10-7-de-dv/10-7-3-de-dv-mess/10-7-3-8-de-p3-vol2/)
 |
