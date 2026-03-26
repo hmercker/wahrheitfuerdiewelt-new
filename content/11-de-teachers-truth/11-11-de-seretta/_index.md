@@ -11,7 +11,9 @@ weight: 110
 
 <p style="text-align: center"><img src="/portraits/de-seretta-kem.jpg"></p>
 
-Hintergrund - Wer war [Seretta Kem](/11-de-teachers-truth/11-11-de-seretta/11-11-1-de-seretta-background/) zu Lebzeiten hier auf Erden?
+### Hintergrund
+
+Wer war [Seretta Kem](/11-de-teachers-truth/11-11-de-seretta/11-11-1-de-seretta-background/) zu Lebzeiten hier auf Erden?
 
 ### Botschaften von Seretta Kem
 

@@ -19,11 +19,11 @@ Diese Botschaften, besser gesagt Lektionen und Lehren, sind nur möglich durch d
 
 Wir wünschen viel Spass beim Lesen dieser lebenswichtigen Informationen.  
 
-Hintergrund – [Wer war Augustinus zu Lebzeiten hier auf Erden](/11-de-teachers-truth/11-5-de-augustine/11-5-1-de-augustine-background/) ?
+### Hintergrund
 
-[Was sagt Augustinus heute?](/11-de-teachers-truth/11-5-de-augustine/11-5-2-de-augustine-contemp/)
+[Wer war Augustinus zu Lebzeiten hier auf Erden](/11-de-teachers-truth/11-5-de-augustine/11-5-1-de-augustine-background/) und [was sagt Augustinus heute?](/11-de-teachers-truth/11-5-de-augustine/11-5-2-de-augustine-contemp/)?
 
-### Botschaften von Augustinus
+### Botschaften von Augustinus erhalten
 
 ||||
 ---|---|---|---|---

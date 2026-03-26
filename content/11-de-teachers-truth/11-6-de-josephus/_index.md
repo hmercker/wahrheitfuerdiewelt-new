@@ -9,9 +9,14 @@ weight: 60
 ---
 ## Lehrer Flavius Josephus
 
-**Author** | **Titel der Botschaft** | **Datum der Botschaft**  
----|---|---
+<p style="text-align: center"><img src="/portraits/de-flavius-josephus.jpg"></p>
 
-|
-|---
-|
+<small>*Bildnis des Josephus von Thomas Addis Emmet, 1880. Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Josephus)*</small>
+
+### Hintergrund
+
+Wer war [Flavius Josephus](/11-de-teachers-truth/11-6-de-josephus/11-6-1-de-josephus-background/) zu Lebzeiten hier auf Erden?
+
+### Botschaften von Josephus erhalten
+
+[Hier](/11-de-teachers-truth/11-6-de-josephus/11-6-2-de-josephus-messages/) Botschaften empfangen von Josephus.
