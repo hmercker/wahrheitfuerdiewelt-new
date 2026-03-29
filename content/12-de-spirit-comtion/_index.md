@@ -11,6 +11,6 @@ weight: 130
 
 |
 |---
-| [Gründer und Führer von Weltreligionen, Orden und Gesellschaften](/12-de-spirit-comtion/12-1-de-world-relig-ord/)
+| [Weltreligionen, Orden und Gesellschaften](/12-de-spirit-comtion/12-1-de-world-relig-ord/)
 | [Bekannte Persönlichkeiten](/12-de-spirit-comtion/12-2-de-wellknown-person/)
 |

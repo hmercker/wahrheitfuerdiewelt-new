@@ -1,13 +1,13 @@
 ---
-title: "Gründer und Führer von Weltreligionen, Orden und Gemeinschaften"
-menu_title: "Gründer und Führer von Weltreligionen, Orden und Gemeinschaften"
-description: "Gründer und Führer von Weltreligionen, Orden und Gemeinschaften"
+title: "Weltreligionen, Orden und Gemeinschaften"
+menu_title: "Weltreligionen, Orden und Gemeinschaften"
+description: "Weltreligionen, Orden und Gemeinschaften"
 date: 2026-01-01 00:00:00+00:00
 draft: False
 hidden: False
 weight: 10
 ---
-## Gründer und Führer von Weltreligionen, Orden und Gemeinschaften
+## Weltreligionen, Orden und Gemeinschaften
 
 ||
 ---|---

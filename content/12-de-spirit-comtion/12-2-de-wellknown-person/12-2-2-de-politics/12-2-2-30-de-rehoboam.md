@@ -7,7 +7,11 @@ draft: False
 hidden: True
 weight:
 ---
-### Rehoboam
+## Rehoboam
+
+Rehabeam regierte als erster König des Reiches Juda während der Eisenzeit im östlichen Mittelmeerraum von 931 bis 914 v. Chr. <small>*Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Rehabeam)*</small>
+
+### Erhaltene Botschaften
 
 **Author** | **Titel der Botschaft** | **Datum der Botschaft**  
 ---|---|---

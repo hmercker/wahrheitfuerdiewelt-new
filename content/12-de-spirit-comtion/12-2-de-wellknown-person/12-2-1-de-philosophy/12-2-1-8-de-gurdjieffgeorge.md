@@ -9,7 +9,7 @@ weight:
 ---
 ## Gurdjieff, Georg
 
-<p style="text-align: center"><img src="/portraits/de-georges-gurdjieff.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-georges-gurdjieff.jpg"></p>
 
 George Ivanovich Gurdjieff (ca. 1867 - 29. Oktober 1949) war ein Philosoph, Mystiker, spiritueller Lehrer, Komponist und Tanzlehrer. Gurdjieff lehrte, dass die Menschen sich ihrer selbst nicht bewusst sind und daher ihr Leben in einem Zustand des hypnotischen „Wachschlafs” leben, dass es aber möglich ist, zu einem höheren Bewusstseinszustand zu erwachen und unserem Bestreben als menschliche Wesen zu dienen. Die Praxis seiner Lehre wurde als „Das Werk” (Arbeit an sich selbst) bekannt und ergänzt die Wege der Fakire (Sufis), Mönche und Yogis, so dass sein Schüler P. D. Ouspensky sie als den "Vierten Weg" bezeichnete.
 

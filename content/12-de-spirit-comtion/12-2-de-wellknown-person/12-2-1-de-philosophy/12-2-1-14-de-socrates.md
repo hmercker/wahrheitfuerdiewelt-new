@@ -9,7 +9,7 @@ weight:
 ---
 ## Sokrates
 
-<p style="text-align: center"><img src="/portraits/de-sokrates.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-sokrates.jpg"></p>
 
 <small><p style="text-align: center">*Büste des Sokrates, römische Kopie eines griechischen Originals, 1. Jahrhundert, Louvre, Paris*</p></small>
 

@@ -9,7 +9,7 @@ weight:
 ---
 ## Kant, Immanuel
 
-<p style="text-align: center"><img src="/portraits/de-immanuel-kant.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-immanuel-kant.jpg"></p>
 
 <small><p style="text-align: center">*Immanuel Kant, 1768*</p></small>
 

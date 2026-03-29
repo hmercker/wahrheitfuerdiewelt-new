@@ -9,7 +9,7 @@ weight:
 ---
 ## Leibniz, Gottfried Wilhelm
 
-<p style="text-align: center"><img src="/portraits/de-gottfried-wilhelm-leibnitz.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-gottfried-wilhelm-leibnitz.jpg"></p>
 
 <small><p style="text-align: center">*Gottfried Wilhelm Leibniz,Porträt von Christoph Bernhard Francke, um 1700; Herzog Anton Ulrich-Museum, Braunschweig*</p></small>
 

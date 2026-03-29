@@ -9,7 +9,7 @@ weight:
 ---
 ## Spinoza, Baruch
 
-<p style="text-align: center"><img src="/portraits/de-baruch-spinoza.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-baruch-spinoza.jpg"></p>
 
 <small><p style="text-align: center">*Porträt des Philosophen Benedictus de Spinoza, Ölgemälde um 1665, im Besitz der Gemäldesammlung der Herzog August Bibliothek in Wolfenbüttel*</p></small>
 

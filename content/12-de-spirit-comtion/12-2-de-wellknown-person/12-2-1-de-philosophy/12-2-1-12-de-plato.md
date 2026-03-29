@@ -9,7 +9,7 @@ weight:
 ---
 ## Platon
 
-<p style="text-align: center"><img src="/portraits/de-platon.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-platon.jpg"></p>
 
 <small><p style="text-align: center">*Römische Kopie eines griechischen Platonporträts, das wohl von Silanion stammt und nach dem Tod Platons in der Akademie aufgestellt wurde, Glyptothek München*</p></small>
 
