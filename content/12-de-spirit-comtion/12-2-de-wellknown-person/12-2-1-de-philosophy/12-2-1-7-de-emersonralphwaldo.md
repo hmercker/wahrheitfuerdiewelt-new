@@ -9,7 +9,7 @@ weight:
 ---
 ## Emerson, Ralph Waldo
 
-<p style="text-align: center"><img src="/portraits/de-ralph-waldo-emerson.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-ralph-waldo-emerson.jpg"></p>
 
 <small><p style="text-align: center">*Ralph Waldo Emerson (1846)*</p></small>
 

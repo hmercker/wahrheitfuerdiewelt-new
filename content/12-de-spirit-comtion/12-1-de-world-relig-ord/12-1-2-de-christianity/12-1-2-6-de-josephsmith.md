@@ -9,7 +9,7 @@ weight:
 ---
 ## Joseph Smith - Gründer des Mormonischen Glaubens
 
-<p style="text-align: center"><img src="/portraits/de-joseph-smith.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-joseph-smith.jpg"></p>
 
 <small><p style="text-align: center">*Porträt, ca. 1842 - Wikipedia*</p></small>
 

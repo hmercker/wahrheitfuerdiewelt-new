@@ -9,7 +9,7 @@ weight:
 ---
 ## George Whitefield 
 
-<p style="text-align: center"><img src="/portraits/de-george-whitefield.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-george-whitefield.jpg"></p>
 
 <small><p style="text-align: center">*George Whitefield von Maler John Russell*</p></small>
 

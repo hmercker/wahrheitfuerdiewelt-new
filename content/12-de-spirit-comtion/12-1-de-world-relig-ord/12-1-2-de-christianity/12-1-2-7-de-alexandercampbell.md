@@ -9,7 +9,7 @@ weight:
 ---
 ## Alexander Campbell
 
-<p style="text-align: center"><img src="/portraits/de-Alexander_Campbell.jpg"></p>
+<p style="text-align: center"><img src="/portraits/de-alexander-campbell.jpg"></p>
 
 <small><p style="text-align: center">*Alexander Campbell. ca. 1855 - Wikipedia*</p></small>
 

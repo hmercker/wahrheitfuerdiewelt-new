@@ -9,7 +9,7 @@ weight:
 ---
 ## Jakobus (der Jüngere) Alphäus
 
-<p style="text-align: center"><img src="/portraits/de-jakobus_small.jpg"></p>
+<p style="text-align: center"><img src="/portraits/de-jakobus-small.jpg"></p>
 
 <small><p style="text-align: center">*Quelle des [Porträts](/3-de-judas/3-3-de-portraits-apostles/)*</p></small>
 

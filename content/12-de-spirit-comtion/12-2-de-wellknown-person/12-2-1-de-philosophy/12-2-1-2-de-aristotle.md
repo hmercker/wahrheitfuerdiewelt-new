@@ -9,7 +9,7 @@ weight:
 ---
 ## Aristoteles
 
-<p style="text-align: center"><img src="/portraits/de-aristoteles.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-aristoteles.jpg"></p>
 
 <small><p style="text-align: center">*Porträt des Aristoteles, römische Kopie nach dem Original des Lysipp (?); Paris, Louvre*</p></small>
 

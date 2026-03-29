@@ -9,7 +9,7 @@ weight:
 ---
 ## Bacon, Francis
 
-<p style="text-align: center"><img src="/portraits/de-francis-bacon.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-francis-bacon.jpg"></p>
 
 <small><p style="text-align: center">*Porträt von Sir Francis Bacon. Frans Pourbus (1617), Łazienki-Palast Warschau*</p></small>
 

@@ -9,7 +9,7 @@ weight:
 ---
 ## (der Ehrliche) Nathanael - Bartholomäus
 
-<p style="text-align: center"><img src="/portraits/de-nathanael_small.jpg"></p>
+<p style="text-align: center"><img src="/portraits/de-nathanael-small.jpg"></p>
 
 <small><p style="text-align: center">*Quelle des [Porträts](/3-de-judas/3-3-de-portraits-apostles/)*</p></small>
 

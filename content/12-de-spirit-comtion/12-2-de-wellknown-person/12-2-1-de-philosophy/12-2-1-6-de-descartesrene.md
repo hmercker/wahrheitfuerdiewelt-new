@@ -9,7 +9,7 @@ weight:
 ---
 ## Descartes, René
 
-<p style="text-align: center"><img src="/portraits/de-descartes.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-descartes.jpg"></p>
 
 <small><p style="text-align: center">*René Descartes von Frans Hals, 1649*</p></small>
 

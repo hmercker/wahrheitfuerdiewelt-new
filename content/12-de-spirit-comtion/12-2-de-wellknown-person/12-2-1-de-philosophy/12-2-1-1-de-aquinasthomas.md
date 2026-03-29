@@ -9,7 +9,7 @@ weight:
 ---
 ## Aquinas, Thomas
 
-<p style="text-align: center"><img src="/portraits/de-thomas-aquinas.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-thomas-aquinas.jpg"></p>
 
 <small><p style="text-align: center">*Thomas von Aquin (postumes Gemälde von Carlo Crivelli, 1476)*</p></small>
 

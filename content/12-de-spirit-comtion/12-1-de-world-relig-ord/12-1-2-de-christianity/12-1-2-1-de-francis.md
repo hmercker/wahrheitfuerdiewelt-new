@@ -9,7 +9,7 @@ weight:
 ---
 ## Katholische Orden - Franziskus von Assisi - Minderbrüder
 
-<p style="text-align: center"><img src="/portraits/de-franziskus-von-assisi.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-franziskus-von-assisi.jpg"></p>
 
 <small><p style="text-align: center">*Ein Gemälde des Franziskus von Assisi von Philip Fruytiers.*</p></small>
 

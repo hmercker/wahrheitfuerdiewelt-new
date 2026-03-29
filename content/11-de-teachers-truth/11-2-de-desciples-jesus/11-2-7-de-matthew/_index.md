@@ -9,7 +9,7 @@ weight:
 ---
 ### Matthäus (Levi)
 
-<p style="text-align: center"><img src="/portraits/de-matthaeus_large.jpg"></p>
+<p style="text-align: center"><img src="/portraits/de-matthaeus-large.jpg"></p>
 
 <small><p style="text-align: center">*Quelle des [Porträts](/3-de-judas/3-3-de-portraits-apostles/)*</p></small>
 

@@ -9,7 +9,7 @@ weight:
 ---
 ## Carlyle, Thomas
 
-<p style="text-align: center"><img src="/portraits/de-thomas-carlyle.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-thomas-carlyle.jpg"></p>
 
 <small><p style="text-align: center">*Thomas Carlyle, Stahlstich, 1902*</p></small>
 

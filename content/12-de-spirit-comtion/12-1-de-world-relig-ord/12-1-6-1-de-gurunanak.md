@@ -9,7 +9,7 @@ weight:
 ---
 ### Guru Nanak - Begründer des Sikhismus
 
-<p style="text-align: center"><img src="/portraits/de-guru-nanak.JPEG"></p>
+<p style="text-align: center"><img src="/portraits/de-guru-nanak.jpeg"></p>
 
 <small><p style="text-align: center">*Nanak Dev auf einer Wandmalerei aus dem Gurdwara Baba Atal, Anfang 19. Jahrhundert.*</p></small>
 

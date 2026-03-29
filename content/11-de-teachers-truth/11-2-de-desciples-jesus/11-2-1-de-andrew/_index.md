@@ -9,7 +9,7 @@ weight:
 ---
 ## Andreas
 
-<p style="text-align: center"><img src="/portraits/de-andreas_small.jpg"></p>
+<p style="text-align: center"><img src="/portraits/de-andreas-small.jpg"></p>
 
 <small><p style="text-align: center">*Quelle des [Porträts](/3-de-judas/3-3-de-portraits-apostles/)*</p></small>
 

@@ -9,7 +9,7 @@ weight:
 ---
 ## Katholischer Orden - Heilige Klara von Assisi - Klarissen (religiöser Orden)
 
-<p style="text-align: center"><img src="/portraits/de-klara-von-assisi.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-klara-von-assisi.jpg"></p>
 
 <small><p style="text-align: center">*Fresko der heiligen Klara von Simone Martini in der Kapelle der Unterkirche der Basilika San Francesco in Assisi (14. Jh.)*</p></small>
 

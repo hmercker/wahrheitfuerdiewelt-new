@@ -9,7 +9,7 @@ weight:
 ---
 ## Simon (der Zelote)
 
-<p style="text-align: center"><img src="/portraits/de-simon_small.jpg"></p>
+<p style="text-align: center"><img src="/portraits/de-simon-small.jpg"></p>
 
 <small><p style="text-align: center">*Quelle des [Porträts](/3-de-judas/3-3-de-portraits-apostles/)*</p></small>
 

@@ -9,7 +9,7 @@ weight:
 ---
 ## Baal Shem Tov
 
-<p style="text-align: center"><img src="/portraits/de-baal-shem-tov.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-baal-shem-tov.jpg"></p>
 
 <small><p style="text-align: center">*Baal Shem Tov - [Quelle](https://www.myjewishlearning.com/article/the-baal-shem-tov/)*</p></small>
 

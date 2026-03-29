@@ -9,7 +9,7 @@ weight:
 ---
 ## Lukas (der Arzt) der Evangelist
 
-<p style="text-align: center"><img src="/portraits/de-lukas_small.jpg"></p>
+<p style="text-align: center"><img src="/portraits/de-lukas-small.jpg"></p>
 
 <small><p style="text-align: center">*Quelle des [Porträts](/3-de-judas/3-3-de-portraits-apostles/)*</p></small>
 

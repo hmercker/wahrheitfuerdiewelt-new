@@ -9,7 +9,7 @@ weight:
 ---
 ## Lao Tzu - Begründer des Daoismus
 
-<p style="text-align: center"><img src="/portraits/de-lao-tzu.JPEG  "></p>
+<p style="text-align: center"><img src="/portraits/de-lao-tzu.jpeg  "></p>
 
 <small><p style="text-align: center">*Lao Tzu reitet einen Wasserbüffel - Wikipedia*</p></small>
 

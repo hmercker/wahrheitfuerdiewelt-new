@@ -9,7 +9,7 @@ weight:
 ---
 ## (Johannes) Markus
 
-<p style="text-align: center"><img src="/portraits/de-johannesmarkus_small.jpg"></p>
+<p style="text-align: center"><img src="/portraits/de-johannesmarkus-small.jpg"></p>
 
 <small><p style="text-align: center">*Der heilige Markus. Quelle des [Porträts](/3-de-judas/3-3-de-portraits-apostles/)*</p></small>
 
