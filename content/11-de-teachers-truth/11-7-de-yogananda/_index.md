@@ -23,6 +23,6 @@ Wer war Paramahansa [Yogananda](/11-de-teachers-truth/11-7-de-yoganada/11-7-1-de
 
 ||
 ---|---|---
-[2017-2018](/11-de-teachers-truth/11-7-de-yoganada/11-7-2-de-yogananda-2017-2018/) | [2019](/11-de-teachers-truth/11-7-de-yoganada/11-7-3-de-yogananda-2019/) | [2020](/11-de-teachers-truth/11-7-de-yoganada/11-7-4-de-yogananda-2020/)
-[2021](/11-de-teachers-truth/11-7-de-yoganada/11-7-5-de-yogananda-2021/) | [2022-2024](/11-de-teachers-truth/11-7-de-yoganada/11-7-6-de-yogananda-2022-2024/) | [2025-2026](/11-de-teachers-truth/11-7-de-yoganada/11-7-7-de-yogananda-2025-2027/)
+[2017-2018](/11-de-teachers-truth/11-7-de-yogananda/11-7-2-de-yogananda-2017-2018/) | [2019](/11-de-teachers-truth/11-7-de-yogananda/11-7-3-de-yogananda-2019/) | [2020](/11-de-teachers-truth/11-7-de-yogananda/11-7-4-de-yogananda-2020/)
+[2021](/11-de-teachers-truth/11-7-de-yogananda/11-7-5-de-yogananda-2021/) | [2022-2024](/11-de-teachers-truth/11-7-de-yogananda/11-7-6-de-yogananda-2022-2024/) | [2025-2026](/11-de-teachers-truth/11-7-de-yogananda/11-7-7-de-yogananda-2025-2027/)
 ||

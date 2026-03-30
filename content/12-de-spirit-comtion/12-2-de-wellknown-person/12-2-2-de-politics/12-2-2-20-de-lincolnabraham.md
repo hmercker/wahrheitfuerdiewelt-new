@@ -9,7 +9,7 @@ weight:
 ---
 ## Lincoln, Abraham
 
-<p style="text-align: center"><img src="/portraits/de-abraham-lincoln.JPG"></p>
+<p style="text-align: center"><img src="/portraits/de-abraham-lincoln.jpg"></p>
 
 <small><p style="text-align: center">*Abraham Lincoln (1863) Foto: Alexander Gardner.*</p></small>
 

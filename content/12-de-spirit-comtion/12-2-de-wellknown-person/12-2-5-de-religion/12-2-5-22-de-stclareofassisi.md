@@ -1,13 +1,13 @@
 ---
-title: "Katholischer Orden - Heilige Klara von Assisi - Klarissen (religiöser Orden)"
+title: "Heilige Klara von Assisi"
 menu_title: ""
-description: "Katholischer Orden - Heilige Klara von Assisi - Klarissen (religiöser Orden)"
+description: "Heilige Klara von Assisi"
 date: 2026-01-01 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-## Katholischer Orden - Heilige Klara von Assisi - Klarissen (religiöser Orden)
+## Heilige Klara von Assisi
 
 <p style="text-align: center"><img src="/portraits/de-klara-von-assisi.jpg"></p>
 

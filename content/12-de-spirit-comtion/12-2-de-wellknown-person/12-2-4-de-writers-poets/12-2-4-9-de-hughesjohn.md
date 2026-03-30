@@ -1,13 +1,13 @@
 ---
-title: "Hughes, Johannes"
+title: "Hughes, John"
 menu_title: ""
-description: "Hughes, Johannes"
+description: "Hughes, John"
 date: 2026-01-01 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-## Hughes, Johannes
+## Hughes, John
 
 <p style="text-align: center"><img src="/portraits/de-john-hughes.jpg"></p>
 

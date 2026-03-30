@@ -1,13 +1,13 @@
 ---
-title: "Methodismus - George Whitefield "
+title: "Whitefield, George"
 menu_title: ""
-description: "Methodismus - George Whitefield "
+description: "Whitefield, George"
 date: 2026-01-01 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-## George Whitefield 
+## Whitefield, George
 
 <p style="text-align: center"><img src="/portraits/de-george-whitefield.jpg"></p>
 

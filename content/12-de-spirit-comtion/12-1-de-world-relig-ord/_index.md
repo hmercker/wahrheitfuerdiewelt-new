@@ -9,6 +9,8 @@ weight: 10
 ---
 ## Weltreligionen, Orden und Gemeinschaften
 
+Die hier angeführten Religionsgruppen, Orden und Gemeinschaften sind nur diese, von denen wir Botschaften der Gründer oder Mitglieder durch die hier angegebenen Medien empfangen haben.
+
 ||
 ---|---
 [Buddhismus](/12-de-spirit-comtion/12-1-de-world-relig-ord/12-1-1-de-buddhism/) | [Christentum](/12-de-spirit-comtion/12-1-de-world-relig-ord/12-1-2-de-christianity/)

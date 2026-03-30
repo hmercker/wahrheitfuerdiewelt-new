@@ -1,13 +1,13 @@
 ---
-title: "Restoration Movement – Alexander Campbell"
+title: "Campbell, Alexander"
 menu_title: ""
-description: "Restoration Movement – Alexander Campbell"
+description: "Campbell, Alexander"
 date: 2026-01-01 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-## Alexander Campbell
+## Campbell, Alexander
 
 <p style="text-align: center"><img src="/portraits/de-alexander-campbell.jpg"></p>
 

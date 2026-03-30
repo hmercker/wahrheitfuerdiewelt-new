@@ -11,9 +11,9 @@ weight:
 
 <p style="text-align: center"><img src="/portraits/de-baal-shem-tov.jpg"></p>
 
-<small><p style="text-align: center">*Baal Shem Tov - [Quelle](https://www.myjewishlearning.com/article/the-baal-shem-tov/)*</p></small>
+<small><p style="text-align: center">*Baal Shem Tov*</p></small>
 
-Rabbi Israel ben Elieser, genannt Ba'al Schem Tov (Besitzer des guten Namens‘, abgekürzt BeSchT; geboren um 1700 in Okop bei Kamieniec-Podolski, Polen-Litauen; gestorben am 22. Mai 1760 in Międzyborz, Woiwodschaft Podolien, Polen-Litauen) gilt als der legendäre Begründer der chassidischen Bewegung im Judentum.
+Rabbi Israel ben Elieser, genannt Ba'al Schem Tov (Besitzer des guten Namens‘, abgekürzt BeSchT; geboren um 1700 in Okop bei Kamieniec-Podolski, Polen-Litauen; gestorben am 22. Mai 1760 in Międzyborz, Woiwodschaft Podolien, Polen-Litauen) gilt als der legendäre Begründer der chassidischen Bewegung im Judentum. *[Quelle](https://www.myjewishlearning.com/article/the-baal-shem-tov/)*
 
 **Author** | **Titel der Botschaft** | **Datum der Botschaft**  
 ---|---|---

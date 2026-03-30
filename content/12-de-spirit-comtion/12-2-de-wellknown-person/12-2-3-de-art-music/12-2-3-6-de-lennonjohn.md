@@ -1,17 +1,17 @@
 ---
-title: "Lennon, Johannes"
+title: "Lennon, John"
 menu_title: ""
-description: "Lennon, Johannes"
+description: "Lennon, John"
 date: 2026-01-01 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### Lennon, Johannes
+### Lennon, John
 
 <p style="text-align: center"><img src="/portraits/de-john-lennon.jpg"></p>
 
-<small><p style="text-align: center">*John Lennon, 1969.*/p></small>
+<small><p style="text-align: center">*John Lennon, 1969.*</p></small>
 
 John Winston Ono Lennon, MBE, geboren als John Winston Lennon (* 9. Oktober 1940 in Liverpool; † 8. Dezember 1980 in New York) war ein britischer Musiker, Komponist und Friedensaktivist sowie Oscar- und mehrfacher Grammy-Preisträger. Weltweit berühmt wurde er als John Lennon und als Mitgründer, Sänger und Gitarrist der britischen Rockband The Beatles, für die er neben Paul McCartney die meisten Stücke schrieb. Die Urheber- bzw. Komponistenpartnerschaft Lennon/McCartney ist eine der bekanntesten und erfolgreichsten in der Geschichte der Popmusik.
 

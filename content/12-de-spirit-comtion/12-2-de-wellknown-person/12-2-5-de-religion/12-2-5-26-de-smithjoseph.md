@@ -1,13 +1,13 @@
 ---
-title: "Mormonismus - Joseph Smith"
+title: "Smith, Joseph"
 menu_title: ""
-description: "Mormonismus - Joseph Smith"
+description: "Smith, Joseph"
 date: 2026-01-01 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-## Joseph Smith - Gründer des Mormonischen Glaubens
+## Smith, Joseph
 
 <p style="text-align: center"><img src="/portraits/de-joseph-smith.jpg"></p>
 

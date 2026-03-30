@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Guru Nanak - Begründer des Sikhismus
+## Guru Nanak - Begründer des Sikhismus
 
 <p style="text-align: center"><img src="/portraits/de-guru-nanak.jpeg"></p>
 
