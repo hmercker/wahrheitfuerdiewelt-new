@@ -11,5 +11,7 @@ weight: 140
 
 |
 |---
-| []()
+[Quellen und Danksagungen](/13-de-publ-links/13-1-de-sources-acknowledgments/)
+[Empfehlenswerte Bücher](/13-de-publ-links/13-2-de-books/)
+[Empfehlenswerte Webseiten](/13-de-publ-links/13-3-de-websites/)
 |

@@ -2,19 +2,18 @@
 title: "Videos"
 menu_title: "Videos"
 description: ""
-date: 2022-11-13 02:18:11+11:00
+date: 2026-03-30 00:00:00+00:00
 draft: False
 hidden: False
 weight: 150
 ---
-
 ### Videos
 
 Diese Videos sind auch zu finden auf [YouTube](https://www.youtube.com/@wahrheitfuerdiewelt/videos).
 
 #### Die Padgett Botschaften
 
-Wer war [James Edward Padgett](/padgett-botschaften/wer-war-james-e-padgett/). Hier folgen [Auszüge aus dem Gesamtwerk](/padgett-botschaften/auszuege-aus-dem-gesamtwerk-der-padgett-botschaften/) Padgett's, zusammengefasst von Joseph Babinsky in dem Buch „Little Book of Truths”.
+Wer war [James Edward Padgett](/1-de-jep/). Hier folgen [Auszüge aus dem Gesamtwerk](/1-de-jep/1-5-de-jep-mess-excerp/) Padgett's, zusammengefasst von Joseph Babinsky in dem Buch „Little Book of Truths”.
 
 |**Auszüge aus dem Gesamtwerk**
 |---
@@ -142,5 +141,5 @@ Jesus | [Lektion 16 - Die Barrieren des Verstandes werden brechen durch eine Wel
 Jesus | [Lektion 17 - Übersinnliche und tiefere spirituelle Gaben sind für alle verfügbar! - Band 3](https://www.youtube.com/watch?v=At4uv1CDGhU) | 5 August 2022
 Jesus | [Lektion 18 - Überwindung der geistigen Unreife der Menschheit - Band 3](https://www.youtube.com/watch?v=OS5dt69Ue34) | 8 August 2022
 Jesus | [Lektion 19 - Gottes Gesetze der Liebe und Harmonie - Band 3](https://www.youtube.com/watch?v=w4TGrnAPpHA) | 10 August 2022
-
+Jesus | [Lektion 20 - Es werden mehr engagierte Seelen benötigt, um Portale zu bauen und das Lichtgitter zu erweitern - Band 3](https://www.youtube.com/watch?v=GI_g6kx0Fv0) | 12 August 2022
 

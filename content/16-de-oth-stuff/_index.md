@@ -9,7 +9,8 @@ weight: 170
 ---
 ## Sonstiges
 
-1. [Quellen und Danksagungen](/sonstiges/quellen-und-danksagungen/)
-2. [Empfehlenswerte Bücher](/sonstiges/empfehlenswerte-buecher/)
-3. [Empfehlenswerte Webseiten](/sonstiges/empfehlenswerte-webseiten/)
-4. [Glossar](/sonstiges/glossar/)
+|
+|---
+[Glossar](/16-de-oth-stuff/16-1-de-glossary/)
+[Navigation](/16-de-oth-stuff/16-2-de-navigate/)
+|

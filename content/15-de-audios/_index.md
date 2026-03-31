@@ -2,12 +2,11 @@
 title: "Audios"
 menu_title: "Audios"
 description: ""
-date: 2022-11-14 02:18:11+11:00
+date: 2026-03-30 00:00:00+00:00
 draft: False
 hidden: False
 weight: 160
 ---
-
 ### Audios
 
 Diese Audio Versionen sind auch zu finden unter [Podbean](https://wahrheitfuerdiewelt.podbean.com/).

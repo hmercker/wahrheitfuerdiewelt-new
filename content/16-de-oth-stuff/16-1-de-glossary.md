@@ -1,13 +1,13 @@
 ---
 title: "Glossar"
 menu_title: "Glossar"
-description: ""
-date: 2020-07-03 02:18:11+11:00
+description: "Glossar"
+date: 2026-03-30 00:00:00+00:00
 draft: False
 hidden: False
-weight: 1675
+weight: 10
 ---
-### Glossar
+## Glossar
 
 Hiermit eine Erklärung von Grundbegriffe die auf dieser Webseite gebraucht werden:
 

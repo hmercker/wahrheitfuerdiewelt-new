@@ -2,10 +2,10 @@
 title: "Empfehlenswerte Webseiten"
 menu_title: "Empfehlenswerte Webseiten"
 description: "Empfehlenswerte Webseiten"
-date: 2020-07-03 02:18:11+11:00
+date: 2026-03-30 00:00:00+00:00
 draft: False
 hidden: False
-weight: 1655
+weight: 30
 ---
 ### Empfehlenswerte Webseiten
 
@@ -43,4 +43,4 @@ weight: 1655
 
 17. Lightbringers - https://www.lightbringers.info/
 
-18. Divine Love Resource Guide - [Divine Love Resource Guide](/sonstiges/divine-love-resource-guide-1-2021.pdf)
+18. Divine Love Resource Guide - [Divine Love Resource Guide](/13-de-publ-links/13-3-1-de-divine-love-resource-guide-1-2021.pdf)

@@ -1,13 +1,13 @@
 ---
 title: "Quellen und Danksagungen"
 menu_title: "Quellen und Danksagungen"
-description: ""
-date: 2020-07-03 02:18:11+11:00
+description: "Quellen und Danksagungen"
+date: 2026-03-30 00:00:00+00:00
 draft: False
 hidden: False
-weight: 1650
+weight: 10
 ---
-### Quellen und Danksagungen
+## Quellen und Danksagungen
 
 Wir möchten unseren innigsten Dank an die liebevollen Mitarbeiter an dieser Webseite aussprechen.  
 
@@ -17,6 +17,9 @@ Auch danken wir Al und Jeanne Fike für ihren unermüdlichen Beitrag. Weiteres i
 
 Ebenfalls danken wir der großzügigen Unterstützung der Übersetzer von den folgenden Webseiten, die uns erlaubten, schon übersetzte Botschaften hier anzuführen:  
 
-1. [truths.com](https://www.truths.com)
-2. [padgettmessages.de](https://www.padgettmessages.de)
-3. [Die Frohbotschaft der Göttlichen Liebe](https://gottistliebe861032899.wordpress.com)
+|
+|---
+[truths.com](https://www.truths.com)
+[padgettmessages.de](https://www.padgettmessages.de)
+[Die Frohbotschaft der Göttlichen Liebe](https://gottistliebe861032899.wordpress.com)
+|
