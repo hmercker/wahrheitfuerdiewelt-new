@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-## Was ist die Wahrheit und wie erkennt man sie?
+## Was ist die Wahrheit und wie erkennt man Sie?
 
 Die Wahrheit zu erkennen und die Wahrheit zu ergründen, erfordert unser Engagement der Seele, das Wissen von diesem tiefen Ort im Inneren. Wahrheit ist das Bewusstsein oder die Anerkennung von Wahrnehmungen in der Seele. Die Sinne der Seele sind es, die uns das Verständnis der göttlichen Wahrheiten ermöglichen. Anfangs kann sie ein Bewusstsein im Verstand haben, aber irgendwann wird die Wahrheit von der Seele erkannt, akzeptiert und in Besitz genommen. Man kann davon ausgehen, dass der Ausdruck oder die Wiederspiegelung der Wahrheit in einer Seele vom Seelenzustand dieser Seele abhängt. Wahrheit kann allmählich und mit größerer Zuversicht aufgenommen werden, basierend der Suche nach Gottes Hilfe durch aufrichtige und aufstrebende Seelensgebete. Der Verstand kann als ein wichtiges Werkzeug benutzt werden, aber er kommt an seine Grenzen wenn es um spirituelle Wahrheiten geht.
 

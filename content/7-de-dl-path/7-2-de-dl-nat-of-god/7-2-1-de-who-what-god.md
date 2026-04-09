@@ -129,8 +129,4 @@ Abschließend möchten wir noch hinzufügen und wiederholen, dass Gott vor allem
 
 Wenn wir die große Gabe Seiner Liebe, die eigentliche Substanz Seines Wesens empfangen, können wir genau diese Gegenwart Seines fürsorglichen Geistes spüren. Durch die vielen einhergehenden Gaben des Segens erkennen wir den Wunsch Gottes, dass Sein Kind glücklich und erfüllt ist, während es sich in seinem Seelenleben entfaltet und entwickelt. Einen noch höheren Zustand des Seins kann eine sterbliche Seele erlangen, wenn sie das Geschenk der eigenen Substanz Gottes, Seiner eigenen Essenz, die Seine Göttliche Liebe (das größte aller Seiner Attribute) ist, empfängt. Dies zu wissen, ermutigt uns hier auf der Erde, ein Leben in Harmonie mit Seinen Gesetzen zu führen und den tiefen Wunsch zu entwickeln, ein Instrument Seines Willens zu sein.
 
-**Author** | **Titel der Botschaft** | **Datum der Botschaft**  
----|---|---
-
-
 [Zurück](/7-de-dl-path/7-2-de-dl-nat-of-god/) zum Hauptmenü

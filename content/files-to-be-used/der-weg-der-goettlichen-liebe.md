@@ -54,7 +54,7 @@ Selbst wenn sich gelegentlich der Sachverhalt oder einzelne Aussagen in diesen B
 
 ### 1. Die Seele
 
-*[Hier zum Mithören](https://www.youtube.com/watch?v=BB-G1R-1w4M&t=1255s)*
+
 
 Die erneuten Offenbarungen Jesu, wie sie durch James Padgett erhalten wurden, zeigen uns den Weg zu Gott und zu einem ewigen Leben in Seinem Göttlichen Himmelreich. Durch sie erhalten wir einige Erkenntnisse, unter anderem, dass die Seele des Menschen dieselbe ist - in dieser Welt wie auch in der folgenden. Nach dem physischen Tod lebt der Mensch im spirituellen Körper in der spirituellen Welt weiter, wo die Seele weiterhin gereinigt wird, bis sie, in ihrer Zeit, die Ebene in der spirituellen Welt erreicht, die als Paradies oder auch die Sphäre des vollkommenen Menschen bekannt ist (manche nennen sie auch die Sechste Sphäre). Weiterhin wird offenbart, dass es eine Sphäre jenseits der des vollkommenen Menschen gibt, und dass diese Sphäre die Göttlichen Himmel sind, offen für jene Seelen, die durch die Göttliche Liebe des himmlischen Vaters verwandelt wurden. Diese Göttliche Liebe wird dem Menschen geschenkt, so er ernsthaft und aus der Tiefe seiner Seele darum betet. Sie reinigt die menschliche Seele nicht nur, sondern verwandelt oder transformiert sie in die Essenz des Vaters, so dass die Seele sich ihrer Unsterblichkeit bewusst wird. Das ist die Erlösung, die Jesus als der Messias des Vaters lehrte.
 
