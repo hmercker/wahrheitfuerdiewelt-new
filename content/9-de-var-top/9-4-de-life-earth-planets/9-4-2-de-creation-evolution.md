@@ -9,5 +9,3 @@ weight:
 ---
 ### Schöpfung und Evolution
 
-**Author** | **Titel der Botschaft** | **Datum der Botschaft**  
----|---|---
