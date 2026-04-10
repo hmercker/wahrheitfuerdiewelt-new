@@ -17,4 +17,5 @@ weight: 20
 | [Botschaften chronologisch sortiert](/1-de-jep/1-4-de-jep-mess-by-date/)
 | [Auszüge aus dem Gesamtwerk der Padgett Botschaften](/1-de-jep/1-5-de-jep-mess-excerp/)
 | [Das Zeugnis von Dr Leslie Ribbon Stone](/1-de-jep/1-6-de-testimony-leslie-stone/)
+| [Die Originale der Padgett Botschaften]()
 |

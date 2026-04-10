@@ -1,11 +1,11 @@
 ---
 title: "Botschaften zur Direkten Stimme"
-menu_title: "Botschaften zur Direkten Stimme"
+menu_title: ""
 description: "Botschaften zur Direkten Stimme"
 date: 2026-03-22 00:00:00+00:00
 draft: False
-hidden: False
-weight: 30
+hidden: True
+weight:
 ---
 ## Botschaften zur Direkten Stimme
 

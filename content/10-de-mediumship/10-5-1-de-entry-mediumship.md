@@ -1,13 +1,13 @@
 ---
-title: "Eintritt in die Medialität (mediumship)"
-menu_title: "Eintritt in die Medialität (mediumship)"
-description: "Eintritt in die Medialität (mediumship)"
-date: 2020-07-03 02:18:11+11:00
+title: "Eintritt in die Medialität"
+menu_title: ""
+description: "Eintritt in die Medialität"
+date: 2026-04-10 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### Eintritt in die Medialität (mediumship)
+## Eintritt in die Medialität
 
 *Von Al Fike*
 
@@ -34,13 +34,3 @@ Da dieses Buch ein Leitfaden und ein klarer Fahrplan sein soll, um ein Medium de
 Dies ist keine Schritt-für-Schritt-Vorlage, an die du dich halten musst. Vielmehr soll es dir helfen, deinen eigenen Fortschritt auf diesem Weg zu markieren und einige der Wegweiser und Fallstricke auf dem Weg zu erkennen. Anders als in der physischen Welt beruht die Realität des Geistes, die außerhalb dieser Parameter und auch in dir existiert, nicht auf einem starren Satz von Regeln und konsistenten Prinzipien. Wie bei vielen Dingen in unserem Leben gibt es harte und schnelle Prinzipien, denen man folgen muss, aber der Weg, sie zu verstehen und zu übernehmen, kann so vielfältig sein, wie es Menschen gibt. Da an diesem Prozess so viele subjektive Wahrnehmungen und Empfindungen beteiligt sind, kann man deine Erfahrungen nicht zum Maßstab für die Erfahrungen anderer machen.
 
 Dennoch gibt es in der Tat spirituelle Gesetze, die verstanden und befolgt werden müssen. Es sind deine persönlichen Erfahrungen und Empfindungen der Öffnung als Medium, die die Reise einzigartig machen und dich in deinen Gaben einzigartig machen. Dieser Teil der Reise ist nicht zu standardisieren, aber es gibt viele subtile Aspekte und gemeinsame Abschnitte der Weisheit in den folgenden Kapiteln und zusätzliche Botschaften der Engel. Hoffentlich gewinnst du viel Vertrauen, wenn du die Weisheit der Engel und der Erfahrungen anderer aufnimmst. Es ist keine leichte Reise, um über die Standardrealität der Sterblichen hinauszugehen, aber ich kann dir versichern, dass sie weder langweilig noch ohne Belohnung ist.
-
-**Author** | **Titel der Botschaft** | **Datum der Botschaft**  
----|---|---
-James Padgett | [Weitere Wahrheiten werden mit der Zeit enthüllt werden](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2018/weitere-wahrheiten-werden-mit-der-zeit-enthuellt-werden-af-james-padgett-20-november-2018/) | 20 November 2018
-Jesus | [Wie können wir die Wahrheit erkennen, wenn Botschaften von verschiedenen Medien widersprechen?](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/wie-koennen-wir-die-wahrheit-erkennen-wenn-botschaften-von-verschiedenen-medien-widersprechen-af-jesus-30-januar-2019/) | 30 Januar 2019
-Seretta Kem | [Medialität und das Gesetz der Kommunikation und Verbindung](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2020/medialitaet-und-das-gesetz-der-kommunikation-und-verbindung-af-seretta-kem-17-august-2020/) | 17 August 2020
-Augustinus | [Die Gefahren der Medialität](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2021/die-gefahren-der-medialitaet-af-augustinus-9-februar-2021/) | 9 Februar 2021
-Augustinus | [Prüft eure Motivation ein Medium zu sein](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2024/de-2024-2-14-1-af-augustinus/) | 14 Februar 2024
-Seretta Kem | [Anleitung zur Entwicklung der Medialität](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2024/de-2024-2-15-1-af-seretta-kem/) | 15 Februar 2024
-Al Fike | [Die Herausforderungen der Medialität](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2024/de-2024-7-1-2-af-al-fike/) | 1 Juli 2024

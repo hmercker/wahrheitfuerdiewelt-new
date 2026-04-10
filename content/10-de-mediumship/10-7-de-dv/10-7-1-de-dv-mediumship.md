@@ -1,11 +1,11 @@
 ---
 title: "Medialität der Direkten Stimme"
-menu_title: "Medialität der Direkten Stimme"
+menu_title: ""
 description: "Medialität der Direkten Stimme"
 date: 2026-03-22 00:00:00+00:00
 draft: False
-hidden: False
-weight: 10
+hidden: True
+weight:
 ---
 ## Medialität der Direkten Stimme
 

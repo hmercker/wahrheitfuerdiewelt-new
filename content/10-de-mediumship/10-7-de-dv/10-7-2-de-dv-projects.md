@@ -1,11 +1,11 @@
 ---
 title: "Projekte der Direkten Stimme"
-menu_title: "Projekte der Direkten Stimme"
+menu_title: ""
 description: "Projekte der Direkten Stimme"
 date: 2026-03-22 00:00:00+00:00
 draft: False
-hidden: False
-weight: 20
+hidden: True
+weight:
 ---
 ## Hintergrund zum Projekt der Direkten Stimme (DS)
 
