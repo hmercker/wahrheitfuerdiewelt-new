@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 20
 ---
-### Da Wesen Gottes
+### Das Wesen Gottes
 
 |
 |---

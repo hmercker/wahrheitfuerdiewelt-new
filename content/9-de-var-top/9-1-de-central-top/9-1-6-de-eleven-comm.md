@@ -12,14 +12,11 @@ weight:
 Jesus schreibt durch [Dr Samuels](/samuels-botschaften/erklaerungen-und-einsichten-in-das-neue-testament/offenbarung-23-das-elfte-gebot-16-juni-1955/):  
 
 > Als ich damals auf Erden lebte, gab es für einen gottesfürchtigen Juden kein größeres Gesetz als die Zehn Gebote, die Mose Seinem Volk gebracht hat. Auch für mich waren diese Gebote verbindlich, dennoch erkannte ich als Messias Gottes, dass es noch ein Elftes Gebot gab, das höher stand als alle Vorschriften des Mose—das Gesetz der Liebe, das Gesetz der Göttlichen Liebe!
-<br>
-<br>
+<br><br>
 Deshalb legte ich meinen Jüngern eindringlich ans Herz, einander zu lieben, wobei dieses einander lieben weit mehr war als nur diejenigen zu lieben, die dem Kreis der Jünger angehörten. Dieses liebt einander bezog sich dabei auf die gesamte Menschheit, also einschließlich derer, die ihnen lieblos und verletzend begegneten. Wer nämlich von der Liebe des Vaters erfüllt ist, der hat keine Feinde mehr, sondern ausschließlich Freunde! [...]
-<br>
-<br>
+<br><br>
 Als ich meinen Jüngern sagte, dass auch sie lieben sollten, wie ich sie geliebt habe, meinte ich mit dieser Liebe selbstverständlich die Göttliche Liebe—jene Liebe, die mein gesamtes Sein erfüllte und transformierte, indem ich mich aus tiefster Seele nach dem Vater sehnte. Nur diese Liebe ist geeignet, die ganze Welt zu lieben, denn sie ermöglicht die Erkenntnis, dass wir alle Kinder Gottes sind, selbst wenn unsere Seelen sich noch nicht entschieden haben, den Weg der göttlichen Ordnung zu gehen.
-<br>
-<br>
+<br><br>
 Dieses Gebot, einander mit der Göttlichen Liebe zu lieben, war das einzige Gesetz, das ich ihnen als meine Nachfolger hinterlassen habe.
 
 ### Die Erfüllung des elften Gebots – Pfingsten
