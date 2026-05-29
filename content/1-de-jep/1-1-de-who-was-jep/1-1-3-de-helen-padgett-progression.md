@@ -9,19 +9,18 @@ weight:
 ---
 ## Helen Padgett's spiritueller Werdegang
 
-Progressing And Reaching Gold!
+In dieser Reihe von Botschaften berichtet Helen Padgett von ihrer spirituellen Entwicklung. Wenn ein spirituelles Wesen in weniger als einem Jahr vom untersten Niveau zu einem „christusbewussten“ Wesen gelangen kann, warum sollte dann überhaupt jemand wiedergeboren werden wollen? Sie starb im Februar 1914 und wurde am 3. März 1915 wiedergeboren (richtig, nicht so, wie man es derzeit auf der Erde glaubt). Man muss sagen, dass dies ein extrem schneller spiritueller Fortschritt ist, und dabei wurde sie von ihrer Großmutter unterstützt.
 
-In this set of messages, Helen Padgett tells of her progression in spirit. If one spirit can go from the bottom, to becoming a “christed” spirit in less than a year, why would any one want to reincarnate? She died in February 1914, and became born again (correctly, not as is currently believed on Earth) on 3rd March 1915. It should be said that this is extremely fast spiritual progress, and she was aided in this by her grandmother.
+Wir bleiben bei unserer festen Überzeugung, dass die einzigen spirituellen Wesen, die über vergangene Leben berichten, diejenigen sind, die in ihrem Verständnis begrenzt sind und in ihrer eigenen spirituellen Entwicklung noch nicht weit fortgeschritten sind. Eines der Dinge, die einigen spirituellen Wesen Glaubwürdigkeit verleihen, ist, dass sie sich im Laufe ihrer Entwicklung tatsächlich zwischen den Geisterwelten bewegen. Aber sie werden ganz sicher nicht wiedergeboren. Andererseits ist das Ereignis, „eins mit Gott“ zu werden – was notwendig ist, um die Geistersphären zu verlassen und in das Himmlische Reich einzutreten –, offenbar sehr bedeutsam und nichts, was man übersehen könnte.
 
-It remains our firm conclusion, that the only spirits who communicate about past lives, are those that are limited in their understanding, and limited in their own spiritual progression. One of the things that lends credence to some spirits, is that they do move between spirit worlds, as they progress. But they certainly are not reborn. On the other hand, the event of becoming “one with God” which is necessary in order to exit the Spirit Spheres and enter the Celestial Realm is apparently very significant, and not something one could fail to notice.
-
-Author	Title	Date of Message
-Helen Padgett	First preserved message from Mr. Padgett’s wife Helen: Who says that she looks on Jesus as a man of God, but not as God Himself. Also informs him regarding his parents and grandparents.	May 31st, 1914
-Helen Padgett	In an early message Helen wrote that Mr. Padgett was too much taken up with his business matters and does not devote enough time to prayer to the Father to receive the gift of the spirit.	November 3rd, 1914
-Helen Padgett	Helen relates about her early spiritual development to the Third Sphere with the help of Mr. Padgett.	November 16th, 1914
-Helen Padgett	Helen describes her home in third sphere.	November 30th, 1914
-Helen Padgett	Mrs. Helen Padgett’s experience in leaving her body and going to the spirit world.	December 9th, 1914
-Helen Padgett	Mrs. Padgett wrote that she is studying spiritual laws and learned that a spirit can only communicate with mortals when they are in rapport, and that the same law applies to mortals. and that her home is in the Third Sphere.	December 29th, 1914
-Helen Padgett	Helen writes about her progress from the Third Sphere to the Fifth Sphere.	January 7th, 1915
-Helen Padgett	Helen tells of her great happiness in her progress. Helen arrives in the Celestial Heavens.	March 3rd, 1915
-Helen Padgett	Helen describes her home in the Celestial Spheres.	March 10th, 1915
+**Author** | **Titel** | **Datum der Botschaft**  
+---|---|---
+Helen Padgett | [Erste erhaltene Botschaft von Herrn Padgett's Frau Helen](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-5-31-1-jep-helen-padgett/) | 31. Mai 1914
+Helen Padgett | [Padgett ist zu sehr mit seinen geschäftlichen Angelegenheiten beschäftigt](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-11-3-1-jep-helen-padgett/) | 3. November 1914
+Helen Padgett | [Helen berichtet über ihre spirituelle Entwicklung zur Dritten Sphäre hin](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-11-16-1-jep-helen-padgett/) | 16. November 1914
+Helen Padgett | [Helen beschreibt ihre Heimat in der dritten Sphäre](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-11-30-1-jep-helen-padgett/) | 30. November 1914
+Helen Padgett | [Helen beschreibt ihren Übergang in die Spirituelle Welt](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-12-9-1-jep-helen-padgett/) | 9. Dezember 1914
+Helen Padgett | [Ein spirituelles Wesen kann nur mit sterblichen kommunizieren wenn sie in Verbindung miteinander sind](/1-de-jep/1-4-de-jep-mess-by-date/1-4-1-de-jep-mess-1914/de-1914-12-29-2-jep-helen-padgett/) | 29. Dezember 1914
+Helen Padgett | [Helen beschreibt ihren Fortschritt von der Dritten zur Fünften spirituellen Sphäre](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-1-7-1-jep-helen-padgett/) | 7. Januar 1915
+Helen Padgett | [Helen Padgett berichtet über die Seligkeit, die sie umgibt](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-3-3-1-jep-helen-padgett/) | 3. März 1915
+Helen Padgett | [Helen Padgett beschreibt ihr Leben in den göttlichen Sphären](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-3-10-1-jep-helen-padgett/) | 10. März 1915

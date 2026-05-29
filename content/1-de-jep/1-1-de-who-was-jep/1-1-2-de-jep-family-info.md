@@ -9,89 +9,95 @@ weight:
 ---
 ## Öffentlich zugängliche Informationen über die Familie von J. E. Padgett
 
-Publicly available information on James Edward Padgett and his family.
+Dennis Tormey und seine Frau Susie haben umfangreiche Recherchen zum Hintergrund der Padgetts und zu den in den Botschaften erwähnten Personen durchgeführt, die James Padgett bekannt waren. Diese wurden im September 2014 anlässlich des 100. Jahrestags des Empfangs der ersten Botschaft vorgestellt – passenderweise in der Gegend von Washington D.C., genauer gesagt in einem Konferenzzentrum in Chevy Chase. Die Menge an Informationen, die er gesammelt hat, ist atemberaubend, und das einzige, was derzeit noch „unbekannt“ ist, ist ein Bild von Helen Padgett.
 
-Dennis Tormey and his wife Susie have completed a massive research into the background of the Padgetts and the individuals mentioned in the messages who were known to James Padgett. This was presented in September 2014 at the 100th anniversary of the receipt of the first message, appropriately in Washington D.C. area, specifically at a conference centre in Chevy Chase. The amount of information he has gathered is staggering, and the only “unknown” at present is a picture of Helen Padgett. I have converted the 60mb PowerPoint into a pdf, which is not perfect, but is far smaller at 43mb, and would suffice for most people who feel a need to answer the question - were these guys really there at that time? It could take over ten minutes! As a result, if you really want this, I suggest you contact me through the contact form.
+Hier nur die einfachen Informationen vorerst auf dieser Seite, aber es ist nur ein winziger Ausschnitt dessen, was in der originalen PDF-Datei steht. Solltest Du die Datei bearbeiten wollen, kontaktiere uns bitte.
 
-I am leaving the simple information on this page, at this time, but it’s a bare snippet of what is in this pdf.
+**Beigefügt Mai 2002:** Es scheint, dass James Padgetts geliebte Tochter Helenita, die als [„Baby“](/1-de-jep/1-4-de-jep-mess-by-date/1-4-6-de-jep-mess-1918/de-1918-7-8-2-jep-helen-padgett/) oder „Nita“ bezeichnet wurde, am Donnerstagabend, dem 20. Juni 1918, verstorben ist und am Samstag, dem 22. Juni, um 14 Uhr auf dem Mount Olivet Cemetery in Frederick, Maryland, beigesetzt wurde. Diese Information wurde am Samstagmorgen, dem 22. Juni 1918, in der Baltimore Sun wie folgt veröffentlicht:
 
-Added May 2002. It would appear that James Padgett’s beloved daughter Helenita, referred to as baby or Nita, died on Thursday evening, June 20th 1918, and was buried at Mount Olivet Cemetery, Frederick., Md on Saturday June 22nd at 2pm. This information was published in the Baltimore Sun on Saturday morning, 22 June 1918 as follows:
+> PADGETT – Am Donnerstagabend, dem 20. Juni, in Washington: Helenita Padgett aus Washington, D.C., Tochter von James E. und der verstorbenen Helen W. Padgett. Beerdigung auf dem Mount Olivet Cemetery in Frederick, Maryland, am Samstagnachmittag, dem 22. Juni, um 14 Uhr. Da sie am 8. November 1892 geboren wurde, war sie bei ihrem Tod erst 26 Jahre alt.
 
-PADGETT - On Thursday evening, June 20, in Washington, Helenita Padgett, of Washington, D.C., daughter of James E. and the late Helen W. Padgett. Funeral at Mount Olivet Cemetery, Frederick., Md., at 2 o’clock Saturday afternoon, June 22. As she was born November 8th, 1892, she was only 26 when she passed.
-Added Feb 2009, research conducted by Joseph Babinsky.
+**Hinzugefügt im Februar 2009**, Recherche durchgeführt von Joseph Babinsky.
 
-The Census records indicate that James’ father was a butcher. James first worked as some sort of finisher in a factory. And he possibly became interested in the law profession because one of his neighbors was a lawyer. James and Helen, when they had their children living at home in 1900, that they lived in a home and had a servant (her name name was Annie Wilson)?
+Die Volkszählungsunterlagen weisen darauf hin, dass James’ Vater Metzger war. James arbeitete zunächst als eine Art Endbearbeiter in einer Fabrik. Und er interessierte sich möglicherweise für den Anwaltsberuf, weil einer seiner Nachbarn Anwalt war. James und Helen lebten, als ihre Kinder 1900 noch zu Hause wohnten, in einem Haus und hatten eine Hausangestellte (ihr Name war Annie Wilson)?
 
-In the census of 1910, James and Helen, with their daughter Helenita, lived in a boarding house. (Something happened that we don’t know about, that made it necessary for James and Helen to move. Did they lose their home? Why did they move into a boarding house?)
+In der Volkszählung von 1910 lebten James und Helen mit ihrer Tochter Helenita in einer Pension. (Es ist etwas passiert, von dem wir nichts wissen, das es notwendig machte, dass James und Helen umzogen. Haben sie ihr Zuhause verloren? Warum sind sie in eine Pension gezogen?)
 
-Helen Padgett. Was born in 1863 in Maryland. Her father’s name was George W. Heyde; he was born in Pennsylvania. Her mother’s name was Olivia, (but her maiden name could not be found.)
+Helen Padgett. Sie wurde 1863 in Maryland geboren. Der Name ihres Vaters war George W. Heyde; er wurde in Pennsylvania geboren. Der Name ihrer Mutter war Olivia (ihr Mädchenname konnte jedoch nicht ermittelt werden).
 
-The son of James and Helen, Edward Riddle, had a second marriage in Detroit (Michigan) in 1920. The name of Edward’s second wife is Dora (Simpkins). This may be the Dora mentioned in Padgett’s tablet on December 12, 1918.
+Der Sohn von James und Helen, Edward Riddle, heiratete 1920 in Detroit (Michigan) zum zweiten Mal. Der Name von Edwards zweiter Frau ist Dora (Simpkins). Dies könnte die Dora sein, die in Padgetts Eintrag vom 12. Dezember 1918 erwähnt wird.
 
-From the 1860 census for information about the family of James. The first person listed in census records is the “head” of the household. James’ father, John H. Padgett is listed as the head (29 yr old) and his wife is listed as Ann R. (25 yr old). There are three children listed: John H. (Jr.??) (11 yr. old), James E. (7 yr. old), and Isaac R. (2 yr. old). This suggests Ann fell pregnant at 14, while John was 18.
+Aus der Volkszählung von 1860 stammen Informationen über die Familie von James. Die erste Person, die in den Volkszählungsunterlagen aufgeführt ist, ist das „Familienoberhaupt“. James’ Vater, Johannes H. Padgett, ist als Haushaltsvorstand (29 Jahre alt) aufgeführt, und seine Frau ist als Ann R. (25 Jahre alt) aufgeführt. Es sind drei Kinder aufgeführt: Johannes H. (Jr.??) (11 Jahre alt), James E. (7 Jahre alt) und Isaac R. (2 Jahre alt). Das deutet darauf hin, dass Ann mit 14 schwanger wurde, während Johannes 18 war.
 
-Also in the 1860 census is found the following information: In the same household were these people: Edward Boston (age 33) and his wife Theresa Boston (age 31); living with them in the same house were Isaac Rollins (age 60) and his wife Ann Rollins (age 55), both born in England. Also William Rollins (age 23); also James Harrison (age 25) and his wife Eliza Harrison (age 19).
+Ebenfalls in der Volkszählung von 1860 finden sich folgende Informationen: Im selben Haushalt lebten diese Personen: Edward Boston (33 Jahre alt) und seine Frau Theresa Boston (31 Jahre alt); mit ihnen im selben Haus wohnten Isaac Rollins (60 Jahre alt) und seine Frau Ann Rollins (55 Jahre alt), beide in England geboren. Außerdem William Rollins (23 Jahre alt); sowie James Harrison (25 Jahre alt) und seine Frau Eliza Harrison (19 Jahre alt).
 
-In the 1870 US census Ann Rollins (now age 65) was then living with her daughter Ann, wife of John H Padgett.
+In der US-Volkszählung von 1870 lebte Ann Rollins (mittlerweile 65 Jahre alt) bei ihrer Tochter Ann, der Frau von Johannes Padgett.
 
-In the 1880 census things become a bit complicated. James’ father had apparently died, for only James’ mother is listed (now age 45). She and her two sons, James E. and Isaac R. are listed as boarders, living in the same house with James T. Harrison (age 46) and his wife Eliza J. (age 39). Also, Ann Rollins (now age 76) is listed as the mother-in-law, having consumption, and living in this same house.
+In der Volkszählung von 1880 wird es etwas kompliziert. James’ Vater war offenbar verstorben, denn nur James’ Mutter ist aufgeführt (mittlerweile 45 Jahre alt). Sie und ihre beiden Söhne, James E. und Isaac R., sind als Untermieter aufgeführt und leben im selben Haus mit James T. Harrison (46 Jahre alt) und seiner Frau Eliza J. (39 Jahre alt). Außerdem ist Ann Rollins (jetzt 76 Jahre alt) als Schwiegermutter aufgeführt, die an Schwindsucht leidet und im selben Haus wohnt.
 
-So we may conclude that James’ mother, Ann, is a sister to Eliza.
+Daraus lässt sich schließen, dass James’ Mutter Ann eine Schwester von Eliza ist.
 
-Here is the obituary for James Padgett as found in the Washington Post Newspaper 1923:
+Hier ist der Nachruf auf James Padgett, wie er 1923 in der Washington Post zu finden war:
 
-Washington Post, The (Washington, D.C.), 1923 - March - 18
+Washington Post, The (Washington, D.C.), 1923 – März – 18
 
-James E. Padgett, for more than 50 years a widely known attorney of Washington, died suddenly at his residence, 616 Eighteenth Street northwest, yesterday of heart disease. Mr. Padgett was 71 years old. Born in Washington, Mr. Padgett received his early education in the public schools, later entering a University in Virginia. After completing his education he became connected with the law firm of A. G. Riddle, later becoming a partner in the firm, then in business under the name of Riddle, Miller & Padgett. For several years he was a member of the law firm of Riddle, Padgett & Davis, and during his latter years he was associated with William H. Manogue. Mr. Padgett was a member of the Association of Oldest Inhabitants and the District of Columbia Bar association. He is survived by two sons, Edward R. Padgett, connected with several Baltimore newspapers, and Henry H. Padgett, of Chicago.
-And the next day:
+> James E. Padgett, seit mehr als 50 Jahren ein weithin bekannter Anwalt in Washington, starb gestern plötzlich in seiner Wohnung in der 616 Eighteenth Street Northwest an einer Herzerkrankung. Herr Padgett wurde 71 Jahre alt.<br><br>
+Geboren in Washington, erhielt Herr Padgett seine frühe Ausbildung an öffentlichen Schulen und besuchte später eine Universität in Virginia. Nach Abschluss seiner Ausbildung trat er in die Anwaltskanzlei von A. G. Riddle ein, wurde später Partner in der Kanzlei, die damals unter dem Namen Riddle, Miller & Padgett firmierte. Mehrere Jahre lang war er Mitglied der Anwaltskanzlei Riddle, Padgett & Davis, und in seinen letzten Lebensjahren arbeitete er mit William H. Manogue zusammen.<br><br>
+Herr Padgett war Mitglied der Association of Oldest Inhabitants und der Anwaltskammer des District of Columbia. Er hinterlässt zwei Söhne, Edward R. Padgett, der für mehrere Zeitungen in Baltimore tätig ist, und Henry H. Padgett aus Chicago.
 
-Washington Post, The (Washington, D.C.), 1923 - March - 19
+Und am nächsten Tag:
 
- OBITUARY Rites for James E. Padgett Funeral services for James E. Padgett, life-long resident of Washington, will be held at the undertaking establishment of the William H. Speare Company, 1208 H Street northwest, at 8 o’clock tonight. The body will be cremated. Mr. Padgett was prominent in legal circles here for many years, having been associated with several well-known law firms. He is survived by two sons, Edward R. Padgett, of Baltimore, and Henry H. Padgett, of Chicago.
-As we are aware James Padgett probably remarried based on comment in the tablet about “Ella”, it is surprising there is no mention of his new wife in these notices. The entries in the tablet that refer to Ella are as follows:
+Washington Post, The (Washington, D.C.), 1923 – März – 19
 
-“Jan. 30, 1919 I am not so well - must not think too much - with me at Harry&’s - need a wife”
+> **NEKROLOG Trauerfeier für James E. Padgett**<br><br> 
+Die Trauerfeier für James E. Padgett, der sein ganzes Leben lang in Washington gelebt hat, findet heute Abend um 20 Uhr im Bestattungsinstitut der William H. Speare Company, 1208 H Street Northwest, statt. Der Leichnam wird eingeäschert. Herr Padgett war hier viele Jahre lang in juristischen Kreisen bekannt und war mit mehreren renommierten Anwaltskanzleien verbunden.<br><br>
+Er hinterlässt zwei Söhne, Edward R. Padgett aus Baltimore und Henry H. Padgett aus Chicago.
 
-“Oct. 16, 1919 glad that the Master wrote as he did - must not let my love for Helen interfere with my love for Ella - make me a good wife - has highly mediumistic powers - wish she could come in her apparently human form to me and tell me of her love - not displeased at my loving Ella - must do the work - Mary anxious to write - Baby progressing - in the 5th sphere”
+Da wir wissen, dass James Padgett wahrscheinlich wieder geheiratet hat – basierend auf einem Eintrag im Tablet über „Ella“ –, ist es überraschend, dass seine neue Frau in diesen Nachrufen nicht erwähnt wird. Die Einträge im Tablet, die sich auf Ella beziehen, lauten wie folgt:
 
-“Oct. 18, 1919 am glad mother wrote - knows Ella and I will love and be very happy”
+„30. Jan. 1919 Mir geht es nicht so gut – darf nicht zu viel nachdenken – bei mir bei Harry&’s – brauche eine Frau“
+„16. Okt. 1919 froh, dass der Meister so geschrieben hat – darf meine Liebe zu Helen nicht meine Liebe zu Ella beeinträchtigen – mach mich zu einer guten Ehefrau – hat ausgeprägte mediale Fähigkeiten – wünschte, sie könnte in ihrer scheinbar menschlichen Gestalt zu mir kommen und mir von ihrer Liebe erzählen – nicht unzufrieden damit, dass ich Ella liebe – muss die Arbeit tun – Mary will unbedingt schreiben – Baby macht Fortschritte – in der 5. Sphäre“
+„18. Okt. 1919 bin froh, dass Mutter geschrieben hat – weiß, dass Ella und ich uns lieben und sehr glücklich sein werden“
 
-“Nov. 1, 1919 been with me each day - saw the thoughts I had - wants us to be happy - giving too much thought to Ella - advice - speaks of Mr. BÂ’s former wife writing”
+„1. Nov. 1919 war jeden Tag bei mir – sah meine Gedanken – möchte, dass wir glücklich sind – denke zu viel über Ella nach – Ratschlag – spricht davon, dass Mr. B.s ehemalige Frau schreibt“
 
-But this entry is found in the 1930 census records:
+Aber dieser Eintrag findet sich in den Volkszählungsunterlagen von 1930:
 
-A woman with the name Ella M. Padgett. In 1930 she is 64 and lives alone.
+Eine Frau namens Ella M. Padgett. 1930 ist sie 64 und lebt allein.
 
-Where this Ella Padgett lived in 1930 is about 6 miles from the location that Leslie Stone mentioned in his testimony where he said James Padgett lived in 1914. (This now appears to not be any relation, as she existed prior to James and Helen splitting up.)
+Der Ort, an dem diese Ella Padgett 1930 lebte, liegt etwa 6 Meilen von dem Ort entfernt, den Leslie Stone in seiner Aussage erwähnte, wo James Padgett 1914 gelebt haben soll. (Dies scheint nun keine Verbindung zu haben, da sie bereits vor der Trennung von James und Helen existierte.)
 
-The information regarding Helen Padgett is as follows: Helen W. Heyde was born October, 1863 (about 11 years younger than James; interesting that Ella, James’ second wife was 13 years younger than him).
+Die Informationen zu Helen Padgett lauten wie folgt: Helen W. Heyde wurde im Oktober 1863 geboren (etwa 11 Jahre jünger als James; interessant, dass Ella, James’ zweite Frau, 13 Jahre jünger war als er).
 
-Helen’s father was George W. Heyde. He is listed in the 1870 US Census as a minister. In 1870 they were living in Maryland, and later moved to Washington, D.C.
+Helens Vater war George W. Heyde. Er ist in der US-Volkszählung von 1870 als Pfarrer aufgeführt. 1870 lebten sie in Maryland und zogen später nach Washington, D.C.
 
-Helen had a younger brother, Eugene HEYDE, who later became a physician. Helen also had a younger sister.
+Helen hatte einen jüngeren Bruder, Eugene HEYDE, der später Arzt wurde. Helen hatte auch eine jüngere Schwester.
+Laut den Angaben der Volkszählung von 1880 lebte die Familie Heyde nun in einem großen Haus in Washington, denn sie hatten neben den drei Kindern auch einen Bediensteten und einen Untermieter. Der Vater ist als Pfarrer aufgeführt.
+Es ist möglich, dass James Padgett Helen in der Kirche ihres Vaters kennengelernt hat.
 
-According to the 1880 census information, the Heyde family were now living in a large home in Washington, for they also had a servant and a boarder in addition to the three children. The father is listed as a minister.
+James und Helen heirateten am 15. Dezember 1880, und ihr erstes Kind, Edward Riddle, wurde im Februar 1882 geboren. Sie ist auf dem Mt. Olivet Friedhof in Frederick, Maryland, begraben, und Helenita ist ebenfalls dort begraben.
 
-It is possible that James Padgett met Helen at her father’ church.
+**Weitere Recherchen beigesteuert von HB.**
 
-James and Helen married December 15th, 1880, and their first child, Edward Riddle, was born in February 1882. She is buried in Mt Olivet, Cemetery, Frederick, Md. and Helenita is also buried there.
+Ja, Helens Mädchenname war Heyde und ihr voller Name lautet eigentlich Helen Worman Heyde. Ich habe ihren Mädchennamen vor ein paar Jahren gefunden, als ich unter Padgetts Namen stöberte, und das führte mich zum Nachruf ihrer Mutter. Darin steht:
 
-Further research contributed by HB.
+> **DER TOD HAT ZUGESCHLAGEN: FRAU OLIVIA HEYDE**<br><br>
+Frau Olivia Heyde, Ehefrau von Rev. George W. Heyde, starb gestern an Herzproblemen in ihrem Haus, 103 Jackson Place, Baltimore. Sie war die Tochter des verstorbenen Johannes und Barbara Whitehill aus Frederick County. Sie war ihr ganzes Leben lang in der Wohltätigkeitsarbeit aktiv. Mrs. Heyde war Sekretärin und Schatzmeisterin der Gesellschaft zur Unterstützung von Witwen und Waisen von Seeleuten und engagierte sich tatkräftig für die Free Summer Exouraion Society. Viele Jahre lang war sie Präsidentin der Whatsoever Society of King’s Daughters der Seamen’s Union Bethel. Sie hinterlässt ihren Ehemann und drei Kinder, darunter Dr. Eugene W. Heyde aus Parkston, Baltimore County; Mrs. James E. Padgett aus Washington und Mrs. Howard D. Adams aus Baltimore.<br><br>
+Die sterblichen Überreste werden morgen hierher gebracht, kommen um 12:05 Uhr an und werden auf dem Mt. Olivet Friedhof beigesetzt. Die Beerdigung findet am B. and O. Bahnhof statt und die Trauerrede am Grab wird von Rev. Mr. Castle gehalten.
 
-Yes, Helen’ maiden name was Heyde and her full name is actually Helen Worman Heyde. I found her maiden name a few years ago while browsing under Padgett’s name and it led me to her mother’s obituary. It reads:
+Hier ist auch Helens Nachruf. Das ist etwas seltsam, weil sie darin als Mrs. Heyde und nicht als Mrs. Padgett bezeichnet wird, aber es handelt sich definitiv um Helen. Darin heißt es:
 
- THE WORK OF DEATH MRS. OLIVIA HEYDE Mrs. Olivia Heyde, wife of the Rev. George W. Heyde, died of heart trouble yesterday at her home, 103 Jackson Place, Baltimore. She was the daughter of the late John O. and Barbara Whitehill, of Frederick county. She had been active all her life in charitable work. Mrs. Heyde was secretary and treasurer of the Society for the Relief of Widows and Orphans of Seamen and an earnest worker for the Free Summer Exouraion Society. For many years she had been president of the Whatsoever Society of King’s Daughters of the Seaman’s Union Bethel. She is survived by her husband and three children, the latter being Dr. Eugene W. Heyde of Parkston, Baltimore county; Mrs. James E. Padgett of Washington, and Mrs. Howard D. Adams, Baltimore. The remains will be brought here tomorrow, arriving at 12:05 p.m., and will be interred in Mt. Olivet cemetery. The funeral will take place from the B. and O. depot and the service at the grave will be read by Rev. Mr. Castle.
-Here is also Helen’s obituary. This is rather odd because it refers to her as Mrs. Heyde and not Mrs. Padgett but this is definitely Helen. It reads:
+> **BEERDIGUNG VON MRS. HEYDE**<br><br>
+Die Beerdigung von Mrs. Helen W. Heyde fand gestern Nachmittag um 14:00 Uhr in der Mt. Olivet Chapel statt. Die Trauerfeier wurde von Rev. Douglas Hoolf geleitet. Die Beisetzung erfolgte auf dem Mt. Olivet Friedhof. C.C. Carty stellte die Sargträger und war der Bestattungsunternehmer.
 
- FUNERAL OF MRS. HEYDE The funeral of Mrs. Helen W. Heyde took place yesterday afternoon at 2:00 o’clock from Mt. Olivet Chapel. The funeral services were conducted by the Rev. Douglas Hoolf. Interment was made in the Mt. Olivet cemetery. C.C. Carty furnished the pall-bearers and was the funeral director.
-(This was recorded in the Frederick Post dated Feb. 16, 1914 - so Helen was buried on the 15th.) There were other funeral notices however which used the name Heyde Padgett.
+(Dies wurde in der Frederick Post vom 16. Februar 1914 verzeichnet – Helen wurde also am 15. beigesetzt.) Es gab jedoch auch andere Todesanzeigen, in denen der Name Heyde Padgett verwendet wurde.
 
-There is also had some information about his son Henry (born Feb. 6, 1884) who actually moved to Southern California for a while. His wife’s name was Hazel H. Padgett and they had two daughters, Barbara (born 1919) and Harriett (1922). He later died in Honolulu in Nov 1969. Social Security number 550-09-0313.
+Es gibt auch einige Informationen über seinen Sohn Henry (geboren am 6. Februar 1884), der tatsächlich für eine Weile nach Südkalifornien gezogen war. Der Name seiner Frau war Hazel H. Padgett und sie hatten zwei Töchter, Barbara (geboren 1919) und Harriett (1922). Er starb später im November 1969 in Honolulu. Sozialversicherungsnummer 550-09-0313.
 
-Photos of the grave sites for both the Heyde family and the Padgett family in Mt Olivet Cemetary. Larger photos can be obtained by clicking on the photo.
+Fotos der Grabstätten der Familie Heyde und der Familie Padgett auf dem Mt. Olivet Cemetery. Größere Fotos erhältst du, wenn du auf das Foto klickst.
 
-We have in 2012 become aware that James and Helen separated in September 1910, and this is confirmed in a previously unpublished message from Helen that has recently come to light. This probably explains some of the entries above, where Helen appears to have reverted to her maiden name. Here is a image from a newspaper of the filing for divorce in October 10th, 1913:
+Wir haben 2012 erfahren, dass sich James und Helen im September 1910 getrennt haben, was durch eine bisher [unveröffentlichte Nachricht](/1-de-jep/1-4-de-jep-mess-by-date/1-4-6-de-jep-mess-1918/de-1918-5-22-1-jep-helen-padgett/) von Helen bestätigt wird, die kürzlich ans Licht gekommen ist. Das erklärt wahrscheinlich einige der obigen Einträge, in denen Helen offenbar wieder ihren Mädchennamen verwendet hat. Hier ist ein Bild aus einer Zeitung über die Einreichung der Scheidung am 10. Oktober 1913:
 
+![](/portraits/de-helen-files-for-divorce-oct-10-1913-newspaper.jpg)
 
-
-Dennis Tormey has discovered the notice of dismissal of this divorce action, indicating that Helen and James never went through with the divorce.
+Dennis Tormey hat die Mitteilung über die Abweisung dieses Scheidungsverfahrens entdeckt, was darauf hindeutet, dass Helen und James die Scheidung nie vollzogen haben.
