@@ -1,7 +1,7 @@
 ---
-title: „Judas”
-menu_title: „”
-description: „Judas”
+title: "Judas"
+menu_title: ""
+description: "Judas"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

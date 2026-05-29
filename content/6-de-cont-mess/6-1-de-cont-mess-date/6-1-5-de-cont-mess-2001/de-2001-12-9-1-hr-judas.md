@@ -1,7 +1,7 @@
 ---
-title: „Der Todeswunsch”
-menu_title: „”
-description: „Der Todeswunsch”
+title: "Der Todeswunsch"
+menu_title: ""
+description: "Der Todeswunsch"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

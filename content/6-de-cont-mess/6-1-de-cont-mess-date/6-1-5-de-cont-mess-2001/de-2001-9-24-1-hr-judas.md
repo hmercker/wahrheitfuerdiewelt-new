@@ -1,7 +1,7 @@
 ---
-title: „Seelenpartner”
-menu_title: „”
-description: „Seelenpartner”
+title: "Seelenpartner"
+menu_title: ""
+description: "Seelenpartner"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

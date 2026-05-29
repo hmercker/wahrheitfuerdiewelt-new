@@ -1,7 +1,7 @@
 ---
-title: „Eine Frage zum Brief an die Epheser”
-menu_title: „”
-description: „Eine Frage zum Brief an die Epheser”
+title: "Eine Frage zum Brief an die Epheser"
+menu_title: ""
+description: "Eine Frage zum Brief an die Epheser"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
-title: „Die andere Wange hinhalten”
-menu_title: „”
-description: „Die andere Wange hinhalten”
+title: "Die andere Wange hinhalten"
+menu_title: ""
+description: "Die andere Wange hinhalten"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

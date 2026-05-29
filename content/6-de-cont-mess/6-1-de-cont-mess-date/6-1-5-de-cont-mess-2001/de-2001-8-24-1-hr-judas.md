@@ -1,7 +1,7 @@
 ---
-title: „Spirituelles Bewusstsein und spirituelle Wahrnehmung”
-menu_title: „”
-description: „Spirituelles Bewusstsein und spirituelle Wahrnehmung”
+title: "Spirituelles Bewusstsein und spirituelle Wahrnehmung"
+menu_title: ""
+description: "Spirituelles Bewusstsein und spirituelle Wahrnehmung"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

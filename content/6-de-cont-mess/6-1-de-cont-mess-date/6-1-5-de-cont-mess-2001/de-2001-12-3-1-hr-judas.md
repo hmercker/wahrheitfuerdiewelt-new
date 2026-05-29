@@ -1,7 +1,7 @@
 ---
-title: „Was sagt uns die Bibel?”
-menu_title: „”
-description: „Was sagt uns die Bibel?”
+title: "Was sagt uns die Bibel?"
+menu_title: ""
+description: "Was sagt uns die Bibel?"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

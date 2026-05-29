@@ -1,7 +1,7 @@
 ---
-title: „Der Vorfall im Tempel”
-menu_title: „”
-description: „Der Vorfall im Tempel”
+title: "Der Vorfall im Tempel"
+menu_title: ""
+description: "Der Vorfall im Tempel"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

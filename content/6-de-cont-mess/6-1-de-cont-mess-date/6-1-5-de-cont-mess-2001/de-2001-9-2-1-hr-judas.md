@@ -1,7 +1,7 @@
 ---
-title: „Verlieren die Himmlischen Wesen ihre Individualität?”
-menu_title: „”
-description: „Verlieren die Himmlischen Wesen ihre Individualität?”
+title: "Verlieren die Himmlischen Wesen ihre Individualität?"
+menu_title: ""
+description: "Verlieren die Himmlischen Wesen ihre Individualität?"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

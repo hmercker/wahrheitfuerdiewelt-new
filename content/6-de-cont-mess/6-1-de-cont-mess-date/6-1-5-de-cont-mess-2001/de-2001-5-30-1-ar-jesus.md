@@ -1,7 +1,7 @@
 ---
-title: „Juwelen der Liebe”
-menu_title: „”
-description: „Juwelen der Liebe”
+title: "Juwelen der Liebe"
+menu_title: ""
+description: "Juwelen der Liebe"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

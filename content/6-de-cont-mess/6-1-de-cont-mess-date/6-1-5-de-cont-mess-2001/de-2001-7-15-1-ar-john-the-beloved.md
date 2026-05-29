@@ -1,7 +1,7 @@
 ---
-title: „Perfekte Liebe bedeutet perfekte Ergebnisse”
-menu_title: „”
-description: „Perfekte Liebe bedeutet perfekte Ergebnisse”
+title: "Perfekte Liebe bedeutet perfekte Ergebnisse"
+menu_title: ""
+description: "Perfekte Liebe bedeutet perfekte Ergebnisse"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

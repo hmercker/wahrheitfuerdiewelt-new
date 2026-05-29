@@ -1,7 +1,7 @@
 ---
-title: „Die Schließung der Göttlichen Himmel”
-menu_title: „”
-description: „Die Schließung der Göttlichen Himmel”
+title: "Die Schließung der Göttlichen Himmel"
+menu_title: ""
+description: "Die Schließung der Göttlichen Himmel"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

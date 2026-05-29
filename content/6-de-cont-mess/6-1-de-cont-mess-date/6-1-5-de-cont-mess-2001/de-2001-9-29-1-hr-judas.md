@@ -1,7 +1,7 @@
 ---
-title: „Scheidung, und die zwölf Apostel, und die zwölf Stämme Israels”
-menu_title: „”
-description: „Scheidung, und die zwölf Apostel, und die zwölf Stämme Israels”
+title: "Scheidung, und die zwölf Apostel, und die zwölf Stämme Israels"
+menu_title: ""
+description: "Scheidung, und die zwölf Apostel, und die zwölf Stämme Israels"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

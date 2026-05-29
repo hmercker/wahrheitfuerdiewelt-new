@@ -1,7 +1,7 @@
 ---
-title: „Die Dämmerungszone (Twilight Zone) und das Sommerland”
-menu_title: „”
-description: „Die Dämmerungszone (Twilight Zone) und das Sommerland”
+title: "Die Dämmerungszone (Twilight Zone) und das Sommerland"
+menu_title: ""
+description: "Die Dämmerungszone (Twilight Zone) und das Sommerland"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
-title: „Die Geburt Jesu in Bethlehem”
-menu_title: „”
-description: „Die Geburt Jesu in Bethlehem”
+title: "Die Geburt Jesu in Bethlehem"
+menu_title: ""
+description: "Die Geburt Jesu in Bethlehem"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
-title: „Kommunikation und Medialität”
-menu_title: „”
-description: „Kommunikation und Medialität”
+title: "Kommunikation und Medialität"
+menu_title: ""
+description: "Kommunikation und Medialität"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

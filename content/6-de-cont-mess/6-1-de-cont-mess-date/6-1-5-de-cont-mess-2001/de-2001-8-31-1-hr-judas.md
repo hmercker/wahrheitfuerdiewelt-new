@@ -1,7 +1,7 @@
 ---
-title: „Das Gleichnis vom Senfkorn”
-menu_title: „”
-description: „Das Gleichnis vom Senfkorn”
+title: "Das Gleichnis vom Senfkorn"
+menu_title: ""
+description: "Das Gleichnis vom Senfkorn"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

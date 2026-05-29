@@ -1,7 +1,7 @@
 ---
-title: „Die Meditation”
-menu_title: „”
-description: „Die Meditation”
+title: "Die Meditation"
+menu_title: ""
+description: "Die Meditation"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

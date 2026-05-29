@@ -1,7 +1,7 @@
 ---
-title: „Die siebte Sphäre”
-menu_title: „”
-description: „Die siebte Sphäre”
+title: "Die siebte Sphäre"
+menu_title: ""
+description: "Die siebte Sphäre"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

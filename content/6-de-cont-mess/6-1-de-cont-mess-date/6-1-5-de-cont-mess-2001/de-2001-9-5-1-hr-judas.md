@@ -1,7 +1,7 @@
 ---
-title: „Judas' Tod und Übergang in die Spirituelle Welt”
-menu_title: „”
-description: „Judas' Tod und Übergang in die Spirituelle Welt”
+title: "Judas' Tod und Übergang in die Spirituelle Welt"
+menu_title: ""
+description: "Judas' Tod und Übergang in die Spirituelle Welt"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
-title: „Die Erziehung Jesu in Ägypten”
-menu_title: „”
-description: „Die Erziehung Jesu in Ägypten”
+title: "Die Erziehung Jesu in Ägypten"
+menu_title: ""
+description: "Die Erziehung Jesu in Ägypten"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

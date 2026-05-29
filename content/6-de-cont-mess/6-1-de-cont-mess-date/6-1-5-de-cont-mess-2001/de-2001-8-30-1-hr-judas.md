@@ -1,7 +1,7 @@
 ---
-title: „Homosexualität und Seelenpartner”
-menu_title: „”
-description: „Homosexualität und Seelenpartner”
+title: "Homosexualität und Seelenpartner"
+menu_title: ""
+description: "Homosexualität und Seelenpartner"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

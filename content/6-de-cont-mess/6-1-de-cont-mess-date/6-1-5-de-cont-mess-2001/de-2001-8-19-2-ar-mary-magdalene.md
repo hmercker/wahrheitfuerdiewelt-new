@@ -1,7 +1,7 @@
 ---
-title: „Unterschiede zwischen den Geschlechtern”
-menu_title: „”
-description: „Unterschiede zwischen den Geschlechtern”
+title: "Unterschiede zwischen den Geschlechtern"
+menu_title: ""
+description: "Unterschiede zwischen den Geschlechtern"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

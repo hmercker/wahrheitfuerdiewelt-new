@@ -1,7 +1,7 @@
 ---
-title: „Die fünfte Sphäre”
-menu_title: „”
-description: „Die fünfte Sphäre”
+title: "Die fünfte Sphäre"
+menu_title: ""
+description: "Die fünfte Sphäre"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

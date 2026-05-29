@@ -1,7 +1,7 @@
 ---
-title: „Wem würde Jesus predigen?”
-menu_title: „”
-description: „Wem würde Jesus predigen?”
+title: "Wem würde Jesus predigen?"
+menu_title: ""
+description: "Wem würde Jesus predigen?"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

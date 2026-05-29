@@ -1,7 +1,7 @@
 ---
-title: „Kommunikation mit Göttlichen und anderen spirituellen Wesen”
-menu_title: „”
-description: „Kommunikation mit Göttlichen und anderen spirituellen Wesen”
+title: "Kommunikation mit Göttlichen und anderen spirituellen Wesen"
+menu_title: ""
+description: "Kommunikation mit Göttlichen und anderen spirituellen Wesen"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

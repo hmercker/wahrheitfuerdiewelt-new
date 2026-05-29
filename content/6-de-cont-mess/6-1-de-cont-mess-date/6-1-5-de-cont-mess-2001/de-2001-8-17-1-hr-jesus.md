@@ -1,7 +1,7 @@
 ---
-title: „Die innere Stimme hören”
-menu_title: „”
-description: „Die innere Stimme hören”
+title: "Die innere Stimme hören"
+menu_title: ""
+description: "Die innere Stimme hören"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

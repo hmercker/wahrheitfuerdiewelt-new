@@ -1,7 +1,7 @@
 ---
-title: „Der Geist des Lebens”
-menu_title: „”
-description: „Der Geist des Lebens”
+title: "Der Geist des Lebens"
+menu_title: ""
+description: "Der Geist des Lebens"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

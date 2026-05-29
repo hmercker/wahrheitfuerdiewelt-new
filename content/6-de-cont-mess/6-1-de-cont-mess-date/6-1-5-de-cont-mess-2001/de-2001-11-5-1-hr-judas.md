@@ -1,7 +1,7 @@
 ---
-title: „Nach dem Steueraufstand von 6 n. Chr.”
-menu_title: „”
-description: „Nach dem Steueraufstand von 6 n. Chr.”
+title: "Nach dem Steueraufstand von 6 n. Chr."
+menu_title: ""
+description: "Nach dem Steueraufstand von 6 n. Chr."
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

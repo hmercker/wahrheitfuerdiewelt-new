@@ -1,7 +1,7 @@
 ---
-title: „Gruppen-Karma und freier Wille”
-menu_title: „”
-description: „Gruppen-Karma und freier Wille”
+title: "Gruppen-Karma und freier Wille"
+menu_title: ""
+description: "Gruppen-Karma und freier Wille"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

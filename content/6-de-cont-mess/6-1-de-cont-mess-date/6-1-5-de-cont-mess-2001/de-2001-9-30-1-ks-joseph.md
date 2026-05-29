@@ -1,7 +1,7 @@
 ---
-title: „Gebet, die beste Vorbereitung”
-menu_title: „”
-description: „Gebet, die beste Vorbereitung”
+title: "Gebet, die beste Vorbereitung"
+menu_title: ""
+description: "Gebet, die beste Vorbereitung"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

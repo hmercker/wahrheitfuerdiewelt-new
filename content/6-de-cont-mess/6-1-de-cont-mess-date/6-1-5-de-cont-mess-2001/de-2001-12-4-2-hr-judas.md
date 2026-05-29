@@ -1,7 +1,7 @@
 ---
-title: „Die Gefahr der Medialität”
-menu_title: „”
-description: „Die Gefahr der Medialität”
+title: "Die Gefahr der Medialität"
+menu_title: ""
+description: "Die Gefahr der Medialität"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

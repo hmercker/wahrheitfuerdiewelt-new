@@ -1,7 +1,7 @@
 ---
-title: „Liebe und Wahrheit müssen an erster Stelle stehen”
-menu_title: „”
-description: „Liebe und Wahrheit müssen an erster Stelle stehen”
+title: "Liebe und Wahrheit müssen an erster Stelle stehen"
+menu_title: ""
+description: "Liebe und Wahrheit müssen an erster Stelle stehen"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

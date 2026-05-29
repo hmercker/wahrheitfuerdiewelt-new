@@ -1,7 +1,7 @@
 ---
-title: „Sterbehilfe und christliche Symbole”
-menu_title: „”
-description: „Sterbehilfe und christliche Symbole”
+title: "Sterbehilfe und christliche Symbole"
+menu_title: ""
+description: "Sterbehilfe und christliche Symbole"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

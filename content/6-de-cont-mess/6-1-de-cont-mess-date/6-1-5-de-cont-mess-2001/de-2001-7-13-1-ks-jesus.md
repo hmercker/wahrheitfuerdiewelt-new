@@ -1,7 +1,7 @@
 ---
-title: „Beten für den Frieden”
-menu_title: „”
-description: „Beten für den Frieden”
+title: "Beten für den Frieden"
+menu_title: ""
+description: "Beten für den Frieden"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
-title: „Josef und Maria kehren nach Nazareth zurück”
-menu_title: „”
-description: „Josef und Maria kehren nach Nazareth zurück”
+title: "Josef und Maria kehren nach Nazareth zurück"
+menu_title: ""
+description: "Josef und Maria kehren nach Nazareth zurück"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

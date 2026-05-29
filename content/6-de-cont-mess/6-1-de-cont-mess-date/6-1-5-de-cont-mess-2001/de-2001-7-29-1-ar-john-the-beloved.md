@@ -1,7 +1,7 @@
 ---
-title: „Erziehung von Kindern”
-menu_title: „”
-description: „Erziehung von Kindern”
+title: "Erziehung von Kindern"
+menu_title: ""
+description: "Erziehung von Kindern"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

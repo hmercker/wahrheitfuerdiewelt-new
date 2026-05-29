@@ -1,7 +1,7 @@
 ---
-title: „Was können wir tun, um die Auswirkungen des Bösen auszugleichen?”
-menu_title: „”
-description: „Was können wir tun, um die Auswirkungen des Bösen auszugleichen?”
+title: "Was können wir tun, um die Auswirkungen des Bösen auszugleichen?"
+menu_title: ""
+description: "Was können wir tun, um die Auswirkungen des Bösen auszugleichen?"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

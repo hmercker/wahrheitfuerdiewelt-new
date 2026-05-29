@@ -1,7 +1,7 @@
 ---
-title: „Im Fluss des Lebens gehen”
-menu_title: „”
-description: „Im Fluss des Lebens gehen”
+title: "Im Fluss des Lebens gehen"
+menu_title: ""
+description: "Im Fluss des Lebens gehen"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

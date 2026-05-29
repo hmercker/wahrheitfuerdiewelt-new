@@ -1,7 +1,7 @@
 ---
-title: „Loslassen und einfach Liebe sein”
-menu_title: „”
-description: „Loslassen und einfach Liebe sein”
+title: "Loslassen und einfach Liebe sein"
+menu_title: ""
+description: "Loslassen und einfach Liebe sein"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
-title: „Die Schönheit des täglichen Lebens”
-menu_title: „”
-description: „Die Schönheit des täglichen Lebens”
+title: "Die Schönheit des täglichen Lebens"
+menu_title: ""
+description: "Die Schönheit des täglichen Lebens"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

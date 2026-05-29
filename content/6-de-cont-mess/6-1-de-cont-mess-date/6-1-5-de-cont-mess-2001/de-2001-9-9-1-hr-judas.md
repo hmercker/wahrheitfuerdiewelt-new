@@ -1,7 +1,7 @@
 ---
-title: „Verschiedene Fragen bezüglich des Hinübergehens”
-menu_title: „”
-description: „Verschiedene Fragen bezüglich des Hinübergehens”
+title: "Verschiedene Fragen bezüglich des Hinübergehens"
+menu_title: ""
+description: "Verschiedene Fragen bezüglich des Hinübergehens"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

@@ -1,7 +1,7 @@
 ---
-title: „Hindernisse auf der Reise überwinden”
-menu_title: „”
-description: „Hindernisse auf der Reise überwinden”
+title: "Hindernisse auf der Reise überwinden"
+menu_title: ""
+description: "Hindernisse auf der Reise überwinden"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

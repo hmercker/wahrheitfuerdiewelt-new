@@ -1,7 +1,7 @@
 ---
-title: „Warnung vor Gefahr und den Entscheidungen, die wir treffen müssen”
-menu_title: „”
-description: „Warnung vor Gefahr und den Entscheidungen, die wir treffen müssen”
+title: "Warnung vor Gefahr und den Entscheidungen, die wir treffen müssen"
+menu_title: ""
+description: "Warnung vor Gefahr und den Entscheidungen, die wir treffen müssen"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

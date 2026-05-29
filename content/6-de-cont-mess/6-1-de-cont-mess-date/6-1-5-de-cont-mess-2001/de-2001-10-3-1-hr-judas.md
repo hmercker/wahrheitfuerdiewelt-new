@@ -1,7 +1,7 @@
 ---
-title: „Josef heiratet Maria und kehrt nach Bethlehem zurück”
-menu_title: „”
-description: „Josef heiratet Maria und kehrt nach Bethlehem zurück”
+title: "Josef heiratet Maria und kehrt nach Bethlehem zurück"
+menu_title: ""
+description: "Josef heiratet Maria und kehrt nach Bethlehem zurück"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

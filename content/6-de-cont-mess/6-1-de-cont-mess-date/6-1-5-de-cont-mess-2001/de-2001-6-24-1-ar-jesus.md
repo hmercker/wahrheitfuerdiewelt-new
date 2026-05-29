@@ -1,7 +1,7 @@
 ---
-title: „Trance-Botschaft von Jesus”
-menu_title: „”
-description: „Trance-Botschaft von Jesus”
+title: "Trance-Botschaft von Jesus"
+menu_title: ""
+description: "Trance-Botschaft von Jesus"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

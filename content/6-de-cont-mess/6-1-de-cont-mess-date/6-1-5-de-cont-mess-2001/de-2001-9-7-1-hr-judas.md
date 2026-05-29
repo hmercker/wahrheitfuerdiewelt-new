@@ -1,7 +1,7 @@
 ---
-title: „Spirituelles Licht oder spirituelle Schwingungen?”
-menu_title: „”
-description: „Spirituelles Licht oder spirituelle Schwingungen?”
+title: "Spirituelles Licht oder spirituelle Schwingungen?"
+menu_title: ""
+description: "Spirituelles Licht oder spirituelle Schwingungen?"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

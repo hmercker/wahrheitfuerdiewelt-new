@@ -1,7 +1,7 @@
 ---
-title: „Die zweite Sphäre”
-menu_title: „”
-description: „Die zweite Sphäre”
+title: "Die zweite Sphäre"
+menu_title: ""
+description: "Die zweite Sphäre"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

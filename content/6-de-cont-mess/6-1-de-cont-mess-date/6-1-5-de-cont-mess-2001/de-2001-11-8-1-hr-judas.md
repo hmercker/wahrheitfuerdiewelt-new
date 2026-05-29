@@ -1,7 +1,7 @@
 ---
-title: „Die Erzengel und Satan”
-menu_title: „”
-description: „Die Erzengel und Satan”
+title: "Die Erzengel und Satan"
+menu_title: ""
+description: "Die Erzengel und Satan"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

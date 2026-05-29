@@ -1,7 +1,7 @@
 ---
-title: „Das Gesetz der Wiedergutmachung”
-menu_title: „”
-description: „Das Gesetz der Wiedergutmachung”
+title: "Das Gesetz der Wiedergutmachung"
+menu_title: ""
+description: "Das Gesetz der Wiedergutmachung"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

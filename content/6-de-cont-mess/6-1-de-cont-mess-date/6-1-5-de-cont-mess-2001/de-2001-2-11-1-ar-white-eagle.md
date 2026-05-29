@@ -1,7 +1,7 @@
 ---
-title: „Weißer Adler: spirituelle Sehkraft”
-menu_title: „”
-description: „Weißer Adler: spirituelle Sehkraft”
+title: "Weißer Adler: spirituelle Sehkraft"
+menu_title: ""
+description: "Weißer Adler: spirituelle Sehkraft"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

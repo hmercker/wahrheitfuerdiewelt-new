@@ -1,7 +1,7 @@
 ---
-title: „Wie in der Welt zu sein, aber nicht von ihr”
-menu_title: „”
-description: „Wie in der Welt zu sein, aber nicht von ihr”
+title: "Wie in der Welt zu sein, aber nicht von ihr"
+menu_title: ""
+description: "Wie in der Welt zu sein, aber nicht von ihr"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

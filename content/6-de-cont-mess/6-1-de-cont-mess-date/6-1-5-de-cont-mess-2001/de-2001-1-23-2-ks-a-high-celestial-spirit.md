@@ -1,7 +1,7 @@
 ---
-title: „Über das Böse erheben”
-menu_title: „”
-description: „Über das Böse erheben”
+title: "Über das Böse erheben"
+menu_title: ""
+description: "Über das Böse erheben"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

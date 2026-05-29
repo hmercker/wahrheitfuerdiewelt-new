@@ -1,7 +1,7 @@
 ---
-title: „Gerechtfertigte Gewalt und Seelenpartner”
-menu_title: „”
-description: „Gerechtfertigte Gewalt und Seelenpartner”
+title: "Gerechtfertigte Gewalt und Seelenpartner"
+menu_title: ""
+description: "Gerechtfertigte Gewalt und Seelenpartner"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

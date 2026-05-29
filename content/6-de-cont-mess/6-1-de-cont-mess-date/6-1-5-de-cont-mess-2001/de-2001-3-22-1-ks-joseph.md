@@ -1,7 +1,7 @@
 ---
-title: „Liebe beginnt zu Hause”
-menu_title: „”
-description: „Liebe beginnt zu Hause”
+title: "Liebe beginnt zu Hause"
+menu_title: ""
+description: "Liebe beginnt zu Hause"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

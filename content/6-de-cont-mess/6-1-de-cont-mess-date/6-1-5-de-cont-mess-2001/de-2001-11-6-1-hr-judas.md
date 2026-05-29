@@ -1,7 +1,7 @@
 ---
-title: „Vergebung und Vergessen”
-menu_title: „”
-description: „Vergebung und Vergessen”
+title: "Vergebung und Vergessen"
+menu_title: ""
+description: "Vergebung und Vergessen"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

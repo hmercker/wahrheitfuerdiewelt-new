@@ -1,7 +1,7 @@
 ---
-title: „Verborgene Deutungen in den Gleichnissen Jesu”
-menu_title: „”
-description: „Verborgene Deutungen in den Gleichnissen Jesu”
+title: "Verborgene Deutungen in den Gleichnissen Jesu"
+menu_title: ""
+description: "Verborgene Deutungen in den Gleichnissen Jesu"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

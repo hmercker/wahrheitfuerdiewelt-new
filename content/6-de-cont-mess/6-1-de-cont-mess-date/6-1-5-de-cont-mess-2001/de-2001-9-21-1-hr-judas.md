@@ -1,7 +1,7 @@
 ---
-title: „Auf die innere Stimme hören”
-menu_title: „”
-description: „Auf die innere Stimme hören”
+title: "Auf die innere Stimme hören"
+menu_title: ""
+description: "Auf die innere Stimme hören"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

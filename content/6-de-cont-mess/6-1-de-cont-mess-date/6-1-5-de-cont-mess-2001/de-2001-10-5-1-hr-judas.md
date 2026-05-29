@@ -1,7 +1,7 @@
 ---
-title: „Die Flucht nach Ägypten”
-menu_title: „”
-description: „Die Flucht nach Ägypten”
+title: "Die Flucht nach Ägypten"
+menu_title: ""
+description: "Die Flucht nach Ägypten"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

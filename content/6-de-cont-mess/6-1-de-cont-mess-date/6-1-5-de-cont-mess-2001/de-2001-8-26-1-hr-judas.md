@@ -1,7 +1,7 @@
 ---
-title: „Über die Göttliche Liebe und den Hintergrund von Judas”
-menu_title: „”
-description: „Über die Göttliche Liebe und den Hintergrund von Judas”
+title: "Über die Göttliche Liebe und den Hintergrund von Judas"
+menu_title: ""
+description: "Über die Göttliche Liebe und den Hintergrund von Judas"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

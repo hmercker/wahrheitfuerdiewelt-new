@@ -1,7 +1,7 @@
 ---
-title: „Das Heilen - Teil 2”
-menu_title: „”
-description: „Das Heilen - Teil 2”
+title: "Das Heilen - Teil 2"
+menu_title: ""
+description: "Das Heilen - Teil 2"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

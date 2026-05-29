@@ -1,7 +1,7 @@
 ---
-title: „Verstand gegen Seele und aktuelle Denkmodelle”
-menu_title: „”
-description: „Verstand gegen Seele und aktuelle Denkmodelle”
+title: "Verstand gegen Seele und aktuelle Denkmodelle"
+menu_title: ""
+description: "Verstand gegen Seele und aktuelle Denkmodelle"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

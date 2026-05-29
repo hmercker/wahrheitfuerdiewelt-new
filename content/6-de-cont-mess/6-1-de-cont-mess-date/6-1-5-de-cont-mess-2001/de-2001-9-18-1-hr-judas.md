@@ -1,7 +1,7 @@
 ---
-title: „Der Islam und Mohammed”
-menu_title: „”
-description: „Der Islam und Mohammed”
+title: "Der Islam und Mohammed"
+menu_title: ""
+description: "Der Islam und Mohammed"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

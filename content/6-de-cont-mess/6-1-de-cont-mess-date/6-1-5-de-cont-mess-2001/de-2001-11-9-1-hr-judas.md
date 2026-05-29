@@ -1,7 +1,7 @@
 ---
-title: „Der Alchemist”
-menu_title: „”
-description: „Der Alchemist”
+title: "Der Alchemist"
+menu_title: ""
+description: "Der Alchemist"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

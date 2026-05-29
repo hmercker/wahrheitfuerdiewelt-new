@@ -1,7 +1,7 @@
 ---
-title: „Das Gesicht der Liebe”
-menu_title: „”
-description: „Das Gesicht der Liebe”
+title: "Das Gesicht der Liebe"
+menu_title: ""
+description: "Das Gesicht der Liebe"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

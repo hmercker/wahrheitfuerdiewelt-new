@@ -1,7 +1,7 @@
 ---
-title: „In Liebe leben”
-menu_title: „”
-description: „In Liebe leben”
+title: "In Liebe leben"
+menu_title: ""
+description: "In Liebe leben"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True

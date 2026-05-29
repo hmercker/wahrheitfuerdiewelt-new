@@ -1,7 +1,7 @@
 ---
-title: „Spirituelle Führer, Schutzengel und automatisches Schreiben”
-menu_title: „”
-description: „Spirituelle Führer, Schutzengel und automatisches Schreiben”
+title: "Spirituelle Führer, Schutzengel und automatisches Schreiben"
+menu_title: ""
+description: "Spirituelle Führer, Schutzengel und automatisches Schreiben"
 date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
