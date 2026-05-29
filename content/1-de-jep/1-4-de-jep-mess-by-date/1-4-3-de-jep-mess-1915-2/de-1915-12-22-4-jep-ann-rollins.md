@@ -2,12 +2,14 @@
 title: "Beschreibung einiger der Sphären"
 menu_title: ""
 description: "Beschreibung einiger der Sphären"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Beschreibung einiger der Sphären
+
+*beschreibung-einiger-der-sphaeren-jep-ann-rollins-22-dezember-1915.md*
 
 Ann Rollins - empfangen durch James Padgett am 22. Dezember 1915, Washington, DC, USA.
 
@@ -38,4 +40,4 @@ Ich wünsche dir mit all meiner Liebe eine gute Nacht.
 Deine eigene liebevolle Großmutter.
 <small>
 
-[^1]: Dies bezieht sich auf Dr. Peebles Buch "Unsterblichkeit" - und Ann Rollins bezweifelt, dass die darin beschriebenen Erfahrungen von Dr. Pierce zutreffend sind.
+[^1]: Dies bezieht sich auf Dr. Peebles Buch „Unsterblichkeit” - und Ann Rollins bezweifelt, dass die darin beschriebenen Erfahrungen von Dr. Pierce zutreffend sind.

@@ -2,12 +2,14 @@
 title: "Assyrischer Beamter, der an viele Götter glaubte als er auf Erden war, ist jetzt ein Christ"
 menu_title: ""
 description: "Assyrischer Beamter, der an viele Götter glaubte als er auf Erden war, ist jetzt ein Christ"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Assyrischer Beamter, der an viele Götter glaubte als er auf Erden war, ist jetzt ein Christ
+
+*assyrischer-beamter-der-an-viele-goetter-glaubte-als-er-auf-erden-war-ist-jetzt-ein-christ-jep-leekesi-4-november-1915.md*
 
 Leekesi - empfangen durch James Padgett am 4. November 1915, Washington, DC, USA.
 

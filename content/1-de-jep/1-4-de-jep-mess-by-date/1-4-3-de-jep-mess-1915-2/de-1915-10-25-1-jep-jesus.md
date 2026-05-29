@@ -2,12 +2,14 @@
 title: "Der Unterschied zwischen menschlicher Vernunft und den Sinnen der Seele"
 menu_title: ""
 description: "Der Unterschied zwischen menschlicher Vernunft und den Sinnen der Seele"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Der Unterschied zwischen menschlicher Vernunft und den Sinnen der Seele
+
+*der-unterschied-zwischen-menschlicher-vernunft-und-den-sinnen-der-seele-jep-jesus-25-oktober-1915.md*
 
 Jesus - empfangen durch James Padgett am 25. Oktober 1915, Washington, DC, USA.
 

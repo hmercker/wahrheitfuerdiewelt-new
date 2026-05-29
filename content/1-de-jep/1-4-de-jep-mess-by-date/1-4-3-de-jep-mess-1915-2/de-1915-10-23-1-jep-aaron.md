@@ -2,16 +2,18 @@
 title: "Aaron schreibt über die Unsterblichkeit und wie man sie erlangen kann"
 menu_title: ""
 description: "Aaron schreibt über die Unsterblichkeit und wie man sie erlangen kann"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Aaron schreibt über die Unsterblichkeit und wie man sie erlangen kann
 
+*aaron-schreibt-ueber-die-unsterblichkeit-und-wie-man-sie-erlangen-kann-jep-aaron-23-oktober-1915.md*
+
 Aaron - empfangen durch James Padgett am 23. Oktober 1915, Washington, DC, USA.
 
-Ich bin das spirituelle Wesen Aarons, des Propheten des Alten Testaments und des Bruders des Moses, wie es geschrieben steht. Ich möchte nur sagen, dass ich mit dir die Botschaft des spirituellen Wesens von [Henry Ward Beecher gelesen hatte](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-7-5-2-jep-henry-ward-beecher/) und das ist eine wunderbare Beschreibung dessen, was Unsterblichkeit ist und wie sie der Menschheit nach dem Fall der ersten Eltern geschenkt wurde.
+Ich bin das spirituelle Wesen Aarons, des Propheten des Alten Testaments und des Bruders des Moses, wie es geschrieben steht. Ich möchte nur sagen, dass ich mit dir die Botschaft des spirituellen Wesens von [Henry Ward Beecher gelesen hatte](/padgett-botschaften/padgett-botschaften-in-reihenfolge-des-datums/padgett-botschaften-1915-januar-august/die-unsterblichkeit-jep-henry-ward-beecher-5-juli-1915/) und das ist eine wunderbare Beschreibung dessen, was Unsterblichkeit ist und wie sie der Menschheit nach dem Fall der ersten Eltern geschenkt wurde.
 
 Ich kenne die Wahrheit dessen, was er geschrieben hat, denn ich erlebte den Mangel an dieser Göttlichen Liebe viele tausend Jahre lang vor dem Kommen Jesu und der Wiederverleihung dieser Göttlichen Liebe, die das Einzige im gesamten Universum Gottes ist, das dem Menschen Unsterblichkeit bringen kann.
 

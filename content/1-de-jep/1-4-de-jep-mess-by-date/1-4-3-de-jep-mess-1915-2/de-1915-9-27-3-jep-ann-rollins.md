@@ -1,15 +1,17 @@
 ---
-title: "Ann Rollin's bestätigt, dass Jesus geschrieben hat und seine Herrlichkeit und Kraft zeigte"
+title: "Ann Rollins bestätigt, dass Jesus geschrieben hat und seine Herrlichkeit und Kraft zeigte"
 menu_title: ""
-description: "Ann Rollin's bestätigt, dass Jesus geschrieben hat und seine Herrlichkeit und Kraft zeigte"
-date: 2026-01-01 00:00:00+00:00
+description: "Ann Rollins bestätigt, dass Jesus geschrieben hat und seine Herrlichkeit und Kraft zeigte"
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Ann Rollin's bestätigt, dass Jesus geschrieben hat und seine Herrlichkeit und Kraft zeigte
 
-Ann Rollins - empfangen durch James Padgett am 27. September 1915, Washington, DC, USA.
+*ann-rollins-bestaetigt-dass-jesus-geschrieben-hat-und-seine-herrlichkeit-und-kraft-zeigte-jep-ann-rollins-27-september-1915.md*
+
+Ann Rollins - empfangen von James Padgett am 27. September 1915, Washington, DC, USA.
 
 Ich bin hier, um dir von der Herrlichkeit meines Meisters zu berichten.
 

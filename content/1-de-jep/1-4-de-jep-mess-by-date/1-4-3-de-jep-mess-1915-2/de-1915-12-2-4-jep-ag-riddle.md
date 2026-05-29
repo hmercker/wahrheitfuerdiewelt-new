@@ -2,14 +2,16 @@
 title: "Bestätigung, dass Jesus seine Herrlichkeit gezeigt hat"
 menu_title: ""
 description: "Bestätigung, dass Jesus seine Herrlichkeit gezeigt hat"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Bestätigung, dass Jesus seine Herrlichkeit gezeigt hat
 
-AG Riddle - empfangen durch James Padgett am 2. Dezember 1915, Washington, DC, USA.
+*bestaetigung-dass-jesus-seine-herrlichkeit-gezeigt-hat-jep-ag-riddle-2-dezember-1915.md*
+
+A G Riddle - empfangen durch James Padgett am 2. Dezember 1915, Washington, DC, USA.
 
 Ich weiß, es ist spät, aber dennoch muss ich sagen, dass das, was dir gesagt wurde, wahr ist, und wenn wir von der Herrlichkeit des Meisters sprechen, kannst du nicht begreifen, was gemeint ist. Stelle dir in vor, eine schwache Kerzenflamme und die Herrlichkeit der Mittagssonne, und dann vergleiche die Herrlichkeit der größten Sache auf der Welt mit dieser Herrlichkeit des Meisters, und du wirst Seite an Seite die schwache Kerze und die herrliche Sonne sehen.
 

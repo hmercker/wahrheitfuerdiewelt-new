@@ -2,12 +2,14 @@
 title: "Die Herrlichkeit und Kraft Jesu war so wunderbar, sie knieten in Ehrfurcht "
 menu_title: ""
 description: "Die Herrlichkeit und Kraft Jesu war so wunderbar, sie knieten in Ehrfurcht "
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### Die Herrlichkeit und Kraft Jesu war so wunderbar, sie knieten in Ehrfurcht 
+### Die Herrlichkeit und Kraft Jesu war so wunderbar, sie knieten in Ehrfurcht
+
+*die-herrlichkeit-und-kraft-jesu-war-so-wunderbar-sie-knieten-in-ehrfurcht-jep-john-wesley-14-dezember-1915.md*
 
 John Wesley - empfangen durch James Padgett am 14. Dezember 1915, Washington, DC, USA.
 

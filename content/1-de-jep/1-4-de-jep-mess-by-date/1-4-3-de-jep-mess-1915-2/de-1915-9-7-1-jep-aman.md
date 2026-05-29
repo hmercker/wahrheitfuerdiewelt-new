@@ -2,18 +2,20 @@
 title: "Aman macht eine Korrektur"
 menu_title: ""
 description: "Aman macht eine Korrektur"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Aman macht eine Korrektur
 
-Aman - empfangen durch James Padgett am 7. September 1915, Washington, DC, USA.
+*aman-macht-eine-korrektur-jep-aman-7-september-1915.md*
+
+Aman - empfangen von James Padgett 7. September 1915, Washington, DC, USA.
 
 Ich bin hier, Aman.
 
-Ja, und ich möchte etwas korrigieren, [was ich zuvor geschrieben habe](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-8-29-1-jep-aman/): dass ich nie ein spirituelles Wesen war, das lediglich Unsterblichkeit haben wollte, da Gott unsterblich war, sondern dass ich auch die Kraft und Weisheit erlangen wollte, die Gott meiner Ansicht nach besaß.
+Ja, und ich möchte etwas korrigieren, [was ich zuvor geschrieben habe](/padgett-botschaften/padgett-botschaften-in-reihenfolge-des-datums/padgett-botschaften-1915-januar-august/aman-der-erste-elternteil-offenbart-seine-versuchung-und-seinen-fall-jep-aman-29-august-1915/): dass ich nie ein spirituelles Wesen war, das lediglich Unsterblichkeit haben wollte, da Gott unsterblich war, sondern dass ich auch die Kraft und Weisheit erlangen wollte, die Gott meiner Ansicht nach besaß.
 
 Ich dachte, wenn ich diese Eigenschaften erlangen könnte, würde ich ein Gott werden und meinem Schöpfer gleichgestellt sein, und damit der Besitzer des ganzen Universums und aller Macht und allen Wissens, die er besaß. Mein Bemühen, meinen Ehrgeiz in diesen Einzelheiten zu verwirklichen, war ein Teil meiner großen Sünde des Ungehorsams.
 

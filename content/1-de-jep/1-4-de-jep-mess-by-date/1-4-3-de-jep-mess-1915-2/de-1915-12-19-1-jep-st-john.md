@@ -2,14 +2,16 @@
 title: "Die Wahrheit über die Höllen"
 menu_title: ""
 description: "Die Wahrheit über die Höllen"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Die Wahrheit über die Höllen [^1]
 
-Johannes - empfangen durch James Padgett am 19. Dezember 1915 [^2]>, Washington, DC, USA.
+*die-wahrheit-ueber-die-hoellen-jep-johannes-19-dezember-1915.md*
+
+Johannes - empfangen durch James Padgett am 19. Dezember 1915 [^2], Washington, DC, USA.
 
 Ich bin hier, Johannes.
 
@@ -25,5 +27,4 @@ Ohne heute Abend mehr zu schreiben, werde ich also sagen, dass ich es bin, dein 
 <small>
 
 [^1]: Diese Botschaft ist eine Zusammenstellung von zweien, die in Band II auf Seite 382 und Band III auf Seite 101 veröffentlicht wurde.
-
 [^2]: Dieses Datum wurde von dem Archiven bestätigt.

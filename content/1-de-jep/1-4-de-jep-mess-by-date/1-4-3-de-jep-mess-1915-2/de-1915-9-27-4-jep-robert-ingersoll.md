@@ -2,14 +2,16 @@
 title: "Agnostiker nicht mehr, jetzt ein reuevoller Gläubiger"
 menu_title: ""
 description: "Agnostiker nicht mehr, jetzt ein reuevoller Gläubiger"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Agnostiker nicht mehr, jetzt ein reuevoller Gläubiger
 
-Robert Ingersoll [^1] - empfangen durch James Padgett am 27. September 1915, Washington, DC, USA.
+*agnostiker-nicht-mehr-jetzt-ein-reuevoller-glaeubiger-jep-robert-ingersoll-27-september-1915.md*
+
+Robert Ingersoll [^1] - empfangen von James Padgett am 27. September 1915, Washington, DC, USA.
 
 Ich muss ein Wort sagen, denn mein Herz ist so erfüllt von Bedauern und Reue und der Erinnerung an meine schrecklichen Fehler, die ich auf Erden begangen habe, dass ich meine Seele von ihren Lasten befreien muss, soweit ein Geständnis dies tun kann.
 
@@ -28,7 +30,6 @@ Ich sage dir, dass du wunderbar begünstigt bist, nicht nur dadurch, dass du fü
 Ich hatte keine Vorstellung davon, was die Herrlichkeit Gottes bedeutet oder was die Macht Gottes bedeuten könnte und am allerwenigsten nahm ich an, dass irgendein spirituelles Wesen in der ganzen spirituellen Welt möglicherweise eine solche Herrlichkeit besitzen oder eine solche Macht manifestieren könnte. Aber Jesus Christus besitzt die Herrlichkeit und Macht in einem solchen Ausmaß, dass er fast gottähnlich wird.
 
 Wie ich sagte, war ich anwesend und beobachtete ihn, als er dir schrieb und auch das, was er schrieb, und als er dir dann sagte, dass er dich für sein Werk auserwählt hatte, war er der schöne, liebende Jesus, der er immer ist, wie ich ihn gesehen hatte; Aber als er fortfuhr, und du die Möglichkeiten solcher Dinge bezweifeltest und selbst um zu bezweifeln, ob Jesus dir wirklich schrieb, kam in sein Antlitz ein wunderbarer Blick von Autorität und Macht und dann die wunderbarere Helligkeit, die die Mittagssonne überstrahlte und eine unbeschreibliche Herrlichkeit, auf die keiner von uns blicken konnte, und wir fielen auf die Erde nieder, wie du sagen würdest.
-
 Oh, ich sage dir, die Macht, die von ihm ausging, war jenseits jeder Vorstellung, und die wundersame Autorität, die in seinem ganzen Wesen erschien, konnte weder von spirituellen Wesen noch von Sterblichen aufgehalten werden - und wir waren von Ehrfurcht und Bewunderung erfüllt. Als er mit dem Schreiben fertig war, verließen ihn die Herrlichkeit und der Glanz, die ich schildere, und er erschien wieder als der demütige, liebende, aber schöne Meister; und bevor er uns verließ, gab er uns seinen Segen - und zu mir kam ein großer Frieden, der jedes Verständnis übersteigt. Ich weiß jetzt, dass Jesus mein Erlöser ist und dass die Göttliche Liebe des Vaters eine real existierende Sache ist und ich bemühe mich, sie zu erlangen.
 
 Ich glaube an die Neue Geburt und ich bete dafür und deine liebe Großmutter sagt mir, dass ich sie bald bekommen werde. Deshalb sage ich jetzt, dass du der Welt erklären kannst, dass Ingersoll, der Agnostiker, kein Agnostiker mehr ist, sondern ein Gläubiger an die Göttliche Liebe des Vaters und an Jesus Christus, seinen geliebten Sohn, und an den Weg und die Wahrheit und das Leben.
@@ -38,4 +39,4 @@ Ich werde heute Abend nicht mehr schreiben, aber wenn ich meine Gedanken und Gef
 Ich bin Dein Freund, R G Ingersoll.
 <small>
 
-[^1]: Robert Green "Bob" Ingersoll (11. August 1833 - 21. Juli 1899) war ein amerikanischer Anwalt, ein Bürgerkriegsveteran, politischer Führer und Redner der Vereinigten Staaten während des Goldenen Zeitalters des freien Denkens, bekannt für sein breites kulturelles Spektrum und seine Verteidigung des Agnostizismus. Er erhielt den Spitznamen "Der große Agnostiker". Quelle: Wikipedia.
+[^1]: Robert Green „Bob” Ingersoll (11. August 1833 - 21. Juli 1899) war ein amerikanischer Anwalt, ein Bürgerkriegsveteran, politischer Führer und Redner der Vereinigten Staaten während des Goldenen Zeitalters des freien Denkens, bekannt für sein breites kulturelles Spektrum und seine Verteidigung des Agnostizismus. Er erhielt den Spitznamen „Der große Agnostiker”. Quelle: Wikipedia.

@@ -2,12 +2,27 @@
 title: "Helen schreibt über die große Liebe Jesu zu ihm"
 menu_title: ""
 description: "Helen schreibt über die große Liebe Jesu zu ihm"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Helen schreibt über die große Liebe Jesu zu ihm
 
-Helen Padgett - empfangen durch James Padgett am 14. Dezember 1915, Washington, DC, USA.
+*helen-schreibt-ueber-die-grosse-liebe-jesu-zu-ihm-jep-helen-padgett-14-dezember-1915.md*
 
+Helen - empfangen durch James Padgett am 14. Dezember 1915, Washington, DC, USA.
+
+Ich bin deine eigene Helen.
+
+Nun, mein lieber Ned, ich kann kaum schreiben, denn ich bin so voller Ehrfurcht vor den Geschehnissen des heutigen Abends, dass meine Kraft zu schreiben mich fast verlassen hat.
+
+Aber mein Liebling, ich muss dir sagen, dass du dem Meister sehr lieb bist und ein Kind der Liebe des Vaters in sehr hohem Maße.
+
+Eine solche Liebe habe ich noch nie gesehen und auch nicht erwartet, vor allem dir geschenkt wurde, der du mir so lieb bist.
+
+Ich darf nicht versuchen, heute Abend mehr zu schreiben, da ich so von Liebe und Wundern und Dankbarkeit erfüllt bin, dass ich kaum denken kann. Also, mein lieber Ned, liebe mich von ganzem Herzen und ganzer Seele und glaube, dass ich dich auch liebe. Aber wenn ich an diese Nacht und die große Liebe denke, die dir geschenkt wurde, erscheint mir meine Liebe wie ein bloßer Schatten; aber es ist alles, was ich dir zu geben habe und ich gebe alles, was ich habe.
+
+Also, Liebling, gute Nacht.
+
+Deine eigene wahre und dich liebende, Helen.

@@ -2,12 +2,14 @@
 title: "Ann Rollins bestätigte, dass der Meister mit solcher Kraft und Herrlichkeit schrieb"
 menu_title: ""
 description: "Ann Rollins bestätigte, dass der Meister mit solcher Kraft und Herrlichkeit schrieb"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Ann Rollins bestätigte, dass der Meister mit solcher Kraft und Herrlichkeit schrieb
+
+*ann-rollins-bestaetigte-dass-der-meister-mit-solcher-kraft-und-herrlichkeit-schrieb-jep-ann-rollins-2-dezember-1915.md*
 
 Ann Rollins - empfangen durch James Padgett am 2. Dezember 1915, Washington, DC, USA.
 

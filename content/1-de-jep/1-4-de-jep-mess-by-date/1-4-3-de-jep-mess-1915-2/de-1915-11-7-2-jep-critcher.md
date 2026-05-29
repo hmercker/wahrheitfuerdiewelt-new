@@ -2,14 +2,16 @@
 title: "Critcher kam vorbei, um seine Enttäuschung über den Eintritt in die spirituelle Welt zu erklären"
 menu_title: ""
 description: "Critcher kam vorbei, um seine Enttäuschung über den Eintritt in die spirituelle Welt zu erklären"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Critcher kam vorbei, um seine Enttäuschung über den Eintritt in die spirituelle Welt zu erklären
 
-Critcher - empfangen durch James Padgett am 7. November 1915, Washington, DC, USA.
+*critcher-kam-vorbei-um-seine-enttaeuschung-ueber-den-eintritt-in-die-spirituelle-welt-zu-erklaeren-jep-critcher-7-november-1915.md*
+
+John Critcher - empfangen durch James Padgett am 7. November 1915, Washington, DC, USA.
 
 Ich bin hier, John Critcher.
 

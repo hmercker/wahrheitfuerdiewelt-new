@@ -2,18 +2,20 @@
 title: "Das Blut Jesu rettet nicht von der Sünde"
 menu_title: ""
 description: "Das Blut Jesu rettet nicht von der Sünde"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### Das Blut Jesu rettet nicht von der Sünde [^1]
+### Das Blut Jesu rettet nicht von der Sünde  [^1]
 
-Ann Rollins - empfangen durch James Padgett am 5. September 1915, Washington, DC, USA.
+*das-blut-jesu-rettet-nicht-von-der-suende-jep-ann-rollins-5-september-1915.md*
+
+Ann Rollins - empfangen von James Padgett am 5. September 1915, Washington, DC, USA.
 
 Ich werde auch ein Wort sagen. Ich bin deine eigene liebe Großmutter.
 
-Ich bin gekommen, um dir zu sagen, dass ich jetzt weiß, dass das Blut Jesu nicht vor der Sünde rettet. Du wirst dich daran erinnern, wie ich auf Erden an diese Lehre vom Irrtum geglaubt habe. Wie ich immer davon sprach, dass das kostbare Blut Jesu von aller Sünde retten kann, und wie ich mit ganzem Herzen und Glauben den alten Hymnus sang: "Es gibt einen Brunnen, der mit Blut gefüllt ist" und so weiter. Nun weiß ich, dass dieser Glaube völlig falsch ist und dass Jesus so sehr darauf bedacht ist, die Menschen lernen zu lassen, dass dies ein großer Irrtum und ein Stolperstein für den Fortschritt der Seele ist.
+Ich bin gekommen, um dir zu sagen, dass ich jetzt weiß, dass das Blut Jesu nicht vor der Sünde rettet. Du wirst dich daran erinnern, wie ich auf Erden an diese Lehre vom Irrtum geglaubt habe. Wie ich immer davon sprach, dass das kostbare Blut Jesu von aller Sünde retten kann, und wie ich mit ganzem Herzen und Glauben den alten Hymnus sang: „Es gibt einen Brunnen, der mit Blut gefüllt ist” und so weiter. Nun weiß ich, dass dieser Glaube völlig falsch ist und dass Jesus so sehr darauf bedacht ist, die Menschen lernen zu lassen, dass dies ein großer Irrtum und ein Stolperstein für den Fortschritt der Seele ist.
 
 Natürlich weiß ich, dass die überwiegende Mehrheit der jetzt Lebenden niemals glauben wird, dass dieser Ausspruch der Bibel falsch ist, bis sie in die spirituelle Welt kommen; aber wenn man sie nur lehren könnte, diesen Glauben abzulegen und sich auf Erden ganz auf die Göttliche Liebe für ihre Rettung zu verlassen, wie viel leichter wäre ihr Fortschritt, wenn sie herüberkämen. Du siehst also, dass viele zwar sagen, ein Glaube sei nicht viel wert, aber ich sage dir, dass er mehr Unglück verursacht und den Fortschritt der spirituellen Wesen mehr als jede andere Sache verzögert.
 

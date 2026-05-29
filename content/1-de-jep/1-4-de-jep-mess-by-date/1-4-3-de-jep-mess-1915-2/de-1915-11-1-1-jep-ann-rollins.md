@@ -2,14 +2,16 @@
 title: "Der Glaube an die unverzeihliche Sünde ist Verleumdung und Gotteslästerung"
 menu_title: ""
 description: "Der Glaube an die unverzeihliche Sünde ist Verleumdung und Gotteslästerung"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Der Glaube an die unverzeihliche Sünde ist Verleumdung und Gotteslästerung [^1]
 
-Ann Rollins - empfangen durch James Padgett am 1. November 1915, Washington, DC, USA.
+*der-glaube-an-die-unverzeihliche-suende-ist-verleumdung-und-gotteslaesterung-jep-ann-rollins-1-november-1915.md*
+
+Ann Rollins - empfangen durch James Padgett am 1.November 1915, Washington, DC, USA.
 
 Ich bin hier, deine Großmutter.
 
@@ -17,7 +19,7 @@ Ich habe deinem Gespräch heute Abend zugehört und freue mich sehr zu sehen, da
 
 Die Frage der unverzeihlichen Sünde ist für die Welt von größter Bedeutung, vor allem angesichts der Tatsache, dass so viele der orthodoxen Minister lehren, dass sie eine Sache der realen Existenz und in ihren Folgen so schrecklich ist. Aber dem Meister sei Dank, dass diese Lehre in naher Zukunft nicht unangefochten bleiben darf, denn die Wahrheit in diesem speziellen Fall wird so deutlich gemacht werden, dass die Menschen aufhören werden, an sie zu glauben und als Folge davon von einer Furcht befreit werden, die so manchen davon abgehalten hat, die Liebe und Gunst des Vaters zu suchen
 
-Ich weiß, dass diese Enthüllung der Wahrheit viele dieser Prediger antagonisieren wird, die sehen, dass sie eines der stärksten Instrumente ist, das es ihnen ermöglicht, ihre Organisation zusammenzuhalten. Aber dieser Antagonismus wird keinen Nutzen bringen, denn die Wahrheit wird sich durchsetzen und die Menschheit wird, wenn sie dazu kommt für sich selbst zu denken, diese Wahrheit mit Freude und Jubel annehmen. Wie merkwürdig, dass die bekennenden Amtsträger Christi den einen liebenden Vater so verleumden und lästern und die Menschen dazu bringen, ihn als einen Gott des unersättlichen Zorns anzusehen, der, weil ein Mensch sich weigert, an die Lehren der Kirchen zu glauben, ihn der ewigen Strafe und der Hölle preisgibt; und wenn er in einen solchen Zustand der Herzenshärte gerät, dass, wie euer Prediger sagte, "nicht einmal Gott selbst die Macht haben wird, zu retten". Oh, es ist bedauernswert, dass solche irrigen und schädlichen Lehren gelehrt werden, und schlimmer noch als alles andere, von bekennenden Dienern des liebenden und demütigen Jesus.
+Ich weiß, dass diese Enthüllung der Wahrheit viele dieser Prediger antagonisieren wird, die sehen, dass sie eines der stärksten Instrumente ist, das es ihnen ermöglicht, ihre Organisation zusammenzuhalten. Aber dieser Antagonismus wird keinen Nutzen bringen, denn die Wahrheit wird sich durchsetzen und die Menschheit wird, wenn sie dazu kommt für sich selbst zu denken, diese Wahrheit mit Freude und Jubel annehmen. Wie merkwürdig, dass die bekennenden Amtsträger Christi den einen liebenden Vater so verleumden und lästern und die Menschen dazu bringen, ihn als einen Gott des unersättlichen Zorns anzusehen, der, weil ein Mensch sich weigert, an die Lehren der Kirchen zu glauben, ihn der ewigen Strafe und der Hölle preisgibt; und wenn er in einen solchen Zustand der Herzenshärte gerät, dass, wie euer Prediger sagte, „nicht einmal Gott selbst die Macht haben wird, zu retten”. Oh, es ist bedauernswert, dass solche irrigen und schädlichen Lehren gelehrt werden, und schlimmer noch als alles andere, von bekennenden Dienern des liebenden und demütigen Jesus.
 
 Deshalb, mein Sohn, tue du und dein Freund, wann immer sich die Gelegenheit bietet, diese ungeheuerliche Lehre zu bekämpfen, tue dies mit all deiner Kraft und Überzeugungskraft und zeige und verkünde der Welt, dass diese Lehre nicht wahr ist und dass für jeden Sünder eine Gelegenheit zur Errettung besteht und dass Gott den Menschen liebt, der nicht an ihn glauben will, genauso wie er den Gläubigen liebt, nur darf der erstere nicht an der göttlichen Natur teilhaben wie der letztere.
 

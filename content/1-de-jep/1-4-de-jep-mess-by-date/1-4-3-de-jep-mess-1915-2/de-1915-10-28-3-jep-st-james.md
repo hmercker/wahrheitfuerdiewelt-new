@@ -2,12 +2,14 @@
 title: "Die Wahrheiten dürfen weder durch Predigten oder Lehren noch durch Hinweise auf die Bibel widerlegt werden"
 menu_title: ""
 description: "Die Wahrheiten dürfen weder durch Predigten oder Lehren noch durch Hinweise auf die Bibel widerlegt werden"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Die Wahrheiten dürfen weder durch Predigten oder Lehren noch durch Hinweise auf die Bibel widerlegt werden
+
+*die-wahrheiten-duerfen-weder-durch-predigten-oder-lehren-noch-durch-hinweise-auf-die-bibel-widerlegt-werden-jep-jakobus-28-oktober-1915.md*
 
 Jakobus - empfangen durch James Padgett am 28. Oktober 1915, Washington, DC, USA.
 

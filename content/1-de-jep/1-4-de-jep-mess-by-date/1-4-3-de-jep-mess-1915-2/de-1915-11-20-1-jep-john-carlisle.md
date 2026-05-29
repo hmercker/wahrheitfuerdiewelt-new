@@ -2,14 +2,16 @@
 title: "Carlisle schreibt über sein Leiden und die Finsternis, in der er sich befindet und bittet um Hilfe"
 menu_title: ""
 description: "Carlisle schreibt über sein Leiden und die Finsternis, in der er sich befindet und bittet um Hilfe"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Carlisle schreibt über sein Leiden und die Finsternis, in der er sich befindet und bittet um Hilfe
 
-John Carlisle [^1] - empfangen durch James Padgett am 20. November 1915, Washington, DC, USA.
+*carlisle-schreibt-ueber-sein-leiden-und-die-finsternis-in-der-er-sich-befindet-und-bittet-um-hilfe-jep-john-carlisle-20-november-1915.md*
+
+John Carlisle [^1]  - empfangen durch James Padgett am 20. November 1915, Washington, DC, USA.
 
 Lass mich schreiben, John G Carlisle.
 
@@ -21,7 +23,7 @@ Es genügt zu sagen, dass ich jetzt die Strafen für mein böses Leben bezahle, 
 
 Ich werde kommen und dein Versprechen einfordern; und wenn du Erfolg hast, werde ich dir ewig dankbar sein.
 
-Ja, ich habe [ihn](/1-de-jep/1-4-de-jep-mess-by-date/1-4-2-de-jep-mess-1915-1/de-1915-8-13-6-jep-grover-cleveland/) (Cleveland) bei mehreren Gelegenheiten gesehen und mit ihm gesprochen, aber er scheint in einem besseren Zustand zu sein als ich, aus irgendeinem Grund, den ich nicht verstehe. Wir waren uns in bestimmten Einzelheiten sehr ähnlich, als wir auf der Erde waren, aber er scheint einige Mittel gefunden zu haben, die es ihm ermöglichen, in einem besseren Zustand zu leben als ich.
+Ja, ich habe [ihn](/padgett-botschaften/padgett-botschaften-in-reihenfolge-des-datums/padgett-botschaften-1915-januar-august/grover-cleveland-kommt-zu-herrn-padgett-und-bittet-um-hilfe-jep-grover-cleveland-13-august-1915/) (Cleveland) bei mehreren Gelegenheiten gesehen und mit ihm gesprochen, aber er scheint in einem besseren Zustand zu sein als ich, aus irgendeinem Grund, den ich nicht verstehe. Wir waren uns in bestimmten Einzelheiten sehr ähnlich, als wir auf der Erde waren, aber er scheint einige Mittel gefunden zu haben, die es ihm ermöglichen, in einem besseren Zustand zu leben als ich.
 
 Nein, ich bin Herrn Riddle nie begegnet und weiß nicht, dass er in der spirituellen Welt ist, aber nach dem, was du sagst, vermute ich, dass er es ist. Aber warum fragst du? Du weißt, dass ich sehr viele der Männer in der Öffentlichkeit kannte und zwar so viele besser als ich Riddle kannte und daher bin ich ein wenig gespannt, warum du mich fragst, ob ich ihn gesehen habe. Nun, du machst mich unruhig, ihn zu treffen, und sollte ich ihn treffen, werde ich mich an deine Worte erinnern.
 
@@ -34,7 +36,7 @@ Nun, er hat mit mir gesprochen und mir gesagt, dass er sich freut, mich zu sehen
 Also, mein Freund, ich muss dich verlassen, aber damit möchte ich dir meine Dankbarkeit für das ausdrücken, was du getan hast, und für deine freundlichen Gedanken. Glaube mir also, wenn ich sage, dass ich sehr dankbar bin.
 Lebe wohl, dein Freund, John G Carlisle.
 
-**Anmerkung:** *Später kehrt er zurück, um die gute Nachricht über [seine Fortschritte](/1-de-jep/1-4-de-jep-mess-by-date/1-4-4-de-jep-mess-1916/de-1916-3-7-2-jep-john-carlisle/) mitzuteilen.*
+**Anmerkung:** *Später kehrt er zurück, um die gute Nachricht über [seine Fortschritte](/padgett-botschaften/padgett-botschaften-in-reihenfolge-des-datums/padgett-botschaften-1916/carlisle-ein-alter-freund-von-padgett-sucht-seine-hilfe-um-aus-der-dunkelheit-herauszukommen-jep-john-carlisle-7-maerz-1916/) mitzuteilen.*
 <small>
 
 [^1]: John Griffin Carlisle (5. September 1834 - 31. Juli 1910) war im letzten Viertel des 19. Jahrhunderts ein prominenter amerikanischer Politiker in der Demokratischen Partei. Er war von 1883 bis 1889 Sprecher des Repräsentantenhauses der Vereinigten Staaten und von 1893 bis 1897 während der Panik von 1893 als Finanzminister tätig. Als Bourbon-Demokrat war er zusammen mit Präsident Grover Cleveland ein Führer des konservativen, wirtschaftsfreundlichen Flügels der Partei. Quelle: Wikipedia

@@ -2,14 +2,16 @@
 title: "Bestätigung, dass Jesus seine Herrlichkeit, Macht und Autorität zeigte"
 menu_title: ""
 description: "Bestätigung, dass Jesus seine Herrlichkeit, Macht und Autorität zeigte"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Bestätigung, dass Jesus seine Herrlichkeit, Macht und Autorität zeigte
 
-Johannes  - empfangen durch James Padgett am 27. September 1915, Washington, DC, USA.
+*bestaetigung-dass-jesus-seine-herrlichkeit-macht-und-autoritaet-zeigte-jep-johannes-27-september-1915.md*
+
+Johannes - empfangen von James Padgett am 27. September 1915, Washington, DC, USA.
 
 Ich bin hier, Johannes, Apostel Jesu.
 

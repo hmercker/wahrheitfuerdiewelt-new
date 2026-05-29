@@ -2,14 +2,16 @@
 title: "Der Vater von Padgett schreibt über den gegenwärtigen spirituellen Zustand seiner Freunde"
 menu_title: ""
 description: "Der Vater von Padgett schreibt über den gegenwärtigen spirituellen Zustand seiner Freunde"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Der Vater von Padgett schreibt über den gegenwärtigen spirituellen Zustand seiner Freunde
 
-John H Padgett - empfangen durch James Padgett am 11. November 1915, Washington, DC, USA.
+*der-vater-von-padgett-schreibt-ueber-den-gegenwaertigen-spirituellen-zustand-seiner-freunde-jep-john-h-padgett-11-november-1915.md*
+
+John Padgett - empfangen durch James Padgett am 11. November 1915, Washington, DC, USA.
 
 Ich bin hier, dein Vater.
 

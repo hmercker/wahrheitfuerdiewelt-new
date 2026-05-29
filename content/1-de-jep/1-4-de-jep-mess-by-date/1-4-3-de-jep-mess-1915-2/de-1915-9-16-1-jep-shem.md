@@ -2,14 +2,16 @@
 title: "Der Vater eines der Stämme Israels ist heute ein Bewohner der Göttlichen Himmel"
 menu_title: ""
 description: "Der Vater eines der Stämme Israels ist heute ein Bewohner der Göttlichen Himmel"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Der Vater eines der Stämme Israels ist heute ein Bewohner der Göttlichen Himmel
 
-Shem - empfangen durch James Padgett am 16. September 1915, Washington, DC, USA.
+*der-vater-eines-der-staemme-israels-ist-heute-ein-bewohner-der-goettlichen-himmel-jep-shem-16-september-1915.md*
+
+Shem - empfangen von James Padgett am 16. September 1915, Washington, DC, USA.
 
 Ich bin hier, Shem.
 

@@ -2,14 +2,16 @@
 title: "Die Wichtigkeit der Seelenreligion"
 menu_title: ""
 description: "Die Wichtigkeit der Seelenreligion"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Die Wichtigkeit der Seelenreligion
 
-Papst Gregor - empfangen durch James Padgett am 7. November 1915, Washington, DC, USA.
+*die-wichtigkeit-der-seelenreligion-jep-papst-gregor-7-november-1915.md*
+
+Gregor - empfangen durch James Padgett am 7. November 1915, Washington, DC, USA.
 
 Ich bin hier, Gregor. [^1]
 
@@ -26,4 +28,4 @@ Ich finde nicht, dass die Kirche seit meiner Zeit sich viel verbessert hat und v
 Dein Freund und Bruder in Christus, Gregor, der Papst.
 <small>
 
-[^1]: Papst Gregor I. (ca. 540 - 12. März 604), allgemein bekannt als Gregor der Große, war vom 3. September 590 bis zu seinem Tod im Jahr 604 das Oberhaupt der katholischen Kirche. Gregor ist bekannt für seine Schriften, die umfangreicher waren als die aller seiner Vorgänger als Papst. Im gesamten Mittelalter war er als "Vater des christlichen Gottesdienstes" bekannt, weil er sich besonders für die Überarbeitung des römischen Gottesdienstes seiner Zeit einsetzte. Quelle: Wikipedia.
+[^1]: Papst Gregor I. (ca. 540 - 12. März 604), allgemein bekannt als Gregor der Große, war vom 3. September 590 bis zu seinem Tod im Jahr 604 das Oberhaupt der katholischen Kirche. Gregor ist bekannt für seine Schriften, die umfangreicher waren als die aller seiner Vorgänger als Papst. Im gesamten Mittelalter war er als „Vater des christlichen Gottesdienstes” bekannt, weil er sich besonders für die Überarbeitung des römischen Gottesdienstes seiner Zeit einsetzte. Quelle: Wikipedia.

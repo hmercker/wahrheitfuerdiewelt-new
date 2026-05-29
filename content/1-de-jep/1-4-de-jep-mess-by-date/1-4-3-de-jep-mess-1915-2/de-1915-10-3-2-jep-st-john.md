@@ -2,18 +2,20 @@
 title: "Die Bedeutung der Jesus-Botschaft bei der Auswahl von Dr. Stone"
 menu_title: ""
 description: "Die Bedeutung der Jesus-Botschaft bei der Auswahl von Dr. Stone"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Die Bedeutung der Jesus-Botschaft bei der Auswahl von Dr. Stone [^1]
 
-Johannes - empfangen durch James Padgett am 3. Oktober 1915, Washington, DC, USA.
+*die-bedeutung-der-jesusbotschaft-bei-der-auswahl-von-dr-stone-jep-johannes-3-oktober-1915.md*
+
+Johannes - empfangen von James Padgett am 3. Oktober 1915, Washington, DC, USA.
 
 Ich bin hier, Johannes.
 
-Ich bin nur gekommen, um dir zu sagen, dass du vom Meister eine Botschaft erhalten hast, die wichtiger ist, als dir im Augenblick bewusst ist. Ich beziehe mich insbesondere auf den Teil, in dem es heißt, dass [dein Freund (Dr. Stone) für eine Arbeit ausgewählt wurde](/1-de-jep/1-4-de-jep-mess-by-date/1-4-3-de-jep-mess-1915-2/de-1915-10-3-1-jep-jesus/), die von großer Bedeutung ist. Ich weiß, wie wichtig diese Arbeit sein wird, und er wird davon beeindruckt sein und wahrscheinlich zögern, sie in Angriff zu nehmen, aber er darf nicht zögern, denn er wird alle Befugnisse erhalten, die er haben muss, um das zu tun, was von ihm verlangt wird. Ihr beide seid sehr begünstigt, weil ihr für diese Missionen ausgewählt wurdet und ihr dürft nicht daran zweifeln, dass ihr ausgewählt wurdet, dass der Meister euch schreibt oder dass ihr die Macht habt, die euch übertragen wird und die euch die Arbeit ermöglicht.
+Ich bin nur gekommen, um dir zu sagen, dass du vom Meister eine Botschaft erhalten hast, die wichtiger ist, als dir im Augenblick bewusst ist. Ich beziehe mich insbesondere auf den Teil, in dem es heißt, dass [dein Freund (Dr. Stone) für eine Arbeit ausgewählt wurde](/padgett-botschaften/padgett-botschaften-in-reihenfolge-des-datums/padgett-botschaften-1915-september-dezember/jesus-empfiehlt-padgett-die-spiritistenkirche-in-washington-zu-besuchen-jep-jesus-3-oktober-1915/), die von großer Bedeutung ist. Ich weiß, wie wichtig diese Arbeit sein wird, und er wird davon beeindruckt sein und wahrscheinlich zögern, sie in Angriff zu nehmen, aber er darf nicht zögern, denn er wird alle Befugnisse erhalten, die er haben muss, um das zu tun, was von ihm verlangt wird. Ihr beide seid sehr begünstigt, weil ihr für diese Missionen ausgewählt wurdet und ihr dürft nicht daran zweifeln, dass ihr ausgewählt wurdet, dass der Meister euch schreibt oder dass ihr die Macht habt, die euch übertragen wird und die euch die Arbeit ermöglicht.
 
 Ich interessiere mich für euch beide und ihr müsst euch daran erinnern, dass ihr zwar schwache und unbedeutende Sterbliche seid, dass ihr aber dennoch die große Macht der himmlischen Welt mit Jesus als Führer hinter euch habt und euch aufrechterhaltet. Was für eine wunderbare Sache ist das! Warum hatten wir, als wir als Sterbliche auserwählt wurden um Jünger des Meisters zu werden, nie diese Macht uns zu unterstützen?  Jesus selbst war damals nicht so mächtig wie heute und er hatte damals nicht die himmlischen Sphären mit all den Mächten gebildet, die jetzt dort existieren.
 

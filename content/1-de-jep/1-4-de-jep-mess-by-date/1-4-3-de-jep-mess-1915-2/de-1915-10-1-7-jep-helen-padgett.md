@@ -1,13 +1,24 @@
 ---
-title: "Helen bestätigt, dass Salomon durch Herrn Padgett geschrieben hat"
+title: "Helen bestätigt, dass Salomo durch Herrn Padgett geschrieben hat"
 menu_title: ""
-description: "Helen bestätigt, dass Salomon durch Herrn Padgett geschrieben hat"
-date: 2026-01-01 00:00:00+00:00
+description: "Helen bestätigt, dass Salomo durch Herrn Padgett geschrieben hat"
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### Helen bestätigt, dass Salomon durch Herrn Padgett geschrieben hat
+### Helen bestätigt, dass Salomo durch Herrn Padgett geschrieben hat
 
-Helen Padgett - empfangen durch James Padgett am 1. Oktober 1915, Washington, DC, USA.
+*helen-bestaetigt-dass-salomon-durch-herrn-padgett-geschrieben-hat-jep-helen-padgett-1-oktober-1915.md*
 
+Helen - empfangen von James Padgett am 1. Oktober 1915, Washington, DC, USA.
+
+Ich bin hier, Helen.
+
+Nun, du hast heute Abend sicherlich einige wundervolle Botschaften erhalten.
+
+Was [Salomo dir geschrieben hat](/padgett-botschaften/padgett-botschaften-in-reihenfolge-des-datums/padgett-botschaften-1915-september-dezember/hintergruende-warum-james-padgett-auserwaehlt-wurde-jep-salomon-1-oktober-1915/), ist wahr, denn ich habe den Meister dasselbe sagen hören, wie er mir gesagt hat, dass du aus den von Salomo genannten Gründen ausgewählt wurdest. Wie musst du dem Vater für diese Gunst und diesen Segen danken?
+
+Welch ein Werk ist dein Werk und welch eine Verantwortung auch. Aber du wirst nicht scheitern, denn du wirst von der Himmlischen Welt eine solche Hilfe erhalten, die dich nicht scheitern lässt. Ich werde nicht mehr schreiben, sondern nur sagen, dass ich dich von ganzem Herzen liebe.
+
+Von ganzem Herzen, wahrhaftig und liebevoll, Helen.

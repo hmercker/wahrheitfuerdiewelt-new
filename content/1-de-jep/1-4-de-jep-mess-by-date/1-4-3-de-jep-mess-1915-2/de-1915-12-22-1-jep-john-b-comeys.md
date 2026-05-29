@@ -2,12 +2,14 @@
 title: "Die Erfahrung der spirituellen Wesen beim Eintritt in die spirituelle Welt und ihr Fortschritt"
 menu_title: ""
 description: "Die Erfahrung der spirituellen Wesen beim Eintritt in die spirituelle Welt und ihr Fortschritt"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-05-29 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Die Erfahrung der spirituellen Wesen beim Eintritt in die spirituelle Welt und ihr Fortschritt
+
+*die-erfahrung-der-spirituellen-wesen-beim-eintritt-in-die-spirituelle-welt-und-ihr-fortschritt-jep-john-b-comeys-22-dezember-1915.md*
 
 John B Comeys - empfangen durch James Padgett am 22. Dezember 1915, Washington, DC, USA.
 
@@ -24,7 +26,6 @@ Aber nach diesem ersten Gespräch muss sich das spirituelle Wesen aufgrund des G
 Kein spirituelles Wesen wird, nachdem es einmal an den Ort gelangt ist, an dem es leben kann, jemals rückläufig sein, auch wenn es für eine lange Anzahl von Jahren stillsteht und niemals Fortschritte macht. Aber das ist eine Wahrheit, die vielen Sterblichen und auch den spirituellen Wesen nicht bekannt ist, dass der Zustand des Sterblichen zu dem Zeitpunkt, da er ein spirituelles Wesen wird, seinen Zustand und seinen Lebensort beim ersten Eintritt in die spirituelle Welt festlegt; nachdem er durch das Gesetz der Anziehung, wie ich gesagt habe, an einen solchen Ort gebracht worden ist, und wenn dieser Ort einmal gefunden und besetzt ist, geht das spirituelle Wesen nie an einen niedrigeren Ort; aber es wird entweder lange Zeit an diesem Ort bleiben oder voranschreiten - und schließlich in allen Fällen voranschreiten.
 
 Nun, die bösen Wesen finden diese Wohnorte in den Erdenebenen, die zahlreich und vielfältig sind und viele verschiedene Erscheinungsformen haben, die den Bedingungen der Wesen entsprechen, die sie besetzen werden. Von einem spirituellen Wesen, das sich auf der untersten dieser Erdenebenen befindet, sagt man, es sei in den niedrigsten Höllen, wie alle Wesen, die sich auf diesen Ebenen befinden, wo sie leiden und der Dunkelheit begegnen, glauben und sagen, sie seien in der Hölle. Aber dies ist nur ein Name, der der Einfachheit halber verwendet wird, denn die Höllen sind lediglich Orte, die einen Teil des einen großen Universums Gottes bilden.
-
 Diese Höllen sind, wie man sich vorstellen kann, sehr zahlreich, denn die Zustände der spirituellen Wesen sind sehr unterschiedlich, und jedes dieser Wesen hat einen seinem Zustand angepassten Ort, an dem er leben kann.
 
 Wenn sich das spirituelle Wesen von einigen dieser Bedingungen befreit, wodurch das Gesetz der Anziehung zum Tragen kommt, begibt es sich an einen höheren und besseren Ort und stellt fest, dass seine Umgebung nicht so dunkel und schmerzhaft ist. Und während sich dieser Fortschritt vollzieht, wird sich dieses spirituelle Wesen schließlich in den Ebenen des Lichts und des relativen Glücks wiederfinden, wo die bösen Erinnerungen ihn weitgehend verlassen haben und die guten Taten, die er auf Erden getan hat, dann zu ihm kommen und ein Glück verursachen, das ihn erkennen lässt, dass er nicht nur böse war und dass Gott gut zu ihm war, indem er ihn von den Sünden und bösen Gedanken befreit hat, die ihn an den Ort gebunden haben, von dem aus er sich entwickelt hat.
