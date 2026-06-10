@@ -7,9 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Das Blut Jesu rettet nicht von der Sünde  [^1]
-
-*das-blut-jesu-rettet-nicht-von-der-suende-jep-ann-rollins-5-september-1915.md*
+### Das Blut Jesu rettet nicht von der Sünde [^1]
 
 Ann Rollins - empfangen von James Padgett am 5. September 1915, Washington, DC, USA.
 

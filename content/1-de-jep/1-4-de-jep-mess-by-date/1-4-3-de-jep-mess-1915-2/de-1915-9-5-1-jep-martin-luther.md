@@ -9,8 +9,6 @@ weight:
 ---
 ### Die Bibel ist voller Widersprüche und Fehler
 
-*die-bibel-ist-voller-widersprueche-und-fehler-jep-martin-luther-5-september-1915.md*
-
 Martin Luther - empfangen von James Padgett am 5. September 1915, Washington, DC, USA.
 
 Ich bin hier, Luther, Martin Luther.

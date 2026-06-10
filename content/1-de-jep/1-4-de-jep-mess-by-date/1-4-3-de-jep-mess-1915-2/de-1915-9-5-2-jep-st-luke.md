@@ -9,8 +9,6 @@ weight:
 ---
 ### Lukas erklärt, dass das Evangelium in der Bibel nicht dasjenige ist, wie er es geschrieben hat
 
-*lukas-erklaert-dass-das-evangelium-in-der-bibel-nicht-dasjenige-ist-wie-er-es-geschrieben-hat-jep-lukas-5-september-1915.md*
-
 Lukas - empfangen von James Padgett am 5. September 1915, Washington, DC, USA.
 
 Ich schreibe ein wenig, da ich interessiert bin an dem, was du [von Luther heute Abend empfangen](/padgett-botschaften/padgett-botschaften-in-reihenfolge-des-datums/padgett-botschaften-1915-september-dezember/die-bibel-ist-voller-widersprueche-und-fehler-jep-martin-luther-5-september-1915/) hast und weil ich das Evangelium des Lukas geschrieben haben soll, möchte ich ein paar Dinge in Bezug auf die Richtigkeit oder vielmehr Unrichtigkeit der vielen Dinge die in meinem Evangelium enthalten sind, sagen. Wie du folgern kannst, ich bin Lukas, der Verfasser des dritten Evangeliums und ein Anhänger von Jesus.
