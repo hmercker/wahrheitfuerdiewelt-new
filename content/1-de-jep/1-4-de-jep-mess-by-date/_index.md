@@ -1,13 +1,13 @@
 ---
-title: "Botschaften chronologisch sortiert"
-menu_title: "Botschaften chronologisch sortiert"
-description: "Botschaften chronologisch sortiert"
+title: "Botschaften chronologisch geortnet"
+menu_title: "Botschaften chronologisch geortnet"
+description: "Botschaften chronologisch geortnet"
 date: 2026-02-24 00:00:00+00:00
 draft: False
 hidden: False
 weight: 40
 ---
-## Botschaften chronologisch sortiert
+## Botschaften chronologisch geortnet
 
 |
 |---
