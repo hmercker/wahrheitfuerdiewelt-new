@@ -1,15 +1,15 @@
 ---
-title: "James E. Padgett: Persönliche Botschaft"
+title: "Persönliche Botschaft"
 menu_title: ""
-description: "James E. Padgett: Persönliche Botschaft"
+description: "Persönliche Botschaft"
 date: 2020-08-01 06:25:48+00:53
 draft: False
 hidden: True
 weight:
 ---
-### James E. Padgett: Persönliche Botschaft
+### Persönliche Botschaft
 
-James E. Padgett - empfangen durch David Lampron am 21. Oktober 1977.
+James Padgett - empfangen durch David Lampron am 21. Oktober 1977.
 
 Ja, ich bin es, James E. Padgett, ein göttlicher Engel und einer deiner spirituellen Wesen, und ich bin so glücklich, dass ich dich endlich auf diese persönliche Art und Weise grüßen kann und dir meine tiefe Wertschätzung für alles, was du getan hast, übermitteln kann, nicht nur für die wunderbare Bearbeitung, die du vollbracht hast, sondern auch dafür, dass du mir eine Stimme und einen bedeutenden und wichtigen Beitrag in den Fragen und Aussagen gegeben hast, die du für mich kreiert hast, um sie unter die Botschaften in den drei Bänden aufzunehmen, die du bisher vollendet hast.
 

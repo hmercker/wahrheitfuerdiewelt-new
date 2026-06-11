@@ -2,12 +2,25 @@
 title: "Mary folgt dem Ruf ihres Seelenpartners Leslie"
 menu_title: ""
 description: "Mary folgt dem Ruf ihres Seelenpartners Leslie"
-date: 2026-01-01 00:00:00+00:00
+date: 2026-06-10 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
 ### Mary folgt dem Ruf ihres Seelenpartners Leslie
 
-Mary Kennedy - empfangen durch James Padgett, Washington, DC, USA.
+*mary-folgt-dem-ruf-ihres-seelenpartners-leslie-jep-mary-kennedy-undatiert.md*
 
+Mary Kennedy – empfangen durch James Padgett, Washington, DC, USA.
+
+Ja, ich bin hier, Mary Kennedy.
+
+Leslie liebt mich, wie kann ich wegbleiben, wenn er mich ruft.
+
+Natürlich würde ich antworten, denn er ist mein eigener lieber Seelenpartner und wenn seine Liebe mich ruft, muss ich antworten und deine Hand schütteln und dich wissen lassen, dass ich hier bin.
+
+Ich hatte Angst, dass du nicht mehr schreiben würdest und ich habe versucht, dich zu beeinflussen, damit du schreibst und deine Frau (Helen) auch, denn sie wusste, wie sehr ich das wollte.
+
+Ich werde kommen, wann immer er ruft und ich werde mir nicht mehr Zeit nehmen.
+
+Also mit all meiner Liebe, ich bin sein seine liebende, Mary.
