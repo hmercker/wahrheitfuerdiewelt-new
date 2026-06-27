@@ -9,7 +9,6 @@ weight:
 ---
 ### Hier folgt eine chronologische Anordnung von Auszügen des Jahres 1916
 
-
 #### Es gibt keine Teufel und keinen Satan und keine gefallene Engel
 
 Es gibt keine Engel, die Teufel geworden sind. Es gab niemals Engel, die aus Ambition oder aus anderen Gründen gegen die Regierungsgewalt Gottes revoltierten und dadurch ihren Stand als Engel verloren. Es gab niemals einen Lucifer, und es gab niemals Engel, die von den Zinnen des Himmels in die Hölle gestürzt worden waren. Es keine Teufel und keinen Satan, wenn man die als echte Personen oder gefallene Engel betrachtet.
