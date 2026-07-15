@@ -9,8 +9,6 @@ weight:
 ---
 ### Das Gesetz des Gebets
 
-*das-gesetz-des-gebets-dl-jesus-8-juli-1986.md*
-
 Jesus - empfangen durch David Lampron am 8. Juli 1986, 18. und 26. März 1987.
 
 Ich bin jetzt hier, mein geliebter Bruder in Christus, und ich komme heute zu dir mit meiner großen Liebe, die sich auf alle Mitarbeiter im irdischen Leben erstreckt, die danach streben, der Menschheit die Wahrheiten des Vaters zu vermitteln.

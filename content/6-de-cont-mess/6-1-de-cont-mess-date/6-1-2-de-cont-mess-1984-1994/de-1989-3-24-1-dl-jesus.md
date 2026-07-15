@@ -9,8 +9,6 @@ weight:
 ---
 ### Der Überbringer der frohen Botschaft
 
-*der-ueberbringer-der-frohen-botschaft-dl-jesus-24-maerz-1989.md*
-
 Jesus - empfangen durch David Lampron am 24. März 1989.
 
 *[Liebster Meister, Jesus, da heute Karfreitag und ein Urlaubstag für mich ist, dachte ich, dies wäre ein guter Zeitpunkt, um eine weitere deiner liebevollen und hilfreichen Botschaften zu empfangen; das heißt, wenn du jetzt verfügbar bist und ich in ausreichend guter Verfassung bin, um ein klarer Kanal für dich zu sein. Bitte sprich das Thema an, das du heute besprechen möchtest, lieber Meister. Ich bin sicher, dass alle unsere Kuratoren und vielleicht auch andere eines Tages sehr dankbar sein werden, wieder einmal deine Worte der Weisheit und Wahrheit zu empfangen.]*

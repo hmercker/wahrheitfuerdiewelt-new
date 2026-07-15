@@ -9,8 +9,6 @@ weight:
 ---
 ### Wahrheit und der Weg zur Vollkommenheit
 
-*wahrheit-und-der-weg-zur-vollkommenheit-dl-jesus-11-august-1988.md*
-
 Jesus - empfangen durch David Lampron am 11. August 1988.
 
 Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus, und ich komme an diesem schönen Tag und in dieser herrlichen Umgebung zu dir, um wieder einmal meine Gedanken von heute mit dir und anderen zu teilen. Ich bin natürlich der Jesus der Bibel und der Meister der Göttlichen Himmeln, und ich bin sehr glücklich über die Gelegenheit, wieder zu dir zu kommen und auf diese Weise zu deinem und dem Nutzen anderer zu kommunizieren.

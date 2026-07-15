@@ -9,8 +9,6 @@ weight:
 ---
 ### Bearbeitung von Band II
 
-*bearbeitung-von-band-ii-ks-james-padgett-9-maerz-1991.md*
-
 James Padgett - empfangen durch Kathryn Stokes am 9. März 1991.
 
 *[Lieber Vater der Liebe, A____ hat mich gefragt, ob ich eine schriftliche Nachricht von James E. Padgett erhalten könnte, um ihn zu fragen, wie er über die Arbeit denkt, die wir versuchen zu leisten, indem wir Fragen in den Botschaften, die er von Jesus und den Himmlischen Wesen erhalten hat, präsentieren, wo er und oder Dr. Stone offensichtlich eine Frage an die Engel gestellt haben. Ich denke, es wäre eine größere Ehre für ihn, für die großartige Arbeit, die er geleistet hat, wenn wir ihm Anerkennung für die Fragen geben, die er gestellt hat und auf die hilfreiche Antworten folgten. Bitte hilf mir, lieber Vater, ein klarer Kanal für die Gedanken von Mr. Padgett zu sein. Beschütze mich vor jeglichem spirituellen Wesen, das dazu neigen würde, meinen Wunsch, die Wahrheit zu erkennen, zu stören, damit wir mit unserer spirituellen Arbeit für Dich auf die Art und Weise fortfahren können, die nach Ansicht der himmlischen Wesen effektiver wäre, um einen größeren Prozentsatz Deiner Kinder mit den Wahrheiten Deiner Liebe zu erreichen, die ihren Seelen durch das Gebet zugänglich sind. Ich liebe Dich und danke Dir für all die vielen Segnungen, die Du uns schenkst. Amen.*
@@ -64,4 +62,4 @@ Wir lieben euch, ihr Lieben, und sind sehr zufrieden mit der Arbeit, die ihr tut
 Danke, dass du mir erlaubt hast, heute Morgen durch dich zu schreiben. Ich werde wiederkommen, wann immer du dein Verlangen kundtust. Ich bin dein Freund und Bruder in Christus, James E. Padgett, ein wahrer Nachfolger unseres Meisters Jesus, der Meister der Göttlichen Himmel ist.
 <small>
 
-[^1]: Leider war eine so einfache Idee, wie die Koexistenz beider Bände in einer Organisation zuzulassen, für einige in der FCDT, wie sie damals existierte, nicht akzeptabel, und sie gingen, um die FCNB wieder auferstehen zu lassen, die bis heute keine Änderungen zulässt, auch nicht solche, die offensichtlich als typographisch zu bezeichnen sind, und sie unterstützen auch nicht die zeitgenössische Medialität. Die Geschichte dieser beiden Kirchen ist [hier](/die-gemeinschaft-der-goettlichen-liebe/die-geschichte-der-gruendungskirchen/) beschrieben.
+[^1]: Leider war eine so einfache Idee, wie die Koexistenz beider Bände in einer Organisation zuzulassen, für einige in der FCDT, wie sie damals existierte, nicht akzeptabel, und sie gingen, um die FCNB wieder auferstehen zu lassen, die bis heute keine Änderungen zulässt, auch nicht solche, die offensichtlich als typographisch zu bezeichnen sind, und sie unterstützen auch nicht die zeitgenössische Medialität. Die Geschichte dieser beiden Kirchen ist [hier](/8-de-dl-comty/8-3-de-comty/8-3-4-1-de-found-church/) beschrieben.

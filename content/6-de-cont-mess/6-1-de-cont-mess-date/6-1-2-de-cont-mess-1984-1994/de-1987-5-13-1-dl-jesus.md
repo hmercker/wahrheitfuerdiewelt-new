@@ -9,8 +9,6 @@ weight:
 ---
 ### Seine Kirche auf Erden
 
-*seine-kirche-auf-erden-dl-jesus-13-mai-1987.md*
-
 Jesus - empfangen durch David Lampron am 13. Mai 1987.
 
 Ich bin nun hier, um zu schreiben, mein lieber Bruder in Christus, und ich komme heute zu dir, um all jenen Ermutigung und Liebe zu überbringen, die sich stets bemühen, die Wahrheiten des Vaters der Menschheit zu bringen. Ich bin dein Bruder im Geiste, Jesus der Bibel und Meister der Göttlichen Himmel.

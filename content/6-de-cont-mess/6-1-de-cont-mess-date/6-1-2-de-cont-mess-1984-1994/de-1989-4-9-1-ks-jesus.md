@@ -9,8 +9,6 @@ weight:
 ---
 ### Die Bedeutung der Entwicklung der Liebesnatur
 
-*die-bedeutung-der-entwicklung-der-liebesnatur-ks-jesus-9-april-1989.md*
-
 Jesus - empfangen durch Kathryn Stokes am 9. April 1989.
 
 Ich komme heute wieder zu dir, um durch dich das, was ich kann, auf die Erde zu bringen, in Form von Inspiration und hilfreichen Hinweisen, wie jeder Mensch, jedes Kind Gottes, die Wahrheiten Seiner Liebe auf eine persönliche Art und Weise anwenden kann, was wiederum diesem Individuum die notwendige Balance zwischen materiellen und spirituellen Qualitäten ermöglicht, um sein Erdenleben lohnender und erfüllender zu machen. Ich bin dein Freund und Bruder in Christus, Jesus aus der Bibel, der Meister der Göttlichen Himmeln ist, und ich begrüße diese Gelegenheit, meine Gedanken auf diese Weise zu übermitteln.

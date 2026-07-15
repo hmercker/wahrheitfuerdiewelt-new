@@ -9,8 +9,6 @@ weight:
 ---
 ### Über verschiedene Medien
 
-*ueber-verschiedene-medien-ks-jesus-10-juni-1992.md*
-
 Jesus - empfangen durch Kathryn Stokes am 10. Juni 1992.
 
 *[Lieber Bruder und Freund, Jesus, wenn du mich in der Verfassung findest, deine Gedanken heute Morgen klar und deutlich zu empfangen, möchte ich gerne deine Kommentare zu einigen Fragen, die Mitglieder unserer Gemeinde haben. ____ fragt sich, warum er deine Persönlichkeit in deinen Botschaften durch Dr. Samuels nicht erkennen kann. Könnte es sein, dass er die sachlichen, historischen Informationen von einem deiner Mitarbeiter und frühen Historiker erhalten hat?*

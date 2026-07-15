@@ -9,8 +9,6 @@ weight:
 ---
 ### Die Darstellung der Wahrheiten des Vaters
 
-*die-darstellung-der-wahrheiten-des-vaters-ks-jesus-1985.md*
-
 Jesus - empfangen durch Kathryn Stokes im Jahr 1985
 
 Aufgrund der großen Vielfalt an Glaubensrichtungen und Entwicklungsstufen wird es notwendigerweise die Notwendigkeit geben, die Darstellungen der Wahrheiten des Vaters auf viele verschiedene Arten, auf vielen verschiedenen Ebenen, von vielen verschiedenen Persönlichkeiten zu machen.

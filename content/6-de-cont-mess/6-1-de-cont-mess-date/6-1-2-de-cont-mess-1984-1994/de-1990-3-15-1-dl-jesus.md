@@ -9,8 +9,6 @@ weight:
 ---
 ### Bearbeitung eines Kirchenvermächtnisses
 
-*bearbeitung-eines-kirchenvermaechtnisses-dl-jesus-15-maerz-1990.md*
-
 Jesus  - empfangen durch David Lampron am 15. März 1990.
 
 *[Liebster Meister, Jesus, wie du sicher weißt, hat mich J____ gebeten, deine Kommentare in Bezug auf das Testament von L. C. und J____ s vorläufige Antwort an die Vollstrecker des Verstorbenen zu erhalten. Ich bete, dass ich deine Antwort klar und deutlich erhalte und begrüße nun deine liebevolle Gegenwart und Botschaft an diesem Tag.]*

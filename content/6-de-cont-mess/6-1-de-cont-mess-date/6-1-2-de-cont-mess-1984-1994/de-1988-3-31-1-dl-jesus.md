@@ -9,8 +9,6 @@ weight:
 ---
 ### Heilungen werden nicht immer sofort wirksam
 
-*heilungen-werden-nicht-immer-sofort-wirksam-dl-jesus-31-maerz-1988.md*
-
 Jesus - empfangen durch David Lampron am 31. März 1988.
 
 Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus und ich freue mich, noch einmal zu dir zu kommen, um zu versuchen, die Fragen, die du mir heute gestellt hast, zu deiner Zufriedenheit und zur Zufriedenheit anderer zu beantworten, B. R. natürlich eingeschlossen, der das Wirken des Willens des Vaters klarer erkennen möchten, was B____ s Zustand betrifft. Ich bin natürlich dein Freund und Bruder im spirituellen Leben, Jesus aus der Bibel und Meister des Göttlichen Himmels und ich freue mich immer, meinen geliebten Mitarbeitern im Fleische, die meinen Beistand suchen, jede Erleuchtung zu verschaffen, die ich kann.

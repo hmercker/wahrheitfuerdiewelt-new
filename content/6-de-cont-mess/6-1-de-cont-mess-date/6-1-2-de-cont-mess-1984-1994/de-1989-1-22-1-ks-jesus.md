@@ -9,8 +9,6 @@ weight:
 ---
 ### Hoffnung für die verlorene Seele
 
-*hoffnung-fuer-die-verlorene-seele-ks-jesus-22-januar-1989.md*
-
 Jesus - empfangen durch Kathryn Stokes am 22. Januar 1989.
 
 Ich bin jetzt hier, um zu schreiben, meine liebe Schwester in Christus, und ich komme heute Morgen, um meinen Mitarbeitern im Fleische meine Liebe zu erweisen und das zu überbringen, von dem ich hoffe, dass es der Menschheit bei ihrer Suche nach der Wahrheit helfen kann, wenn sie Ohren haben, um zu hören, und ein offenes Herz, um von der großen Liebe zu erfahren, die ihr Vater im Himmel für Seine Kinder hat, die nach dem Weg zur Rettung der Seele suchen. Ich bin dein Freund und Bruder im Geiste der Liebe Gottes, des in meiner Seele manifestierten Christusgeistes, Jesus der Bibel und Meister der Göttlichen Himmeln, und ich begrüße diese Gelegenheit, durch dich auf diese Weise meine Gedanken zum Ausdruck zu bringen, und ich danke dir auch dafür, dass du mir diese Möglichkeit gewährst.

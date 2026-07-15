@@ -9,8 +9,6 @@ weight:
 ---
 ### Automatisches Schreiben und Gedankeneingebung
 
-*automatisches-schreiben-und-gedankeneingebung-dl-jesus-31-august-1987.md*
-
 Jesus - empfangen durch David Lampron am 31. August 1987.
 
 *[Liebster Meister, ich habe soeben die letzten drei Botschaften von dir durch K____ gelesen und wieder gelesen und fand sie höchst wunderbar und informativ. Ich hoffe nur, dass deine Botschaft durch mich heute ebenso hilfreich für die Menschheit sein kann.*
@@ -25,7 +23,7 @@ Was die „automatische” Schreibführung und wie diese in deinem speziellen Fa
 
 Nicht alle Medien empfangen auf genau die gleiche Art und Weise. Es stimmt, dass der Grad der Kontrollmöglichkeit von Medium zu Medium und in Übereinstimmung mit den eigenen Rezeptionsgaben des Mediums variiert. Es kommt nicht darauf an, wie vollständig ein Wesen kontrolliert, sondern wie wirksam und gut ein Medium empfängt. Und, wie du weißt, hängt dies von der eigenen Seelenentwicklung des Mediums und seiner Vorbereitung ab, einige der höheren Wahrheiten Gottes zu empfangen.
 
-[Die Gesetze der Verbindung und der Kommunikation](/spirituelle-themen/spirituelle-gesetze/das-gesetz-der-verbindung-und-kommunikation/) sind von meinem Mitarbeiter Johannes klar und deutlich dargelegt worden und brauchen hier nicht wiederholt zu werden; denn du bist mit seinen Botschaften zu diesem Thema gut vertraut, und du weißt, dass es die Beziehung ist, die man mit dem Vater hat - die Menge an göttlicher Liebe, die man von Ihm erhält, in Kombination mit den eigenen seelischen Bestrebungen des Mediums, die Wahrheit zu erkennen, die den Grad der Empfänglichkeit des Mediums zu einem beliebigen Zeitpunkt bestimmt.
+[Die Gesetze der Verbindung und der Kommunikation](/9-de-var-top/9-2-de-spirit-top/9-2-1-de-spirit-law/9-2-1-13-de-rapport-comm/) sind von meinem Mitarbeiter Johannes klar und deutlich dargelegt worden und brauchen hier nicht wiederholt zu werden; denn du bist mit seinen Botschaften zu diesem Thema gut vertraut, und du weißt, dass es die Beziehung ist, die man mit dem Vater hat - die Menge an göttlicher Liebe, die man von Ihm erhält, in Kombination mit den eigenen seelischen Bestrebungen des Mediums, die Wahrheit zu erkennen, die den Grad der Empfänglichkeit des Mediums zu einem beliebigen Zeitpunkt bestimmt.
 
 Es ist nicht notwendig, dass ein Medium in einem tiefen Trance sein muss oder dass ein spirituelles Wesen tatsächlich aktiv die Botschaft schreibt. Wie ich einmal durch K____ vorgeschlagen habe, -jener Vorschlag welcher deine eigene Ausbildung in diesem Bereich begann, war in deinem Fall alles was wichtig oder notwendig war, still zu sitzen, um Schutz und Führung zu beten und dann dabei zu helfen, die Gedanken niederzuschreiben, die von mir oder anderen durch dein Gehirn übertragen werden; und das hast du bisher sehr erfolgreich getan. Und es sollte für dich kein Grund zur Besorgnis sein, wer das eigentliche Schreiben vornimmt, solange du voll und ganz glaubst, dass die Gedanken, die du aufzeichnest, von uns kommen und nicht das Produkt deines eigenen Denkens sind.
 

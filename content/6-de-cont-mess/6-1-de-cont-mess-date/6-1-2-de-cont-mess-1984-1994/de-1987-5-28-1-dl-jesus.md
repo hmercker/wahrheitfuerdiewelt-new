@@ -13,7 +13,7 @@ weight:
 
 Jesus - empfangen durch David Lampron am 28. Mai 1987.
 
-[zu Teil 1](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/das-gesetz-der-aktivierung-teil-1-dl-jesus-20-mai-1987/)
+[zu Teil 1](/6-de-cont-mess/6-1-de-cont-mess-date/6-1-2-de-cont-mess-1984-1994/de-1987-5-20-1-dl-jesus/)
 
 Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus, und ich komme an diesem schönen Tag zu dir, um dir und zum Wohle der Menschheit meine Liebe und Worte der Ermutigung in dem vor uns liegenden Werk zu bringen. Ich bin dein Bruder im spirituellen Sein und dein Freund, Jesus.
 
@@ -37,4 +37,4 @@ Nun, ich bin erfreut über die zufriedenstellende Art und Weise, in der du meine
 
 Ich bin Euer Bruder und Freund, Jesus der Bibel und Meister der Göttlichen Himmel.
 
-[zu Teil 3](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/das-gesetz-der-aktivierung-teil-3-dl-jesus-4-juni-1987/)
+[zu Teil 3](/6-de-cont-mess/6-1-de-cont-mess-date/6-1-2-de-cont-mess-1984-1994/de-1987-6-4-1-dl-jesus/)

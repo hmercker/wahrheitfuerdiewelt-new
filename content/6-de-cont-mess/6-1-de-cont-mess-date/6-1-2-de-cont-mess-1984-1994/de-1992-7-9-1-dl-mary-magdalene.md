@@ -9,8 +9,6 @@ weight:
 ---
 ### Persönliche Kommunikation
 
-*persoenliche-kommunikation-dl-maria-magdalena-9-juli-1992.md*
-
 Maria Magdalena - empfangen durch David Lampron	am 9. Juli 1992.
 
 Ich liebe dich, mein lieber Bruder in Christus, und ich komme heute mit großer Freude zu dir, um dir und den wunderbaren Treuhändern der Kirche meinen bescheidenen Dank für die sehr gute Arbeit zu übermitteln, die ihr alle leistet, um die Wahrheiten unseres Vaters weit und breit in der Welt zu verbreiten, die sowohl Seine Wahrheiten als auch, was noch wichtiger ist, Seine göttliche Liebe so dringend braucht. Ich bin deine demütige Schwester in Christus, die dir als Maria Magdalena bekannt ist, aber jetzt einfach eines von Gottes Kindern ist, das in einer Seiner herrlichen himmlischen Sphären wohnt und zu denen gehört, die ebenfalls eine Seelentransformation durchgemacht haben, um die wahren, göttlichen Kinder unseres Vaters zu werden. Und natürlich ist mein geliebter Seelenpartner [^1] Jesus bei mir, der der Meister der Göttlichen Himmeln ist, und doch einer, der oft in die manchmal abweisende Atmosphäre der Erdenebene kommt, um jenen zu helfen, die nach etwas hungern, was sie nicht kennen, oder die sich mit ihren Seelen nach der Liebe und dem Beistand des Vaters ausstrecken, um sie aus ihrer Verzweiflung herauszuholen und ihr Leben zu einem Leben der Hoffnung und des Glücks wiederherzustellen.
@@ -40,4 +38,4 @@ Möge der Vater weiterhin Seine Liebe in großer Fülle über dich ausschütten.
 Deine Schwester in Christus, Maria, einst ein gefallenes Kind, aber jetzt genießt sie die ganze Glückseligkeit einer vollständig erlösten Seele und die Liebe des größten Seelenpartners in allen Himmeln Gottes.
 <small>
 
-[^1]: Es wird die Richtigkeit der Behauptung, dass Maria Magdalena und Jesus Seelenpartner sind, angezweifelt. Wir weisen auf eine [aktuellere Botschaft](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-2019/jesus-inkarnierte-als-vollstaendige-seele-und-hat-keine-andere-haelfte-oder-einen-anderen-seelenpartner-af-jesus-27-januar-2019/) hin, die klarstellt, dass Jesus keinen Seelenpartner hat.
+[^1]: Es wird die Richtigkeit der Behauptung, dass Maria Magdalena und Jesus Seelenpartner sind, angezweifelt. Wir weisen auf eine [aktuellere Botschaft](/6-de-cont-mess/6-1-de-cont-mess-date/6-1-23-de-cont-mess-2019/de-2019-1-27-2-af-jesus/) hin, die klarstellt, dass Jesus keinen Seelenpartner hat.

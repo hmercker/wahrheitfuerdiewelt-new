@@ -9,9 +9,7 @@ weight:
 ---
 ### Die Menschheit beginnt, die Wahrheit zu erkennen
 
-*die-menschheit-beginnt-die-wahrheit-zu-erkennen-dl-jesus-16-januar-1989.md*
-
-Jesus - empfangen durch David Lampron am 16. Januar 1989,
+Jesus - empfangen durch David Lampron am 16. Januar 1989.
 
 Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus, und ich komme heute höchst erfreut zu dir, um eine weitere Botschaft zu überbringen, die für dich und die Menschheit von Nutzen und Interesse sein kann. Ich bin dein Bruder im Christusgeist, Jesus, der der Meister der Göttlichen Himmeln und der ewige Führer unserer Kirche auf Erden ist.
 

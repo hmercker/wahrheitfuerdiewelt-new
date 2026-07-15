@@ -9,11 +9,9 @@ weight:
 ---
 ### Unsere Arbeit macht einen Unterschied
 
-*unsere-arbeit-macht-einen-unterschied-dl-jesus-17-april-1987.md*
-
 Jesus - empfangen durch David Lampron am 17. April 1987.
 
-*Liebster Jesus, deine letzte Botschaft über das [„Gesetz des Gebets“](/spirituelle-themen/spirituelle-gesetze/das-gesetz-des-gebets/) hat mir und unseren Kuratoren so viel Freude bereitet. Und wir sind dankbar, eine so wichtige Darlegung über den Gesetz-Aspekt des Gebets erhalten zu haben - wie der Vater es nie versäumen wird, auf Gebete der Seelen Seiner Kinder zu antworten. Vielen Dank, Meister, für diesen neuen Einblick in das Wirken der Liebe und Barmherzigkeit des Vaters, den du uns gegeben hast. In der Tat hast du versprochen, dass deine Botschaften mich glücklich machen würden, und du hast dein Versprechen gehalten.*
+*Liebster Jesus, deine letzte Botschaft über das [„Gesetz des Gebets“](/9-de-var-top/9-2-de-spirit-top/9-2-1-de-spirit-law/9-2-1-6-de-prayer/) hat mir und unseren Kuratoren so viel Freude bereitet. Und wir sind dankbar, eine so wichtige Darlegung über den Gesetz-Aspekt des Gebets erhalten zu haben - wie der Vater es nie versäumen wird, auf Gebete der Seelen Seiner Kinder zu antworten. Vielen Dank, Meister, für diesen neuen Einblick in das Wirken der Liebe und Barmherzigkeit des Vaters, den du uns gegeben hast. In der Tat hast du versprochen, dass deine Botschaften mich glücklich machen würden, und du hast dein Versprechen gehalten.*
 
 *Bill hat die Frage gestellt, ob dein geliebter Apostel Johannes, der auch einer meiner Beschützer ist, ein Interesse daran hat, durch mich zu kommunizieren oder nicht. Ich habe das Gefühl, dass du im Moment die volle Verantwortung dafür übernimmst, mir bei der Entwicklung meiner Medialität zu helfen. Aber ich vertraue darauf, dass du mich wissen lässt, wann immer Johannes oder einer deiner anderen wunderbaren Mitarbeiter versuchen möchte, durch mich zu kommunizieren. Sei versichert, dass ich sehr bereit bin, mein Bestes zu tun, um ihre Gedanken zu empfangen.*
 
