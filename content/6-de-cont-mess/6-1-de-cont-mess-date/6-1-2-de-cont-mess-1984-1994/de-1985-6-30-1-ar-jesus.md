@@ -9,8 +9,6 @@ weight:
 ---
 ### Jesus spricht über Abtreibung
 
-*jesus-spricht-ueber-abtreibung-ar-jesus-30-juni-1985.md*
-
 Jesus - empfangen durch Amada Reza am 30. Juni 1985
 
 *[Während der Trancebotschaft vom 30. Juni 1985 wurden dem Meister mehrere Fragen zur Abtreibung gestellt. Zum Teil war dies seine Antwort:]*

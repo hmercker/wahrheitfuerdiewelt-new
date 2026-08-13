@@ -9,8 +9,6 @@ weight:
 ---
 ### Geboren ohne Sünde
 
-*geboren-ohne-suende-dl-jesus-28-august-1986.md*
-
 Jesus - empfangen durch David Lampron am 28. August 1986.
 
 Ich bin nun hier, um zu schreiben, mein lieber Bruder in Christus, und ich komme heute Abend zu euch, um eure Fragen und die von B.R. zu beantworten. Was das Thema betrifft, dass ich ohne Sünde geboren wurde, ist dies ein Thema, von dem ich weiß, dass es für viele verwirrend ist. Die einfache Tatsache ist, dass ich aus dem Heiligen Geist geboren wurde, in dem Sinne, dass Gott mir das Privileg verliehen hat, meinen freien Willen auszuüben, unbehindert von jeglichen Tendenzen zur Sünde. Und so wurde mir der adamische Zustand der freien Wahl gegeben, den unsere ersten Eltern genossen. In ihrem Fall entschieden sie sich jedoch, der Bitte des Vaters, seine Liebe zu suchen, nicht zu folgen, während meine Wahl darin bestand, diese Einladung anzunehmen.
@@ -31,4 +29,4 @@ Du bist jetzt müde, und ich muss aufhören. Ich verlasse dich jetzt mit all mei
 
 Ich bin dein Freund und Bruder, Jesus aus der Bibel und Meister des Göttlichen Himmels.
 
-*[Diese Botschaft wurde anschließend [von einem anderen Medium](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/der-heilige-geist-und-ohne-suende-geboren-ks-jesus-26-dezember-1986/) hier in Frage gestellt, und dann brachte D.L. das Thema hier [erneut zur Sprache](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/jesu-geburt-und-mission-auf-erden-dl-jesus-4-februar-1988/).]*
+*[Diese Botschaft wurde anschließend [von einem anderen Medium](/6-de-cont-mess/6-1-de-cont-mess-date/6-1-2-de-cont-mess-1984-1994/de-1986-12-26-1-ks-jesus/) hier in Frage gestellt, und dann brachte D.L. das Thema hier [erneut zur Sprache](/6-de-cont-mess/6-1-de-cont-mess-date/6-1-2-de-cont-mess-1984-1994/de-1988-2-4-1-dl-jesus/).]*

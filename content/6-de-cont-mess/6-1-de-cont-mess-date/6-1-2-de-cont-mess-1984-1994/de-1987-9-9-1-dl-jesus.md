@@ -9,8 +9,6 @@ weight:
 ---
 ### Wer ist der Autor von „Neue Lehren für eine erwachende Menschheit”?
 
-*wer-ist-der-autor-von-neue-lehren-fuer-eine-erwachende-menschheit-dl-jesus-9-september-1987.md*
-
 Jesus - empfangen durch David Lampron am 9. September 1987.
 
 *[Liebster Meister, Jesus, wie du sicher schon weißt, hat Reverend V. D. die Aufmerksamkeit von J___ auf ein neues Buch gelenkt, das angeblich von dir durch automatisches Schreiben übermittelt wurde und den Titel „Neue Lehren für eine erwachende Menschheit” trägt. Bis jetzt haben wir keinen Hinweis von dir erhalten, dass du tatsächlich ein solches Buch verfasst hast, aber Rev. V. D. und wir fühlen, dass es für uns wichtig ist, zu wissen, ob du, ein anderes spirituelles Wesen oder vielleicht nur ein Sterblicher selbst der wahre Autor dieses Werkes bist. Unsere Mitglieder könnten uns dazu durchaus befragen.*

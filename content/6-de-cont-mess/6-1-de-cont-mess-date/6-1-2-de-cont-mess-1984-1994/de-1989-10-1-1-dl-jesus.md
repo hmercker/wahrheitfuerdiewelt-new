@@ -1,15 +1,13 @@
 ---
-title: "Jesus: Ebbe und Flut der Göttlichen Liebe"
+title: "Ebbe und Flut der Göttlichen Liebe"
 menu_title: ""
-description: "Jesus: Ebbe und Flut der Göttlichen Liebe"
+description: "Ebbe und Flut der Göttlichen Liebe"
 date: 2026-06-11 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### Jesus: Ebbe und Flut der Göttlichen Liebe
-
-*jesus-ebbe-und-flut-der-goettlichen-liebe-dl-jesus-1-oktober-1989.md*
+### Ebbe und Flut der Göttlichen Liebe
 
 Jesus - empfangen durch David Lampron am 1. Oktober 1989.
 

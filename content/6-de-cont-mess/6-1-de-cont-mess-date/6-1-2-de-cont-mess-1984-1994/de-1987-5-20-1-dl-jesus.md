@@ -9,11 +9,9 @@ weight:
 ---
 ### Das Gesetz der Aktivierung Teil 1
 
-*das-gesetz-der-aktivierung-teil-1-dl-jesus-20-mai-1987.md*
-
 Jesus - empfangen durch David Lampron am 20. Mai 1987.
 
-Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus. Ich bin dein Freund und Bruder im Geiste, Jesus, der Meister der Göttlichen Himmel ist. Heute möchte ich ein Thema von einiger Bedeutung im Zusammenhang mit dem [Gesetz des Gebetes](/spirituelle-themen/spirituelle-gesetze/das-gesetz-des-gebets/) besprechen, das du bereits erhalten hast. Wie du weißt, hast du bereits Gedankeneindrücke über ein Gesetz der Aktivierung erhalten, und dies wurde dir zur Vorbereitung meiner heutigen Ausführungen zu diesem Thema gegeben.
+Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus. Ich bin dein Freund und Bruder im Geiste, Jesus, der Meister der Göttlichen Himmel ist. Heute möchte ich ein Thema von einiger Bedeutung im Zusammenhang mit dem [Gesetz des Gebetes](/9-de-var-top/9-2-de-spirit-top/9-2-1-de-spirit-law/9-2-1-6-de-prayer/) besprechen, das du bereits erhalten hast. Wie du weißt, hast du bereits Gedankeneindrücke über ein Gesetz der Aktivierung erhalten, und dies wurde dir zur Vorbereitung meiner heutigen Ausführungen zu diesem Thema gegeben.
 
 Wie dir gesagt wurde, ist das Gesetz des Gebets ein Gesetz, bei dem sowohl der Mensch als auch der Vater eine Rolle zu spielen haben. Der Vater empfängt alle Gebete, die in wahrer Aufrichtigkeit dargebracht werden und die von den Seelen Seiner Kinder ausgehen, und Er wiederum beantwortet diese Gebete in wohlwollender Weise unfehlbar, wenn die soeben zum Ausdruck gebrachte seelische Verfassung von Seinen aufstrebenden Kindern erfüllt wird. Was dir noch nicht gesagt worden ist, ist, wie diese Gebete in Bezug auf die Helfer des Vaters beantwortet werden: die Himmlischen und andere gute und hohe Spirituelle Wesen.  
 
@@ -37,4 +35,4 @@ Ich freue mich sagen zu können, dass ihr alle in eurer kirchlichen Arbeit und e
 
 Ich bin dein Bruder und Freund, Jesus der Bibel, und Meister des Göttlichen Himmels.
 
-[zu Teil 2](/aktuelle-botschaften/aktuelle-botschaften-in-reihenfolge-des-datums/aktuelle-botschaften-1984-1994/das-gesetz-der-aktivierung-teil-2-dl-jesus-28-mai-1987/)
+[zu Teil 2](/6-de-cont-mess/6-1-de-cont-mess-date/6-1-2-de-cont-mess-1984-1994/de-1987-5-28-1-dl-jesus/)

@@ -9,8 +9,6 @@ weight:
 ---
 ### Schritt für Schritt wird Gottes Königreich mit Liebe aufgebaut
 
-*schritt-fuer-schritt-wird-gottes-koenigreich-mit-liebe-aufgebaut-ks-jesus-1-oktober-1989.md*
-
 Jesus - empfangen durch Kathryn Stokes am 1. Oktober 1989.
 
 Ich bin jetzt hier, um heute wieder zu schreiben und komme mit meiner Liebe zu dir und unseren anderen Mitarbeitern im Fleisch, die diese wichtigste Arbeit mit Liebe in ihren Herzen fortsetzen und einer unerschöpflichen Hoffnung, dass das Wort sich weiter in die Welt ausbreitet. Ich bin dein Freund und Bruder im Geiste, Jesus der Bibel, der Meister der Göttlichen Himmeln ist, und ich begrüße diese Gelegenheit, meine Gedanken auf diese Weise zu überbringen.

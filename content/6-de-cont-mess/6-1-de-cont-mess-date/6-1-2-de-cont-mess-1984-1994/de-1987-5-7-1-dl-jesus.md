@@ -9,8 +9,6 @@ weight:
 ---
 ### Der Fortschritt der Menschheit
 
-*der-fortschritt-der-menschheit-dl-jesus-7-mai-1987.md*
-
 Jesus - empfangen durch David Lampron am 7. Mai 1987.
 
 Ich bin jetzt hier, um dir zu schreiben, mein lieber Bruder in Christus, und ich komme heute zu dir mit all meiner Liebe, die sich auf dich und alle Kuratoren unserer Kirche erstreckt, die in der Tat eifrig mit uns zusammenarbeiten, auch jetzt, um der ganzen Menschheit die Wahrheiten der Liebe des Vaters zu bringen. Ich bin dein Bruder im Geiste, Jesus, der Meister der Göttlichen Himmel.

@@ -9,8 +9,6 @@ weight:
 ---
 ### Den Glauben bewahren
 
-*den-glauben-bewahren-ks-jesus-18-juli-1984.md*
-
 Jesus - empfangen durch Kathryn Stokes am 18. Juli 1984, Arlington, Virginia, USA.
 
 Ich bin jetzt hier, um zu schreiben, meine liebe Schwester in Christus, und ich bin euer Freund und Bruder im Christus, Jesus der Bibel, der Meister der göttlichen Himmel.  Ich komme wie immer mit meiner großen Liebe, die sich auf euch und eure Arbeit für das Reich der Liebe erstreckt. Und wir sind hier, um euch bei eurer Arbeit auf jede Weise zu helfen, die wir können - auf jede Weise, die ihr für unsere Einflüsse offen seid. Wie ihr erkennt, muss sich die Arbeit Tag für Tag entfalten und kann nicht über Nacht in eine Bewegung „umgewandelt” werden, die die Menschen „magisch” zu den Wahrheiten anziehen wird.

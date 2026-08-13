@@ -9,8 +9,6 @@ weight:
 ---
 ### Erste Botschaft Jesu an David Lampron
 
-*erste-botschaft-jesu-an-david-lampron-dl-jesus-9-april-1986.md*
-
 Jesus - empfangen durch David Lampron am 9. April 1986.
 
 Ich bin hier, um zu schreiben, und ich komme zu dir mit meiner Liebe, die sich auf alle meine Mitarbeiter im Fleische erstreckt, die danach streben, die Wahrheiten des Willens des Vaters für die Menschheit bekannt zu machen. Ich bin dein Bruder im Geiste, Jesus aus der Bibel, der Meister der Göttlichen Himmel.

@@ -9,8 +9,6 @@ weight:
 ---
 ### Glaube und Heilung
 
-*glaube-und-heilung-dl-jesus-18-august-1987.md*
-
 Jesus - empfangen durch David Lampron am 18. August 1987.
 
 *[Liebster Jesus, nun, Meister, da ich aus dem Urlaub zurück bin, ist es wohl an der Zeit, dass wir wieder zu deinen wunderbaren Botschaften zurückkehren. Ich habe einige deiner Botschaften durch K____ gelesen, und ein Satz ist mir besonders ins Auge gefallen und hat mein Interesse geweckt: „Wenn du also weiterhin deine Gebete und deinen Glauben auf die Situation anwendest, gibt uns das die zusätzliche Fähigkeit, genau das Ergebnis herbeizuführen, das wir anstreben.”*
@@ -45,4 +43,5 @@ Es mag sein, dass ich deine Fragen nicht so gründlich beantwortet habe, wie es 
 Bevor ich schließe, möchte ich sagen, dass ich mich über deine Wiederaufnahme der Botschaften sehr freue, und ich freue mich auf viele weitere Botschaften, die ich und andere in der Zukunft durch dich übermitteln können. Ich möchte auch meine Liebe an alle meine leiblichen Mitarbeiter weitergeben, die weiterhin so fleißig und gut in den vielen kirchlichen Aufgaben arbeiten, die vor ihnen liegen. Bald wird der neue Band, der euch so sehr am Herzen liegt, auf dem Weg zur endgültigen Fertigstellung und zum Druck und zur Veröffentlichung sein, und wir sind alle sehr glücklich über den wunderbaren Fortschritt, den ihr auf dieses Ziel hin gemacht habt und macht. Arbeitet weiter so, wie ihr es getan habt, mit großen Mengen eurer eigenen Liebe, die ihr zu dieser Aufgabe beigesteuert habt, und wir werden ein Endprodukt von großem Wert und großer Bedeutung für die Menschheit wieder verfügbar gemacht sehen.
 
 Ich liebe euch alle, meine geliebten Kinder, und verlasse euch jetzt mit meiner großen Liebe und meinem Segen, der sich auf euch erstreckt.
+
 Euer Bruder und Freund, Jesus.

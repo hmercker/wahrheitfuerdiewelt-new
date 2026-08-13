@@ -9,8 +9,6 @@ weight:
 ---
 ### Eine Klarstellung zu Swedenborg
 
-*eine-klarstellung-zu-swedenborg-vs-jesus-1-februar-1984.md*
-
 Jesus - empfangen durch Victor Summers im Februar 1984.
 
 *[Die Aussagen von Herrn Swedenborg in diesem Abschnitt waren in der Vergangenheit für eine Reihe von Mitgliedern unserer Kirche rätselhaft. Es stellte sich die Frage: „Wie konnte Herr Swedenborg während seiner langjährigen Besuche in der Geisterwelt nichts von der Göttlichen Liebe wissen, wenn es doch die ausdrückliche Absicht der Himmlischen war, ihm genau dies mitzuteilen, damit er seinerseits dieses seelenrettende Wissen durch seine veröffentlichten Schriften der Welt mitteilen konnte?” Glücklicherweise erhielten zwei qualifizierte Medien unserer Kirche in der Folgezeit automatische Schreibbotschaften mit Erklärungen und Klarstellungen von Jesus - eine im Februar 1984 und eine weitere im Februar 1986. Die folgenden Auszüge aus der Botschaft des Meisters vom Februar 1984, in der diese verwirrende Frage und das Problem gelöst werden, werden im Folgenden wiedergegeben, damit die Leserinnen und Leser besser verstehen und einschätzen können, was tatsächlich mit Herrn Swedenborg geschehen ist:]*

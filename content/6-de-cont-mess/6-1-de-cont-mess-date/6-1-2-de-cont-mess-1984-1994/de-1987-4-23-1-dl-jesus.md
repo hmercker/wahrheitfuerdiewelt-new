@@ -9,8 +9,6 @@ weight:
 ---
 ### Die Bedeutung des Gebets  - Nahrung für die Seele
 
-*die-bedeutung-des-gebets-nahrung-fuer-die-seele-dl-jesus-23-april-1987.md*
-
 Jesus - empfangen durch David Lampron am 23. April 1987.
 
 Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus, und ich komme heute zu dir, um dir noch einmal meine Gedanken und meine Liebe zum Wohle anderer zu bringen, die noch nicht von den Verheißungen des Vaters an seine Kinder gehört haben. Ich bin Jesus von der Bibel und Meister des Göttlichen Himmels.

@@ -9,8 +9,6 @@ weight:
 ---
 ### Auftragsbestätigung
 
-*auftragsbestaetigung-dl-jesus-6-mai-1990.md*
-
 Jesus  - empfangen durch David Lampron am 6. Mai 1990.
 
 *[Liebster Meister, Jesus, wie du weißt, Meister, jetzt, wo G____ seinen Studienkurs abgeschlossen hat und die Mitglieder des Dissertationskomitees seine Dissertation erhalten und beantwortet haben, fällt es dir nun zu, deine Kommentare bezüglich G____ s Ministerkandidatur zu präsentieren. G____ hat treu und fleißig gearbeitet, um die Anforderungen für das Pfarramt zu erfüllen und das offensichtlich ohne den Rückhalt und die Unterstützung einiger seiner Familienmitglieder. Zweifellos hat dies G____ viel Mut abverlangt, angesichts dieser Opposition weiterzumachen, und wir finden, dass er für seine Beharrlichkeit trotz dieser Opposition ein besonderes Lob verdient.*

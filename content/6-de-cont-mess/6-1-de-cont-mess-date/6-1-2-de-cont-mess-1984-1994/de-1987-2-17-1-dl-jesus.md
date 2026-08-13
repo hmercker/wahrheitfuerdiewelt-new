@@ -9,8 +9,6 @@ weight:
 ---
 ### Über D.L.'s Medialität
 
-*ueber-dls-medialitaet-dl-jesus-17-februar-1987.md*
-
 Jesus - empfangen durch David Lampron am 17. Februar 1987.
 
 Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus, und ich komme zu dir, um dir meine Botschaft dieses Tages zu überbringen. Ich kann an deinem Herzen und deinen Wünschen erkennen, dass du ein Werkzeug des Willens des Vaters sein möchtest, und ich möchte sagen und bekräftigen, dass du ein solches sein wirst, wenn du weiterhin um Seine Liebe betest, wie du es in letzter Zeit immer treuer getan hast.

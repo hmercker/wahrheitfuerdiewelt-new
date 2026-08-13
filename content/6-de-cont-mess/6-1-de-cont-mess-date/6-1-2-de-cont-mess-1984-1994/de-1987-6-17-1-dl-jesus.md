@@ -9,8 +9,6 @@ weight:
 ---
 ### Das Gesetz des Fortschritts und des Wandels und des Wachstums
 
-*das-gesetz-des-fortschritts-und-des-wandels-und-des-wachstums-dl-jesus-17-juni-1987.md*
-
 Jesus - empfangen durch David Lampron am 17. Juni 1987.
 
 Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus und ich komme heute zu dir als ein erster Schritt, der in dem bestätigenden Prozess unternommen wird, von dem du informiert wurdest, dass ich beabsichtige, ihn zu vollziehen. Ich bin dein Bruder im Geiste, Jesus, der Meister der Göttlichen Himmeln und der ewige Führer unserer Kirche ist.

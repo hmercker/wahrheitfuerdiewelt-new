@@ -9,8 +9,6 @@ weight:
 ---
 ### Das große Netzwerk der Kommunikation
 
-*das-grosse-netzwerk-der-kommunikation-dl-jesus-9-juli-1987.md*
-
 Jesus - empfangen durch David Lampron am 9. Juli 1987.
 
 Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus. Ich bin glücklich, wieder einmal zu dir kommen zu können und eine weitere meiner Botschaften zum Nutzen anderer zu überbringen. Ich bin dein lieber und liebevoller Freund, Jesus, der Meister der Göttlichen Himmeln und der ewige Führer unserer Kirche.

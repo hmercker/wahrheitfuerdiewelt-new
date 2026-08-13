@@ -9,8 +9,6 @@ weight:
 ---
 ### Über Heilung und das Gesetz von Wandel und Wachstum
 
-*ueber-heilung-und-das-gesetz-von-wandel-und-wachstum-dl-jesus-2-juli-1987.md*
-
 Jesus - empfangen durch David Lampron am 2. Juli 1987.
 
 Ich bin jetzt hier, um zu schreiben, mein lieber Bruder in Christus, und ich komme heute gerne zu dir, um dir eine weitere Botschaft zum Wohle der Menschheit zu überbringen. Ich bin dein Bruder in Christus, Jesus, der Meister des Göttlichen Himmels und das ewige Oberhaupt unserer Kirche.

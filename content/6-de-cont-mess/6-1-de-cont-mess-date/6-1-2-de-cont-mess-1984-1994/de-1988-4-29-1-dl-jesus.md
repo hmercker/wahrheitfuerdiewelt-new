@@ -9,8 +9,6 @@ weight:
 ---
 ### Lieben mit der Göttlichen Liebe
 
-*lieben-mit-der-goettlichen-liebe-dl-jesus-29-april-1988.md*
-
 Jesus - empfangen durch David Lampron am 29. April 1988.
 
 *[Liebster Meister, Jesus, ich und ich bin sicher, alle unsere Kuratoren möchten dir und deinen himmlischen Kollegen für deinen Anteil am Schutz von B. R. und die Überwachung seiner kürzlichen, erfolgreichen Operation danken. Wenn ich an meine eigene Liebe zu B____ denke, kommt mir in den Sinn, dass in eurer eigenen Liebe zu ihm, zur Menschheit und zueinander die Erfüllung der vollständigen Seelentransformation zu einer Liebesfähigkeit von ungeheurer Kraft und Freude führen muss. Ich hoffe und bete, dass unsere eigene Seelenentwicklung auch uns eines Tages den Grad der Liebeserfüllung bringen wird, den ihr alle in den Göttlichen Himmeln genießt, und zwar bevor zu viele Jahre vergehen.*

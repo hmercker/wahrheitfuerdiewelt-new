@@ -9,8 +9,6 @@ weight:
 ---
 ### Unser lebenslanges Wirken
 
-*unser-lebenslanges-wirken-dl-jesus-11-juni-1987.md*
-
 Jesus - empfangen durch David Lampron am 11. Juni 1987.
 
 Ich bin nun hier, um zu schreiben, mein lieber Bruder in Christus, und ich freue mich sehr, dir meine Gedanken und Worte in Bezug auf D.R.'s Kandidatur zu überbringen. Zunächst möchte ich sagen, dass er sich in seinem Studiengang außerordentlich gut geschlagen hat, und dass wir in den Göttlichen Himmeln seine Fortschritte mit großem Interesse verfolgt haben, nicht nur in Bezug auf sein gegenwärtiges Studium, sondern auch in Bezug auf seine seelische Entwicklung im Laufe der Zeit. Und wir freuen uns, sagen zu können, dass wir seine Kandidatur für das Amt des Ministers voll und ganz befürworten, da wir das Gefühl haben, dass er eine gute Ergänzung für unsere ministerielle Kraft auf der Erde sein wird.
