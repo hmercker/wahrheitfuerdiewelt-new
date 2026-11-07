@@ -36,7 +36,7 @@ Es werden viele Themen angesprochen z.B. die Bedeutung der [Gleichnisse Jesu](/z
 
 #### Aktuell zur Webseite Beigefügtes
 
-...findest du [hier](https://search.freefind.com/find.html?id=62743184&w=0&p=0).
+...findest du in der [Liste der neu hinzugefügten Seiten.](https://search.freefind.com/find.html?id=62743184&w=0&p=0).
 
 #### ...in anderen Sprachen
 
