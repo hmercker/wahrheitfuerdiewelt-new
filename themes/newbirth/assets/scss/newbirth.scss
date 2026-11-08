@@ -65,13 +65,19 @@ body {
 a, button, input[type="submit"], .button, #nav-primary ul li a {
     font-family: 'PT Serif' !important;  /* Force PT Serif font on all clickable elements */
     font-size: inherit !important;              /* Ensure font size matches body text */
-    color: rgb(208, 108, 41) !important;                    /* Optional: links will appear green */
+    color: rgb(180, 86, 28) !important;                    /* Optional: links will appear green */
     text-decoration: none !important;           /* Optional: removes underlines from links */
 }
 
 a:hover, a:focus {
-    color: rgb(208, 108, 41) !important;  /* Darker green on hover/focus */
+    color: rgb(180, 86, 28) !important;  /* Darker green on hover/focus */
     text-decoration: underline !important;  /* Optional: underline on hover */
+}
+
+/* Links inside running text are underlined, so they stand out from the text
+   for everyone (accessibility: colour alone is not enough). */
+.content p a {
+    text-decoration: underline !important;
 }
 
 /* Optional: Apply PT Serif font to buttons */
@@ -631,7 +637,7 @@ blockquote .author {
 
 .h-decorate {
     text-align: center;
-    color: rgb(208, 108, 41);
+    color: rgb(180, 86, 28);
     font-size: 1rem;
     line-height: 1.4;
     margin-bottom: 20px;
@@ -1022,12 +1028,12 @@ body {
 
   /* ----- Global Link Styling ----- */
 a {
-  color: rgb(208, 108, 41);  /* Sets text color to green */
+  color: rgb(180, 86, 28);  /* Sets text color to green */
   text-decoration: none;  /* Optional: removes underline from links */
 }
 
 a:hover, a:focus {
-  color: rgb(208, 108, 41);  /* Changes the link color to dark green when hovered/focused */
+  color: rgb(180, 86, 28);  /* Changes the link color to dark green when hovered/focused */
   text-decoration: underline;  /* Optional: adds an underline effect when hovered/focused */
 }
 /* ----- Center all table content globally ----- */
@@ -1055,7 +1061,7 @@ td * {
 /* Style for the "free hits" text */
 .counter-text {
     font-size: 9px;
-    color: rgb(208, 108, 41);          /* Customize text color */
+    color: rgb(180, 86, 28);          /* Customize text color */
     text-align: center;    /* Center-align the text */
     display: block;        /* Ensure the text is treated as a block-level element */
     margin-top: 5px;       /* Optional: space between the counter and text */
@@ -1083,7 +1089,7 @@ body {
 
 .counter-text {
     font-size: 9px;
-    color: rgb(208, 108, 41);
+    color: rgb(180, 86, 28);
     text-align: center;
     margin-top: 5px;
 }
