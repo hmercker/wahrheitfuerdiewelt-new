@@ -11,11 +11,13 @@
   {{ $styles := resources.Get "scss/style.scss" | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" true) }}
 
   {{ if .Site.IsServer }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}">
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
   {{ else }}
-  <link rel="stylesheet" href="{{ ($styles | minify | fingerprint).Permalink }}">
+  <link rel="stylesheet" href="{{ ($styles | minify | fingerprint).RelPermalink }}">
   {{ end }}
 
+  <link rel="preload" href="/fonts/pt-serif-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/pt-serif-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
   {{ block "header_css" . }}{{ end }}
   {{ block "meta_tags" . }}{{ end }}
   {{ template "_internal/google_analytics.html" . }}
@@ -49,8 +51,8 @@
     {{ block "banner" . }}
     <div id="banner">
       <a href="/" title="Home | New birth">
-        <img class="img-fluid" src="{{ .Site.BaseURL }}/images/logo-banner-inner.jpg" width="940" height="80"
-          alt="Eine Spirituelle Reise" />
+        <picture><source srcset="{{ "images/logo-banner-inner.webp" | relURL }}" type="image/webp"><img fetchpriority="high" class="img-fluid" src="{{ "images/logo-banner-inner.jpg" | relURL }}" width="940" height="86"
+          alt="Eine Spirituelle Reise" /></picture>
       </a>
     </div>
     {{ end }}
@@ -68,7 +70,7 @@
       </nav>
       <!-- /Primary navigation -->
       <!-- Article -->
-      <article>
+      <article role="main">
         <div class="wrapper content">
           {{ block "main" . }}{{ end }}
         </div>
@@ -86,15 +88,14 @@
     &copy; {{ .Site.Title }}, {{ now.Format "2006"}}
   </footer>
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
   {{ $scripts := resources.Get "js/scripts.js" }}
   {{ $js := slice $scripts | resources.Concat "js/bundle.js" }}
 
   {{ if .Site.IsServer }}
-  <script type="text/javascript" src="{{ $js.Permalink }}"></script>
+  <script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
   {{ else }}
-  <script type="text/javascript" src="{{ ($js | minify | fingerprint).Permalink }}"></script>
+  <script type="text/javascript" src="{{ ($js | minify | fingerprint).RelPermalink }}"></script>
   {{ end }}
 
   {{ block "footer_js" . }}

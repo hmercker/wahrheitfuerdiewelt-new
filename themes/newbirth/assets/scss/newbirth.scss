@@ -13,7 +13,8 @@
 	3. 	Miscellaneous
 
 ***********************************************************************************************/
-@import "bootstrap/bootstrap";
+// Bootstrap is already loaded (selected parts only) in style.scss; loading all of it
+// again here made the stylesheet 2.5 times larger.
 @import "_bootstrap-variables";
 @import "_content";
 @import "_print";
