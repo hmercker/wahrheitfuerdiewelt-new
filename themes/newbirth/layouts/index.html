@@ -3,19 +3,19 @@
 {{ define "body_classes" }}page-home{{ end }}
 
 {{ define "meta_tags" }}
-<meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Title }}{{ end }}" />
 <meta property="og:title" content="{{ .Site.Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:image" content='{{ "images/social.png" | absURL }}' />
-<meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Title }}{{ end }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
 {{ end }}   
 
 {{ define "banner" }}
 <!-- Banner -->
 <div id="banner">
-    <img class="img-fluid" src='{{ "images/logo-banner.jpg" | relURL }}' width="940" height="290" alt="Eine Spirituelle Reise" />
+    <picture><source srcset="{{ "images/logo-banner.webp" | relURL }}" type="image/webp"><img fetchpriority="high" class="img-fluid" src='{{ "images/logo-banner.jpg" | relURL }}' width="940" height="299" alt="Eine Spirituelle Reise" /></picture>
 </div>
 <!-- /Banner -->
 {{ end }}

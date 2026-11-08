@@ -3,7 +3,6 @@ languageCode = "de-DE"
 title = "Wahrheit für die Welt"
 theme = "newbirth"
 enableRobotsTXT = true
-googleAnalytics = "G-XXXXXXXXXX"
 
 [outputs]
 home = [ "HTML", "HEADERS" ]
